@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	тела - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,тела" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u0442%u0435%u043b%u0430" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAVy44Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNGC0LXQu9CwZAIDD2QWCAICD2QWBAIBDxYCHgNzcmMFDy4uL2ltZy9sb2dvLnBuZ2QCBQ8WAh4EaHJlZgUOLi4vP2xhbmc9cnUtUlVkAgQPFgIeB1Zpc2libGVnZAIGDxYCHwNoZAIHD2QWCGYPFgIfA2hkAgEPFgIfA2hkAgIPFgIfA2hkAgUPFgIfA2hkZNeN3yqkTbDR0ORC0UdJE+4YPxpN" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAU5lin3gZSeuJ/io8x72J6RlIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/iKeh/3dIaj7qlFHb0ZhbmSGf/wn" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:true,&quot;Phrases&quot;:[{&quot;translateID&quot;:681091,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;вне тела&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;体外に&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たいがいに&quot;,&quot;transliteration&quot;:&quot;taigaini&quot;},{&quot;translateID&quot;:102511,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Грибовидные тела&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;キノコ体&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きのこたい&quot;,&quot;transliteration&quot;:&quot;kinokotai&quot;},{&quot;translateID&quot;:368254,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Тела вращения&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;回転体&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かいてんたい&quot;,&quot;transliteration&quot;:&quot;kaitentai&quot;},{&quot;translateID&quot;:617978,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;анатомическая модель человеческого тела&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;人体模型&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じんたいもけい&quot;,&quot;transliteration&quot;:&quot;jintaimokei&quot;},{&quot;translateID&quot;:595117,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;верхняя и нижняя половина тела&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;上下&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じょうげ&quot;,&quot;transliteration&quot;:&quot;jouge&quot;},{&quot;translateID&quot;:681087,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;вне тела&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;体外&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たいがい&quot;,&quot;transliteration&quot;:&quot;taigai&quot;},{&quot;translateID&quot;:681705,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;внутри тела&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;体内に&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たいないに&quot;,&quot;transliteration&quot;:&quot;tainaini&quot;},{&quot;translateID&quot;:791880,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;одна сторона тела&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;半身&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はんしん&quot;,&quot;transliteration&quot;:&quot;hanshin&quot;},{&quot;translateID&quot;:825603,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;часть тела&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;部位&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぶい&quot;,&quot;transliteration&quot;:&quot;bui&quot;},{&quot;translateID&quot;:521872,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Три тела Будды&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;三身&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;みつみ&quot;,&quot;transliteration&quot;:&quot;mitsumi&quot;},{&quot;translateID&quot;:681049,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Важно поддерживать температуру тела на подходящем уровне.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;体温を適温に保つということは大切なことです。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たいおんをてきおんにたもつということはたいせつなことです。&quot;,&quot;transliteration&quot;:&quot;taion o tekionnitamotsutoiukotohataisetsunakotodesu。&quot;},{&quot;translateID&quot;:681700,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;внутри тела&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;体内&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たいない&quot;,&quot;transliteration&quot;:&quot;tainai&quot;},{&quot;translateID&quot;:751226,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Тела животных состоят из клеток.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;動物の体は細胞でできている。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;どうぶつのからだはさいぼうでできている。&quot;,&quot;transliteration&quot;:&quot;doubutsunokaradahasaiboudedekiteiru。&quot;},{&quot;translateID&quot;:472294,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Химия твёрдого тела&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;固体化学&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こたいかがく&quot;,&quot;transliteration&quot;:&quot;kotaikagaku&quot;},{&quot;translateID&quot;:94407,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Каталановы тела&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;カタランの立体&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かたらんのりったい&quot;,&quot;transliteration&quot;:&quot;katarannorittai&quot;},{&quot;translateID&quot;:681047,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Температура тела поднимается выше всего после полудня.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;体温は午後に最も高くなる。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たいおんはごごにもっともたかくなる。&quot;,&quot;transliteration&quot;:&quot;taionhagogonimottomotakakunaru。&quot;},{&quot;translateID&quot;:681679,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;длина тела&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;体長&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たいちょう&quot;,&quot;transliteration&quot;:&quot;taichou&quot;},{&quot;translateID&quot;:915300,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;холодность тела&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;厥冷&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けつれい&quot;,&quot;transliteration&quot;:&quot;ketsurei&quot;},{&quot;translateID&quot;:432035,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;часть тела&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;局部&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きょくぶ&quot;,&quot;transliteration&quot;:&quot;kyokubu&quot;},{&quot;translateID&quot;:766240,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;красота тела&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;肉体美&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にくたいび&quot;,&quot;transliteration&quot;:&quot;nikutaibi&quot;},{&quot;translateID&quot;:59123,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;массаж всего тела стоил 150 иен&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;あんまは上下で百五十円だった&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あんまはじょうげで150えんだった&quot;,&quot;transliteration&quot;:&quot;anmahajougede150endatta&quot;},{&quot;translateID&quot;:681284,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;полость тела&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;体腔&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たいくう&quot;,&quot;transliteration&quot;:&quot;taikuu&quot;},{&quot;translateID&quot;:260371,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Язык тела&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ボディーランゲージ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぼでぃーらんげーじ&quot;,&quot;transliteration&quot;:&quot;bodi:range:ji&quot;},{&quot;translateID&quot;:389693,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;поражённая часть тела&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;患部&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かんぶ&quot;,&quot;transliteration&quot;:&quot;kanbu&quot;},{&quot;translateID&quot;:352580,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;нижняя половина тела&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;下半身&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かはんしん&quot;,&quot;transliteration&quot;:&quot;kahanshin&quot;},{&quot;translateID&quot;:593462,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;длина тела&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;衝丈け&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ついたけ&quot;,&quot;transliteration&quot;:&quot;tsuitake&quot;},{&quot;translateID&quot;:51571,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Аморфные тела&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;アモルファス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あもるふぁす&quot;,&quot;transliteration&quot;:&quot;amorufasu&quot;},{&quot;translateID&quot;:681135,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;отделение от тела&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;体外離脱&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たいがいりだつ&quot;,&quot;transliteration&quot;:&quot;taigairidatsu&quot;},{&quot;translateID&quot;:260390,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Индекс объёма тела&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ボディ体積指数&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぼでぃたいせきしすう&quot;,&quot;transliteration&quot;:&quot;boditaisekishisuu&quot;},{&quot;translateID&quot;:785519,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Жар тела&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;白いドレスの女&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しろいどれすのおんな&quot;,&quot;transliteration&quot;:&quot;shiroidoresunoonna&quot;},{&quot;translateID&quot;:325552,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;съедаемая провожающими гроб при выносе тела&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;一膳飯&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いちぜんめし&quot;,&quot;transliteration&quot;:&quot;ichizenmeshi&quot;},{&quot;translateID&quot;:595118,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;верхняя и нижняя половины тела&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;上下&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かみしも&quot;,&quot;transliteration&quot;:&quot;kamishimo&quot;},{&quot;translateID&quot;:681045,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;температура тела&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;体温&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たいおん&quot;,&quot;transliteration&quot;:&quot;taion&quot;},{&quot;translateID&quot;:681817,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;вес тела&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;体量&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たいりょう&quot;,&quot;transliteration&quot;:&quot;tairyou&quot;},{&quot;translateID&quot;:791887,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;верхняя половина тела&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;半身像&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はんしんぞう&quot;,&quot;transliteration&quot;:&quot;hanshinzou&quot;},{&quot;translateID&quot;:352249,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;нижняя часть тела&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;下体&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かたい&quot;,&quot;transliteration&quot;:&quot;katai&quot;},{&quot;translateID&quot;:616717,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Перечень мышц тела человека&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;人間の筋肉の一覧&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にんげんのきんにくのいちらん&quot;,&quot;transliteration&quot;:&quot;ningennokinnikunoichiran&quot;},{&quot;translateID&quot;:923405,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;запах тела&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;腋臭&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;えきしゅう&quot;,&quot;transliteration&quot;:&quot;ekishuu&quot;},{&quot;translateID&quot;:679635,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Малые тела Солнечной системы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;太陽系小天体&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たいようけいしょうてんたい&quot;,&quot;transliteration&quot;:&quot;taiyoukeishoutentai&quot;},{&quot;translateID&quot;:681728,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;тепло тела&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;体熱&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たいねつ&quot;,&quot;transliteration&quot;:&quot;tainetsu&quot;},{&quot;translateID&quot;:631183,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;небесные тела&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;星辰&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せいしん&quot;,&quot;transliteration&quot;:&quot;seishin&quot;},{&quot;translateID&quot;:808943,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Деструкция стекловидного тела&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;飛蚊症&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひかしょう&quot;,&quot;transliteration&quot;:&quot;hikashou&quot;},{&quot;translateID&quot;:615050,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Модификации тела&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;身体改造&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しんたいかいぞう&quot;,&quot;transliteration&quot;:&quot;shintaikaizou&quot;},{&quot;translateID&quot;:596593,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;верхняя половина тела&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;上半身&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じょうはんしん&quot;,&quot;transliteration&quot;:&quot;jouhanshin&quot;},{&quot;translateID&quot;:529957,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Положения тела&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;姿勢&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しせい&quot;,&quot;transliteration&quot;:&quot;shisei&quot;},{&quot;translateID&quot;:681394,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;запах тела&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;体臭&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たいしゅう&quot;,&quot;transliteration&quot;:&quot;taishuu&quot;},{&quot;translateID&quot;:320005,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;движения тела&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;移動体&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いどうたい&quot;,&quot;transliteration&quot;:&quot;idoutai&quot;},{&quot;translateID&quot;:539655,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;конечности тела&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;肢体&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;したい&quot;,&quot;transliteration&quot;:&quot;shitai&quot;},{&quot;translateID&quot;:577601,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;вынос тела&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;出棺&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゅっかん&quot;,&quot;transliteration&quot;:&quot;shukkan&quot;},{&quot;translateID&quot;:596366,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;верхняя часть тела&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;上体&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じょうたい&quot;,&quot;transliteration&quot;:&quot;joutai&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="тела" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

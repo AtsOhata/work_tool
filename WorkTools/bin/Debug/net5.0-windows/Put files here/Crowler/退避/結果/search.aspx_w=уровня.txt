@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	уровня - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,уровня" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u0443%u0440%u043e%u0432%u043d%u044f" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV244Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNGD0YDQvtCy0L3Rj2QCAw9kFggCAg9kFgQCAQ8WAh4Dc3JjBQ8uLi9pbWcvbG9nby5wbmdkAgUPFgIeBGhyZWYFDi4uLz9sYW5nPXJ1LVJVZAIEDxYCHgdWaXNpYmxlZ2QCBg8WAh8DaGQCBw9kFghmDxYCHwNoZAIBDxYCHwNoZAICDxYCHwNoZAIFDxYCHwNoZGQUkZo56D/yWK08V0F0KfIeidrzww==" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAWtqBMBO1+TzRBxEqAV5SY7lIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/gjYUGmM0QBjZuuS0XOODuk6gymS" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:true,&quot;Phrases&quot;:[{&quot;translateID&quot;:521675,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;упасть ниже тридцатииенного уровня&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;三十円台の底を割る&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;30えんだいのそこをわる&quot;,&quot;transliteration&quot;:&quot;30endainosoko o waru&quot;},{&quot;translateID&quot;:205503,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Протоколы сетевого уровня&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ネットワーク層&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ねっとわーくそう&quot;,&quot;transliteration&quot;:&quot;nettowa:kusou&quot;},{&quot;translateID&quot;:160884,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Доменное имя второго уровня&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;セカンドレベルドメイン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せかんどれべるどめいん&quot;,&quot;transliteration&quot;:&quot;sekandoreberudomein&quot;},{&quot;translateID&quot;:295377,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Протоколы канального уровня&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;リンク層プロトコル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;りんくそうぷろとこる&quot;,&quot;transliteration&quot;:&quot;rinkusoupurotokoru&quot;},{&quot;translateID&quot;:35898,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Интерфейс транспортного уровня&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;Transport Layer Interface&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;Transport Layer Interface&quot;,&quot;transliteration&quot;:&quot;Transport Layer Interface&quot;},{&quot;translateID&quot;:703431,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;быть выше среднего уровня&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;地平線以上に出る&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちへいせんいじょうにでる&quot;,&quot;transliteration&quot;:&quot;chiheisenijounideru&quot;},{&quot;translateID&quot;:36750,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Измеритель уровня звука&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;VUメーター&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;VUめーたー&quot;,&quot;transliteration&quot;:&quot;VUme:ta:&quot;},{&quot;translateID&quot;:31412,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Общие домены верхнего уровня&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;GTLD&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;GTLD&quot;,&quot;transliteration&quot;:&quot;GTLD&quot;},{&quot;translateID&quot;:703430,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;быть ниже среднего уровня&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;地平線の下に下る&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちへいせんのしたにくだる&quot;,&quot;transliteration&quot;:&quot;chiheisennoshitanikudaru&quot;},{&quot;translateID&quot;:840142,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;выше среднего уровня&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;並より高い&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なみよりたかい&quot;,&quot;transliteration&quot;:&quot;namiyoritakai&quot;},{&quot;translateID&quot;:29293,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Национальные домены верхнего уровня&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;CcTLD&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;CcTLD&quot;,&quot;transliteration&quot;:&quot;CcTLD&quot;},{&quot;translateID&quot;:615525,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;переход в учебное заведение высшего уровня&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;進学&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しんがく&quot;,&quot;transliteration&quot;:&quot;shingaku&quot;},{&quot;translateID&quot;:210556,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;зависимость уровня приёма от высоты антенны&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ハイトパターン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はいとぱたーん&quot;,&quot;transliteration&quot;:&quot;haitopata:n&quot;},{&quot;translateID&quot;:670934,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;снижение уровня шума&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;騒音低減&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そうおんていげん&quot;,&quot;transliteration&quot;:&quot;souonteigen&quot;},{&quot;translateID&quot;:49299,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Протоколы прикладного уровня&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;アプリケーション層&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あぷりけーしょんそう&quot;,&quot;transliteration&quot;:&quot;apurike:shonsou&quot;},{&quot;translateID&quot;:623050,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;указатель уровня воды&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;水盛り&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;みずもり&quot;,&quot;transliteration&quot;:&quot;mizumori&quot;},{&quot;translateID&quot;:195674,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Протоколы транспортного уровня&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;トランスポート層プロトコル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とらんすぽーとそうぷろとこる&quot;,&quot;transliteration&quot;:&quot;toransupo:tosoupurotokoru&quot;},{&quot;translateID&quot;:667379,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;курсы упали ниже самого низкого уровня&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;相場は底知らずだ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そうばはそこしらずだ&quot;,&quot;transliteration&quot;:&quot;soubahasokoshirazuda&quot;},{&quot;translateID&quot;:205508,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Протоколы сетевого уровня&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ネットワーク層プロトコル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ねっとわーくそうぷろとこる&quot;,&quot;transliteration&quot;:&quot;nettowa:kusoupurotokoru&quot;},{&quot;translateID&quot;:498600,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;высокого уровня&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;高度の&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうどの&quot;,&quot;transliteration&quot;:&quot;koudono&quot;},{&quot;translateID&quot;:775760,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;индикатор уровня топлива&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;燃料計&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ねんりょうけい&quot;,&quot;transliteration&quot;:&quot;nenryoukei&quot;},{&quot;translateID&quot;:430429,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Административные единицы КНР волостного уровня&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;郷級行政区&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ごうきゅうぎょうせいく&quot;,&quot;transliteration&quot;:&quot;goukyuugyouseiku&quot;},{&quot;translateID&quot;:444812,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;быть выше общего уровня&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;群を抜く&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;むれをぬく&quot;,&quot;transliteration&quot;:&quot;mure o nuku&quot;},{&quot;translateID&quot;:727598,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;достигать низшего уровня&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;底を入れる&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そこをいれる&quot;,&quot;transliteration&quot;:&quot;soko o ireru&quot;},{&quot;translateID&quot;:137921,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Общий домен верхнего уровня&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ジェネリックトップレベルドメイン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じぇねりっくとっぷれべるどめいん&quot;,&quot;transliteration&quot;:&quot;jenerikkutoppureberudomein&quot;},{&quot;translateID&quot;:378481,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;понижение уровня&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;格下げ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かくさげ&quot;,&quot;transliteration&quot;:&quot;kakusage&quot;},{&quot;translateID&quot;:502484,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Национальный домен верхнего уровня&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;国別コードトップレベルドメイン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;くにべつこーどとっぷれべるどめいん&quot;,&quot;transliteration&quot;:&quot;kunibetsuko:dotoppureberudomein&quot;},{&quot;translateID&quot;:192612,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Список доменов верхнего уровня&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;トップレベルドメイン一覧&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とっぷれべるどめいんいちらん&quot;,&quot;transliteration&quot;:&quot;toppureberudomeinichiran&quot;},{&quot;translateID&quot;:327580,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;высочайшего уровня&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;一流&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いちりゅう&quot;,&quot;transliteration&quot;:&quot;ichiryuu&quot;},{&quot;translateID&quot;:502483,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Национальные домены верхнего уровня&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;国別コードトップレベルドメイン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;くにべつこーどとっぷれべるどめいん&quot;,&quot;transliteration&quot;:&quot;kunibetsuko:dotoppureberudomein&quot;},{&quot;translateID&quot;:192611,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Домен верхнего уровня&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;トップレベルドメイン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とっぷれべるどめいん&quot;,&quot;transliteration&quot;:&quot;toppureberudomein&quot;},{&quot;translateID&quot;:49302,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Протоколы прикладного уровня&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;アプリケーション層プロトコル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あぷりけーしょんそうぷろとこる&quot;,&quot;transliteration&quot;:&quot;apurike:shonsoupurotokoru&quot;},{&quot;translateID&quot;:623976,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;быть выше общего уровня&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;水平線上に出る&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;すいへいせんじょうにでる&quot;,&quot;transliteration&quot;:&quot;suiheisenjounideru&quot;},{&quot;translateID&quot;:516924,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;контроль уровня запасов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;在庫管理&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ざいこかんり&quot;,&quot;transliteration&quot;:&quot;zaikokanri&quot;},{&quot;translateID&quot;:530078,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;запись подчинённого уровня&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;子レコード&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;これこーど&quot;,&quot;transliteration&quot;:&quot;koreko:do&quot;},{&quot;translateID&quot;:32050,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;интерфейс базового уровня&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ISDN基本インタフェース&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ISDNきほんいんたふぇーす&quot;,&quot;transliteration&quot;:&quot;ISDNkihonintafe:su&quot;},{&quot;translateID&quot;:279599,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;переменная уровня модуля&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;モジュールレベル変数&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;もじゅーるれべるへんすう&quot;,&quot;transliteration&quot;:&quot;moju:rureberuhensuu&quot;},{&quot;translateID&quot;:192609,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;домен верхнего уровня&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;トップレベル ドメイン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とっぷれべる どめいん&quot;,&quot;transliteration&quot;:&quot;toppureberu domein&quot;},{&quot;translateID&quot;:350851,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;устройство низшего уровня&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;下位の&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かいの&quot;,&quot;transliteration&quot;:&quot;kaino&quot;},{&quot;translateID&quot;:691197,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;домен третьего уровня&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;第 3 レベル ドメイン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;だい 3 れべる どめいん&quot;,&quot;transliteration&quot;:&quot;dai 3 reberu domein&quot;},{&quot;translateID&quot;:496923,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;высокого уровня&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;高レベル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうれべる&quot;,&quot;transliteration&quot;:&quot;koureberu&quot;},{&quot;translateID&quot;:301290,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;номер уровня&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;レベル番号&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;れべるばんごう&quot;,&quot;transliteration&quot;:&quot;reberubangou&quot;},{&quot;translateID&quot;:184294,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;приложение уровня данных&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;データ層アプリケーション&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;でーたそうあぷりけーしょん&quot;,&quot;transliteration&quot;:&quot;de:tasouapurike:shon&quot;},{&quot;translateID&quot;:32507,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;индикатор нулевого уровня&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;L0標識&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;L0ひょうしき&quot;,&quot;transliteration&quot;:&quot;L0hyoushiki&quot;},{&quot;translateID&quot;:513277,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;современного технического уровня&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;最新式&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さいしんしき&quot;,&quot;transliteration&quot;:&quot;saishinshiki&quot;},{&quot;translateID&quot;:192610,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;домен верхнего уровня&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;トップレベル・ドメイン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とっぷれべる・どめいん&quot;,&quot;transliteration&quot;:&quot;toppureberu・domein&quot;},{&quot;translateID&quot;:350852,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;сайт нижнего уровня&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;下位のサイト&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かいのさいと&quot;,&quot;transliteration&quot;:&quot;kainosaito&quot;},{&quot;translateID&quot;:691256,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;адрес первого уровня&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;第1レベルアドレス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;だい1れべるあどれす&quot;,&quot;transliteration&quot;:&quot;dai1reberuadoresu&quot;},{&quot;translateID&quot;:497933,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;высокого уровня&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;高準位&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうひとしぐらい&quot;,&quot;transliteration&quot;:&quot;kouhitoshigurai&quot;},{&quot;translateID&quot;:301296,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;регулятор уровня&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;レベル変動補償装置&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;れべるへんどうほしょうそうち&quot;,&quot;transliteration&quot;:&quot;reberuhendouhoshousouchi&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="уровня" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	найден - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,найден" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u043d%u0430%u0439%u0434%u0435%u043d" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV244Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNC90LDQudC00LXQvWQCAw9kFggCAg9kFgQCAQ8WAh4Dc3JjBQ8uLi9pbWcvbG9nby5wbmdkAgUPFgIeBGhyZWYFDi4uLz9sYW5nPXJ1LVJVZAIEDxYCHgdWaXNpYmxlZ2QCBg8WAh8DaGQCBw9kFghmDxYCHwNoZAIBDxYCHwNoZAICDxYCHwNoZAIFDxYCHwNoZGSgTMqyj7WLKzQWn0A09o61fAt5yA==" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAWgzOtjCAUBo1uAPjdUA11UlIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/vZ+YjR3wz7gXuxPLr/wLSeC5ABu" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:false,&quot;Phrases&quot;:[{&quot;translateID&quot;:534566,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;труп ещё не найден&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;死体はまだ見つかりません&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;したいはまだみつかりません&quot;,&quot;transliteration&quot;:&quot;shitaihamadamitsukarimasen&quot;},{&quot;translateID&quot;:130672,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;Поиск в Веб когда сайт не найден&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;サイトが見つからない時ウェブ検索を利用する&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さいとがみつからないときうぇぶけんさくをりようする&quot;,&quot;transliteration&quot;:&quot;saitogamitsukaranaitokiuぇbukensaku o riyousuru&quot;},{&quot;translateID&quot;:294574,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;Удалённый сервер или файл не найден&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;リモートサーバーまたはファイルが見つかりませんでした。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;りもーとさーばーまたはふぁいるがみつかりませんでした。&quot;,&quot;transliteration&quot;:&quot;rimo:tosa:ba:matahafairugamitsukarimasendeshita。&quot;},{&quot;translateID&quot;:246358,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;Проксисервер не найден&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;プロキシサーバーが見つかりませんでした&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぷろきしさーばーがみつかりませんでした&quot;,&quot;transliteration&quot;:&quot;purokishisa:ba:gamitsukarimasendeshita&quot;},{&quot;translateID&quot;:31123,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;Пользователь не найден на FTPсервере.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;FTP サーバーにアカウントが見つかりませんでした&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;FTP さーばーにあかうんとがみつかりませんでした&quot;,&quot;transliteration&quot;:&quot;FTP sa:ba:niakauntogamitsukarimasendeshita&quot;},{&quot;translateID&quot;:45598,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;Адрес не найден&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;アドレスが見つかりませんでした&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あどれすがみつかりませんでした&quot;,&quot;transliteration&quot;:&quot;adoresugamitsukarimasendeshita&quot;},{&quot;translateID&quot;:283703,&quot;translationStatus&quot;:0,&quot;themeID&quot;:8,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;インターネット&quot;,&quot;word&quot;:&quot;Пользователь не найден&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ユーザが見つかりません&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ゆーざがみつかりません&quot;,&quot;transliteration&quot;:&quot;yu:zagamitsukarimasen&quot;},{&quot;translateID&quot;:229576,&quot;translationStatus&quot;:0,&quot;themeID&quot;:11,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;プログラミング&quot;,&quot;word&quot;:&quot;файл не найден&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ファイルが見つかりません&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふぁいるがみつかりません&quot;,&quot;transliteration&quot;:&quot;fairugamitsukarimasen&quot;},{&quot;translateID&quot;:508264,&quot;translationStatus&quot;:0,&quot;themeID&quot;:11,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;プログラミング&quot;,&quot;word&quot;:&quot;файл слева не найден&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;左のファイルが見つかりません&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひだりのふぁいるがみつかりません&quot;,&quot;transliteration&quot;:&quot;hidarinofairugamitsukarimasen&quot;},{&quot;translateID&quot;:331934,&quot;translationStatus&quot;:0,&quot;themeID&quot;:11,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;プログラミング&quot;,&quot;word&quot;:&quot;файл справа не найден&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;右のファイルが見つかりません&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;みぎのふぁいるがみつかりません&quot;,&quot;transliteration&quot;:&quot;miginofairugamitsukarimasen&quot;},{&quot;translateID&quot;:146182,&quot;translationStatus&quot;:0,&quot;themeID&quot;:11,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;プログラミング&quot;,&quot;word&quot;:&quot;не найден файл создания ярлыков wcscut32dll&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ショートカット作成に必要なWCSCUT32DLLが見つかりません&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょーとかっとさくせいにひつようなWCSCUT32DLLがみつかりません&quot;,&quot;transliteration&quot;:&quot;sho:tokattosakuseinihitsuyounaWCSCUT32DLLgamitsukarimasen&quot;},{&quot;translateID&quot;:294594,&quot;translationStatus&quot;:0,&quot;themeID&quot;:11,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;プログラミング&quot;,&quot;word&quot;:&quot;удалённый файл не найден&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;リモートファイルが見つかりません&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;りもーとふぁいるがみつかりません&quot;,&quot;transliteration&quot;:&quot;rimo:tofairugamitsukarimasen&quot;},{&quot;translateID&quot;:194471,&quot;translationStatus&quot;:0,&quot;themeID&quot;:11,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;プログラミング&quot;,&quot;word&quot;:&quot;диск не найден&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ドライブが見つかりません&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;どらいぶがみつかりません&quot;,&quot;transliteration&quot;:&quot;doraibugamitsukarimasen&quot;},{&quot;translateID&quot;:194472,&quot;translationStatus&quot;:0,&quot;themeID&quot;:11,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;プログラミング&quot;,&quot;word&quot;:&quot;нет дискеты или диск не найден&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ドライブが見つかりません&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;どらいぶがみつかりません&quot;,&quot;transliteration&quot;:&quot;doraibugamitsukarimasen&quot;},{&quot;translateID&quot;:460727,&quot;translationStatus&quot;:0,&quot;themeID&quot;:11,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;プログラミング&quot;,&quot;word&quot;:&quot;путь запуска не найден&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;検索開始パスが見つかりません&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けんさくかいしぱすがみつかりません&quot;,&quot;transliteration&quot;:&quot;kensakukaishipasugamitsukarimasen&quot;},{&quot;translateID&quot;:259093,&quot;translationStatus&quot;:0,&quot;themeID&quot;:11,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;プログラミング&quot;,&quot;word&quot;:&quot;сервер не найден&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ホストが見つかりません&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほすとがみつかりません&quot;,&quot;transliteration&quot;:&quot;hosutogamitsukarimasen&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="найден" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

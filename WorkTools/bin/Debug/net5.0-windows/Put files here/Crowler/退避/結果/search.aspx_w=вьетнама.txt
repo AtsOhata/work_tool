@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	вьетнама - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,вьетнама" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u0432%u044c%u0435%u0442%u043d%u0430%u043c%u0430" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV644Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNCy0YzQtdGC0L3QsNC80LBkAgMPZBYIAgIPZBYEAgEPFgIeA3NyYwUPLi4vaW1nL2xvZ28ucG5nZAIFDxYCHgRocmVmBQ4uLi8/bGFuZz1ydS1SVWQCBA8WAh4HVmlzaWJsZWdkAgYPFgIfA2hkAgcPZBYIZg8WAh8DaGQCAQ8WAh8DaGQCAg8WAh8DaGQCBQ8WAh8DaGRklYrC8F6R99JRAI8BIpyz1nJRxi0=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAUcGTuW33Y2x4mmWqCSVIdYlIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/gykeXod23etV7X7FZl3q2uvvjkt" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:true,&quot;Phrases&quot;:[{&quot;translateID&quot;:251558,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Музыканты Вьетнама&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ベトナムのミュージシャン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;べとなむのみゅーじしゃん&quot;,&quot;transliteration&quot;:&quot;betonamunomyu:jishan&quot;},{&quot;translateID&quot;:251570,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Банки Вьетнама&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ベトナムの銀行&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;べとなむのぎんこう&quot;,&quot;transliteration&quot;:&quot;betonamunoginkou&quot;},{&quot;translateID&quot;:251581,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Авиакомпании Вьетнама&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ベトナムの航空会社&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;べとなむのこうくうがいしゃ&quot;,&quot;transliteration&quot;:&quot;betonamunokoukuugaisha&quot;},{&quot;translateID&quot;:251595,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Политические партии Вьетнама&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ベトナムの政党&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;べとなむのせいとう&quot;,&quot;transliteration&quot;:&quot;betonamunoseitou&quot;},{&quot;translateID&quot;:251605,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Города Вьетнама&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ベトナムの都市&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;べとなむのとし&quot;,&quot;transliteration&quot;:&quot;betonamunotoshi&quot;},{&quot;translateID&quot;:251637,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Мемориал ветеранов Вьетнама&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ベトナム戦争戦没者慰霊碑&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;べとなむせんそうせんぼつしゃいれいひ&quot;,&quot;transliteration&quot;:&quot;betonamusensousenbotsushaireihi&quot;},{&quot;translateID&quot;:251557,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Спортсмены Вьетнама&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ベトナムのスポーツ選手&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;べとなむのすぽーつせんしゅ&quot;,&quot;transliteration&quot;:&quot;betonamunosupo:tsusenshu&quot;},{&quot;translateID&quot;:251569,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Достопримечательности Вьетнама&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ベトナムの観光地&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;べとなむのかんこうち&quot;,&quot;transliteration&quot;:&quot;betonamunokankouchi&quot;},{&quot;translateID&quot;:251580,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Авиация Вьетнама&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ベトナムの航空&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;べとなむのこうくう&quot;,&quot;transliteration&quot;:&quot;betonamunokoukuu&quot;},{&quot;translateID&quot;:251594,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Политики Вьетнама&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ベトナムの政治家&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;べとなむのせいじか&quot;,&quot;transliteration&quot;:&quot;betonamunoseijika&quot;},{&quot;translateID&quot;:251604,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Железнодорожный транспорт Вьетнама&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ベトナムの鉄道&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;べとなむのてつどう&quot;,&quot;transliteration&quot;:&quot;betonamunotetsudou&quot;},{&quot;translateID&quot;:251617,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Коммунистическая партия Вьетнама&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ベトナム共産党&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;べとなむきょうさんとう&quot;,&quot;transliteration&quot;:&quot;betonamukyousantou&quot;},{&quot;translateID&quot;:251556,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Футболисты Вьетнама&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ベトナムのサッカー選手&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;べとなむのさっかーせんしゅ&quot;,&quot;transliteration&quot;:&quot;betonamunosakka:senshu&quot;},{&quot;translateID&quot;:251567,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Учёные Вьетнама&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ベトナムの学者&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;べとなむのがくしゃ&quot;,&quot;transliteration&quot;:&quot;betonamunogakusha&quot;},{&quot;translateID&quot;:251578,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Языки Вьетнама&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ベトナムの言語&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;べとなむのげんご&quot;,&quot;transliteration&quot;:&quot;betonamunogengo&quot;},{&quot;translateID&quot;:251593,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Политика Вьетнама&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ベトナムの政治&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;べとなむのせいじ&quot;,&quot;transliteration&quot;:&quot;betonamunoseiji&quot;},{&quot;translateID&quot;:251603,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Писатели Вьетнама&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ベトナムの著作家&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;べとなむのちょさくか&quot;,&quot;transliteration&quot;:&quot;betonamunochosakuka&quot;},{&quot;translateID&quot;:251613,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Историки Вьетнама&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ベトナムの歴史学者&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;べとなむのれきしがくしゃ&quot;,&quot;transliteration&quot;:&quot;betonamunorekishigakusha&quot;},{&quot;translateID&quot;:251555,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Футбольные клубы Вьетнама&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ベトナムのサッカークラブ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;べとなむのさっかーくらぶ&quot;,&quot;transliteration&quot;:&quot;betonamunosakka:kurabu&quot;},{&quot;translateID&quot;:251566,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Революционеры Вьетнама&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ベトナムの革命家&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;べとなむのかくめいか&quot;,&quot;transliteration&quot;:&quot;betonamunokakumeika&quot;},{&quot;translateID&quot;:251577,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Уезды Вьетнама&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ベトナムの県&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;べとなむのけん&quot;,&quot;transliteration&quot;:&quot;betonamunoken&quot;},{&quot;translateID&quot;:251591,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Математики Вьетнама&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ベトナムの数学者&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;べとなむのすうがくしゃ&quot;,&quot;transliteration&quot;:&quot;betonamunosuugakusha&quot;},{&quot;translateID&quot;:251602,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;География Вьетнама&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ベトナムの地理&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;べとなむのちり&quot;,&quot;transliteration&quot;:&quot;betonamunochiri&quot;},{&quot;translateID&quot;:251612,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;История Вьетнама&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ベトナムの歴史&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;べとなむのれきし&quot;,&quot;transliteration&quot;:&quot;betonamunorekishi&quot;},{&quot;translateID&quot;:132280,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Сборная Южного Вьетнама по футболу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;サッカー南ベトナム代表&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さっかーみなみべとなむだいひょう&quot;,&quot;transliteration&quot;:&quot;sakka:minamibetonamudaihyou&quot;},{&quot;translateID&quot;:251560,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Кинематограф Вьетнама&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ベトナムの映画&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;べとなむのえいが&quot;,&quot;transliteration&quot;:&quot;betonamunoeiga&quot;},{&quot;translateID&quot;:251572,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Императоры Вьетнама&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ベトナムの君主&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;べとなむのくんしゅ&quot;,&quot;transliteration&quot;:&quot;betonamunokunshu&quot;},{&quot;translateID&quot;:251583,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Внешняя политика Вьетнама&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ベトナムの国際関係&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;べとなむのこくさいかんけい&quot;,&quot;transliteration&quot;:&quot;betonamunokokusaikankei&quot;},{&quot;translateID&quot;:251597,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Сражения Вьетнама&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ベトナムの戦闘&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;べとなむのせんとう&quot;,&quot;transliteration&quot;:&quot;betonamunosentou&quot;},{&quot;translateID&quot;:251607,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Пещеры Вьетнама&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ベトナムの洞窟&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;べとなむのどうくつ&quot;,&quot;transliteration&quot;:&quot;betonamunodoukutsu&quot;},{&quot;translateID&quot;:501284,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Парламент Вьетнама&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;国会&quot;,&quot;translationnote&quot;:&quot;ベトナム&quot;,&quot;reading&quot;:&quot;こっかい&quot;,&quot;transliteration&quot;:&quot;kokkai&quot;},{&quot;translateID&quot;:132182,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Сборная Вьетнама по футболу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;サッカーベトナム代表&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さっかーべとなむだいひょう&quot;,&quot;transliteration&quot;:&quot;sakka:betonamudaihyou&quot;},{&quot;translateID&quot;:251559,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Средства массовой информации Вьетнама&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ベトナムのメディア&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;べとなむのめでぃあ&quot;,&quot;transliteration&quot;:&quot;betonamunomedia&quot;},{&quot;translateID&quot;:251571,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Аэропорты Вьетнама&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ベトナムの空港&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;べとなむのくうこう&quot;,&quot;transliteration&quot;:&quot;betonamunokuukou&quot;},{&quot;translateID&quot;:251582,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Флаг Вьетнама&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ベトナムの国旗&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;べとなむのこっき&quot;,&quot;transliteration&quot;:&quot;betonamunokokki&quot;},{&quot;translateID&quot;:251596,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Войны Вьетнама&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ベトナムの戦争&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;べとなむのせんそう&quot;,&quot;transliteration&quot;:&quot;betonamunosensou&quot;},{&quot;translateID&quot;:251606,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Города Вьетнама&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ベトナムの都市の一覧&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;べとなむのとしのいちらん&quot;,&quot;transliteration&quot;:&quot;betonamunotoshinoichiran&quot;},{&quot;translateID&quot;:615545,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Гимн Вьетнама&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;進軍歌&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しんぐんうた&quot;,&quot;transliteration&quot;:&quot;shingunuta&quot;},{&quot;translateID&quot;:251553,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Футболисты по клубам Вьетнама&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ベトナムのクラブに所属するサッカー選手&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;べとなむのくらぶにしょぞくするさっかーせんしゅ&quot;,&quot;transliteration&quot;:&quot;betonamunokurabunishozokusurusakka:senshu&quot;},{&quot;translateID&quot;:251565,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Персоналии по городам Вьетнама&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ベトナムの各都市出身の人物&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;べとなむのかくとししゅっしんのじんぶつ&quot;,&quot;transliteration&quot;:&quot;betonamunokakutoshishusshinnojinbutsu&quot;},{&quot;translateID&quot;:251576,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Здания и сооружения Вьетнама&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ベトナムの建築物&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;べとなむのけんちくぶつ&quot;,&quot;transliteration&quot;:&quot;betonamunokenchikubutsu&quot;},{&quot;translateID&quot;:251588,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Провинции Вьетнама&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ベトナムの省&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;べとなむのしょう&quot;,&quot;transliteration&quot;:&quot;betonamunoshou&quot;},{&quot;translateID&quot;:251601,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Административное деление Вьетнама&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ベトナムの地方行政区画&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;べとなむのちほうぎょうせいくかく&quot;,&quot;transliteration&quot;:&quot;betonamunochihougyouseikukaku&quot;},{&quot;translateID&quot;:251611,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Список птиц Вьетнама&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ベトナムの野鳥一覧&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;べとなむのやちょういちらん&quot;,&quot;transliteration&quot;:&quot;betonamunoyachouichiran&quot;},{&quot;translateID&quot;:251550,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Федерация футбола Вьетнама&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ベトナムサッカー連盟&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;べとなむさっかーれんめい&quot;,&quot;transliteration&quot;:&quot;betonamusakka:renmei&quot;},{&quot;translateID&quot;:251564,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Реки Вьетнама&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ベトナムの河川&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;べとなむのかせん&quot;,&quot;transliteration&quot;:&quot;betonamunokasen&quot;},{&quot;translateID&quot;:251575,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Экономика Вьетнама&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ベトナムの経済&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;べとなむのけいざい&quot;,&quot;transliteration&quot;:&quot;betonamunokeizai&quot;},{&quot;translateID&quot;:251586,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Композиторы Вьетнама&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ベトナムの作曲家&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;べとなむのさっきょくか&quot;,&quot;transliteration&quot;:&quot;betonamunosakkyokuka&quot;},{&quot;translateID&quot;:251600,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Административное деление Вьетнама&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ベトナムの地方区分&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;べとなむのちほうくぶん&quot;,&quot;transliteration&quot;:&quot;betonamunochihoukubun&quot;},{&quot;translateID&quot;:251610,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Народы Вьетнама&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ベトナムの民族一覧&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;べとなむのみんぞくいちらん&quot;,&quot;transliteration&quot;:&quot;betonamunominzokuichiran&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="вьетнама" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

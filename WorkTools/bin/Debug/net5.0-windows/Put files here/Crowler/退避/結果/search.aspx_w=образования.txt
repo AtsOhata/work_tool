@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	образования - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,образования" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u043e%u0431%u0440%u0430%u0437%u043e%u0432%u0430%u043d%u0438%u044f" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAWAAeODreOCt+OCouiqnizml6XmnKzoqp4s44Kq44Oz44Op44Kk44OzLOi+nuabuCzovp7lhbgs5ZKM6ZyyLOe/u+iosyzjg63jgrfjgqLoqp7oqLMs44Ot44K344Ki6Kqe44GnLOmcsuiosyzQvtCx0YDQsNC30L7QstCw0L3QuNGPZAIDD2QWCAICD2QWBAIBDxYCHgNzcmMFDy4uL2ltZy9sb2dvLnBuZ2QCBQ8WAh4EaHJlZgUOLi4vP2xhbmc9cnUtUlVkAgQPFgIeB1Zpc2libGVnZAIGDxYCHwNoZAIHD2QWCGYPFgIfA2hkAgEPFgIfA2hkAgIPFgIfA2hkAgUPFgIfA2hkZD+h6Q+GxR2YnwTb29ZKlay+IFEG" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAVV3/U4KPh/aWU41E8U+ZOPlIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/ggWuo/SufFAf7+YOo6P/NVBZ1qV" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:true,&quot;Phrases&quot;:[{&quot;translateID&quot;:428170,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Сектор политики в области образования&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;教育政策課&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きょういくせいさくか&quot;,&quot;transliteration&quot;:&quot;kyouikuseisakuka&quot;},{&quot;translateID&quot;:687477,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;реформа системы высшего образования&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;大学改革&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;だいがくかいかく&quot;,&quot;transliteration&quot;:&quot;daigakukaikaku&quot;},{&quot;translateID&quot;:709383,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;мезозойские образования&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中生層&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅうせいそう&quot;,&quot;transliteration&quot;:&quot;chuuseisou&quot;},{&quot;translateID&quot;:888707,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Террасные образования у островов Рюкю&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;与那国島海底地形&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;よなぐにじまかいていちけい&quot;,&quot;transliteration&quot;:&quot;yonagunijimakaiteichikei&quot;},{&quot;translateID&quot;:428162,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Министерства образования&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;教育省&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きょういくしょう&quot;,&quot;transliteration&quot;:&quot;kyouikushou&quot;},{&quot;translateID&quot;:387700,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;поощрение образования&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;勧学&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かんがく&quot;,&quot;transliteration&quot;:&quot;kangaku&quot;},{&quot;translateID&quot;:707172,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Министерство образования КНР&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中華人民共和国教育部&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅうかじんみんきょうわこくきょういくぶ&quot;,&quot;transliteration&quot;:&quot;chuukajinminkyouwakokukyouikubu&quot;},{&quot;translateID&quot;:886375,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;получение образования не по месту жительства&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;遊学&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ゆうがく&quot;,&quot;transliteration&quot;:&quot;yuugaku&quot;},{&quot;translateID&quot;:428161,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Министерство образования Сингапура&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;教育省&quot;,&quot;translationnote&quot;:&quot;シンガポール&quot;,&quot;reading&quot;:&quot;きょういくしょう&quot;,&quot;transliteration&quot;:&quot;kyouikushou&quot;},{&quot;translateID&quot;:304300,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Государственные образования времён Гражданской войны в России&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ロシア帝国の継承国家&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ろしあていこくのけいしょうこっか&quot;,&quot;transliteration&quot;:&quot;roshiateikokunokeishoukokka&quot;},{&quot;translateID&quot;:505686,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;в наше время без образования не прожить&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;今の世の中では学問がなくては駄目だ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いまのよのなかではがくもんがなくてはだめだ&quot;,&quot;transliteration&quot;:&quot;imanoyononakadehagakumonganakutehadameda&quot;},{&quot;translateID&quot;:715257,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Место образования согласных&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;調音部位&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちょうおんぶい&quot;,&quot;transliteration&quot;:&quot;chouonbui&quot;},{&quot;translateID&quot;:428160,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Министерство образования Великобритании&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;教育省&quot;,&quot;translationnote&quot;:&quot;イギリス&quot;,&quot;reading&quot;:&quot;きょういくしょう&quot;,&quot;transliteration&quot;:&quot;kyouikushou&quot;},{&quot;translateID&quot;:304202,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Министерство образования и науки Российской Федерации&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ロシア教育・科学省&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ろしあきょういく・かがくしょう&quot;,&quot;transliteration&quot;:&quot;roshiakyouiku・kagakushou&quot;},{&quot;translateID&quot;:51261,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Министры образования США&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;アメリカ合衆国教育長官&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あめりかがっしゅうこくきょういくちょうかん&quot;,&quot;transliteration&quot;:&quot;amerikagasshuukokukyouikuchoukan&quot;},{&quot;translateID&quot;:715256,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Место образования&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;調音部位&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちょうおんぶい&quot;,&quot;transliteration&quot;:&quot;chouonbui&quot;},{&quot;translateID&quot;:668140,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;основные принципы образования дополнений&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;相補性原理&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そうほせいげんり&quot;,&quot;transliteration&quot;:&quot;souhoseigenri&quot;},{&quot;translateID&quot;:428174,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Управление образования&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;教育庁&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きょういくちょう&quot;,&quot;transliteration&quot;:&quot;kyouikuchou&quot;},{&quot;translateID&quot;:837158,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Министерство образования и науки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;文部科学省&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;もんぶかがくしょう&quot;,&quot;transliteration&quot;:&quot;monbukagakushou&quot;},{&quot;translateID&quot;:326611,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Кафедра общего образования&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;一般教育科&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いっぱんきょういくか&quot;,&quot;transliteration&quot;:&quot;ippankyouikuka&quot;},{&quot;translateID&quot;:797068,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;у него нет образования даже в объёме средней школы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;彼には中学卒業の学力もない&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かれにはちゅうがくそつぎょうのがくりょくもない&quot;,&quot;transliteration&quot;:&quot;karenihachuugakusotsugyounogakuryokumonai&quot;},{&quot;translateID&quot;:167716,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Государственные образования на территории Сомали&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ソマリアの行政区画&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そまりあのぎょうせいくかく&quot;,&quot;transliteration&quot;:&quot;somarianogyouseikukaku&quot;},{&quot;translateID&quot;:428171,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Подотдел политики в области образования&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;教育政策室&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きょういくせいさくしつ&quot;,&quot;transliteration&quot;:&quot;kyouikuseisakushitsu&quot;},{&quot;translateID&quot;:837157,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Министерство Образования&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;文部&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;もんぶ&quot;,&quot;transliteration&quot;:&quot;monbu&quot;},{&quot;translateID&quot;:136476,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Коллеж общего и профессионального образования&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;シージェップ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しーじぇっぷ&quot;,&quot;transliteration&quot;:&quot;shi:jeppu&quot;},{&quot;translateID&quot;:498718,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Министерство высшего образования&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;高等教育省&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうとうきょういくしょう&quot;,&quot;transliteration&quot;:&quot;koutoukyouikushou&quot;},{&quot;translateID&quot;:428159,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;коэффициент образования&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;教育商&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きょういくしょう&quot;,&quot;transliteration&quot;:&quot;kyouikushou&quot;},{&quot;translateID&quot;:538316,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;я не получил полного образования&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;私は満足な教育を受けていない&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;わたしはまんぞくなきょういくをうけていない&quot;,&quot;transliteration&quot;:&quot;watashihamanzokunakyouiku o uketeinai&quot;},{&quot;translateID&quot;:51260,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Министр образования США&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;アメリカ合衆国教育長官&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あめりかがっしゅうこくきょういくちょうかん&quot;,&quot;transliteration&quot;:&quot;amerikagasshuukokukyouikuchoukan&quot;},{&quot;translateID&quot;:501402,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;День образования КНР&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;国慶節&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こっけいせつ&quot;,&quot;transliteration&quot;:&quot;kokkeisetsu&quot;},{&quot;translateID&quot;:428150,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Индекс образования&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;教育指数&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きょういくしすう&quot;,&quot;transliteration&quot;:&quot;kyouikushisuu&quot;},{&quot;translateID&quot;:428187,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;методы образования&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;教育法&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きょういくほう&quot;,&quot;transliteration&quot;:&quot;kyouikuhou&quot;},{&quot;translateID&quot;:51005,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Система образования США&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;アメリカ合衆国の教育&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あめりかがっしゅうこくのきょういく&quot;,&quot;transliteration&quot;:&quot;amerikagasshuukokunokyouiku&quot;},{&quot;translateID&quot;:381742,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;система образования&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;学制&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;がくせい&quot;,&quot;transliteration&quot;:&quot;gakusei&quot;},{&quot;translateID&quot;:428140,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Окружное управление образования&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;教育局&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きょういくきょく&quot;,&quot;transliteration&quot;:&quot;kyouikukyoku&quot;},{&quot;translateID&quot;:428156,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Социология образования&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;教育社会学&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きょういくしゃかいがく&quot;,&quot;transliteration&quot;:&quot;kyouikushakaigaku&quot;},{&quot;translateID&quot;:837169,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;министр образования&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;文部大臣&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;もんぶ&quot;,&quot;transliteration&quot;:&quot;monbu&quot;},{&quot;translateID&quot;:60850,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Система образования Великобритании&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;イギリスの教育&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いぎりすのきょういく&quot;,&quot;transliteration&quot;:&quot;igirisunokyouiku&quot;},{&quot;translateID&quot;:428115,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Комитет образования&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;教育委員会&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きょういくいいんかい&quot;,&quot;transliteration&quot;:&quot;kyouikuiinkai&quot;},{&quot;translateID&quot;:428179,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Философия образования&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;教育哲学&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きょういくてつがく&quot;,&quot;transliteration&quot;:&quot;kyouikutetsugaku&quot;},{&quot;translateID&quot;:837163,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;министерство образования&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;文部省&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;もんぶしょ&quot;,&quot;transliteration&quot;:&quot;monbusho&quot;},{&quot;translateID&quot;:748774,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;вырубка деревьев для образования просветов в чаще&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;透かし伐&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;すかしぎり&quot;,&quot;transliteration&quot;:&quot;sukashigiri&quot;},{&quot;translateID&quot;:447280,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;правило образования&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;形成規則&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けいせいきそく&quot;,&quot;transliteration&quot;:&quot;keiseikisoku&quot;},{&quot;translateID&quot;:791323,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;без образования конфетти&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;半さん孔&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はんさんこう&quot;,&quot;transliteration&quot;:&quot;hansankou&quot;},{&quot;translateID&quot;:913106,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;правило образования&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;論理式の定義&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ろんりしきのていぎ&quot;,&quot;transliteration&quot;:&quot;ronrishikinoteigi&quot;},{&quot;translateID&quot;:789752,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;скорость образования&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;発生度&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はっせいど&quot;,&quot;transliteration&quot;:&quot;hasseido&quot;},{&quot;translateID&quot;:634593,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;теплота образования&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;生成熱&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せいせいねつ&quot;,&quot;transliteration&quot;:&quot;seiseinetsu&quot;},{&quot;translateID&quot;:195171,&quot;translationStatus&quot;:0,&quot;themeID&quot;:14,&quot;groupName&quot;:&quot;車両&quot;,&quot;themeName&quot;:&quot;自動車&quot;,&quot;word&quot;:&quot;перемещённый с места образования&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;トラベリング&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とらべりんぐ&quot;,&quot;transliteration&quot;:&quot;toraberingu&quot;},{&quot;translateID&quot;:669997,&quot;translationStatus&quot;:0,&quot;themeID&quot;:14,&quot;groupName&quot;:&quot;車両&quot;,&quot;themeName&quot;:&quot;自動車&quot;,&quot;word&quot;:&quot;перемещённый с места образования&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;走行&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そうこう&quot;,&quot;transliteration&quot;:&quot;soukou&quot;},{&quot;translateID&quot;:353785,&quot;translationStatus&quot;:0,&quot;themeID&quot;:34,&quot;groupName&quot;:&quot;土木&quot;,&quot;themeName&quot;:&quot;基礎工学&quot;,&quot;word&quot;:&quot;деревянная планка для образования руста&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;化粧目地用埋め込み材&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けはひめじよううめこみざい&quot;,&quot;transliteration&quot;:&quot;kehahimejiyouumekomizai&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="образования" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

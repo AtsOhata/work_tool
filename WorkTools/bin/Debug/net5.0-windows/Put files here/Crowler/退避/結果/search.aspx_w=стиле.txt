@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	стиле - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,стиле" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u0441%u0442%u0438%u043b%u0435" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV044Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNGB0YLQuNC70LVkAgMPZBYIAgIPZBYEAgEPFgIeA3NyYwUPLi4vaW1nL2xvZ28ucG5nZAIFDxYCHgRocmVmBQ4uLi8/bGFuZz1ydS1SVWQCBA8WAh4HVmlzaWJsZWdkAgYPFgIfA2hkAgcPZBYIZg8WAh8DaGQCAQ8WAh8DaGQCAg8WAh8DaGQCBQ8WAh8DaGRkvzOhGxW9WehXCrI5UyMuBPEcCz4=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAWL4CZYD6kZWuNgmgeX9Da1lIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/vNg+ytzkKSNqzIvDuHwhcKr5mDM" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:true,&quot;Phrases&quot;:[{&quot;translateID&quot;:768298,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;в японском стиле&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;日本風&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にほんふう&quot;,&quot;transliteration&quot;:&quot;nihonfuu&quot;},{&quot;translateID&quot;:825262,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;в военном стиле&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;武張った&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぶばった&quot;,&quot;transliteration&quot;:&quot;bubatta&quot;},{&quot;translateID&quot;:841317,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;выражаться в американском стиле&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;米国風な言いようをする&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;べいこくふうなげんいようをする&quot;,&quot;transliteration&quot;:&quot;beikokufuunageniyou o suru&quot;},{&quot;translateID&quot;:638355,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;строительство в европейском стиле&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;西洋造り&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せいようづくり&quot;,&quot;transliteration&quot;:&quot;seiyoudukuri&quot;},{&quot;translateID&quot;:767967,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;комната в японском стиле&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;日本間&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にほんま&quot;,&quot;transliteration&quot;:&quot;nihonma&quot;},{&quot;translateID&quot;:235646,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;Ночи в стиле буги&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ブギーナイツ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぶぎーないつ&quot;,&quot;transliteration&quot;:&quot;bugi:naitsu&quot;},{&quot;translateID&quot;:780614,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;картина в стиле «хайкай»&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;俳画&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はいが&quot;,&quot;transliteration&quot;:&quot;haiga&quot;},{&quot;translateID&quot;:638338,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;картина в европейском стиле&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;西洋画&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せいようが&quot;,&quot;transliteration&quot;:&quot;seiyouga&quot;},{&quot;translateID&quot;:510485,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;комната в японском стиле&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;座敷&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ざしき&quot;,&quot;transliteration&quot;:&quot;zashiki&quot;},{&quot;translateID&quot;:230757,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;в стиле «фанк»&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ファンキーの&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふぁんきいの&quot;,&quot;transliteration&quot;:&quot;fankiino&quot;},{&quot;translateID&quot;:683019,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;в разговорном стиле&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;対話体で&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たいわたいで&quot;,&quot;transliteration&quot;:&quot;taiwataide&quot;},{&quot;translateID&quot;:182247,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;Когда доходит до танцев в стиле диско, я не ровня Сьюзен.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ディスコダンスに関しては、私はスーザンの足元にも及ばない。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;でぃすこだんすにかんしては、わたしはすーざんのあしもとにもおよばない。&quot;,&quot;transliteration&quot;:&quot;disukodansunikanshiteha、watashihasu:zannoashimotonimooyobanai。&quot;},{&quot;translateID&quot;:374505,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;в заграничном стиле&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;外国式に&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;がいこくしきに&quot;,&quot;transliteration&quot;:&quot;gaikokushikini&quot;},{&quot;translateID&quot;:468764,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;в современном стиле&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;現代式&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;げんだいしき&quot;,&quot;transliteration&quot;:&quot;gendaishiki&quot;},{&quot;translateID&quot;:890138,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;одежда в европейском стиле&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;洋服&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ようふく&quot;,&quot;transliteration&quot;:&quot;youfuku&quot;},{&quot;translateID&quot;:144340,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;Группы в стиле шугейзинг&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;シューゲイザー・バンド&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゅーげいざー・ばんど&quot;,&quot;transliteration&quot;:&quot;shu:geiza:・bando&quot;},{&quot;translateID&quot;:100714,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;Разборки в стиле кунг-фу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;カンフーハッスル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かんふーはっする&quot;,&quot;transliteration&quot;:&quot;kanfu:hassuru&quot;},{&quot;translateID&quot;:223792,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;картина в стиле Пикассо&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ピカソ張りの絵&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぴかそはりのえ&quot;,&quot;transliteration&quot;:&quot;pikasoharinoe&quot;},{&quot;translateID&quot;:286622,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;лапша в китайском стиле&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ラーメン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;らーめん&quot;,&quot;transliteration&quot;:&quot;ra:men&quot;},{&quot;translateID&quot;:823196,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;картина в стиле «Укиёэ»&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;浮世絵風の絵&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;うきよえふうのえ&quot;,&quot;transliteration&quot;:&quot;ukiyoefuunoe&quot;},{&quot;translateID&quot;:901656,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;отель в японском стиле&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;旅館&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;りょかん&quot;,&quot;transliteration&quot;:&quot;ryokan&quot;},{&quot;translateID&quot;:315421,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;показатель творительного падежу в официальном стиле&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;以って&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;もって&quot;,&quot;transliteration&quot;:&quot;motte&quot;},{&quot;translateID&quot;:640696,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;в древнем стиле&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;昔式&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;むかししき&quot;,&quot;transliteration&quot;:&quot;mukashishiki&quot;},{&quot;translateID&quot;:175455,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;Музыкальные коллективы в стиле танго&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;タンゴの楽団&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たんごのがくだん&quot;,&quot;transliteration&quot;:&quot;tangonogakudan&quot;},{&quot;translateID&quot;:768300,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;в японском стиле&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;日本風の&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にほんふうの&quot;,&quot;transliteration&quot;:&quot;nihonfuuno&quot;},{&quot;translateID&quot;:899488,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;в стиле&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;流儀で&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;りゅうぎで&quot;,&quot;transliteration&quot;:&quot;ryuugide&quot;},{&quot;translateID&quot;:58940,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;Музыканты в стиле эмбиент&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;アンビエント・ミュージシャン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あんびえんと・みゅーじしゃん&quot;,&quot;transliteration&quot;:&quot;anbiento・myu:jishan&quot;},{&quot;translateID&quot;:638374,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;в западном стиле&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;西洋流の&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せいようながれの&quot;,&quot;transliteration&quot;:&quot;seiyounagareno&quot;},{&quot;translateID&quot;:347057,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;в европейском стиле&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;欧風の&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おうふうの&quot;,&quot;transliteration&quot;:&quot;oufuuno&quot;},{&quot;translateID&quot;:890099,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;комната в европейском стиле&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;洋室&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ようしつ&quot;,&quot;transliteration&quot;:&quot;youshitsu&quot;},{&quot;translateID&quot;:445244,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;в военном стиле&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;軍式&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぐんしき&quot;,&quot;transliteration&quot;:&quot;gunshiki&quot;},{&quot;translateID&quot;:744968,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;в восточном стиле&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;東洋風の&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とうようふうの&quot;,&quot;transliteration&quot;:&quot;touyoufuuno&quot;},{&quot;translateID&quot;:797596,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;в его стиле есть некоторая манерность&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;彼の文章にはくさい所がある&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かれのぶんしょうにはくさいところがある&quot;,&quot;transliteration&quot;:&quot;karenobunshounihakusaitokorogaaru&quot;},{&quot;translateID&quot;:913512,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;книжный переплёт в японском стиле&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;和綴じ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;わとじ&quot;,&quot;transliteration&quot;:&quot;watoji&quot;},{&quot;translateID&quot;:890051,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;дом в европейском стиле&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;洋館&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ようかん&quot;,&quot;transliteration&quot;:&quot;youkan&quot;},{&quot;translateID&quot;:303754,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;в стиле рококо&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ロココ式&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ろここしき&quot;,&quot;transliteration&quot;:&quot;rokokoshiki&quot;},{&quot;translateID&quot;:743251,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;картина в китайском стиле&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;唐画&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とうが&quot;,&quot;transliteration&quot;:&quot;touga&quot;},{&quot;translateID&quot;:552343,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;в своём стиле&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;自分の流儀で&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じぶんのりゅうぎで&quot;,&quot;transliteration&quot;:&quot;jibunnoryuugide&quot;},{&quot;translateID&quot;:913437,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;комната в японском стиле&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;和室&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;わしつ&quot;,&quot;transliteration&quot;:&quot;washitsu&quot;},{&quot;translateID&quot;:890050,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;здание в западном стиле&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;洋館&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ようかん&quot;,&quot;transliteration&quot;:&quot;youkan&quot;},{&quot;translateID&quot;:120389,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;здание в готическом стиле&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ゴシック式の建築&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ごしっくしきのけんちく&quot;,&quot;transliteration&quot;:&quot;goshikkushikinokenchiku&quot;},{&quot;translateID&quot;:340630,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;в ораторском стиле&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;演説口調で&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;えんぜつくちょうで&quot;,&quot;transliteration&quot;:&quot;enzetsukuchoude&quot;},{&quot;translateID&quot;:550426,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;в автобиографическом стиле&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;自叙伝的&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じじょでんてき&quot;,&quot;transliteration&quot;:&quot;jijodenteki&quot;},{&quot;translateID&quot;:712907,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;в стиле&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;張り&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はり&quot;,&quot;transliteration&quot;:&quot;hari&quot;},{&quot;translateID&quot;:890049,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;комната в европейском стиле&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;洋間&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ようま&quot;,&quot;transliteration&quot;:&quot;youma&quot;},{&quot;translateID&quot;:65626,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;Музыканты в стиле инди-рок&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;インディー・ロック・ミュージシャン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いんでぃー・ろっく・みゅーじしゃん&quot;,&quot;transliteration&quot;:&quot;indi:・rokku・myu:jishan&quot;},{&quot;translateID&quot;:315423,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;показатель творительного падежу в официальном стиле&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;以て&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;もって&quot;,&quot;transliteration&quot;:&quot;motte&quot;},{&quot;translateID&quot;:289603,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;Рапсодия в стиле блюз&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ラプソディ・イン・ブルー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;らぷそでぃ・いん・ぶるー&quot;,&quot;transliteration&quot;:&quot;rapusodi・in・buru:&quot;},{&quot;translateID&quot;:767944,&quot;translationStatus&quot;:0,&quot;themeID&quot;:202,&quot;groupName&quot;:&quot;Социальный&quot;,&quot;themeName&quot;:&quot;Искусство&quot;,&quot;word&quot;:&quot;живопись в японском стиле&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;日本画&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にほんが&quot;,&quot;transliteration&quot;:&quot;nihonga&quot;},{&quot;translateID&quot;:297917,&quot;translationStatus&quot;:0,&quot;themeID&quot;:202,&quot;groupName&quot;:&quot;Социальный&quot;,&quot;themeName&quot;:&quot;Искусство&quot;,&quot;word&quot;:&quot;в стиле „ренессанс”&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ルネッサンス様式&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;るねっさんすようしき&quot;,&quot;transliteration&quot;:&quot;runessansuyoushiki&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="стиле" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

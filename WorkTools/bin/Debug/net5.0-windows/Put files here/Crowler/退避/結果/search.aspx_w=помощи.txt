@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	помощи - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,помощи" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u043f%u043e%u043c%u043e%u0449%u0438" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV244Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNC/0L7QvNC+0YnQuGQCAw9kFggCAg9kFgQCAQ8WAh4Dc3JjBQ8uLi9pbWcvbG9nby5wbmdkAgUPFgIeBGhyZWYFDi4uLz9sYW5nPXJ1LVJVZAIEDxYCHgdWaXNpYmxlZ2QCBg8WAh8DaGQCBw9kFghmDxYCHwNoZAIBDxYCHwNoZAICDxYCHwNoZAIFDxYCHwNoZGSwDzMjiVkec3lQj/gX/8DUZd7YHg==" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAVANnRvg2RvR6hMWP2WEESElIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/p6qLjMKxQYHiKdX49KurRxhruHQ" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:true,&quot;Phrases&quot;:[{&quot;translateID&quot;:759882,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;благодаря помощи жены&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;内助の功によって&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ないじょのこうによって&quot;,&quot;transliteration&quot;:&quot;naijonokouniyotte&quot;},{&quot;translateID&quot;:583683,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;прибегнуть к помощи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;助けを借りる&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たすけをかりる&quot;,&quot;transliteration&quot;:&quot;tasuke o kariru&quot;},{&quot;translateID&quot;:797467,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Без его помощи у меня бы ничего не вышло.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;彼の助けがなかったら私は失敗しただろう。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かれのたすけがなかったらわたしはしっぱいしただろう。&quot;,&quot;transliteration&quot;:&quot;karenotasukeganakattarawatashihashippaishitadarou。&quot;},{&quot;translateID&quot;:533734,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Сектор финансовой помощи в строительстве&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;施設助成室&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しせつじょせいしつ&quot;,&quot;transliteration&quot;:&quot;shisetsujoseishitsu&quot;},{&quot;translateID&quot;:98252,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;правительственный фонд помощи для оккупированных стран&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ガリオア&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;がりおあ&quot;,&quot;transliteration&quot;:&quot;garioa&quot;},{&quot;translateID&quot;:419626,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;аптечка скорой помощи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;救急箱&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きゅうきゅうばこ&quot;,&quot;transliteration&quot;:&quot;kyuukyuubako&quot;},{&quot;translateID&quot;:419838,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;общество по оказанию помощи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;救恤会&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きゅうじゅつかい&quot;,&quot;transliteration&quot;:&quot;kyuujutsukai&quot;},{&quot;translateID&quot;:553015,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;без посторонней помощи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;自力で&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じりきで&quot;,&quot;transliteration&quot;:&quot;jirikide&quot;},{&quot;translateID&quot;:502863,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Администрация Объединённых Наций по вопросам помощи и восстановления&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;国連救済復興会議&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こくれんきゅうさいふっこうかいぎ&quot;,&quot;transliteration&quot;:&quot;kokurenkyuusaifukkoukaigi&quot;},{&quot;translateID&quot;:37082,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Алгоритм обмена при помощи исключающего ИЛИ&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;XOR交換アルゴリズム&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;XORこうかんあるごりずむ&quot;,&quot;transliteration&quot;:&quot;XORkoukanarugorizumu&quot;},{&quot;translateID&quot;:328848,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;при помощи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;因って&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;よって&quot;,&quot;transliteration&quot;:&quot;yotte&quot;},{&quot;translateID&quot;:28139,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Адвентистское агентство помощи и развития&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ADRA&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ADRA&quot;,&quot;transliteration&quot;:&quot;ADRA&quot;},{&quot;translateID&quot;:419594,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;машина скорой помощи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;救急車&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きゅうきゅうしゃ&quot;,&quot;transliteration&quot;:&quot;kyuukyuusha&quot;},{&quot;translateID&quot;:419647,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;пункт медицинской скорой помощи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;救護所&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きゅうごしょ&quot;,&quot;transliteration&quot;:&quot;kyuugosho&quot;},{&quot;translateID&quot;:553013,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;без посторонней помощи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;自力&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じりき&quot;,&quot;transliteration&quot;:&quot;jiriki&quot;},{&quot;translateID&quot;:502149,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Ближневосточное агентство ООН для помощи палестинским беженцам и организации работ&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;国際連合パレスチナ難民救済事業機関&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こくさいれんごうぱれすちななんみんきゅうさいじぎょうきかん&quot;,&quot;transliteration&quot;:&quot;kokusairengouparesuchinananminkyuusaijigyoukikan&quot;},{&quot;translateID&quot;:644182,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;высекать огонь при помощи огнива&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;切り火を擦る&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きりひをする&quot;,&quot;transliteration&quot;:&quot;kirihi o suru&quot;},{&quot;translateID&quot;:327721,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;подать руку помощи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;一臂の力を貸す&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いっぴのちからをかす&quot;,&quot;transliteration&quot;:&quot;ippinochikara o kasu&quot;},{&quot;translateID&quot;:885434,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;при помощи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;由って&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;よって&quot;,&quot;transliteration&quot;:&quot;yotte&quot;},{&quot;translateID&quot;:419593,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;карета скорой помощи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;救急車&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きゅうきゅうしゃ&quot;,&quot;transliteration&quot;:&quot;kyuukyuusha&quot;},{&quot;translateID&quot;:419639,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;медикаменты для оказания первой помощи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;救急薬&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きゅうきゅうやく&quot;,&quot;transliteration&quot;:&quot;kyuukyuuyaku&quot;},{&quot;translateID&quot;:505652,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;мне скоро придётся просить вашей помощи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;今に御尽力を願うようになりましょう&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いまにごじんりょくをねがうようになりましょう&quot;,&quot;transliteration&quot;:&quot;imanigojinryoku o negauyouninarimashou&quot;},{&quot;translateID&quot;:126192,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Я хотел бы заплатить за это при помощи моей карточки Visa.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;これを買って、VISAカードで払いたいんですけど。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;これをかって、VISAかーどではらいたいんですけど。&quot;,&quot;transliteration&quot;:&quot;kore o katte、VISAka:dodeharaitaindesukedo。&quot;},{&quot;translateID&quot;:538371,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Я решил попросить помощи у друга.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;私は友人達に助けを求める事に決めた。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;わたしはゆうじんたちにたすけをもとめることにきめた。&quot;,&quot;transliteration&quot;:&quot;watashihayuujintachinitasuke o motomerukotonikimeta。&quot;},{&quot;translateID&quot;:327265,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;без посторонней помощи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;一本立ちで&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いっぽんだちで&quot;,&quot;transliteration&quot;:&quot;ippondachide&quot;},{&quot;translateID&quot;:846626,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Отдел социальной помощи населению&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;保護課&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほごか&quot;,&quot;transliteration&quot;:&quot;hogoka&quot;},{&quot;translateID&quot;:419592,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Автомобиль скорой помощи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;救急車&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きゅうきゅうしゃ&quot;,&quot;transliteration&quot;:&quot;kyuukyuusha&quot;},{&quot;translateID&quot;:419638,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;способ оказания скорой помощи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;救急法&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きゅうきゅうほう&quot;,&quot;transliteration&quot;:&quot;kyuukyuuhou&quot;},{&quot;translateID&quot;:344646,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;карета скорой помощи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;応急車&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おうきゅうしゃ&quot;,&quot;transliteration&quot;:&quot;oukyuusha&quot;},{&quot;translateID&quot;:58911,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;машина скорой помощи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;アンバランス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あんばらんす&quot;,&quot;transliteration&quot;:&quot;anbaransu&quot;},{&quot;translateID&quot;:584258,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Центр консультации и помощи женщинам&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;女性相談援助センター&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じょせいそうだんえんじょせんたー&quot;,&quot;transliteration&quot;:&quot;joseisoudanenjosenta:&quot;},{&quot;translateID&quot;:448766,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;программа экономической помощи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;経済援助&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けいざいえんじょ&quot;,&quot;transliteration&quot;:&quot;keizaienjo&quot;},{&quot;translateID&quot;:617631,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;без чужой помощи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;人手を借りずに&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひとでをかりずに&quot;,&quot;transliteration&quot;:&quot;hitode o karizuni&quot;},{&quot;translateID&quot;:322583,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;страхование на право получения медицинской помощи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;医療保険&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いりょうほけん&quot;,&quot;transliteration&quot;:&quot;iryouhoken&quot;},{&quot;translateID&quot;:419679,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;мера по оказанию помощи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;救済策&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きゅうさいさく&quot;,&quot;transliteration&quot;:&quot;kyuusaisaku&quot;},{&quot;translateID&quot;:422470,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;при помощи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;拠って&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;よって&quot;,&quot;transliteration&quot;:&quot;yotte&quot;},{&quot;translateID&quot;:115192,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;товары американского фонда помощи американским эмигрантам&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ケア物資&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けあぶっし&quot;,&quot;transliteration&quot;:&quot;keabusshi&quot;},{&quot;translateID&quot;:761945,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Командование по оказанию военной помощи Вьетнаму&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;南ベトナム軍事援助司令部&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;みなみべとなむぐんじえんじょしれいぶ&quot;,&quot;transliteration&quot;:&quot;minamibetonamugunjienjoshireibu&quot;},{&quot;translateID&quot;:583782,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;оказание помощи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;助成&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じょせい&quot;,&quot;transliteration&quot;:&quot;josei&quot;},{&quot;translateID&quot;:800964,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Они едят при помощи ножа и вилки.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;彼らはナイフとフォークで食事をする。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かれらはないふとふぉーくでしょくじをする。&quot;,&quot;transliteration&quot;:&quot;karerahanaifutofo:kudeshokuji o suru。&quot;},{&quot;translateID&quot;:559270,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Мы можем добраться туда при помощи машины.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;車があればそこへ行ける。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;くるまがあればそこへいける。&quot;,&quot;transliteration&quot;:&quot;kurumagaarebasokoheikeru。&quot;},{&quot;translateID&quot;:322551,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;машина скорой помощи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;医療車&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いりょうしゃ&quot;,&quot;transliteration&quot;:&quot;iryousha&quot;},{&quot;translateID&quot;:419678,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;фонд оказания помощи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;救済金&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きゅうさいきん&quot;,&quot;transliteration&quot;:&quot;kyuusaikin&quot;},{&quot;translateID&quot;:419841,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;фонд помощи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;救恤金&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きゅうじゅつきん&quot;,&quot;transliteration&quot;:&quot;kyuujutsukin&quot;},{&quot;translateID&quot;:444030,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;я нуждаюсь в твоей помощи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;君に手伝って貰わねばならない&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きみにてつだってもらわねばならない&quot;,&quot;transliteration&quot;:&quot;kiminitetsudattemorawanebanaranai&quot;},{&quot;translateID&quot;:613872,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;молить бога о помощи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;神頼みをする&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かみだのみをする&quot;,&quot;transliteration&quot;:&quot;kamidanomi o suru&quot;},{&quot;translateID&quot;:537590,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Я помощи не просил и не собираюсь.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;私は助けを求めたことはないし、それを望んでもない。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;わたしはたすけをもとめたことはないし、それをのぞんでもない。&quot;,&quot;transliteration&quot;:&quot;watashihatasuke o motometakotohanaishi、sore o nozondemonai。&quot;},{&quot;translateID&quot;:316424,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;при помощи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;依って&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;よって&quot;,&quot;transliteration&quot;:&quot;yotte&quot;},{&quot;translateID&quot;:846624,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;член комитета оказания помощи беднейшему населению&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;保護委員&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほごいいん&quot;,&quot;transliteration&quot;:&quot;hogoiin&quot;},{&quot;translateID&quot;:419570,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;нуждающийся в скорой помощи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;救急患者&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きゅうきゅうかんじゃ&quot;,&quot;transliteration&quot;:&quot;kyuukyuukanja&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="помощи" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

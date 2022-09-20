@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	связей - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,связей" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u0441%u0432%u044f%u0437%u0435%u0439" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV244Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNGB0LLRj9C30LXQuWQCAw9kFggCAg9kFgQCAQ8WAh4Dc3JjBQ8uLi9pbWcvbG9nby5wbmdkAgUPFgIeBGhyZWYFDi4uLz9sYW5nPXJ1LVJVZAIEDxYCHgdWaXNpYmxlZ2QCBg8WAh8DaGQCBw9kFghmDxYCHwNoZAIBDxYCHwNoZAICDxYCHwNoZAIFDxYCHwNoZGS6eAQGtaLp/GKXKWZYWsNo3UW6RA==" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAXHV1ZMAh72CO540X2q/E76lIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/igYdvD3GIXtmSGG+/ocG3yzI3/O" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:true,&quot;Phrases&quot;:[{&quot;translateID&quot;:265694,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Диаграмма связей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;マインドマップ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まいんどまっぷ&quot;,&quot;transliteration&quot;:&quot;maindomappu&quot;},{&quot;translateID&quot;:487928,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Отдел информации и связей с населением&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;広報広聴課&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうほうびろきか&quot;,&quot;transliteration&quot;:&quot;kouhoubirokika&quot;},{&quot;translateID&quot;:857348,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Отдел торгово-экономических связей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;貿易経済交流課&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぼうえきけいざいこうりゅうか&quot;,&quot;transliteration&quot;:&quot;bouekikeizaikouryuuka&quot;},{&quot;translateID&quot;:501739,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Отдел международных связей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;国際交流部&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こくさいこうりゅうぶ&quot;,&quot;transliteration&quot;:&quot;kokusaikouryuubu&quot;},{&quot;translateID&quot;:396741,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;укрепление связей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;関係強化&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かんけいきょうか&quot;,&quot;transliteration&quot;:&quot;kankeikyouka&quot;},{&quot;translateID&quot;:909046,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;библиотека областей объединения связей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;連係パック域ライブラリ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;れんけいぱっくいきらいぶらり&quot;,&quot;transliteration&quot;:&quot;renkeipakkuikiraiburari&quot;},{&quot;translateID&quot;:295256,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;испытание связей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;リンクテスティング&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;りんくてすてぃんぐ&quot;,&quot;transliteration&quot;:&quot;rinkutesutingu&quot;},{&quot;translateID&quot;:646159,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;осуществление связей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;接続&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せつぞく&quot;,&quot;transliteration&quot;:&quot;setsuzoku&quot;},{&quot;translateID&quot;:909051,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;библиотека связей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;連係ライブラリ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;れんけいらいぶらり&quot;,&quot;transliteration&quot;:&quot;renkeiraiburari&quot;},{&quot;translateID&quot;:295277,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;область объединения связей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;リンクパック記憶域&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;りんくぱっくきおくいき&quot;,&quot;transliteration&quot;:&quot;rinkupakkukiokuiki&quot;},{&quot;translateID&quot;:231498,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;схема причинно-следственных связей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;フィッシュボーン チャート&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふぃっしゅぼーん ちゃーと&quot;,&quot;transliteration&quot;:&quot;fisshubo:n cha:to&quot;},{&quot;translateID&quot;:909055,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;редактирование связей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;連係編集&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;れんけいへんしゅう&quot;,&quot;transliteration&quot;:&quot;renkeihenshuu&quot;},{&quot;translateID&quot;:295280,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;область объединения связей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;リンクパック領域&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;りんくぱっくりょういき&quot;,&quot;transliteration&quot;:&quot;rinkupakkuryouiki&quot;},{&quot;translateID&quot;:373379,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;модель вертикальных связей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;階層モデル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かいそうもでる&quot;,&quot;transliteration&quot;:&quot;kaisoumoderu&quot;},{&quot;translateID&quot;:211399,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;программный редактор связей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;バインダ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ばいんだ&quot;,&quot;transliteration&quot;:&quot;bainda&quot;},{&quot;translateID&quot;:909058,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;редактор связей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;連係編集プログラム&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;れんけいへんしゅうぷろぐらむ&quot;,&quot;transliteration&quot;:&quot;renkeihenshuupuroguramu&quot;},{&quot;translateID&quot;:295291,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;файл связей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;リンクファイル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;りんくふぁいる&quot;,&quot;transliteration&quot;:&quot;rinkufairu&quot;},{&quot;translateID&quot;:317583,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;грамматика семантических связей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;意味文法&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いみぶんぽう&quot;,&quot;transliteration&quot;:&quot;imibunpou&quot;},{&quot;translateID&quot;:909042,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;область объединения связей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;連係パック域&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;れんけいぱっくいき&quot;,&quot;transliteration&quot;:&quot;renkeipakkuiki&quot;},{&quot;translateID&quot;:295097,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;редактор связей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;リンカ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;りんか&quot;,&quot;transliteration&quot;:&quot;rinka&quot;},{&quot;translateID&quot;:295409,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;загрузчик связей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;リンケージローダ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;りんけーじろーだ&quot;,&quot;transliteration&quot;:&quot;rinke:jiro:da&quot;},{&quot;translateID&quot;:909044,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;расширение области объединения связей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;連係パック域エクステンション&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;れんけいぱっくいきえくすてんしょん&quot;,&quot;transliteration&quot;:&quot;renkeipakkuikiekusutenshon&quot;},{&quot;translateID&quot;:295157,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;загрузчик с редактированием связей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;リンキングローダ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;りんきんぐろーだ&quot;,&quot;transliteration&quot;:&quot;rinkinguro:da&quot;},{&quot;translateID&quot;:454577,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;осуществление связей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;結合&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けつごう&quot;,&quot;transliteration&quot;:&quot;ketsugou&quot;},{&quot;translateID&quot;:909039,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;секция связей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;連係セクション&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;れんけいせくしょん&quot;,&quot;transliteration&quot;:&quot;renkeisekushon&quot;},{&quot;translateID&quot;:396721,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;модель горизонтальных связей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;関係モデル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かんけいもでる&quot;,&quot;transliteration&quot;:&quot;kankeimoderu&quot;},{&quot;translateID&quot;:295406,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;редактор связей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;リンケージエディタ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;りんけーじえでぃた&quot;,&quot;transliteration&quot;:&quot;rinke:jiedita&quot;},{&quot;translateID&quot;:833126,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;отслеживание изменившихся связей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;分散リンク トラッキング&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぶんさんりんくとらっきんぐ&quot;,&quot;transliteration&quot;:&quot;bunsanrinkutorakkingu&quot;},{&quot;translateID&quot;:756170,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;схема причинно-следственных связей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;特性図&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とくせいず&quot;,&quot;transliteration&quot;:&quot;tokuseizu&quot;},{&quot;translateID&quot;:295402,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;редактор связей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;リンケージ・エディタ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;りんけーじ・えでぃた&quot;,&quot;transliteration&quot;:&quot;rinke:ji・edita&quot;},{&quot;translateID&quot;:641186,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;схема причинно-следственных связей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;石川ダイアグラム&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いしかわだいあぐらむ&quot;,&quot;transliteration&quot;:&quot;ishikawadaiaguramu&quot;},{&quot;translateID&quot;:833125,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;отслеживание изменившихся связей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;分散リンク トラッキング&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぶんさんりんく とらっきんぐ&quot;,&quot;transliteration&quot;:&quot;bunsanrinku torakkingu&quot;},{&quot;translateID&quot;:910308,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;секция связей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;連絡節&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;れんらくぶし&quot;,&quot;transliteration&quot;:&quot;renrakubushi&quot;},{&quot;translateID&quot;:295322,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;загрузчик связей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;リンクローダ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;りんくろーだ&quot;,&quot;transliteration&quot;:&quot;rinkuro:da&quot;},{&quot;translateID&quot;:593899,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;Неверный порядок установления связей сертификата.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;証明書チェーンが正しく順序付けられていません。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょうめいしょちぇーんがただしくじゅんじょづけられていません。&quot;,&quot;transliteration&quot;:&quot;shoumeishoche:ngatadashikujunjodukerareteimasen。&quot;},{&quot;translateID&quot;:465257,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;схема причинно-следственных связей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;原因 - 結果チャート&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;げんいん - けっかちゃーと&quot;,&quot;transliteration&quot;:&quot;genin - kekkacha:to&quot;},{&quot;translateID&quot;:909096,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;редактор связей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;連結エディタ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;れんけつえでぃた&quot;,&quot;transliteration&quot;:&quot;renketsuedita&quot;},{&quot;translateID&quot;:295311,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;библиотека связей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;リンクライブラリ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;りんくらいぶらり&quot;,&quot;transliteration&quot;:&quot;rinkuraiburari&quot;},{&quot;translateID&quot;:367603,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;протокол связей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;回線制御&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かいせんせいぎょ&quot;,&quot;transliteration&quot;:&quot;kaisenseigyo&quot;},{&quot;translateID&quot;:909047,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;библиотека областей объединения связей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;連係パック域ライブラリー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;れんけいぱっくいきらいぶらりー&quot;,&quot;transliteration&quot;:&quot;renkeipakkuikiraiburari:&quot;},{&quot;translateID&quot;:909048,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;очередь к программам области объединения связей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;連係パック域待ち行列&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;れんけいぱっくいきまちぎょうれつ&quot;,&quot;transliteration&quot;:&quot;renkeipakkuikimachigyouretsu&quot;},{&quot;translateID&quot;:909049,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;справочник области объединения связей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;連係パック域登録簿&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;れんけいぱっくいきとうろくぼ&quot;,&quot;transliteration&quot;:&quot;renkeipakkuikitourokubo&quot;},{&quot;translateID&quot;:124163,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;таблица вектора связей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;コミュニケーションベクターテーブル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こみゅにけーしょんべくたーてーぶる&quot;,&quot;transliteration&quot;:&quot;komyunike:shonbekuta:te:buru&quot;},{&quot;translateID&quot;:263652,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;силы связей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ボンディング強度&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぼんでぃんぐきょうど&quot;,&quot;transliteration&quot;:&quot;bondingukyoudo&quot;},{&quot;translateID&quot;:472888,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;фиксированная область объединения связей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;固定連係パック域&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こていれんけいぱっくいき&quot;,&quot;transliteration&quot;:&quot;koteirenkeipakkuiki&quot;},{&quot;translateID&quot;:32703,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;очередь к программам области объединения связей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;LPA待ち行列&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;LPAまちぎょうれつ&quot;,&quot;transliteration&quot;:&quot;LPAmachigyouretsu&quot;},{&quot;translateID&quot;:472533,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;фиксированная область объединения связей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;固定リンクパックエリア&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こていりんくぱっくえりあ&quot;,&quot;transliteration&quot;:&quot;koteirinkupakkueria&quot;},{&quot;translateID&quot;:32702,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;библиотека областей объединения связей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;LPAライブラリ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;LPAらいぶらり&quot;,&quot;transliteration&quot;:&quot;LPAraiburari&quot;},{&quot;translateID&quot;:249521,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;фиксированная область объединения связей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ページ固定リンクパック領域&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぺーじこていりんくぱっくりょういき&quot;,&quot;transliteration&quot;:&quot;pe:jikoteirinkupakkuryouiki&quot;},{&quot;translateID&quot;:295284,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;очередь к программам области объединения связей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;リンクパック領域待ち行列&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;りんくぱっくりょういきまちぎょうれつ&quot;,&quot;transliteration&quot;:&quot;rinkupakkuryouikimachigyouretsu&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="связей" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

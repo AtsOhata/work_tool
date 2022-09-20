@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	температуры - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,температуры" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u0442%u0435%u043c%u043f%u0435%u0440%u0430%u0442%u0443%u0440%u044b" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAWAAeODreOCt+OCouiqnizml6XmnKzoqp4s44Kq44Oz44Op44Kk44OzLOi+nuabuCzovp7lhbgs5ZKM6ZyyLOe/u+iosyzjg63jgrfjgqLoqp7oqLMs44Ot44K344Ki6Kqe44GnLOmcsuiosyzRgtC10LzQv9C10YDQsNGC0YPRgNGLZAIDD2QWCAICD2QWBAIBDxYCHgNzcmMFDy4uL2ltZy9sb2dvLnBuZ2QCBQ8WAh4EaHJlZgUOLi4vP2xhbmc9cnUtUlVkAgQPFgIeB1Zpc2libGVnZAIGDxYCHwNoZAIHD2QWCGYPFgIfA2hkAgEPFgIfA2hkAgIPFgIfA2hkAgUPFgIfA2hkZAbhEc1AjSU9+qHPNuPCEKabmuqE" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAV1vDGn8AlzvmqkqNPuoRKMlIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/nAdq+AijvcxnAEDGeQ3KgQRXkz4" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:true,&quot;Phrases&quot;:[{&quot;translateID&quot;:683271,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;тренировочный полёт в условиях низкой температуры&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;耐寒飛行&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たいかんひこう&quot;,&quot;transliteration&quot;:&quot;taikanhikou&quot;},{&quot;translateID&quot;:622039,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;указатель температуры&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;水温計&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;すいおんけい&quot;,&quot;transliteration&quot;:&quot;suionkei&quot;},{&quot;translateID&quot;:130127,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;стабилизатор температуры&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;サーモスタット&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さーもすたっと&quot;,&quot;transliteration&quot;:&quot;sa:mosutatto&quot;},{&quot;translateID&quot;:460382,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;измерение температуры&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;検温&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けんおん&quot;,&quot;transliteration&quot;:&quot;kenon&quot;},{&quot;translateID&quot;:352542,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;понижение температуры&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;下熱&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;げねつ&quot;,&quot;transliteration&quot;:&quot;genetsu&quot;},{&quot;translateID&quot;:869883,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;без повышенной температуры&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;無熱&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;むねつ&quot;,&quot;transliteration&quot;:&quot;munetsu&quot;},{&quot;translateID&quot;:349106,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;понижение температуры&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;温度降下&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おんどこうか&quot;,&quot;transliteration&quot;:&quot;ondokouka&quot;},{&quot;translateID&quot;:817509,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;индекс температуры и влажности&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;不快指数&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふかいしすう&quot;,&quot;transliteration&quot;:&quot;fukaishisuu&quot;},{&quot;translateID&quot;:348982,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Единицы измерения температуры&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;温度の単位&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おんどのたんい&quot;,&quot;transliteration&quot;:&quot;ondonotani&quot;},{&quot;translateID&quot;:790103,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;повышение температуры&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;発熱&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はつねつ&quot;,&quot;transliteration&quot;:&quot;hatsunetsu&quot;},{&quot;translateID&quot;:846283,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;поддержание температуры&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;保温&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほおん&quot;,&quot;transliteration&quot;:&quot;hoon&quot;},{&quot;translateID&quot;:648882,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Абсолютный нуль температуры&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;絶対零度&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぜったいれいど&quot;,&quot;transliteration&quot;:&quot;zettaireido&quot;},{&quot;translateID&quot;:772819,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;кризисное падение температуры&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;熱の分利&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ねつのぶんり&quot;,&quot;transliteration&quot;:&quot;netsunobunri&quot;},{&quot;translateID&quot;:746017,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;там очень резкие колебания температуры&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;当地は寒暑の差がひどい&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とうちはかんしょのさがひどい&quot;,&quot;transliteration&quot;:&quot;touchihakanshonosagahidoi&quot;},{&quot;translateID&quot;:772809,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;из-за температуры я спал плохо&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;熱のために安眠できなかった&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ねつのためにあんみんできなかった&quot;,&quot;transliteration&quot;:&quot;netsunotamenianmindekinakatta&quot;},{&quot;translateID&quot;:745229,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;какой температуры ванну вы хотите?&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;湯加減はどの位がよろしいか&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ゆかげんはどのくらいがよろしいか&quot;,&quot;transliteration&quot;:&quot;yukagenhadonokuraigayoroshiika&quot;},{&quot;translateID&quot;:349147,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;повышение температуры&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;温度上昇&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おんどじょうしょう&quot;,&quot;transliteration&quot;:&quot;ondojoushou&quot;},{&quot;translateID&quot;:906495,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;индикатор температуры охлаждающей жидкости&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;冷却液温度計&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;れいきゃくえきおんどけい&quot;,&quot;transliteration&quot;:&quot;reikyakuekiondokei&quot;},{&quot;translateID&quot;:389818,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;датчик температуры&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;感温素子&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かんゆたかそし&quot;,&quot;transliteration&quot;:&quot;kanyutakasoshi&quot;},{&quot;translateID&quot;:349202,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;контроллер температуры&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;温度調節器&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おんどちょうせつき&quot;,&quot;transliteration&quot;:&quot;ondochousetsuki&quot;},{&quot;translateID&quot;:349265,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;компенсация температуры&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;温度補償&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おんどほしょう&quot;,&quot;transliteration&quot;:&quot;ondohoshou&quot;},{&quot;translateID&quot;:488081,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;камера с автоматическим регулированием температуры&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;恒温そう&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうおんそう&quot;,&quot;transliteration&quot;:&quot;kouonsou&quot;},{&quot;translateID&quot;:773440,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;воздействие резкого изменения температуры&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;熱衝撃&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ねつしょうげき&quot;,&quot;transliteration&quot;:&quot;netsushougeki&quot;},{&quot;translateID&quot;:348977,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;датчик температуры&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;温度センサ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おんどせんさ&quot;,&quot;transliteration&quot;:&quot;ondosensa&quot;},{&quot;translateID&quot;:407279,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;инверсия температуры&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;気温逆転&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きおんぎゃくてん&quot;,&quot;transliteration&quot;:&quot;kiongyakuten&quot;},{&quot;translateID&quot;:773058,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;регулирование температуры&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;熱管理&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ねつかんり&quot;,&quot;transliteration&quot;:&quot;netsukanri&quot;},{&quot;translateID&quot;:130129,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;стабилизатор температуры&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;サーモスタット&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さーもすたっと&quot;,&quot;transliteration&quot;:&quot;sa:mosutatto&quot;},{&quot;translateID&quot;:349067,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;реле температуры&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;温度継電器&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おんどけいでんき&quot;,&quot;transliteration&quot;:&quot;ondokeidenki&quot;},{&quot;translateID&quot;:671122,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;коэффициент увеличения температуры&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;増温率&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぞうぬるりつ&quot;,&quot;transliteration&quot;:&quot;zounururitsu&quot;},{&quot;translateID&quot;:551345,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;автоматический регулятор температуры&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;自動温度調節器&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じどうおんどちょうせつき&quot;,&quot;transliteration&quot;:&quot;jidouondochousetsuki&quot;},{&quot;translateID&quot;:348963,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;градиент температуры&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;温度こう配&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おんどこうはい&quot;,&quot;transliteration&quot;:&quot;ondokouhai&quot;},{&quot;translateID&quot;:71163,&quot;translationStatus&quot;:0,&quot;themeID&quot;:14,&quot;groupName&quot;:&quot;車両&quot;,&quot;themeName&quot;:&quot;自動車&quot;,&quot;word&quot;:&quot;указатель температуры&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ウォータゲージ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;うぉーたげーじ&quot;,&quot;transliteration&quot;:&quot;uぉ:tage:ji&quot;},{&quot;translateID&quot;:349074,&quot;translationStatus&quot;:0,&quot;themeID&quot;:14,&quot;groupName&quot;:&quot;車両&quot;,&quot;themeName&quot;:&quot;自動車&quot;,&quot;word&quot;:&quot;датчики температуры&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;温度計&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おんどけい&quot;,&quot;transliteration&quot;:&quot;ondokei&quot;},{&quot;translateID&quot;:781163,&quot;translationStatus&quot;:0,&quot;themeID&quot;:14,&quot;groupName&quot;:&quot;車両&quot;,&quot;themeName&quot;:&quot;自動車&quot;,&quot;word&quot;:&quot;датчик температуры выхлопа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;排気温警告センサ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はいきおんけいこくせんさ&quot;,&quot;transliteration&quot;:&quot;haikionkeikokusensa&quot;},{&quot;translateID&quot;:189058,&quot;translationStatus&quot;:0,&quot;themeID&quot;:14,&quot;groupName&quot;:&quot;車両&quot;,&quot;themeName&quot;:&quot;自動車&quot;,&quot;word&quot;:&quot;указатель температуры&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;テンパレチャゲージ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てんぱれちゃげーじ&quot;,&quot;transliteration&quot;:&quot;tenparechage:ji&quot;},{&quot;translateID&quot;:349148,&quot;translationStatus&quot;:0,&quot;themeID&quot;:34,&quot;groupName&quot;:&quot;土木&quot;,&quot;themeName&quot;:&quot;基礎工学&quot;,&quot;word&quot;:&quot;подъём температуры&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;温度上昇&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おんどじょうしょう&quot;,&quot;transliteration&quot;:&quot;ondojoushou&quot;},{&quot;translateID&quot;:775624,&quot;translationStatus&quot;:0,&quot;themeID&quot;:44,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;航空宇宙&quot;,&quot;word&quot;:&quot;коэффициент, выражающий зависимость скорости горения от температуры&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;燃焼速度定数&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ねんしょうそくどていすう&quot;,&quot;transliteration&quot;:&quot;nenshousokudoteisuu&quot;},{&quot;translateID&quot;:781167,&quot;translationStatus&quot;:0,&quot;themeID&quot;:44,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;航空宇宙&quot;,&quot;word&quot;:&quot;указатель температуры выхлопных газов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;排気温度計&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はいきおんどけい&quot;,&quot;transliteration&quot;:&quot;haikiondokei&quot;},{&quot;translateID&quot;:374225,&quot;translationStatus&quot;:0,&quot;themeID&quot;:44,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;航空宇宙&quot;,&quot;word&quot;:&quot;указатель температуры наружного воздуха&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;外気温度計&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;がいきおんどけい&quot;,&quot;transliteration&quot;:&quot;gaikiondokei&quot;},{&quot;translateID&quot;:349149,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;превышение температуры&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;温度上昇&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おんどじょうしょう&quot;,&quot;transliteration&quot;:&quot;ondojoushou&quot;},{&quot;translateID&quot;:551346,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;автоматический регулятор температуры&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;自動温度調節器&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じどうおんどちょうせつき&quot;,&quot;transliteration&quot;:&quot;jidouondochousetsuki&quot;},{&quot;translateID&quot;:773312,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;падение температуры&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;熱降下&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ねつこうか&quot;,&quot;transliteration&quot;:&quot;netsukouka&quot;},{&quot;translateID&quot;:349124,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;прибор для контроля температуры&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;温度指示計&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おんどしじけい&quot;,&quot;transliteration&quot;:&quot;ondoshijikei&quot;},{&quot;translateID&quot;:746356,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;линия постоянной температуры&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;等温線&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とうおんせん&quot;,&quot;transliteration&quot;:&quot;touonsen&quot;},{&quot;translateID&quot;:349186,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;регулирование температуры&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;温度調整&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おんどちょうせい&quot;,&quot;transliteration&quot;:&quot;ondochousei&quot;},{&quot;translateID&quot;:862135,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;встроенный датчик температуры&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;埋込温度計&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;うめこみおんどけい&quot;,&quot;transliteration&quot;:&quot;umekomiondokei&quot;},{&quot;translateID&quot;:349211,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;интенсивность падения температуры&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;温度逓減率&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おんどていげんりつ&quot;,&quot;transliteration&quot;:&quot;ondoteigenritsu&quot;},{&quot;translateID&quot;:281319,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;молекулярное повышение температуры кипения&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;モル沸点上昇&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;もるふってんじょうしょう&quot;,&quot;transliteration&quot;:&quot;morufuttenjoushou&quot;},{&quot;translateID&quot;:488089,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;камера с автоматическим регулированием температуры&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;恒温室&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうおんしつ&quot;,&quot;transliteration&quot;:&quot;kouonshitsu&quot;},{&quot;translateID&quot;:349064,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;коэффициент температуры&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;温度係数&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おんどけいすう&quot;,&quot;transliteration&quot;:&quot;ondokeisuu&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="температуры" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

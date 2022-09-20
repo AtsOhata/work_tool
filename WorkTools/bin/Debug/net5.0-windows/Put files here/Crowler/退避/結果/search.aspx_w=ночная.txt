@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	ночная - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,ночная" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u043d%u043e%u0447%u043d%u0430%u044f" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV244Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNC90L7Rh9C90LDRj2QCAw9kFggCAg9kFgQCAQ8WAh4Dc3JjBQ8uLi9pbWcvbG9nby5wbmdkAgUPFgIeBGhyZWYFDi4uLz9sYW5nPXJ1LVJVZAIEDxYCHgdWaXNpYmxlZ2QCBg8WAh8DaGQCBw9kFghmDxYCHwNoZAIBDxYCHwNoZAICDxYCHwNoZAIFDxYCHwNoZGR38wHJEYp+cBKYV3UU01UTzyrTuQ==" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAU6pxnegTA3ln0LwcxKeS4RlIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/gSVenQ9cHRZ3AnoEgCOJj3S11f8" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:true,&quot;Phrases&quot;:[{&quot;translateID&quot;:878991,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;ночная фотография&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;夜間撮影&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;やかんさつえい&quot;,&quot;transliteration&quot;:&quot;yakansatsuei&quot;},{&quot;translateID&quot;:879174,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;ночная бабочка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;夜蝶&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;やちょう&quot;,&quot;transliteration&quot;:&quot;yachou&quot;},{&quot;translateID&quot;:103598,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;ночная рубашка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;キャミソール&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きゃみそーる&quot;,&quot;transliteration&quot;:&quot;kyamiso:ru&quot;},{&quot;translateID&quot;:878980,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;ночная смена&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;夜間勤務&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;やかんきんむ&quot;,&quot;transliteration&quot;:&quot;yakankinmu&quot;},{&quot;translateID&quot;:879142,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;ночная птица&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;夜鷹&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;よたか&quot;,&quot;transliteration&quot;:&quot;yotaka&quot;},{&quot;translateID&quot;:39769,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;Маленькая ночная серенада&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;アイネ・クライネ・ナハトムジーク&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あいね・くらいね・なはとむじーく&quot;,&quot;transliteration&quot;:&quot;aine・kuraine・nahatomuji:ku&quot;},{&quot;translateID&quot;:878904,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;Ночная терраса кафе&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;夜のカフェテラス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;よるのかふぇてらす&quot;,&quot;transliteration&quot;:&quot;yorunokafeterasu&quot;},{&quot;translateID&quot;:879123,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;ночная торговля&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;夜商い&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;よあきない&quot;,&quot;transliteration&quot;:&quot;yoakinai&quot;},{&quot;translateID&quot;:365175,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;ночная бабочка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;蛾&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;が&quot;,&quot;transliteration&quot;:&quot;ga&quot;},{&quot;translateID&quot;:878945,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;ночная стража&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;夜回り&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;よまわり&quot;,&quot;transliteration&quot;:&quot;yomawari&quot;},{&quot;translateID&quot;:879121,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;ночная атака&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;夜襲&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;やしゅう&quot;,&quot;transliteration&quot;:&quot;yashuu&quot;},{&quot;translateID&quot;:879279,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;ночная буря&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;夜嵐&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;よあらし&quot;,&quot;transliteration&quot;:&quot;yoarashi&quot;},{&quot;translateID&quot;:605138,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;ночная рубашка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;寝巻き&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ねまき&quot;,&quot;transliteration&quot;:&quot;nemaki&quot;},{&quot;translateID&quot;:360379,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;ночная стража&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;火の番&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひのばん&quot;,&quot;transliteration&quot;:&quot;hinoban&quot;},{&quot;translateID&quot;:879032,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;ночная стража&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;夜詰め&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;よづめ&quot;,&quot;transliteration&quot;:&quot;yodume&quot;},{&quot;translateID&quot;:879193,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;ночная дорога&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;夜道&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;よみち&quot;,&quot;transliteration&quot;:&quot;yomichi&quot;},{&quot;translateID&quot;:199088,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;ночная ермолка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ナイト・キャップ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ないと・きゃっぷ&quot;,&quot;transliteration&quot;:&quot;naito・kyappu&quot;},{&quot;translateID&quot;:180713,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;Мальгашская ночная акула&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ツマグロ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;つまぐろ&quot;,&quot;transliteration&quot;:&quot;tsumaguro&quot;},{&quot;translateID&quot;:879029,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;ночная прохлада&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;夜気&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;やき&quot;,&quot;transliteration&quot;:&quot;yaki&quot;},{&quot;translateID&quot;:879176,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;ночная птица&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;夜鳥&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;やちょう&quot;,&quot;transliteration&quot;:&quot;yachou&quot;},{&quot;translateID&quot;:199068,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;ночная торговля&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ナイター&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ないたー&quot;,&quot;transliteration&quot;:&quot;naita:&quot;},{&quot;translateID&quot;:878927,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;ночная тьма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;夜陰&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;やいん&quot;,&quot;transliteration&quot;:&quot;yain&quot;},{&quot;translateID&quot;:879067,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;ночная стража&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;夜警&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;やけい&quot;,&quot;transliteration&quot;:&quot;yakei&quot;},{&quot;translateID&quot;:879261,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;ночная слепота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;夜盲症&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;やもうしょう&quot;,&quot;transliteration&quot;:&quot;yamoushou&quot;},{&quot;translateID&quot;:321459,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;ночная поллюция&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;遺精&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いせい&quot;,&quot;transliteration&quot;:&quot;isei&quot;},{&quot;translateID&quot;:787066,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;ночная тень&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;薄暮&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はくぼ&quot;,&quot;transliteration&quot;:&quot;hakubo&quot;},{&quot;translateID&quot;:879053,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;ночная смена&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;夜勤&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;やきん&quot;,&quot;transliteration&quot;:&quot;yakin&quot;},{&quot;translateID&quot;:879226,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;ночная прогулка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;夜歩き&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;よあるき&quot;,&quot;transliteration&quot;:&quot;yoaruki&quot;},{&quot;translateID&quot;:818953,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;ночная стража&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;不寝番&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ねずばん&quot;,&quot;transliteration&quot;:&quot;nezuban&quot;},{&quot;translateID&quot;:51818,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;Ночная буря&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;あらしのよるに&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あらしのよるに&quot;,&quot;transliteration&quot;:&quot;arashinoyoruni&quot;},{&quot;translateID&quot;:879047,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;ночная смена&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;夜業&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;やぎょう&quot;,&quot;transliteration&quot;:&quot;yagyou&quot;},{&quot;translateID&quot;:879210,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;ночная стража&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;夜番&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;やばん&quot;,&quot;transliteration&quot;:&quot;yaban&quot;},{&quot;translateID&quot;:818952,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;ночная охрана&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;不寝番&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ねずばん&quot;,&quot;transliteration&quot;:&quot;nezuban&quot;},{&quot;translateID&quot;:204581,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;женская ночная сорочка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ネグリジェ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ねぐりじぇ&quot;,&quot;transliteration&quot;:&quot;negurije&quot;},{&quot;translateID&quot;:879046,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;ночная работа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;夜業&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;やぎょう&quot;,&quot;transliteration&quot;:&quot;yagyou&quot;},{&quot;translateID&quot;:879204,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;ночная стоянка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;夜泊&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;やはく&quot;,&quot;transliteration&quot;:&quot;yahaku&quot;},{&quot;translateID&quot;:199333,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;Кубинская ночная акула&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ナガハナメジロザメ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ながはなめじろざめ&quot;,&quot;transliteration&quot;:&quot;nagahanamejirozame&quot;},{&quot;translateID&quot;:879020,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;Компьютерный&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;ночная нагрузка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;夜間負荷&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;やかんふか&quot;,&quot;transliteration&quot;:&quot;yakanfuka&quot;},{&quot;translateID&quot;:152745,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;Технический&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;ночная труба&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;スターテレスコープ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;すたーてれすこーぷ&quot;,&quot;transliteration&quot;:&quot;suta:teresuko:pu&quot;},{&quot;translateID&quot;:199101,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;Химический&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;длинная ночная рубашка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ナイトガウン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ないとがうん&quot;,&quot;transliteration&quot;:&quot;naitogaun&quot;},{&quot;translateID&quot;:789265,&quot;translationStatus&quot;:0,&quot;themeID&quot;:103,&quot;groupName&quot;:&quot;Медицинский&quot;,&quot;themeName&quot;:&quot;Иммунология&quot;,&quot;word&quot;:&quot;пароксизмальная ночная гемоглобинурия&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;発作性夜間ヘモグロビン尿症マルキャファーヴァ・ミケリ症候群&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほっさせいやかんへもぐろびんにょうしょうまるきゃふぁーゔぁ・みけりしょうこうぐん&quot;,&quot;transliteration&quot;:&quot;hossaseiyakanhemogurobinnyoushoumarukyafa:ゔぁ・mikerishoukougun&quot;},{&quot;translateID&quot;:879255,&quot;translationStatus&quot;:0,&quot;themeID&quot;:111,&quot;groupName&quot;:&quot;Медицинский&quot;,&quot;themeName&quot;:&quot;Оториноларингология&quot;,&quot;word&quot;:&quot;ночная слепота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;夜盲&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;やもう&quot;,&quot;transliteration&quot;:&quot;yamou&quot;},{&quot;translateID&quot;:878985,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;Медицинский&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;ночная одышка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;夜間呼吸困難&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;やかんこきゅうこんなん&quot;,&quot;transliteration&quot;:&quot;yakankokyuukonnan&quot;},{&quot;translateID&quot;:879004,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;Медицинский&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;ночная полиурия&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;夜間多尿&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;やかんたにょう&quot;,&quot;transliteration&quot;:&quot;yakantanyou&quot;},{&quot;translateID&quot;:745086,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;Медицинский&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;ночная испарина&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;盗汗&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とうかん&quot;,&quot;transliteration&quot;:&quot;toukan&quot;},{&quot;translateID&quot;:878981,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;Медицинский&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;ночная миопия&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;夜間近視&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;やかんきんし&quot;,&quot;transliteration&quot;:&quot;yakankinshi&quot;},{&quot;translateID&quot;:879002,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;Медицинский&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;ночная астма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;夜間性喘息&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;やかんせいぜんそく&quot;,&quot;transliteration&quot;:&quot;yakanseizensoku&quot;},{&quot;translateID&quot;:624721,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;Медицинский&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;ночная головная боль&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;睡眠時頭痛&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;すいみんじずつう&quot;,&quot;transliteration&quot;:&quot;suiminjizutsuu&quot;},{&quot;translateID&quot;:789263,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;Медицинский&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;пароксизмальная ночная гемоглобинурия&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;発作性夜間ヘモグロビン尿症&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほっさせいやかんへもぐろびんにょうしょう&quot;,&quot;transliteration&quot;:&quot;hossaseiyakanhemogurobinnyoushou&quot;},{&quot;translateID&quot;:879000,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;Медицинский&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;ночная одышка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;夜間性呼吸困難&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;やかんせいこきゅうこんなん&quot;,&quot;transliteration&quot;:&quot;yakanseikokyuukonnan&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="ночная" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

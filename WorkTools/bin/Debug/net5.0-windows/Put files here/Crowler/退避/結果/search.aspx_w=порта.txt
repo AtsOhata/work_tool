@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	порта - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,порта" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u043f%u043e%u0440%u0442%u0430" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV044Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNC/0L7RgNGC0LBkAgMPZBYIAgIPZBYEAgEPFgIeA3NyYwUPLi4vaW1nL2xvZ28ucG5nZAIFDxYCHgRocmVmBQ4uLi8/bGFuZz1ydS1SVWQCBA8WAh4HVmlzaWJsZWdkAgYPFgIfA2hkAgcPZBYIZg8WAh8DaGQCAQ8WAh8DaGQCAg8WAh8DaGQCBQ8WAh8DaGRkF3IrlIuw9QSQOQR+hWnYub+qxwM=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAVYI3074jxWRwzfPTHu5UeHlIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/ui+SeBKRXtKmiX/SLA/Pho26yiT" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:false,&quot;Phrases&quot;:[{&quot;translateID&quot;:490841,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;управление порта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;港庁&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうちょう&quot;,&quot;transliteration&quot;:&quot;kouchou&quot;},{&quot;translateID&quot;:490834,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;граница порта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;港界&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうかい&quot;,&quot;transliteration&quot;:&quot;koukai&quot;},{&quot;translateID&quot;:490849,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;территория порта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;港内&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうない&quot;,&quot;transliteration&quot;:&quot;kounai&quot;},{&quot;translateID&quot;:490847,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;внутренняя часть порта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;港内&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうない&quot;,&quot;transliteration&quot;:&quot;kounai&quot;},{&quot;translateID&quot;:577933,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;выход из порта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;出港&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゅっこう&quot;,&quot;transliteration&quot;:&quot;shukkou&quot;},{&quot;translateID&quot;:789069,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;выходить из порта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;発港する&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はっみなとする&quot;,&quot;transliteration&quot;:&quot;hamminatosuru&quot;},{&quot;translateID&quot;:372589,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;открытие порта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;開港&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かいこう&quot;,&quot;transliteration&quot;:&quot;kaikou&quot;},{&quot;translateID&quot;:588560,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;грузчик речного порта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;小揚げ人足&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こあげにんそく&quot;,&quot;transliteration&quot;:&quot;koageninsoku&quot;},{&quot;translateID&quot;:613464,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Башня порта Кобе&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;神戸ポートタワー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうべぽーとたわー&quot;,&quot;transliteration&quot;:&quot;koubepo:totawa:&quot;},{&quot;translateID&quot;:308471,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;выйти из порта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;を出港する&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;をしゅっこうする&quot;,&quot;transliteration&quot;:&quot; o shukkousuru&quot;},{&quot;translateID&quot;:262382,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Порта Нигра&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ポルタ・ニグラ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぽるた・にぐら&quot;,&quot;transliteration&quot;:&quot;poruta・nigura&quot;},{&quot;translateID&quot;:705156,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;строительство порта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;築港&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちっこう&quot;,&quot;transliteration&quot;:&quot;chikkou&quot;},{&quot;translateID&quot;:578626,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;уход судна из порта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;出帆&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゅっぱん&quot;,&quot;transliteration&quot;:&quot;shuppan&quot;},{&quot;translateID&quot;:144105,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Джамбаттиста делла Порта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ジャンバッティスタ・デッラ・ポルタ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じゃんばってぃすた・でっら・ぽるた&quot;,&quot;transliteration&quot;:&quot;janbatteぃsuta・derra・poruta&quot;},{&quot;translateID&quot;:257376,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;Проверка входящего порта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ポート開放テスト&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぽーとかいほうてすと&quot;,&quot;transliteration&quot;:&quot;po:tokaihoutesuto&quot;},{&quot;translateID&quot;:257393,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;Номер порта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ポート番号&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぽーとばんごう&quot;,&quot;transliteration&quot;:&quot;po:tobangou&quot;},{&quot;translateID&quot;:257241,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;соединительная линия порта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ポート コネクタ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぽーと こねくた&quot;,&quot;transliteration&quot;:&quot;po:to konekuta&quot;},{&quot;translateID&quot;:217852,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;устройство параллельного порта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;パラレル デバイス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぱられる でばいす&quot;,&quot;transliteration&quot;:&quot;parareru debaisu&quot;},{&quot;translateID&quot;:257328,&quot;translationStatus&quot;:0,&quot;themeID&quot;:8,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;インターネット&quot;,&quot;word&quot;:&quot;Тестирование порта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ポートフォワードのテスト&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぽーとふぉわーどのてすと&quot;,&quot;transliteration&quot;:&quot;po:tofowa:donotesuto&quot;},{&quot;translateID&quot;:257299,&quot;translationStatus&quot;:0,&quot;themeID&quot;:11,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;プログラミング&quot;,&quot;word&quot;:&quot;не могу загрузить драйвер порта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ポートドライバをロードできません&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぽーとどらいばをろーどできません&quot;,&quot;transliteration&quot;:&quot;po:todoraiba o ro:dodekimasen&quot;},{&quot;translateID&quot;:490856,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;фарватер порта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;港門&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;みなともん&quot;,&quot;transliteration&quot;:&quot;minatomon&quot;},{&quot;translateID&quot;:490863,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;управление порта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;港湾管理委員会&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうわんかんりいいんかい&quot;,&quot;transliteration&quot;:&quot;kouwankanriiinkai&quot;},{&quot;translateID&quot;:781468,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;откидная крышка штормового порта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;排水孔羽打戸&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はいすいこうはねだと&quot;,&quot;transliteration&quot;:&quot;haisuikouhanedato&quot;},{&quot;translateID&quot;:490843,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;капитан порта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;港長&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;みなとちょう&quot;,&quot;transliteration&quot;:&quot;minatochou&quot;},{&quot;translateID&quot;:392565,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;инженер порта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;監督技師&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かんとくぎし&quot;,&quot;transliteration&quot;:&quot;kantokugishi&quot;},{&quot;translateID&quot;:713905,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;прикладной час порта для полной воды&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;潮候時&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しおこうじ&quot;,&quot;transliteration&quot;:&quot;shiokouji&quot;},{&quot;translateID&quot;:257288,&quot;translationStatus&quot;:0,&quot;themeID&quot;:146,&quot;groupName&quot;:&quot;地学&quot;,&quot;themeName&quot;:&quot;生態学&quot;,&quot;word&quot;:&quot;контроль со стороны государства порта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ポートステートコントロール&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぽーとすてーとこんとろーる&quot;,&quot;transliteration&quot;:&quot;po:tosute:tokontoro:ru&quot;},{&quot;translateID&quot;:490868,&quot;translationStatus&quot;:0,&quot;themeID&quot;:146,&quot;groupName&quot;:&quot;地学&quot;,&quot;themeName&quot;:&quot;生態学&quot;,&quot;word&quot;:&quot;технические средства порта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;港湾施設&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうわんしせつ&quot;,&quot;transliteration&quot;:&quot;kouwanshisetsu&quot;},{&quot;translateID&quot;:490866,&quot;translationStatus&quot;:0,&quot;themeID&quot;:146,&quot;groupName&quot;:&quot;地学&quot;,&quot;themeName&quot;:&quot;生態学&quot;,&quot;word&quot;:&quot;план развития порта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;港湾計画&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうわんけいかく&quot;,&quot;transliteration&quot;:&quot;kouwankeikaku&quot;},{&quot;translateID&quot;:490864,&quot;translationStatus&quot;:0,&quot;themeID&quot;:146,&quot;groupName&quot;:&quot;地学&quot;,&quot;themeName&quot;:&quot;生態学&quot;,&quot;word&quot;:&quot;администрация порта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;港湾管理者&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうわんかんりしゃ&quot;,&quot;transliteration&quot;:&quot;kouwankanrisha&quot;},{&quot;translateID&quot;:362723,&quot;translationStatus&quot;:0,&quot;themeID&quot;:218,&quot;groupName&quot;:&quot;人文&quot;,&quot;themeName&quot;:&quot;軍事用語&quot;,&quot;word&quot;:&quot;пропускная способность порта по вывозу поступающих грузов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;貨物処理能力&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かもつしょりのうりょく&quot;,&quot;transliteration&quot;:&quot;kamotsushorinouryoku&quot;},{&quot;translateID&quot;:490870,&quot;translationStatus&quot;:0,&quot;themeID&quot;:218,&quot;groupName&quot;:&quot;人文&quot;,&quot;themeName&quot;:&quot;軍事用語&quot;,&quot;word&quot;:&quot;пропускная способность порта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;港湾能力&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうわんのうりょく&quot;,&quot;transliteration&quot;:&quot;kouwannouryoku&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="порта" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

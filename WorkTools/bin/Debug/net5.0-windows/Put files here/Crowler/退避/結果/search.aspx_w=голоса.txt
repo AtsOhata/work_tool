@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	голоса - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,голоса" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u0433%u043e%u043b%u043e%u0441%u0430" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV244Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNCz0L7Qu9C+0YHQsGQCAw9kFggCAg9kFgQCAQ8WAh4Dc3JjBQ8uLi9pbWcvbG9nby5wbmdkAgUPFgIeBGhyZWYFDi4uLz9sYW5nPXJ1LVJVZAIEDxYCHgdWaXNpYmxlZ2QCBg8WAh8DaGQCBw9kFghmDxYCHwNoZAIBDxYCHwNoZAICDxYCHwNoZAIFDxYCHwNoZGTPR4XQi4YZlDSsy9Iu1mC5OyVozw==" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAX96YzSLxmJIDohANtaOSH9lIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/kb/fxeLMHlpME7xWkAtxzobr37t" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:true,&quot;Phrases&quot;:[{&quot;translateID&quot;:350495,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;сила голоса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;音力&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おんりょく&quot;,&quot;transliteration&quot;:&quot;onryoku&quot;},{&quot;translateID&quot;:637357,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;звук голоса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;声音&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こわね&quot;,&quot;transliteration&quot;:&quot;kowane&quot;},{&quot;translateID&quot;:496764,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;высота голоса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;高さ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たかさ&quot;,&quot;transliteration&quot;:&quot;takasa&quot;},{&quot;translateID&quot;:884213,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;человек, обладающий правом голоса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;有権者&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ゆうけんしゃ&quot;,&quot;transliteration&quot;:&quot;yuukensha&quot;},{&quot;translateID&quot;:867467,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;не дающие держателям права голоса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;無議決権株&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;むぎけつけんかぶ&quot;,&quot;transliteration&quot;:&quot;mugiketsukenkabu&quot;},{&quot;translateID&quot;:637303,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;звук голоса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;声&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こえ&quot;,&quot;transliteration&quot;:&quot;koe&quot;},{&quot;translateID&quot;:373023,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;считать голоса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;開票する&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かいひょうする&quot;,&quot;transliteration&quot;:&quot;kaihyousuru&quot;},{&quot;translateID&quot;:884211,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;обладающий правом голоса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;有権者&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ゆうけんしゃ&quot;,&quot;transliteration&quot;:&quot;yuukensha&quot;},{&quot;translateID&quot;:811321,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;гнусавые голоса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;鼻声&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はなごえ&quot;,&quot;transliteration&quot;:&quot;hanagoe&quot;},{&quot;translateID&quot;:524103,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;отдельные разбросанные голоса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;散票&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さんぴょう&quot;,&quot;transliteration&quot;:&quot;sanpyou&quot;},{&quot;translateID&quot;:926089,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;гармонирующие голоса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;諧声&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かいせい&quot;,&quot;transliteration&quot;:&quot;kaisei&quot;},{&quot;translateID&quot;:814258,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;право решающего голоса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;表決権&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひょうけつけん&quot;,&quot;transliteration&quot;:&quot;hyouketsuken&quot;},{&quot;translateID&quot;:744032,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;право голоса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;投票権利&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とうひょうけんり&quot;,&quot;transliteration&quot;:&quot;touhyoukenri&quot;},{&quot;translateID&quot;:522985,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;право голоса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;参政権&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さんせいけん&quot;,&quot;transliteration&quot;:&quot;sanseiken&quot;},{&quot;translateID&quot;:637442,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;отпечаток голоса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;声紋&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せいもん&quot;,&quot;transliteration&quot;:&quot;seimon&quot;},{&quot;translateID&quot;:814257,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;право голоса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;表決権&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひょうけつけん&quot;,&quot;transliteration&quot;:&quot;hyouketsuken&quot;},{&quot;translateID&quot;:656226,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;право голоса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;選挙権&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せんきょけん&quot;,&quot;transliteration&quot;:&quot;senkyoken&quot;},{&quot;translateID&quot;:695130,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Система единого непереходного голоса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;単記移譲式投票&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たんきいじょうしきとうひょう&quot;,&quot;transliteration&quot;:&quot;tankiijoushikitouhyou&quot;},{&quot;translateID&quot;:637381,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;имитатор чужого голоса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;声色遣い&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こわいろづかい&quot;,&quot;transliteration&quot;:&quot;kowairodukai&quot;},{&quot;translateID&quot;:823360,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;текучие голоса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;浮動票&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふどうひょう&quot;,&quot;transliteration&quot;:&quot;fudouhyou&quot;},{&quot;translateID&quot;:357869,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;голоса разделились поровну&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;可否相半ばした&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かひあいなかばした&quot;,&quot;transliteration&quot;:&quot;kahiainakabashita&quot;},{&quot;translateID&quot;:525080,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;голоса разделились поровну&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;賛否相半ばしている&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さんぴあいなかばしている&quot;,&quot;transliteration&quot;:&quot;sanpiainakabashiteiru&quot;},{&quot;translateID&quot;:414626,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;право голоса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;議決権&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぎけつけん&quot;,&quot;transliteration&quot;:&quot;giketsuken&quot;},{&quot;translateID&quot;:637377,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;тон голоса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;声色&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こわいろ&quot;,&quot;transliteration&quot;:&quot;kowairo&quot;},{&quot;translateID&quot;:608676,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Я мог слышать голоса нескольких других гостей, которые приехали и уже ели вместе в главной столовой.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;新しいお客たちが民宿に着いて、食堂で一緒に食べている声が聞こえました。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あたらしいおきゃくたちがみんしゅくについて、しょくどうでいっしょにたべているこえがきこえました。&quot;,&quot;transliteration&quot;:&quot;atarashiiokyakutachigaminshukunitsuite、shokudoudeisshonitabeteirukoegakikoemashita。&quot;},{&quot;translateID&quot;:57550,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;понижение голоса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;アンチ・クライマックス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あんち・くらいまっくす&quot;,&quot;transliteration&quot;:&quot;anchi・kuraimakkusu&quot;},{&quot;translateID&quot;:744031,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;использовать своё право голоса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;投票権を行使する&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とうひょうけんをこうしする&quot;,&quot;transliteration&quot;:&quot;touhyouken o koushisuru&quot;},{&quot;translateID&quot;:522413,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;пение на три голоса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;三部合唱&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さんぶ&quot;,&quot;transliteration&quot;:&quot;sanbu&quot;},{&quot;translateID&quot;:637415,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;тон голоса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;声調&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せいちょう&quot;,&quot;transliteration&quot;:&quot;seichou&quot;},{&quot;translateID&quot;:755472,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;получать голоса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;得票する&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とくひょうする&quot;,&quot;transliteration&quot;:&quot;tokuhyousuru&quot;},{&quot;translateID&quot;:744029,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;право голоса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;投票権&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とうひょうけん&quot;,&quot;transliteration&quot;:&quot;touhyouken&quot;},{&quot;translateID&quot;:398168,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;глухие голоса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;含み声&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふくみごえ&quot;,&quot;transliteration&quot;:&quot;fukumigoe&quot;},{&quot;translateID&quot;:637410,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;имитация голоса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;声態模写&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せいたいもしゃ&quot;,&quot;transliteration&quot;:&quot;seitaimosha&quot;},{&quot;translateID&quot;:579441,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Весенние голоса&quot;,&quot;wordnote&quot;:&quot;вальс&quot;,&quot;translation&quot;:&quot;春の声&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はるのこえ&quot;,&quot;transliteration&quot;:&quot;harunokoe&quot;},{&quot;translateID&quot;:720974,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;голоса с требованием повышения заработной платы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;賃金値上げの叫び声&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちんぎんねあげのさけびごえ&quot;,&quot;transliteration&quot;:&quot;chinginneagenosakebigoe&quot;},{&quot;translateID&quot;:913786,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;из окна часто доносились голоса разговаривающих&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;話声がしばしば窓の外へ洩れて聞こえた&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はなしごえがしばしばまどのそとへもれてきこえた&quot;,&quot;transliteration&quot;:&quot;hanashigoegashibashibamadonosotohemoretekikoeta&quot;},{&quot;translateID&quot;:637405,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;имитация голоса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;声帯模写&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せいたいもしゃ&quot;,&quot;transliteration&quot;:&quot;seitaimosha&quot;},{&quot;translateID&quot;:530645,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Вы можете легко опознать голоса детей.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;子供の声はたやすく識別することが出来ます。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こどものこえはたやすくしきべつすることができます。&quot;,&quot;transliteration&quot;:&quot;kodomonokoehatayasukushikibetsusurukotogadekimasu。&quot;},{&quot;translateID&quot;:868975,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;потеря голоса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;無声音症&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;むせいおんしょう&quot;,&quot;transliteration&quot;:&quot;museionshou&quot;},{&quot;translateID&quot;:718516,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;голоса птиц&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;鳥声&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とりごえ&quot;,&quot;transliteration&quot;:&quot;torigoe&quot;},{&quot;translateID&quot;:63150,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Невинные голоса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;イノセント・ボイス 12歳の戦場&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いのせんと・ぼいす 12さいのせんじょう&quot;,&quot;transliteration&quot;:&quot;inosento・boisu 12sainosenjou&quot;},{&quot;translateID&quot;:637382,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;имитатор чужого голоса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;声色使い&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こわいろづかい&quot;,&quot;transliteration&quot;:&quot;kowairodukai&quot;},{&quot;translateID&quot;:798626,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Он недосягаем для голоса разума.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;彼はものわかりが悪い。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かれはものわかりがわるい。&quot;,&quot;transliteration&quot;:&quot;karehamonowakarigawarui。&quot;},{&quot;translateID&quot;:765526,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;пение на два голоса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;二部合唱&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にぶがっしょう&quot;,&quot;transliteration&quot;:&quot;nibugasshou&quot;},{&quot;translateID&quot;:469475,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;распознавание голоса или языка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;言語認識&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;げんごにんしき&quot;,&quot;transliteration&quot;:&quot;gengoninshiki&quot;},{&quot;translateID&quot;:256293,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;Настройка голоса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ボイス設定&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぼいすせってい.&quot;,&quot;transliteration&quot;:&quot;boisusettei.&quot;},{&quot;translateID&quot;:350453,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;образец голоса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;音紋&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おともん&quot;,&quot;transliteration&quot;:&quot;otomon&quot;},{&quot;translateID&quot;:256294,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;Настройки голоса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ボイス設定&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぼいすせってい&quot;,&quot;transliteration&quot;:&quot;boisusettei&quot;},{&quot;translateID&quot;:86357,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;Только операторы и имеющие право голоса могут говорить&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;オペレータか音声入力ユーザーのみに会話を許可する&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おぺれーたかおんせいにゅうりょくゆーざーのみにかいわをきょかする&quot;,&quot;transliteration&quot;:&quot;opere:takaonseinyuuryokuyu:za:nominikaiwa o kyokasuru&quot;},{&quot;translateID&quot;:350203,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;синтез голоса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;音声合成&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おんせいごうせい&quot;,&quot;transliteration&quot;:&quot;onseigousei&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="голоса" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

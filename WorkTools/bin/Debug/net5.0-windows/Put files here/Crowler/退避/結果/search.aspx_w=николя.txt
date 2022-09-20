@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	николя - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,николя" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u043d%u0438%u043a%u043e%u043b%u044f" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV244Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNC90LjQutC+0LvRj2QCAw9kFggCAg9kFgQCAQ8WAh4Dc3JjBQ8uLi9pbWcvbG9nby5wbmdkAgUPFgIeBGhyZWYFDi4uLz9sYW5nPXJ1LVJVZAIEDxYCHgdWaXNpYmxlZ2QCBg8WAh8DaGQCBw9kFghmDxYCHwNoZAIBDxYCHwNoZAICDxYCHwNoZAIFDxYCHwNoZGQldPsAZO0lsmKhvz7ECscMhr7bcA==" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAWiAcTH8XuWgEejpVFyQqldlIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/u7i9M01YNkUiu+/TuBZO2kzFII6" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:false,&quot;Phrases&quot;:[{&quot;translateID&quot;:201463,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Дювошель, Николя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ニコラ・デュヴォシェル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にこら・でゅヴぉしぇる&quot;,&quot;transliteration&quot;:&quot;nikora・deゅvosheru&quot;},{&quot;translateID&quot;:296204,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Клерамбо, Луи Николя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ルイ・ニコラ・クレランボー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;るい・にこら・くれらんぼー&quot;,&quot;transliteration&quot;:&quot;rui・nikora・kureranbo:&quot;},{&quot;translateID&quot;:201462,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Демаре, Николя&quot;,&quot;wordnote&quot;:&quot;министр финансов&quot;,&quot;translation&quot;:&quot;ニコラ・デマレ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にこら・でまれ&quot;,&quot;transliteration&quot;:&quot;nikora・demare&quot;},{&quot;translateID&quot;:201717,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Батюм, Николя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ニコラス・バトゥム&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にこらす・ばとぅむ&quot;,&quot;transliteration&quot;:&quot;nikorasu・batoぅmu&quot;},{&quot;translateID&quot;:201460,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Шопен, Николя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ニコラ・ショパン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にこら・しょぱん&quot;,&quot;transliteration&quot;:&quot;nikora・shopan&quot;},{&quot;translateID&quot;:201490,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Люкнер, Николя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ニコラ・リュクネール&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にこら・りゅくねーる&quot;,&quot;transliteration&quot;:&quot;nikora・ryukune:ru&quot;},{&quot;translateID&quot;:201458,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Шовен, Николя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ニコラ・ショーヴァン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にこら・しょーヴぁん&quot;,&quot;transliteration&quot;:&quot;nikora・sho:van&quot;},{&quot;translateID&quot;:201486,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Маю, Николя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ニコラ・マユ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にこら・まゆ&quot;,&quot;transliteration&quot;:&quot;nikora・mayu&quot;},{&quot;translateID&quot;:201436,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Анелька, Николя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ニコラ・アネルカ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にこら・あねるか&quot;,&quot;transliteration&quot;:&quot;nikora・aneruka&quot;},{&quot;translateID&quot;:201467,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Мальбранш, Николя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ニコラ・ド・マルブランシュ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にこら・ど・まるぶらんしゅ&quot;,&quot;transliteration&quot;:&quot;nikora・do・maruburanshu&quot;},{&quot;translateID&quot;:134107,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Саркази Николя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;サルカジ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さるかじ&quot;,&quot;transliteration&quot;:&quot;sarukaji&quot;},{&quot;translateID&quot;:77268,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Меюль, Этьенн Николя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;エティエンヌ・ニコラ・メユール&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;えてぃえんぬ・にこら・めゆーる&quot;,&quot;transliteration&quot;:&quot;etiennu・nikora・meyu:ru&quot;},{&quot;translateID&quot;:201464,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Гриньи, Николя де&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ニコラ・ド・グリニー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にこら・ど・ぐりにー&quot;,&quot;transliteration&quot;:&quot;nikora・do・gurini:&quot;},{&quot;translateID&quot;:187973,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Делиль Жозеф Николя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;デリーリ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;でりーり&quot;,&quot;transliteration&quot;:&quot;deri:ri&quot;},{&quot;translateID&quot;:201452,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Саркози, Николя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ニコラ・サルコジ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にこら・さるこじ&quot;,&quot;transliteration&quot;:&quot;nikora・sarukoji&quot;},{&quot;translateID&quot;:201477,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Николя Бурбаки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ニコラ・ブルバキ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にこら・ぶるばき&quot;,&quot;transliteration&quot;:&quot;nikora・burubaki&quot;},{&quot;translateID&quot;:201451,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Гомберт, Николя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ニコラ・ゴンベール&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にこら・ごんべーる&quot;,&quot;transliteration&quot;:&quot;nikora・gonbe:ru&quot;},{&quot;translateID&quot;:201476,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Фламель, Николя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ニコラ・フラメル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にこら・ふらめる&quot;,&quot;transliteration&quot;:&quot;nikora・furameru&quot;},{&quot;translateID&quot;:201442,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Катина, Николя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ニコラ・カティナ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にこら・かてぃな&quot;,&quot;transliteration&quot;:&quot;nikora・katina&quot;},{&quot;translateID&quot;:201473,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Фуке, Николя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ニコラ・フーケ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にこら・ふーけ&quot;,&quot;transliteration&quot;:&quot;nikora・fu:ke&quot;},{&quot;translateID&quot;:201437,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Аппер, Николя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ニコラ・アペール&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にこら・あぺーる&quot;,&quot;transliteration&quot;:&quot;nikora・ape:ru&quot;},{&quot;translateID&quot;:201469,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Н’Кулу, Николя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ニコラ・ヌクル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にこら・ぬくる&quot;,&quot;transliteration&quot;:&quot;nikora・nukuru&quot;},{&quot;translateID&quot;:199485,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Талеб, Нассим Николя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ナシム・ニコラス・タレブ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なしむ・にこらす・たれぶ&quot;,&quot;transliteration&quot;:&quot;nashimu・nikorasu・tarebu&quot;},{&quot;translateID&quot;:719001,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;скрещённые призмы Николя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;直交ニコル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちょっこうにこる&quot;,&quot;transliteration&quot;:&quot;chokkounikoru&quot;},{&quot;translateID&quot;:719002,&quot;translationStatus&quot;:0,&quot;themeID&quot;:82,&quot;groupName&quot;:&quot;物理&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;скрещённые призмы Николя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;直交ニコル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちょっこうにこる&quot;,&quot;transliteration&quot;:&quot;chokkounikoru&quot;},{&quot;translateID&quot;:201758,&quot;translationStatus&quot;:0,&quot;themeID&quot;:82,&quot;groupName&quot;:&quot;物理&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;призма Николя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ニコルプリズム&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にこるぷりずむ&quot;,&quot;transliteration&quot;:&quot;nikorupurizumu&quot;},{&quot;translateID&quot;:201747,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;призма Николя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ニコル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にこる&quot;,&quot;transliteration&quot;:&quot;nikoru&quot;},{&quot;translateID&quot;:719003,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;призмы Николя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;直交ニコル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちょっこうにこる&quot;,&quot;transliteration&quot;:&quot;chokkounikoru&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="николя" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

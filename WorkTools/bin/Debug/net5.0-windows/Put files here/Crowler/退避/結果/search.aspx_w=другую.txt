@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	другую - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,другую" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u0434%u0440%u0443%u0433%u0443%u044e" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV244Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNC00YDRg9Cz0YPRjmQCAw9kFggCAg9kFgQCAQ8WAh4Dc3JjBQ8uLi9pbWcvbG9nby5wbmdkAgUPFgIeBGhyZWYFDi4uLz9sYW5nPXJ1LVJVZAIEDxYCHgdWaXNpYmxlZ2QCBg8WAh8DaGQCBw9kFghmDxYCHwNoZAIBDxYCHwNoZAICDxYCHwNoZAIFDxYCHwNoZGQMBN2KK4uu230pI+8C/HLJqdkFEg==" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAX3pSLRCONHnrLX7N2k4sV+lIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/l9qkDZPEkGj5TPXqiR3xNroF/L0" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:false,&quot;Phrases&quot;:[{&quot;translateID&quot;:841812,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Покажи мне другую камеру.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;別のカメラを見てください。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;べつのかめらをみてください。&quot;,&quot;transliteration&quot;:&quot;betsunokamera o mitekudasai。&quot;},{&quot;translateID&quot;:733585,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;быть переведённым на другую должность&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;転職&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てんしょく&quot;,&quot;transliteration&quot;:&quot;tenshoku&quot;},{&quot;translateID&quot;:122535,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;могу я получить другую комнату?&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;この室を取り替えてもらえますか&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;このしつをとりかえてもらえますか&quot;,&quot;transliteration&quot;:&quot;konoshitsu o torikaetemoraemasuka&quot;},{&quot;translateID&quot;:733469,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;переходить в другую школу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;転校する&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てんこうする&quot;,&quot;transliteration&quot;:&quot;tenkousuru&quot;},{&quot;translateID&quot;:706319,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;надеть несколько вещей одну на другую&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;着込む&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きこむ&quot;,&quot;transliteration&quot;:&quot;kikomu&quot;},{&quot;translateID&quot;:733468,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;переход в другую школу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;転校&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てんこう&quot;,&quot;transliteration&quot;:&quot;tenkou&quot;},{&quot;translateID&quot;:913744,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;переходить на другую тему&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;話をわきに逸らす&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はなしをわきにそらす&quot;,&quot;transliteration&quot;:&quot;hanashi o wakinisorasu&quot;},{&quot;translateID&quot;:733459,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;переходить в другую партию&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;転向する&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てんこうする&quot;,&quot;transliteration&quot;:&quot;tenkousuru&quot;},{&quot;translateID&quot;:733803,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;быть переведенным на другую работу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;転任する&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てんにんする&quot;,&quot;transliteration&quot;:&quot;tenninsuru&quot;},{&quot;translateID&quot;:845179,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;перевёртывать на другую сторону&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;返す&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かえす&quot;,&quot;transliteration&quot;:&quot;kaesu&quot;},{&quot;translateID&quot;:827709,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;подпись, удостоверяющая другую подпись&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;副署&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふくしょ&quot;,&quot;transliteration&quot;:&quot;fukusho&quot;},{&quot;translateID&quot;:733595,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;быть переведённым на другую должность&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;転職する&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てんしょくする&quot;,&quot;transliteration&quot;:&quot;tenshokusuru&quot;},{&quot;translateID&quot;:512375,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Я недавно переехал в другую квартиру.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;最近、僕は別のアパートに引っ越した。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さいきん、ぼくはべつのあぱーとにひっこした。&quot;,&quot;transliteration&quot;:&quot;saikin、bokuhabetsunoapa:tonihikkoshita。&quot;},{&quot;translateID&quot;:376060,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;в другую сторону&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;外方&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そっぽ&quot;,&quot;transliteration&quot;:&quot;soppo&quot;},{&quot;translateID&quot;:733588,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;переход на другую работу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;転職&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てんしょく&quot;,&quot;transliteration&quot;:&quot;tenshoku&quot;},{&quot;translateID&quot;:853180,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;занять другую позицию&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;方向転換をする&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほうこうてんかんをする&quot;,&quot;transliteration&quot;:&quot;houkoutenkan o suru&quot;},{&quot;translateID&quot;:733443,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;быть переведённым на другую работу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;転勤を命ぜられる&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てんきんをめいぜられる&quot;,&quot;transliteration&quot;:&quot;tenkin o meizerareru&quot;},{&quot;translateID&quot;:733802,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;быть переведённым на другую должность&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;転任する&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てんにんする&quot;,&quot;transliteration&quot;:&quot;tenninsuru&quot;},{&quot;translateID&quot;:676546,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Мой партнер решил выйти из дела, чтобы инвестировать деньги в другую фирму.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;他の会社に投資するために、私の共同出資者は手を引くことを決めた。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほかのかいしゃにとうしするために、わたしのきょうどうしゅっししゃはてをひくことをきめた。&quot;,&quot;transliteration&quot;:&quot;hokanokaishanitoushisurutameni、watashinokyoudoushusshishahate o hikukoto o kimeta。&quot;},{&quot;translateID&quot;:733422,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;переходить на другую работу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;転業する&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てんぎょうする&quot;,&quot;transliteration&quot;:&quot;tengyousuru&quot;},{&quot;translateID&quot;:733798,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;быть переведённым в другую школу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;転入学する&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てんにゅうがくする&quot;,&quot;transliteration&quot;:&quot;tennyuugakusuru&quot;},{&quot;translateID&quot;:597492,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;переход на другую транспортную линию&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;乗換&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;のりか&quot;,&quot;transliteration&quot;:&quot;norika&quot;},{&quot;translateID&quot;:395317,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;перевёртывать на другую сторону&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;還す&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かえす&quot;,&quot;transliteration&quot;:&quot;kaesu&quot;},{&quot;translateID&quot;:733622,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;быть выдвинутым на другую должность&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;転進する&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てんしんする&quot;,&quot;transliteration&quot;:&quot;tenshinsuru&quot;},{&quot;translateID&quot;:406364,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;перевёртывать на другую сторону&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;帰す&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かえす&quot;,&quot;transliteration&quot;:&quot;kaesu&quot;},{&quot;translateID&quot;:369938,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;быть обращённым в другую веру&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;改宗する&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かいしゅうする&quot;,&quot;transliteration&quot;:&quot;kaishuusuru&quot;},{&quot;translateID&quot;:733598,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;переходить на другую работу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;転職する&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てんしょくする&quot;,&quot;transliteration&quot;:&quot;tenshokusuru&quot;},{&quot;translateID&quot;:469368,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;транслятор или конвертор из одного языка программирования на другую&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;言語プロセッサ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;げんごぷろせっさ&quot;,&quot;transliteration&quot;:&quot;gengopurosessa&quot;},{&quot;translateID&quot;:469424,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;транслятор или конвертор из одного языка программирования на другую&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;言語処理系&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;げんごしょりけい&quot;,&quot;transliteration&quot;:&quot;gengoshorikei&quot;},{&quot;translateID&quot;:711249,&quot;translationStatus&quot;:0,&quot;themeID&quot;:8,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;インターネット&quot;,&quot;word&quot;:&quot;Предупреждение: Все настройки вступят в силу после переключения на другую вкладку !&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;注意: 全ての設定は一度別のタブに切り替えてから有効になります。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅうい: すべてのせっていはいちどべつのたぶにきりかえてからゆうこうになります。&quot;,&quot;transliteration&quot;:&quot;chuui: subetenosetteihaichidobetsunotabunikirikaetekarayuukouninarimasu。&quot;},{&quot;translateID&quot;:729889,&quot;translationStatus&quot;:0,&quot;themeID&quot;:8,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;インターネット&quot;,&quot;word&quot;:&quot;Использовать другую установленную в системе виртуальную машину&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;適用&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てきよう&quot;,&quot;transliteration&quot;:&quot;tekiyou&quot;},{&quot;translateID&quot;:546785,&quot;translationStatus&quot;:0,&quot;themeID&quot;:11,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;プログラミング&quot;,&quot;word&quot;:&quot;вставьте следующий диск или укажите другую папку&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;次のディスクを入れるか, 別の場所を指定してください&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;つぎのでぃすくをいれるか, べつのばしょをしていしてください&quot;,&quot;transliteration&quot;:&quot;tsuginodisuku o ireruka, betsunobasho o shiteishitekudasai&quot;},{&quot;translateID&quot;:412089,&quot;translationStatus&quot;:0,&quot;themeID&quot;:44,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;航空宇宙&quot;,&quot;word&quot;:&quot;перелёт с одной орбиты на другую&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;軌道移行&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きどういこう&quot;,&quot;transliteration&quot;:&quot;kidouikou&quot;},{&quot;translateID&quot;:748676,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;склонность вещества к переходу из одной фазы в другую&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;逃散傾向&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちょうさんけいこう&quot;,&quot;transliteration&quot;:&quot;chousankeikou&quot;},{&quot;translateID&quot;:301094,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;передача лица в другую юрисдикцию&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;レフェラルサービス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;れふぇらるさーびす&quot;,&quot;transliteration&quot;:&quot;referarusa:bisu&quot;},{&quot;translateID&quot;:451621,&quot;translationStatus&quot;:0,&quot;themeID&quot;:177,&quot;groupName&quot;:&quot;経済&quot;,&quot;themeName&quot;:&quot;マクロ経済&quot;,&quot;word&quot;:&quot;превращать в другую валюту&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;軽減する &quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けいげんする &quot;,&quot;transliteration&quot;:&quot;keigensuru &quot;},{&quot;translateID&quot;:747793,&quot;translationStatus&quot;:0,&quot;themeID&quot;:184,&quot;groupName&quot;:&quot;経済&quot;,&quot;themeName&quot;:&quot;会計&quot;,&quot;word&quot;:&quot;включение одной группы населения в другую&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;統合 &quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とうごう&quot;,&quot;transliteration&quot;:&quot;tougou&quot;},{&quot;translateID&quot;:715495,&quot;translationStatus&quot;:0,&quot;themeID&quot;:185,&quot;groupName&quot;:&quot;経済&quot;,&quot;themeName&quot;:&quot;金融&quot;,&quot;word&quot;:&quot;перевод в другую валюту&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;調整&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちょうせい&quot;,&quot;transliteration&quot;:&quot;chousei&quot;},{&quot;translateID&quot;:905579,&quot;translationStatus&quot;:0,&quot;themeID&quot;:185,&quot;groupName&quot;:&quot;経済&quot;,&quot;themeName&quot;:&quot;金融&quot;,&quot;word&quot;:&quot;совокупная корректировка пересчёта денежных сумм из одной валюты в другую&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;累積外貨換算調整額&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;るいせきがいかかんさんちょうせいがく&quot;,&quot;transliteration&quot;:&quot;ruisekigaikakansanchouseigaku&quot;},{&quot;translateID&quot;:467379,&quot;translationStatus&quot;:0,&quot;themeID&quot;:200,&quot;groupName&quot;:&quot;法律&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;перевод в другую валюту&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;減額&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;げんがく&quot;,&quot;transliteration&quot;:&quot;gengaku&quot;},{&quot;translateID&quot;:467413,&quot;translationStatus&quot;:0,&quot;themeID&quot;:200,&quot;groupName&quot;:&quot;法律&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;перевод в другую валюту&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;減刑&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;げんけい&quot;,&quot;transliteration&quot;:&quot;genkei&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="другую" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

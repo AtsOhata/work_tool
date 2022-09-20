@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	ведения - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,ведения" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u0432%u0435%u0434%u0435%u043d%u0438%u044f" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV444Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNCy0LXQtNC10L3QuNGPZAIDD2QWCAICD2QWBAIBDxYCHgNzcmMFDy4uL2ltZy9sb2dvLnBuZ2QCBQ8WAh4EaHJlZgUOLi4vP2xhbmc9cnUtUlVkAgQPFgIeB1Zpc2libGVnZAIGDxYCHwNoZAIHD2QWCGYPFgIfA2hkAgEPFgIfA2hkAgIPFgIfA2hkAgUPFgIfA2hkZNMhBLaSzN15EmKqg8ydhz9OInS1" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAXrfHYwm/+ee84YAfstGJkolIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/o4T3hkGGcTDRs3jM14dj7Y1A948" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:false,&quot;Phrases&quot;:[{&quot;translateID&quot;:392800,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;вне ведения&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;管外&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かんがい&quot;,&quot;transliteration&quot;:&quot;kangai&quot;},{&quot;translateID&quot;:219278,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;партизанские методы ведения войны&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;パルチザン式戦法&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぱるちざんしきせんぽう&quot;,&quot;transliteration&quot;:&quot;paruchizanshikisenpou&quot;},{&quot;translateID&quot;:819368,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;отказ от ведения войны&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;不戦&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふせん&quot;,&quot;transliteration&quot;:&quot;fusen&quot;},{&quot;translateID&quot;:652294,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;методы ведения войны&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;戦法&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せんぽう&quot;,&quot;transliteration&quot;:&quot;senpou&quot;},{&quot;translateID&quot;:335420,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;метод ведения дел&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;営業振り&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;えいぎょうぶり&quot;,&quot;transliteration&quot;:&quot;eigyouburi&quot;},{&quot;translateID&quot;:495167,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;уполномоченные для ведения переговоров о мире&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;講和全権&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうわぜんけん&quot;,&quot;transliteration&quot;:&quot;kouwazenken&quot;},{&quot;translateID&quot;:554784,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;комната ведения дел&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;室取り扱い&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しつとりあつかい&quot;,&quot;transliteration&quot;:&quot;shitsutoriatsukai&quot;},{&quot;translateID&quot;:448454,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;экономика ведения отрасли промышленности&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;経営経済学&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けいえいけいざいがく&quot;,&quot;transliteration&quot;:&quot;keieikeizaigaku&quot;},{&quot;translateID&quot;:652006,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;искусство ведения войны&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;戦術&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せんじゅつ&quot;,&quot;transliteration&quot;:&quot;senjutsu&quot;},{&quot;translateID&quot;:479279,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;право ведения войны&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;交戦権&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうせんけん&quot;,&quot;transliteration&quot;:&quot;kousenken&quot;},{&quot;translateID&quot;:479276,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Правила ведения боя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;交戦規定&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうせんきてい&quot;,&quot;transliteration&quot;:&quot;kousenkitei&quot;},{&quot;translateID&quot;:557998,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;зона запрещения ведения огня&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;射撃禁止地域&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゃげききんしちいき&quot;,&quot;transliteration&quot;:&quot;shagekikinshichiiki&quot;},{&quot;translateID&quot;:521701,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;тридцать шесть приёмов ведения войны&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;三十六計&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さんじゅうろっけい&quot;,&quot;transliteration&quot;:&quot;sanjuurokkei&quot;},{&quot;translateID&quot;:747843,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;единая служба ведения журналов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;統合ログ サービス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とうごうろぐ さーびす&quot;,&quot;transliteration&quot;:&quot;tougourogu sa:bisu&quot;},{&quot;translateID&quot;:183541,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;программа ведения журнала сбора данных&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;データ コレクション ロガー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;でーた これくしょん ろがー&quot;,&quot;transliteration&quot;:&quot;de:ta korekushon roga:&quot;},{&quot;translateID&quot;:141802,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;агент ведения журнала&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ジャーナル エージェント&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じゃーなる えーじぇんと&quot;,&quot;transliteration&quot;:&quot;ja:naru e:jento&quot;},{&quot;translateID&quot;:141803,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;агент ведения журнала&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ジャーナル エージェント&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じゃーなるえーじぇんと&quot;,&quot;transliteration&quot;:&quot;ja:narue:jento&quot;},{&quot;translateID&quot;:303471,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;средство ведения журнала&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ロガー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ろがー&quot;,&quot;transliteration&quot;:&quot;roga:&quot;},{&quot;translateID&quot;:303473,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;сборка ведения журнала&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ロガー アセンブリ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ろがー あせんぶり&quot;,&quot;transliteration&quot;:&quot;roga: asenburi&quot;},{&quot;translateID&quot;:303474,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;класс ведения журнала&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ロガー クラス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ろがー くらす&quot;,&quot;transliteration&quot;:&quot;roga: kurasu&quot;},{&quot;translateID&quot;:284633,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;устройство ведения единичных записей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ユニットレコード装置&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ゆにっとれこーどそうち&quot;,&quot;transliteration&quot;:&quot;yunittoreko:dosouchi&quot;},{&quot;translateID&quot;:766822,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;стол для ведения бурового журнала&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;日誌台&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にっしだい&quot;,&quot;transliteration&quot;:&quot;nisshidai&quot;},{&quot;translateID&quot;:460038,&quot;translationStatus&quot;:0,&quot;themeID&quot;:177,&quot;groupName&quot;:&quot;経済&quot;,&quot;themeName&quot;:&quot;マクロ経済&quot;,&quot;word&quot;:&quot;документ на право ведения банковских операций&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;憲章 &quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けんしょう &quot;,&quot;transliteration&quot;:&quot;kenshou &quot;},{&quot;translateID&quot;:335410,&quot;translationStatus&quot;:0,&quot;themeID&quot;:184,&quot;groupName&quot;:&quot;経済&quot;,&quot;themeName&quot;:&quot;会計&quot;,&quot;word&quot;:&quot;доход от ведения операций&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;営業収益&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;えいぎょうしゅうえき&quot;,&quot;transliteration&quot;:&quot;eigyoushuueki&quot;},{&quot;translateID&quot;:335464,&quot;translationStatus&quot;:0,&quot;themeID&quot;:184,&quot;groupName&quot;:&quot;経済&quot;,&quot;themeName&quot;:&quot;会計&quot;,&quot;word&quot;:&quot;прибыль от ведения операций&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;営業利益&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;えいぎょうりえき&quot;,&quot;transliteration&quot;:&quot;eigyourieki&quot;},{&quot;translateID&quot;:335455,&quot;translationStatus&quot;:0,&quot;themeID&quot;:185,&quot;groupName&quot;:&quot;経済&quot;,&quot;themeName&quot;:&quot;金融&quot;,&quot;word&quot;:&quot;документ на право ведения банковских операций&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;営業免許&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;えいぎょうめんきょ&quot;,&quot;transliteration&quot;:&quot;eigyoumenkyo&quot;},{&quot;translateID&quot;:723050,&quot;translationStatus&quot;:0,&quot;themeID&quot;:197,&quot;groupName&quot;:&quot;法律&quot;,&quot;themeName&quot;:&quot;著作権&quot;,&quot;word&quot;:&quot;обычная практика ведения деловых операций&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;通常の商慣行&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;つうじょうのしょうかんこう&quot;,&quot;transliteration&quot;:&quot;tsuujounoshoukankou&quot;},{&quot;translateID&quot;:726615,&quot;translationStatus&quot;:0,&quot;themeID&quot;:200,&quot;groupName&quot;:&quot;法律&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;документ на право ведения банковских операций&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;定款&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ていかん&quot;,&quot;transliteration&quot;:&quot;teikan&quot;},{&quot;translateID&quot;:652173,&quot;translationStatus&quot;:0,&quot;themeID&quot;:210,&quot;groupName&quot;:&quot;人文&quot;,&quot;themeName&quot;:&quot;政治&quot;,&quot;word&quot;:&quot;отказ от ведения войны&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;戦争放棄&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せんそうほうき&quot;,&quot;transliteration&quot;:&quot;sensouhouki&quot;},{&quot;translateID&quot;:558000,&quot;translationStatus&quot;:0,&quot;themeID&quot;:218,&quot;groupName&quot;:&quot;人文&quot;,&quot;themeName&quot;:&quot;軍事用語&quot;,&quot;word&quot;:&quot;зона запретный для ведения огня&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;射撃禁止地域&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゃげききんしちいき&quot;,&quot;transliteration&quot;:&quot;shagekikinshichiiki&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="ведения" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

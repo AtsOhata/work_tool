@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	деревня - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,деревня" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u0434%u0435%u0440%u0435%u0432%u043d%u044f" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV444Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNC00LXRgNC10LLQvdGPZAIDD2QWCAICD2QWBAIBDxYCHgNzcmMFDy4uL2ltZy9sb2dvLnBuZ2QCBQ8WAh4EaHJlZgUOLi4vP2xhbmc9cnUtUlVkAgQPFgIeB1Zpc2libGVnZAIGDxYCHwNoZAIHD2QWCGYPFgIfA2hkAgEPFgIfA2hkAgIPFgIfA2hkAgUPFgIfA2hkZBDRu5VUA90ft7iRWeSb2vvZsjGc" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAUWDKH7NZP+Qce/cd3Y1k5UlIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/innDvdG45FYHVhYlQ9bBMXNiual" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[{&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;words&quot;:[{&quot;translateID&quot;:228447,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;деревня&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ビレッジ&quot;,&quot;reading&quot;:&quot;びれっじ&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;birejji&quot;},{&quot;translateID&quot;:430419,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;деревня&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;郷&quot;,&quot;reading&quot;:&quot;きょう&quot;,&quot;isReadingAlwaysVisible&quot;:true,&quot;transliteration&quot;:&quot;kyou&quot;},{&quot;translateID&quot;:430420,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;деревня&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;郷&quot;,&quot;reading&quot;:&quot;ごう&quot;,&quot;isReadingAlwaysVisible&quot;:true,&quot;transliteration&quot;:&quot;gou&quot;},{&quot;translateID&quot;:430421,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;деревня&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;郷&quot;,&quot;reading&quot;:&quot;さと&quot;,&quot;isReadingAlwaysVisible&quot;:true,&quot;transliteration&quot;:&quot;sato&quot;},{&quot;translateID&quot;:430458,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;деревня&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;郷邑&quot;,&quot;reading&quot;:&quot;きょうゆう&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;kyouyuu&quot;},{&quot;translateID&quot;:516878,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;деревня&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;在郷&quot;,&quot;reading&quot;:&quot;ざいごう&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;zaigou&quot;},{&quot;translateID&quot;:516993,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;деревня&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;在所&quot;,&quot;reading&quot;:&quot;ざいしょ&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;zaisho&quot;},{&quot;translateID&quot;:517066,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;деревня&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;在方&quot;,&quot;reading&quot;:&quot;ざいかた&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;zaikata&quot;},{&quot;translateID&quot;:572509,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;деревня&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;集落&quot;,&quot;reading&quot;:&quot;しゅうらく&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;shuuraku&quot;},{&quot;translateID&quot;:669369,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;деревня&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;荘郷&quot;,&quot;reading&quot;:&quot;しょうごう&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;shougou&quot;},{&quot;translateID&quot;:676400,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;деревня&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;村&quot;,&quot;reading&quot;:&quot;むら&quot;,&quot;isReadingAlwaysVisible&quot;:true,&quot;transliteration&quot;:&quot;mura&quot;},{&quot;translateID&quot;:676401,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;деревня&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;村&quot;,&quot;reading&quot;:&quot;そん&quot;,&quot;isReadingAlwaysVisible&quot;:true,&quot;transliteration&quot;:&quot;son&quot;},{&quot;translateID&quot;:676472,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;деревня&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;村方&quot;,&quot;reading&quot;:&quot;むらかた&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;murakata&quot;},{&quot;translateID&quot;:676481,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;деревня&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;村落&quot;,&quot;reading&quot;:&quot;そんらく&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;sonraku&quot;},{&quot;translateID&quot;:735328,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;деревня&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;田園&quot;,&quot;reading&quot;:&quot;でんえん&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;denen&quot;},{&quot;translateID&quot;:735363,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;деревня&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;田舎&quot;,&quot;reading&quot;:&quot;いなか&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;inaka&quot;},{&quot;translateID&quot;:778491,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;деревня&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;農村&quot;,&quot;reading&quot;:&quot;のうそん&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;nouson&quot;},{&quot;translateID&quot;:867031,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;деревня&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;無医村&quot;,&quot;reading&quot;:&quot;むいそん&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;muison&quot;},{&quot;translateID&quot;:886696,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;деревня&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;邑&quot;,&quot;reading&quot;:&quot;ゆう&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;yuu&quot;},{&quot;translateID&quot;:897292,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;деревня&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;里&quot;,&quot;reading&quot;:&quot;さと&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;sato&quot;},{&quot;translateID&quot;:926937,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;деревня&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;鄙&quot;,&quot;reading&quot;:&quot;ひな&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;hina&quot;}]}],&quot;topPhrases&quot;:[{&quot;translateID&quot;:421404,&quot;translationStatus&quot;:0,&quot;themeID&quot;:0,&quot;groupName&quot;:null,&quot;themeName&quot;:null,&quot;word&quot;:&quot;старая деревня&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;旧村&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きゅうそん&quot;,&quot;transliteration&quot;:&quot;kyuuson&quot;},{&quot;translateID&quot;:656319,&quot;translationStatus&quot;:0,&quot;themeID&quot;:0,&quot;groupName&quot;:null,&quot;themeName&quot;:null,&quot;word&quot;:&quot;Олимпийская деревня&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;選手村&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せんしゅむら&quot;,&quot;transliteration&quot;:&quot;senshumura&quot;},{&quot;translateID&quot;:676457,&quot;translationStatus&quot;:0,&quot;themeID&quot;:0,&quot;groupName&quot;:null,&quot;themeName&quot;:null,&quot;word&quot;:&quot;вся деревня&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;村中の人々&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;むらなかのひとびと&quot;,&quot;transliteration&quot;:&quot;muranakanohitobito&quot;},{&quot;translateID&quot;:387372,&quot;translationStatus&quot;:0,&quot;themeID&quot;:0,&quot;groupName&quot;:null,&quot;themeName&quot;:null,&quot;word&quot;:&quot;моя деревня&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;寒村&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かんそん&quot;,&quot;transliteration&quot;:&quot;kanson&quot;},{&quot;translateID&quot;:423447,&quot;translationStatus&quot;:0,&quot;themeID&quot;:0,&quot;groupName&quot;:null,&quot;themeName&quot;:null,&quot;word&quot;:&quot;рыбацкая деревня&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;漁師村&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;りょうしむら&quot;,&quot;transliteration&quot;:&quot;ryoushimura&quot;},{&quot;translateID&quot;:471286,&quot;translationStatus&quot;:0,&quot;themeID&quot;:0,&quot;groupName&quot;:null,&quot;themeName&quot;:null,&quot;word&quot;:&quot;родная деревня&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;古里&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふるさと&quot;,&quot;transliteration&quot;:&quot;furusato&quot;},{&quot;translateID&quot;:523427,&quot;translationStatus&quot;:0,&quot;themeID&quot;:0,&quot;groupName&quot;:null,&quot;themeName&quot;:null,&quot;word&quot;:&quot;горная деревня&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;山村&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さんそん&quot;,&quot;transliteration&quot;:&quot;sanson&quot;},{&quot;translateID&quot;:905266,&quot;translationStatus&quot;:0,&quot;themeID&quot;:0,&quot;groupName&quot;:null,&quot;themeName&quot;:null,&quot;word&quot;:&quot;соседняя деревня&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;隣村&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;となりむら&quot;,&quot;transliteration&quot;:&quot;tonarimura&quot;},{&quot;translateID&quot;:676775,&quot;translationStatus&quot;:0,&quot;themeID&quot;:0,&quot;groupName&quot;:null,&quot;themeName&quot;:null,&quot;word&quot;:&quot;другая деревня&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;他村&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たそん&quot;,&quot;transliteration&quot;:&quot;tason&quot;},{&quot;translateID&quot;:752519,&quot;translationStatus&quot;:0,&quot;themeID&quot;:0,&quot;groupName&quot;:null,&quot;themeName&quot;:null,&quot;word&quot;:&quot;та же деревня&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;同郷&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;どうきょう&quot;,&quot;transliteration&quot;:&quot;doukyou&quot;}],&quot;phrasesGroups&quot;:[{&quot;id&quot;:1,&quot;gid&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;count&quot;:31},{&quot;id&quot;:216,&quot;gid&quot;:15,&quot;groupName&quot;:&quot;人文&quot;,&quot;themeName&quot;:&quot;スポーツ&quot;,&quot;count&quot;:1},{&quot;id&quot;:215,&quot;gid&quot;:15,&quot;groupName&quot;:&quot;人文&quot;,&quot;themeName&quot;:&quot;映画&quot;,&quot;count&quot;:2},{&quot;id&quot;:208,&quot;gid&quot;:15,&quot;groupName&quot;:&quot;人文&quot;,&quot;themeName&quot;:&quot;文学&quot;,&quot;count&quot;:1}],&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:false,&quot;Phrases&quot;:null}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="деревня" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

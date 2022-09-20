@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	малая - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,малая" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u043c%u0430%u043b%u0430%u044f" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV044Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNC80LDQu9Cw0Y9kAgMPZBYIAgIPZBYEAgEPFgIeA3NyYwUPLi4vaW1nL2xvZ28ucG5nZAIFDxYCHgRocmVmBQ4uLi8/bGFuZz1ydS1SVWQCBA8WAh4HVmlzaWJsZWdkAgYPFgIfA2hkAgcPZBYIZg8WAh8DaGQCAQ8WAh8DaGQCAg8WAh8DaGQCBQ8WAh8DaGRkr0788gyOpcEALXhzpvnxFKNRMa8=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAVesivQQGDG5H9irgC32dbClIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/s8yMGeDbzhzPttzAIj1dUPNDUNl" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:true,&quot;Phrases&quot;:[{&quot;translateID&quot;:404006,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;малая часть&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;幾分&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いくぶん&quot;,&quot;transliteration&quot;:&quot;ikubun&quot;},{&quot;translateID&quot;:147885,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Малая конюга&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;シラヒゲウミスズメ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しらひげうみすずめ&quot;,&quot;transliteration&quot;:&quot;shirahigeumisuzume&quot;},{&quot;translateID&quot;:586140,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Малая Азия&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;小アジア&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょうあじあ&quot;,&quot;transliteration&quot;:&quot;shouajia&quot;},{&quot;translateID&quot;:586670,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;малая форма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;小型&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こがた&quot;,&quot;transliteration&quot;:&quot;kogata&quot;},{&quot;translateID&quot;:46935,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Малая Азия&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;アナトリア半島&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あなとりあはんとう&quot;,&quot;transliteration&quot;:&quot;anatoriahantou&quot;},{&quot;translateID&quot;:588562,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;малая нужда&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;小用&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こよう&quot;,&quot;transliteration&quot;:&quot;koyou&quot;},{&quot;translateID&quot;:120302,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Малая белая цапля&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;コサギ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こさぎ&quot;,&quot;transliteration&quot;:&quot;kosagi&quot;},{&quot;translateID&quot;:740978,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;малая кукушка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;杜鵑&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほととぎす&quot;,&quot;transliteration&quot;:&quot;hototogisu&quot;},{&quot;translateID&quot;:146183,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Малая проза&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ショートショート&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょーとしょーと&quot;,&quot;transliteration&quot;:&quot;sho:tosho:to&quot;},{&quot;translateID&quot;:725613,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;малая скорость&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;低速&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ていそく&quot;,&quot;transliteration&quot;:&quot;teisoku&quot;},{&quot;translateID&quot;:426015,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Существует очень малая вероятность прийти к соглашению.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;協定が結ばれる可能性は極めて少ない。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きょうていがむすばれるかのうせいはきわめてすくない。&quot;,&quot;transliteration&quot;:&quot;kyouteigamusubarerukanouseihakiwametesukunai。&quot;},{&quot;translateID&quot;:586657,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Малая Медведица&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;小熊星&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょうゆうせい&quot;,&quot;transliteration&quot;:&quot;shouyuusei&quot;},{&quot;translateID&quot;:46931,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Малая Азия&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;アナトリア&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あなとりあ&quot;,&quot;transliteration&quot;:&quot;anatoria&quot;},{&quot;translateID&quot;:588509,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Малая скуловая мышца&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;小頬骨筋&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょうきょうこつきん&quot;,&quot;transliteration&quot;:&quot;shoukyoukotsukin&quot;},{&quot;translateID&quot;:119978,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Малая Медведица&quot;,&quot;wordnote&quot;:&quot;созвездие&quot;,&quot;translation&quot;:&quot;こぐま座&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こぐまざ&quot;,&quot;transliteration&quot;:&quot;kogumaza&quot;},{&quot;translateID&quot;:565961,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;малая горелка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;種火&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たねび&quot;,&quot;transliteration&quot;:&quot;tanebi&quot;},{&quot;translateID&quot;:69246,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Малая вильсония&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ウィルソンアメリカムシクイ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;うぃるそんあめりかむしくい&quot;,&quot;transliteration&quot;:&quot;uぃrusonamerikamushikui&quot;},{&quot;translateID&quot;:272998,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Малая зелёная щурка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ミドリハチクイ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;みどりはちくい&quot;,&quot;transliteration&quot;:&quot;midorihachikui&quot;},{&quot;translateID&quot;:285473,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Малая бурозубка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ヨーロッパヒメトガリネズミ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;よーろっぱひめとがりねずみ&quot;,&quot;transliteration&quot;:&quot;yo:roppahimetogarinezumi&quot;},{&quot;translateID&quot;:586655,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Малая Медведица&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;小熊座&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こぐまざ&quot;,&quot;transliteration&quot;:&quot;kogumaza&quot;},{&quot;translateID&quot;:867821,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;бесконечно малая величина&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;無限小&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;むげんしょう&quot;,&quot;transliteration&quot;:&quot;mugenshou&quot;},{&quot;translateID&quot;:470923,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Древняя Малая Азия&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;古代アナトリア&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こだいあなとりあ&quot;,&quot;transliteration&quot;:&quot;kodaianatoria&quot;},{&quot;translateID&quot;:118482,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Ряска малая&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;コウキクサ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうきくさ&quot;,&quot;transliteration&quot;:&quot;koukikusa&quot;},{&quot;translateID&quot;:293393,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Малая Миссури&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;リトルミズーリ川&quot;,&quot;translationnote&quot;:&quot;ノースダコタ州&quot;,&quot;reading&quot;:&quot;りとるみずーりがわ&quot;,&quot;transliteration&quot;:&quot;ritorumizu:rigawa&quot;},{&quot;translateID&quot;:919325,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ничтожно малая величина&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;毫釐&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ごうり&quot;,&quot;transliteration&quot;:&quot;gouri&quot;},{&quot;translateID&quot;:725404,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;малая высота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;低高度&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ていこうどう&quot;,&quot;transliteration&quot;:&quot;teikoudou&quot;},{&quot;translateID&quot;:929099,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;японская малая поганка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;鷿鷉&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かいつぶり&quot;,&quot;transliteration&quot;:&quot;kaitsuburi&quot;},{&quot;translateID&quot;:586652,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;малая медведица&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;小熊&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こぐま&quot;,&quot;transliteration&quot;:&quot;koguma&quot;},{&quot;translateID&quot;:863229,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;малая достоверность&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;万一&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まんいち&quot;,&quot;transliteration&quot;:&quot;manichi&quot;},{&quot;translateID&quot;:234320,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Малая теорема Ферма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;フェルマーの小定理&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふぇるまーのしょうていり&quot;,&quot;transliteration&quot;:&quot;feruma:noshouteiri&quot;},{&quot;translateID&quot;:118245,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Малая крачка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;コアジサシ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こあじさし&quot;,&quot;transliteration&quot;:&quot;koajisashi&quot;},{&quot;translateID&quot;:293380,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Малая Песчаная пустыня&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;リトルサンディ砂漠&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;りとるさんでぃさばく&quot;,&quot;transliteration&quot;:&quot;ritorusandisabaku&quot;},{&quot;translateID&quot;:115169,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Кэ малая&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ヶ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;が&quot;,&quot;transliteration&quot;:&quot;ga&quot;},{&quot;translateID&quot;:530113,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;малая кукушка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;子規&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほととぎす&quot;,&quot;transliteration&quot;:&quot;hototogisu&quot;},{&quot;translateID&quot;:300397,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;малая панда&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;レッサーパンダ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;れっさーぱんだ&quot;,&quot;transliteration&quot;:&quot;ressa:panda&quot;},{&quot;translateID&quot;:586317,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Малая Русь&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;小ロシア&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょうろしあ&quot;,&quot;transliteration&quot;:&quot;shouroshia&quot;},{&quot;translateID&quot;:586850,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;малая партия&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;小口扱い&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こぐちあつかい&quot;,&quot;transliteration&quot;:&quot;koguchiatsukai&quot;},{&quot;translateID&quot;:820281,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;малая кукушка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;不如帰&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほととぎす&quot;,&quot;transliteration&quot;:&quot;hototogisu&quot;},{&quot;translateID&quot;:588673,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;малая планета&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;小惑星&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょうわくせい&quot;,&quot;transliteration&quot;:&quot;shouwakusei&quot;},{&quot;translateID&quot;:123722,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Малая райская птица&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;コフウチョウ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こふうちょう&quot;,&quot;transliteration&quot;:&quot;kofuuchou&quot;},{&quot;translateID&quot;:114441,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Малая колпица&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;クロツラヘラサギ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;くろつらへらさぎ&quot;,&quot;transliteration&quot;:&quot;kurotsuraherasagi&quot;},{&quot;translateID&quot;:433253,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;бесконечно малая величина&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;極微数&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きょくびすう&quot;,&quot;transliteration&quot;:&quot;kyokubisuu&quot;},{&quot;translateID&quot;:294682,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Малая свистящая утка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;リュウキュウガモ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;りゅうきゅうがも&quot;,&quot;transliteration&quot;:&quot;ryuukyuugamo&quot;},{&quot;translateID&quot;:586145,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Малая Илиада&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;小イーリアス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょういーりあす&quot;,&quot;transliteration&quot;:&quot;shoui:riasu&quot;},{&quot;translateID&quot;:586631,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Малая Антанта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;小協商&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょうきょうしょう&quot;,&quot;transliteration&quot;:&quot;shoukyoushou&quot;},{&quot;translateID&quot;:539164,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;бесконечно малая величина&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;糸毫&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しごう&quot;,&quot;transliteration&quot;:&quot;shigou&quot;},{&quot;translateID&quot;:588632,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;малая доза&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;小量&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょうりょう&quot;,&quot;transliteration&quot;:&quot;shouryou&quot;},{&quot;translateID&quot;:120487,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Малая морская чернеть&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;コスズガモ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こすずがも&quot;,&quot;transliteration&quot;:&quot;kosuzugamo&quot;},{&quot;translateID&quot;:810153,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;малая скорость&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;微速&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;びそく&quot;,&quot;transliteration&quot;:&quot;bisoku&quot;},{&quot;translateID&quot;:725334,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;малая высота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;低空&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ていくう&quot;,&quot;transliteration&quot;:&quot;teikuu&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="малая" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

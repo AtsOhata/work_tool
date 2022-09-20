@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	ценные - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,ценные" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u0446%u0435%u043d%u043d%u044b%u0435" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV244Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNGG0LXQvdC90YvQtWQCAw9kFggCAg9kFgQCAQ8WAh4Dc3JjBQ8uLi9pbWcvbG9nby5wbmdkAgUPFgIeBGhyZWYFDi4uLz9sYW5nPXJ1LVJVZAIEDxYCHgdWaXNpYmxlZ2QCBg8WAh8DaGQCBw9kFghmDxYCHwNoZAIBDxYCHwNoZAICDxYCHwNoZAIFDxYCHwNoZGQ86U3+e3sTXGDdnhRU61QGksejoA==" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAXs2oHkDEseicpNnj51IeuZlIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/v+Gr4Q/3+up4fIG9vR4SbzRw7hi" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:true,&quot;Phrases&quot;:[{&quot;translateID&quot;:593711,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ценные бумаги&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;証券&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょうけん&quot;,&quot;transliteration&quot;:&quot;shouken&quot;},{&quot;translateID&quot;:411403,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ценные вещи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;貴重品&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きちょうひん&quot;,&quot;transliteration&quot;:&quot;kichouhin&quot;},{&quot;translateID&quot;:542342,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Ценные бумаги, обеспеченные активами&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;資産担保証券&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しさんたんぽしょうけん&quot;,&quot;transliteration&quot;:&quot;shisantanposhouken&quot;},{&quot;translateID&quot;:743891,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;вложения в ценные бумаги&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;投資有価証券&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とうしゆうかしょうけん&quot;,&quot;transliteration&quot;:&quot;toushiyuukashouken&quot;},{&quot;translateID&quot;:748415,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ликвидировать ценные бумаги&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;踏み退く&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふみのく&quot;,&quot;transliteration&quot;:&quot;fuminoku&quot;},{&quot;translateID&quot;:593807,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ценные бумаги&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;証書&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょうしょ&quot;,&quot;transliteration&quot;:&quot;shousho&quot;},{&quot;translateID&quot;:820147,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Ипотечные ценные бумаги&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;不動産担保証券&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふどうさんたんぽしょうけん&quot;,&quot;transliteration&quot;:&quot;fudousantanposhouken&quot;},{&quot;translateID&quot;:593725,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;принимающая в страховку ценные бумаги&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;証券引受会社&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょうけんひきうけかいしゃ&quot;,&quot;transliteration&quot;:&quot;shoukenhikiukekaisha&quot;},{&quot;translateID&quot;:743851,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;инвестиционные ценные бумаги&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;投資株&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とうしかぶ&quot;,&quot;transliteration&quot;:&quot;toushikabu&quot;},{&quot;translateID&quot;:841251,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Казначейские ценные бумаги США&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;米国債&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;べいこくさい&quot;,&quot;transliteration&quot;:&quot;beikokusai&quot;},{&quot;translateID&quot;:497282,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ценные породы дерева&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;高価材&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうかざい&quot;,&quot;transliteration&quot;:&quot;koukazai&quot;},{&quot;translateID&quot;:883817,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ценные бумаги&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;有価証券&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ゆうかしょうけん&quot;,&quot;transliteration&quot;:&quot;yuukashouken&quot;},{&quot;translateID&quot;:255517,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;капитал, вложенный в ценные бумаги со значительным колебанием курсов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ベンチャーキャピタル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;べんちゃーきゃぴたる&quot;,&quot;transliteration&quot;:&quot;bencha:kyapitaru&quot;},{&quot;translateID&quot;:571076,&quot;translationStatus&quot;:0,&quot;themeID&quot;:177,&quot;groupName&quot;:&quot;経済&quot;,&quot;themeName&quot;:&quot;マクロ経済&quot;,&quot;word&quot;:&quot;ликвидировать ценные бумаги&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;終了 &quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゅうりょう &quot;,&quot;transliteration&quot;:&quot;shuuryou &quot;},{&quot;translateID&quot;:846831,&quot;translationStatus&quot;:0,&quot;themeID&quot;:177,&quot;groupName&quot;:&quot;経済&quot;,&quot;themeName&quot;:&quot;マクロ経済&quot;,&quot;word&quot;:&quot;ценные бумаги, оставшиеся у члена эмиссионного синдиката&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;保持&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほじ&quot;,&quot;transliteration&quot;:&quot;hoji&quot;},{&quot;translateID&quot;:847224,&quot;translationStatus&quot;:0,&quot;themeID&quot;:177,&quot;groupName&quot;:&quot;経済&quot;,&quot;themeName&quot;:&quot;マクロ経済&quot;,&quot;word&quot;:&quot;ценные бумаги, оставшиеся у члена эмиссионного синдиката&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;保存&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほぞん&quot;,&quot;transliteration&quot;:&quot;hozon&quot;},{&quot;translateID&quot;:728143,&quot;translationStatus&quot;:0,&quot;themeID&quot;:177,&quot;groupName&quot;:&quot;経済&quot;,&quot;themeName&quot;:&quot;マクロ経済&quot;,&quot;word&quot;:&quot;ценные бумаги, предлагаемые к продаже&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;提案 &quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ていあん &quot;,&quot;transliteration&quot;:&quot;teian &quot;},{&quot;translateID&quot;:900778,&quot;translationStatus&quot;:0,&quot;themeID&quot;:177,&quot;groupName&quot;:&quot;経済&quot;,&quot;themeName&quot;:&quot;マクロ経済&quot;,&quot;word&quot;:&quot;ценные бумаги, оставшиеся у члена эмиссионного синдиката&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;留保 &quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;りゅうほ &quot;,&quot;transliteration&quot;:&quot;ryuuho &quot;},{&quot;translateID&quot;:85731,&quot;translationStatus&quot;:0,&quot;themeID&quot;:177,&quot;groupName&quot;:&quot;経済&quot;,&quot;themeName&quot;:&quot;マクロ経済&quot;,&quot;word&quot;:&quot;ценные бумаги, предлагаемые к продаже&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;オファリング&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おふぁりんぐ&quot;,&quot;transliteration&quot;:&quot;ofaringu&quot;},{&quot;translateID&quot;:330019,&quot;translationStatus&quot;:0,&quot;themeID&quot;:177,&quot;groupName&quot;:&quot;経済&quot;,&quot;themeName&quot;:&quot;マクロ経済&quot;,&quot;word&quot;:&quot;ценные бумаги, оставшиеся у члена эмиссионного синдиката&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;引受&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひきうけ&quot;,&quot;transliteration&quot;:&quot;hikiuke&quot;},{&quot;translateID&quot;:388862,&quot;translationStatus&quot;:0,&quot;themeID&quot;:177,&quot;groupName&quot;:&quot;経済&quot;,&quot;themeName&quot;:&quot;マクロ経済&quot;,&quot;word&quot;:&quot;ликвидировать ценные бумаги&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;完了&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かんりょう&quot;,&quot;transliteration&quot;:&quot;kanryou&quot;},{&quot;translateID&quot;:883819,&quot;translationStatus&quot;:0,&quot;themeID&quot;:183,&quot;groupName&quot;:&quot;経済&quot;,&quot;themeName&quot;:&quot;証券&quot;,&quot;word&quot;:&quot;оборотные ценные бумаги&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;有価証券&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ゆうかしょうけん&quot;,&quot;transliteration&quot;:&quot;yuukashouken&quot;},{&quot;translateID&quot;:482641,&quot;translationStatus&quot;:0,&quot;themeID&quot;:183,&quot;groupName&quot;:&quot;経済&quot;,&quot;themeName&quot;:&quot;証券&quot;,&quot;word&quot;:&quot;цена, по которой предлагаются новые ценные бумаги&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;公募価格&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうぼかかく&quot;,&quot;transliteration&quot;:&quot;koubokakaku&quot;},{&quot;translateID&quot;:345564,&quot;translationStatus&quot;:0,&quot;themeID&quot;:183,&quot;groupName&quot;:&quot;経済&quot;,&quot;themeName&quot;:&quot;証券&quot;,&quot;word&quot;:&quot;поиски возможности купить товары или ценные бумаги по сниженным ценам&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;押し目買い&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おしめがい&quot;,&quot;transliteration&quot;:&quot;oshimegai&quot;},{&quot;translateID&quot;:208222,&quot;translationStatus&quot;:0,&quot;themeID&quot;:183,&quot;groupName&quot;:&quot;経済&quot;,&quot;themeName&quot;:&quot;証券&quot;,&quot;word&quot;:&quot;поиски возможности купить товары или ценные бумаги по сниженным ценам&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;バーゲンハンティング&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ばーげんはんてぃんぐ&quot;,&quot;transliteration&quot;:&quot;ba:genhantingu&quot;},{&quot;translateID&quot;:701133,&quot;translationStatus&quot;:0,&quot;themeID&quot;:183,&quot;groupName&quot;:&quot;経済&quot;,&quot;themeName&quot;:&quot;証券&quot;,&quot;word&quot;:&quot;спекулятивные ценные бумаги&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;値がさ株&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ねがさかぶ&quot;,&quot;transliteration&quot;:&quot;negasakabu&quot;},{&quot;translateID&quot;:743877,&quot;translationStatus&quot;:0,&quot;themeID&quot;:183,&quot;groupName&quot;:&quot;経済&quot;,&quot;themeName&quot;:&quot;証券&quot;,&quot;word&quot;:&quot;помещать в государственные ценные бумаги&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;投資信託&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とうししんたく&quot;,&quot;transliteration&quot;:&quot;toushishintaku&quot;},{&quot;translateID&quot;:545159,&quot;translationStatus&quot;:0,&quot;themeID&quot;:184,&quot;groupName&quot;:&quot;経済&quot;,&quot;themeName&quot;:&quot;会計&quot;,&quot;word&quot;:&quot;долевые ценные бумаги&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;持ち株証券&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;もちかぶしょうけん&quot;,&quot;transliteration&quot;:&quot;mochikabushouken&quot;},{&quot;translateID&quot;:743892,&quot;translationStatus&quot;:0,&quot;themeID&quot;:184,&quot;groupName&quot;:&quot;経済&quot;,&quot;themeName&quot;:&quot;会計&quot;,&quot;word&quot;:&quot;инвестиционные ценные бумаги&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;投資有価証券&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とうしゆうかしょうけん&quot;,&quot;transliteration&quot;:&quot;toushiyuukashouken&quot;},{&quot;translateID&quot;:743893,&quot;translationStatus&quot;:0,&quot;themeID&quot;:185,&quot;groupName&quot;:&quot;経済&quot;,&quot;themeName&quot;:&quot;金融&quot;,&quot;word&quot;:&quot;ценные бумаги как объект капиталовложений&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;投資有価証券&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とうしゆうかしょうけん&quot;,&quot;transliteration&quot;:&quot;toushiyuukashouken&quot;},{&quot;translateID&quot;:883820,&quot;translationStatus&quot;:0,&quot;themeID&quot;:185,&quot;groupName&quot;:&quot;経済&quot;,&quot;themeName&quot;:&quot;金融&quot;,&quot;word&quot;:&quot;рыночные ценные бумаги&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;有価証券&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ゆうかしょうけん&quot;,&quot;transliteration&quot;:&quot;yuukashouken&quot;},{&quot;translateID&quot;:743819,&quot;translationStatus&quot;:0,&quot;themeID&quot;:185,&quot;groupName&quot;:&quot;経済&quot;,&quot;themeName&quot;:&quot;金融&quot;,&quot;word&quot;:&quot;вложения в ценные бумаги&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;投資&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とうし&quot;,&quot;transliteration&quot;:&quot;toushi&quot;},{&quot;translateID&quot;:743746,&quot;translationStatus&quot;:0,&quot;themeID&quot;:185,&quot;groupName&quot;:&quot;経済&quot;,&quot;themeName&quot;:&quot;金融&quot;,&quot;word&quot;:&quot;помещение средств в высокорискованные ценные бумаги&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;投機&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とうき&quot;,&quot;transliteration&quot;:&quot;touki&quot;},{&quot;translateID&quot;:807333,&quot;translationStatus&quot;:0,&quot;themeID&quot;:185,&quot;groupName&quot;:&quot;経済&quot;,&quot;themeName&quot;:&quot;金融&quot;,&quot;word&quot;:&quot;ценные бумаги, не допущенные к обращению на бирже&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;非上場証券&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひじょうじょうしょうけん&quot;,&quot;transliteration&quot;:&quot;hijoujoushouken&quot;},{&quot;translateID&quot;:605359,&quot;translationStatus&quot;:0,&quot;themeID&quot;:185,&quot;groupName&quot;:&quot;経済&quot;,&quot;themeName&quot;:&quot;金融&quot;,&quot;word&quot;:&quot;просматривать ценные бумаги для поиска нужных характеристик&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;審査&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しんさ&quot;,&quot;transliteration&quot;:&quot;shinsa&quot;},{&quot;translateID&quot;:501447,&quot;translationStatus&quot;:0,&quot;themeID&quot;:185,&quot;groupName&quot;:&quot;経済&quot;,&quot;themeName&quot;:&quot;金融&quot;,&quot;word&quot;:&quot;государственные ценные бумаги&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;国債&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こくさい&quot;,&quot;transliteration&quot;:&quot;kokusai&quot;},{&quot;translateID&quot;:278925,&quot;translationStatus&quot;:0,&quot;themeID&quot;:185,&quot;groupName&quot;:&quot;経済&quot;,&quot;themeName&quot;:&quot;金融&quot;,&quot;word&quot;:&quot;ценные бумаги, обеспеченные закладной&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;モーゲージ担保証券&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;もーげーじたんぽしょうけん&quot;,&quot;transliteration&quot;:&quot;mo:ge:jitanposhouken&quot;},{&quot;translateID&quot;:721063,&quot;translationStatus&quot;:1,&quot;themeID&quot;:200,&quot;groupName&quot;:&quot;法律&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;государственные ценные бумаги&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;賃料&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちんりょう&quot;,&quot;transliteration&quot;:&quot;chinryou&quot;},{&quot;translateID&quot;:610995,&quot;translationStatus&quot;:0,&quot;themeID&quot;:200,&quot;groupName&quot;:&quot;法律&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;бланк подписки на ценные бумаги&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;申込み書&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;もうしこみしょ&quot;,&quot;transliteration&quot;:&quot;moushikomisho&quot;},{&quot;translateID&quot;:686251,&quot;translationStatus&quot;:0,&quot;themeID&quot;:200,&quot;groupName&quot;:&quot;法律&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;взаимозаменяемые ценные бумаги&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;代替物&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;だいたいぶつ&quot;,&quot;transliteration&quot;:&quot;daitaibutsu&quot;},{&quot;translateID&quot;:847368,&quot;translationStatus&quot;:0,&quot;themeID&quot;:200,&quot;groupName&quot;:&quot;法律&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ценные бумаги, оставшиеся у члена эмиссионного синдиката&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;保有&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほゆう&quot;,&quot;transliteration&quot;:&quot;hoyuu&quot;},{&quot;translateID&quot;:703229,&quot;translationStatus&quot;:0,&quot;themeID&quot;:200,&quot;groupName&quot;:&quot;法律&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;государственные ценные бумаги&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;地代&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちだい&quot;,&quot;transliteration&quot;:&quot;chidai&quot;},{&quot;translateID&quot;:330036,&quot;translationStatus&quot;:0,&quot;themeID&quot;:200,&quot;groupName&quot;:&quot;法律&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;подписчик на ценные бумаги&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;引受け人&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひきうけにん&quot;,&quot;transliteration&quot;:&quot;hikiukenin&quot;},{&quot;translateID&quot;:703230,&quot;translationStatus&quot;:0,&quot;themeID&quot;:200,&quot;groupName&quot;:&quot;法律&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;государственные ценные бумаги&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;地代&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぢだい&quot;,&quot;transliteration&quot;:&quot;didai&quot;},{&quot;translateID&quot;:900741,&quot;translationStatus&quot;:0,&quot;themeID&quot;:200,&quot;groupName&quot;:&quot;法律&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ценные бумаги, оставшиеся у члена эмиссионного синдиката&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;留置&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;りゅうち&quot;,&quot;transliteration&quot;:&quot;ryuuchi&quot;},{&quot;translateID&quot;:883822,&quot;translationStatus&quot;:0,&quot;themeID&quot;:200,&quot;groupName&quot;:&quot;法律&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ценные бумаги&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;有価証券&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ゆうかしょうけん&quot;,&quot;transliteration&quot;:&quot;yuukashouken&quot;},{&quot;translateID&quot;:593719,&quot;translationStatus&quot;:0,&quot;themeID&quot;:200,&quot;groupName&quot;:&quot;法律&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ценные бумаги&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;証券&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょうけん&quot;,&quot;transliteration&quot;:&quot;shouken&quot;},{&quot;translateID&quot;:630240,&quot;translationStatus&quot;:0,&quot;themeID&quot;:200,&quot;groupName&quot;:&quot;法律&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;государственные ценные бумаги&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;政治&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せいじ&quot;,&quot;transliteration&quot;:&quot;seiji&quot;},{&quot;translateID&quot;:743875,&quot;translationStatus&quot;:0,&quot;themeID&quot;:200,&quot;groupName&quot;:&quot;法律&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ценные бумаги как объект капиталовложений&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;投資証券&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とうししょうけん&quot;,&quot;transliteration&quot;:&quot;toushishouken&quot;},{&quot;translateID&quot;:497286,&quot;translationStatus&quot;:0,&quot;themeID&quot;:200,&quot;groupName&quot;:&quot;法律&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ценные вещи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;高価品&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうかひん&quot;,&quot;transliteration&quot;:&quot;koukahin&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="ценные" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

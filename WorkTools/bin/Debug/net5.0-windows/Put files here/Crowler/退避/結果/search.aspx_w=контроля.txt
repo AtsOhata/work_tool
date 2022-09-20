@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	контроля - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,контроля" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u043a%u043e%u043d%u0442%u0440%u043e%u043b%u044f" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV644Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNC60L7QvdGC0YDQvtC70Y9kAgMPZBYIAgIPZBYEAgEPFgIeA3NyYwUPLi4vaW1nL2xvZ28ucG5nZAIFDxYCHgRocmVmBQ4uLi8/bGFuZz1ydS1SVWQCBA8WAh4HVmlzaWJsZWdkAgYPFgIfA2hkAgcPZBYIZg8WAh8DaGQCAQ8WAh8DaGQCAg8WAh8DaGQCBQ8WAh8DaGRkJSI+G1+5U1OeOfGloglJitEP9VA=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAXO5kQ4tP9w7TS8FjmMzXEQlIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/v/zcDC+RGwnrVFtOmrUo5TVZsWY" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:true,&quot;Phrases&quot;:[{&quot;translateID&quot;:413760,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Отдел управления технического контроля&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;技術管理課&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぎじゅつかんりか&quot;,&quot;transliteration&quot;:&quot;gijutsukanrika&quot;},{&quot;translateID&quot;:41592,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Система контроля и управления доступом&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;アクセス制御&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あくせすせいぎょ&quot;,&quot;transliteration&quot;:&quot;akusesuseigyo&quot;},{&quot;translateID&quot;:413759,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Сектор технического контроля&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;技術監査課&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぎじゅつかんさか&quot;,&quot;transliteration&quot;:&quot;gijutsukansaka&quot;},{&quot;translateID&quot;:477114,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;выйти из-под контроля&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;御し難くなる&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぎょしがたくなる&quot;,&quot;transliteration&quot;:&quot;gyoshigatakunaru&quot;},{&quot;translateID&quot;:294361,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Пределы контроля&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;リミッツ・オブ・コントロール&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;りみっつ・おぶ・こんとろーる&quot;,&quot;transliteration&quot;:&quot;rimittsu・obu・kontoro:ru&quot;},{&quot;translateID&quot;:445421,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Отдел по вопросам военного контроля и разоружения&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;軍備管理軍縮課&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぐんびかんりぐんしゅくか&quot;,&quot;transliteration&quot;:&quot;gunbikanrigunshukuka&quot;},{&quot;translateID&quot;:239209,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Бортовые средства объективного контроля&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ブラックボックス&quot;,&quot;translationnote&quot;:&quot;航空&quot;,&quot;reading&quot;:&quot;ぶらっくぼっくす&quot;,&quot;transliteration&quot;:&quot;burakkubokkusu&quot;},{&quot;translateID&quot;:392322,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;отдел контроля&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;監査課&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かんさか&quot;,&quot;transliteration&quot;:&quot;kansaka&quot;},{&quot;translateID&quot;:707171,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Министерство контроля КНР&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中華人民共和国監察部&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅうかじんみんきょうわこくかんさつぶ&quot;,&quot;transliteration&quot;:&quot;chuukajinminkyouwakokukansatsubu&quot;},{&quot;translateID&quot;:756602,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Сектор специального аудиторского контроля&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;特別監査課&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とくべつかんさか&quot;,&quot;transliteration&quot;:&quot;tokubetsukansaka&quot;},{&quot;translateID&quot;:669892,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;выходить из-под контроля&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;走り去る&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はしりさる&quot;,&quot;transliteration&quot;:&quot;hashirisaru&quot;},{&quot;translateID&quot;:542256,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Отдел контроля ресурсов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;資源管理課&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しげんかんりか&quot;,&quot;transliteration&quot;:&quot;shigenkanrika&quot;},{&quot;translateID&quot;:627701,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;выходить из под контроля&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;制し切れなくなる&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せいしきれなくなる&quot;,&quot;transliteration&quot;:&quot;seishikirenakunaru&quot;},{&quot;translateID&quot;:603360,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Отдел санитарного контроля продуктов питания&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;食品衛生課&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょくひんえいせいか&quot;,&quot;transliteration&quot;:&quot;shokuhineiseika&quot;},{&quot;translateID&quot;:726639,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Отдел контроля плановых инспекций&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;定期監査室&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ていきかんさしつ&quot;,&quot;transliteration&quot;:&quot;teikikansashitsu&quot;},{&quot;translateID&quot;:747969,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;право контроля&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;統制権&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とうせいけん&quot;,&quot;transliteration&quot;:&quot;touseiken&quot;},{&quot;translateID&quot;:568406,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;выйти из-под контроля&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;収拾がつかない状態になる&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゅうしゅうがつかないじょうたいになる&quot;,&quot;transliteration&quot;:&quot;shuushuugatsukanaijoutaininaru&quot;},{&quot;translateID&quot;:747963,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Локус контроля&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;統制の所在&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とうせいのしょざい&quot;,&quot;transliteration&quot;:&quot;touseinoshozai&quot;},{&quot;translateID&quot;:622099,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Отдел контроля качества воды&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;水環境管理課&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;みずかんきょうかんりか&quot;,&quot;transliteration&quot;:&quot;mizukankyoukanrika&quot;},{&quot;translateID&quot;:459700,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Управление контроля строительства&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;建設管理室&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けんせつかんりしつ&quot;,&quot;transliteration&quot;:&quot;kensetsukanrishitsu&quot;},{&quot;translateID&quot;:529857,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;выйти из-под контроля&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;始末に負えなくなる&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しまつにおえなくなる&quot;,&quot;transliteration&quot;:&quot;shimatsunioenakunaru&quot;},{&quot;translateID&quot;:816392,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Отдел технического контроля&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;品質管理&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひんしつかんり&quot;,&quot;transliteration&quot;:&quot;hinshitsukanri&quot;},{&quot;translateID&quot;:891143,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Подотдел контроля земельных участков&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;用地管理室&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ようちかんりしつ&quot;,&quot;transliteration&quot;:&quot;youchikanrishitsu&quot;},{&quot;translateID&quot;:756603,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Отдел специального аудиторского контроля&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;特別監査室&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とくべつかんさしつ&quot;,&quot;transliteration&quot;:&quot;tokubetsukansashitsu&quot;},{&quot;translateID&quot;:628376,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;выходить из-под всякого контроля&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;制止し切れなくなる&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せいししきれなくなる&quot;,&quot;transliteration&quot;:&quot;seishishikirenakunaru&quot;},{&quot;translateID&quot;:837188,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;программа грамматического контроля&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;文法検査プログラム&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぶんぽうけんさぷろぐらむ&quot;,&quot;transliteration&quot;:&quot;bunpoukensapuroguramu&quot;},{&quot;translateID&quot;:184049,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;процедура контроля передачи данных&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;データリンク制御手順&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;でーたりんくせいぎょてじゅん&quot;,&quot;transliteration&quot;:&quot;de:tarinkuseigyotejun&quot;},{&quot;translateID&quot;:887478,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;аналитика бюджетного контроля&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;予算管理分析コード&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;よさんかんりぶんせきこーど&quot;,&quot;transliteration&quot;:&quot;yosankanribunsekiko:do&quot;},{&quot;translateID&quot;:178584,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;устройство контроля работы контрольник канала&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;チャネルチェックハンドラ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゃねるちぇっくはんどら&quot;,&quot;transliteration&quot;:&quot;chaneruchekkuhandora&quot;},{&quot;translateID&quot;:872946,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;политика контроля оскорбительных выражений&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;迷惑防止監督ポリシー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;めいわくぼうしかんとくぽりしー&quot;,&quot;transliteration&quot;:&quot;meiwakuboushikantokuporishi:&quot;},{&quot;translateID&quot;:256222,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;система контроля версий&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ボイスコマンドシステム&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぼいすこまんどしすてむ&quot;,&quot;transliteration&quot;:&quot;boisukomandoshisutemu&quot;},{&quot;translateID&quot;:471901,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;зуммер контроля посылки вызова&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;呼出し音&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;よびだしおん&quot;,&quot;transliteration&quot;:&quot;yobidashion&quot;},{&quot;translateID&quot;:157988,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;программа ортографического контроля&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;スペルチェッカー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;すぺるちぇっかー&quot;,&quot;transliteration&quot;:&quot;superuchekka:&quot;},{&quot;translateID&quot;:668649,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;интегральная система передачи информации и контроля&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;総合情報制御システム&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そうごうじょうほうせいぎょしすてむ&quot;,&quot;transliteration&quot;:&quot;sougoujouhouseigyoshisutemu&quot;},{&quot;translateID&quot;:392555,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;политика контроля&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;監督ポリシー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かんとくぽりしー&quot;,&quot;transliteration&quot;:&quot;kantokuporishi:&quot;},{&quot;translateID&quot;:721992,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;программа контроля последовательности&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;追跡ルーチン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ついせきるーちん&quot;,&quot;transliteration&quot;:&quot;tsuisekiru:chin&quot;},{&quot;translateID&quot;:280395,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;блок текущего контроля&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;モニタ・ユニット&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;もにた・ゆにっと&quot;,&quot;transliteration&quot;:&quot;monita・yunitto&quot;},{&quot;translateID&quot;:35001,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;система контроля за исходным кодом&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;SCCS&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;SCCS&quot;,&quot;transliteration&quot;:&quot;SCCS&quot;},{&quot;translateID&quot;:814876,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;оператор контроля&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;表明&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひょうめい&quot;,&quot;transliteration&quot;:&quot;hyoumei&quot;},{&quot;translateID&quot;:392556,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;список контроля&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;監督リスト&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かんとくりすと&quot;,&quot;transliteration&quot;:&quot;kantokurisuto&quot;},{&quot;translateID&quot;:460632,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;индикатор контроля&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;検査標識&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けんさひょうしき&quot;,&quot;transliteration&quot;:&quot;kensahyoushiki&quot;},{&quot;translateID&quot;:490632,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;программа грамматического контроля&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;構文チェッカ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうぶんちぇっか&quot;,&quot;transliteration&quot;:&quot;koubunchekka&quot;},{&quot;translateID&quot;:837179,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;блок синтаксического контроля&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;文法チェッカー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぶんぽうちぇっかー&quot;,&quot;transliteration&quot;:&quot;bunpouchekka:&quot;},{&quot;translateID&quot;:103839,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;автоматизированная система контроля и управления научными исследованиями и разработками&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;キャルス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きゃるす&quot;,&quot;transliteration&quot;:&quot;kyarusu&quot;},{&quot;translateID&quot;:247554,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;знак контроля блока&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ブロック検査文字&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぶろっくけんさもじ&quot;,&quot;transliteration&quot;:&quot;burokkukensamoji&quot;},{&quot;translateID&quot;:176800,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;символ контроля&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;チェックキャラクタ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちぇっくきゃらくた&quot;,&quot;transliteration&quot;:&quot;chekkukyarakuta&quot;},{&quot;translateID&quot;:837180,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;программа синтаксического контроля&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;文法チェッカー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぶんぽうちぇっかー&quot;,&quot;transliteration&quot;:&quot;bunpouchekka:&quot;},{&quot;translateID&quot;:104005,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;политика контроля закрытого кампуса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;キャンパス内限定監督ポリシー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きゃんぱすないげんていかんとくぽりしー&quot;,&quot;transliteration&quot;:&quot;kyanpasunaigenteikantokuporishi:&quot;},{&quot;translateID&quot;:887477,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;правило бюджетного контроля&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;予算管理ルール&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;よさんかんりるーる&quot;,&quot;transliteration&quot;:&quot;yosankanriru:ru&quot;},{&quot;translateID&quot;:176805,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;система контроля&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;チェックシステム&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちぇっくしすてむ&quot;,&quot;transliteration&quot;:&quot;chekkushisutemu&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="контроля" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

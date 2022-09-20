@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	данных - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,данных" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u0434%u0430%u043d%u043d%u044b%u0445" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV244Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNC00LDQvdC90YvRhWQCAw9kFggCAg9kFgQCAQ8WAh4Dc3JjBQ8uLi9pbWcvbG9nby5wbmdkAgUPFgIeBGhyZWYFDi4uLz9sYW5nPXJ1LVJVZAIEDxYCHgdWaXNpYmxlZ2QCBg8WAh8DaGQCBw9kFghmDxYCHwNoZAIBDxYCHwNoZAICDxYCHwNoZAIFDxYCHwNoZGSoGcbqQ7m4C9ini8i5PRwOgzjHNw==" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAWTEq8xPnpBhBxYqXCxUmRXlIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/qG13CIWpPGVWQzCQ+72rkU1b7+X" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:true,&quot;Phrases&quot;:[{&quot;translateID&quot;:155454,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Сеть хранения данных&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ストレージエリアネットワーク&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;すとれーじえりあねっとわーく&quot;,&quot;transliteration&quot;:&quot;sutore:jierianettowa:ku&quot;},{&quot;translateID&quot;:630393,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Правительству следует отказаться от  данных правил.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;政府はこれらの法規を廃棄すべきである。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せいふはこれらのほうきをはいきすべきである。&quot;,&quot;transliteration&quot;:&quot;seifuhakoreranohouki o haikisubekidearu。&quot;},{&quot;translateID&quot;:128581,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;обработка данных&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;コンピューティング&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こんぴゅーてぃんぐ&quot;,&quot;transliteration&quot;:&quot;konpyu:tingu&quot;},{&quot;translateID&quot;:183991,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Право на базы данных&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;データベース権&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;でーたべーすけん&quot;,&quot;transliteration&quot;:&quot;de:tabe:suken&quot;},{&quot;translateID&quot;:551233,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;автоматическая обработка данных&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;自動データ処理&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じどうでえたしょり&quot;,&quot;transliteration&quot;:&quot;jidoudeetashori&quot;},{&quot;translateID&quot;:912962,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Схема базы данных&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;論理スキーマ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ろんりすきーま&quot;,&quot;transliteration&quot;:&quot;ronrisuki:ma&quot;},{&quot;translateID&quot;:505684,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;в данных обстоятельствах&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;今の場合&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いまのばあい&quot;,&quot;transliteration&quot;:&quot;imanobaai&quot;},{&quot;translateID&quot;:128394,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ведение автоматизированных баз данных&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;コンピュータによるファイルの管理&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こんぴゅーたによるふぁいるのかんり&quot;,&quot;transliteration&quot;:&quot;konpyu:taniyorufairunokanri&quot;},{&quot;translateID&quot;:183978,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Система управления базами данных&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;データベース管理システム&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;でーたべーすかんりしすてむ&quot;,&quot;transliteration&quot;:&quot;de:tabe:sukanrishisutemu&quot;},{&quot;translateID&quot;:446524,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Типизация данных&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;型システム&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かたしすてむ&quot;,&quot;transliteration&quot;:&quot;katashisutemu&quot;},{&quot;translateID&quot;:836582,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Библиографические справочники и базы данных&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;文献検索サイト&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぶんけんけんさくさいと&quot;,&quot;transliteration&quot;:&quot;bunkenkensakusaito&quot;},{&quot;translateID&quot;:723152,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Протокол передачи данных&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;通信プロトコル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;つうしんぷろとこる&quot;,&quot;transliteration&quot;:&quot;tsuushinpurotokoru&quot;},{&quot;translateID&quot;:128388,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;сбор информации по компьютерным базам данных&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;コンピュータデータベースへの情報編集&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こんぴゅーたでーたべーすへのじょうほうへんしゅう&quot;,&quot;transliteration&quot;:&quot;konpyu:tade:tabe:suhenojouhouhenshuu&quot;},{&quot;translateID&quot;:183885,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Базы данных&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;データベース&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;でーたべーす&quot;,&quot;transliteration&quot;:&quot;de:tabe:su&quot;},{&quot;translateID&quot;:187050,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Список пропускных способностей интерфейсов передачи данных&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;デバイス帯域幅の一覧&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;でばいすたいいきはばのいちらん&quot;,&quot;transliteration&quot;:&quot;debaisutaiikihabanoichiran&quot;},{&quot;translateID&quot;:770518,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;введение данных&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;入力&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にゅうりょく&quot;,&quot;transliteration&quot;:&quot;nyuuryoku&quot;},{&quot;translateID&quot;:396720,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Реляционная модель данных&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;関係モデル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かんけいもでる&quot;,&quot;transliteration&quot;:&quot;kankeimoderu&quot;},{&quot;translateID&quot;:128387,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;систематизация информации в компьютерных базах данных&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;コンピュータデータベースへの情報構築&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こんぴゅーたでーたべーすへのじょうほうこうちく&quot;,&quot;transliteration&quot;:&quot;konpyu:tade:tabe:suhenojouhoukouchiku&quot;},{&quot;translateID&quot;:183884,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;база данных&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;データベース&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;でえたべえす&quot;,&quot;transliteration&quot;:&quot;deetabeesu&quot;},{&quot;translateID&quot;:184332,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Оконечное оборудование данных&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;データ端末装置&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;でーたたんまつそうち&quot;,&quot;transliteration&quot;:&quot;de:tatanmatsusouchi&quot;},{&quot;translateID&quot;:799128,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Он никогда не нарушает данных обещаний.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;彼は決して約束を破らないだろう。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かれはけっしてやくそくをやぶらないだろう。&quot;,&quot;transliteration&quot;:&quot;karehakesshiteyakusoku o yaburanaidarou。&quot;},{&quot;translateID&quot;:557122,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ER-модель данных&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;実体関連モデル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じったいかんれんもでる&quot;,&quot;transliteration&quot;:&quot;jittaikanrenmoderu&quot;},{&quot;translateID&quot;:88549,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Базы данных в Интернете&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;オンライン情報源&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おんらいんじょうほうげん&quot;,&quot;transliteration&quot;:&quot;onrainjouhougen&quot;},{&quot;translateID&quot;:183774,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;тип данных&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;データタイプ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;でーたたいぷ&quot;,&quot;transliteration&quot;:&quot;de:tataipu&quot;},{&quot;translateID&quot;:184035,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Моделирование данных&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;データモデリング&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;でーたもでりんぐ&quot;,&quot;transliteration&quot;:&quot;de:tamoderingu&quot;},{&quot;translateID&quot;:599002,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;обнародование данных&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;情報公開&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じょうほうこうかい&quot;,&quot;transliteration&quot;:&quot;jouhoukoukai&quot;},{&quot;translateID&quot;:848370,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Хранение данных&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;補助記憶装置&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほじょきおくそうち&quot;,&quot;transliteration&quot;:&quot;hojokiokusouchi&quot;},{&quot;translateID&quot;:155287,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Поток данных&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ストリーム&quot;,&quot;translationnote&quot;:&quot;プログラミング&quot;,&quot;reading&quot;:&quot;すとりーむ&quot;,&quot;transliteration&quot;:&quot;sutori:mu&quot;},{&quot;translateID&quot;:85861,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Объектно-ориентированная база данных&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;オブジェクトデータベース&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おぶじぇくとでーたべーす&quot;,&quot;transliteration&quot;:&quot;obujekutode:tabe:su&quot;},{&quot;translateID&quot;:29808,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Базы данных&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;Database&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;Database&quot;,&quot;transliteration&quot;:&quot;Database&quot;},{&quot;translateID&quot;:184007,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Проектирование баз данных&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;データベース設計&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;でーたべーすせっけい&quot;,&quot;transliteration&quot;:&quot;de:tabe:susekkei&quot;},{&quot;translateID&quot;:551987,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Автоматическая идентификация и сбор данных&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;自動認識およびデータ取得&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じどうにんしきおよびでーたしゅとく&quot;,&quot;transliteration&quot;:&quot;jidouninshikioyobide:tashutoku&quot;},{&quot;translateID&quot;:151111,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Схема базы данных&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;スキーマ&quot;,&quot;translationnote&quot;:&quot;データベース&quot;,&quot;reading&quot;:&quot;すきーま&quot;,&quot;transliteration&quot;:&quot;suki:ma&quot;},{&quot;translateID&quot;:808233,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;асинхронная передача данных&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;非同期通信&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひどうきつうしん&quot;,&quot;transliteration&quot;:&quot;hidoukitsuushin&quot;},{&quot;translateID&quot;:833104,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Распределённые базы данных&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;分散データベース&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぶんさんでーたべーす&quot;,&quot;transliteration&quot;:&quot;bunsande:tabe:su&quot;},{&quot;translateID&quot;:183883,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;база данных&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;データベース&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;でーたべーす&quot;,&quot;transliteration&quot;:&quot;de:tabe:su&quot;},{&quot;translateID&quot;:184195,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Предотвращение выполнения данных&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;データ実行防止&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;でーたじっこうぼうし&quot;,&quot;transliteration&quot;:&quot;de:tajikkouboushi&quot;},{&quot;translateID&quot;:814421,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;отображение данных&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;表示&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひょうじ&quot;,&quot;transliteration&quot;:&quot;hyouji&quot;},{&quot;translateID&quot;:806683,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Сжатие данных с потерями&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;非可逆圧縮&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひかぎゃくあっしゅく&quot;,&quot;transliteration&quot;:&quot;hikagyakuasshuku&quot;},{&quot;translateID&quot;:710825,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Абстракция данных&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;抽象化&quot;,&quot;translationnote&quot;:&quot;計算機科学&quot;,&quot;reading&quot;:&quot;ちゅうしょうか&quot;,&quot;transliteration&quot;:&quot;chuushouka&quot;},{&quot;translateID&quot;:183850,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;банк данных&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;データバンク&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;でーたばんく&quot;,&quot;transliteration&quot;:&quot;de:tabanku&quot;},{&quot;translateID&quot;:184192,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Словарь данных&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;データ辞書&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;でーたじしょ&quot;,&quot;transliteration&quot;:&quot;de:tajisho&quot;},{&quot;translateID&quot;:747617,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;сбор и предоставление статистических данных&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;統計の編集&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とうけいのへんしゅう&quot;,&quot;transliteration&quot;:&quot;toukeinohenshuu&quot;},{&quot;translateID&quot;:737798,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;хранение данных или документов в электронных устройствах&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;電子データを記憶させた記録媒体又は文書の物理的な保管&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;でんしでーたをきおくさせたきろくばいたいまたはぶんしょのぶつりてきなほかん&quot;,&quot;transliteration&quot;:&quot;denshide:ta o kiokusasetakirokubaitaimatahabunshonobutsuritekinahokan&quot;},{&quot;translateID&quot;:373392,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Иерархическая модель данных&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;階層型データモデル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かいそうがたでーたもでる&quot;,&quot;transliteration&quot;:&quot;kaisougatade:tamoderu&quot;},{&quot;translateID&quot;:183828,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;уничтожение данных&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;データの破壊&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;でーたのはかい&quot;,&quot;transliteration&quot;:&quot;de:tanohakai&quot;},{&quot;translateID&quot;:184180,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Структуры данных&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;データ構造&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;でーたこうぞう&quot;,&quot;transliteration&quot;:&quot;de:takouzou&quot;},{&quot;translateID&quot;:734649,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ошибка передачи данных&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;伝送エラー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;でんそうえらー&quot;,&quot;transliteration&quot;:&quot;densouera:&quot;},{&quot;translateID&quot;:490166,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;База данных управления конфигурации&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;構成管理データベース&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうせいかんりでーたべーす&quot;,&quot;transliteration&quot;:&quot;kouseikanride:tabe:su&quot;},{&quot;translateID&quot;:556474,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Динамическая идентификация типа данных&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;実行時型情報&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じっこうじがたじょうほう&quot;,&quot;transliteration&quot;:&quot;jikkoujigatajouhou&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="данных" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

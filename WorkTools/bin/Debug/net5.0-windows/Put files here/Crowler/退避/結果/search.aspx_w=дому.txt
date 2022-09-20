@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	дому - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,дому" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u0434%u043e%u043c%u0443" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAVy44Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNC00L7QvNGDZAIDD2QWCAICD2QWBAIBDxYCHgNzcmMFDy4uL2ltZy9sb2dvLnBuZ2QCBQ8WAh4EaHJlZgUOLi4vP2xhbmc9cnUtUlVkAgQPFgIeB1Zpc2libGVnZAIGDxYCHwNoZAIHD2QWCGYPFgIfA2hkAgEPFgIfA2hkAgIPFgIfA2hkAgUPFgIfA2hkZIoZR4ubEYDOefndZs8DfU2QJd+z" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAUYs/ODUTUsOa6+9FaAisCBlIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/uFV94YVkb8WSeFqy6KSVo1qmKwi" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:true,&quot;Phrases&quot;:[{&quot;translateID&quot;:374727,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;любитель уходить из дому&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;外出好き&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;がいしゅつずき&quot;,&quot;transliteration&quot;:&quot;gaishutsuzuki&quot;},{&quot;translateID&quot;:165575,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;быть выгнанным из дому&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;その家をしくじる&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そのいえをしくじる&quot;,&quot;transliteration&quot;:&quot;sonoie o shikujiru&quot;},{&quot;translateID&quot;:323872,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;к каждому дому&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;一軒毎に&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;1けんごとに&quot;,&quot;transliteration&quot;:&quot;1kengotoni&quot;},{&quot;translateID&quot;:358722,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;работа по дому&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;家事&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かじ&quot;,&quot;transliteration&quot;:&quot;kaji&quot;},{&quot;translateID&quot;:473527,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;от дома к дому&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;戸毎に&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こごとに&quot;,&quot;transliteration&quot;:&quot;kogotoni&quot;},{&quot;translateID&quot;:374714,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;уход из дому&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;外出&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;がいしゅつ&quot;,&quot;transliteration&quot;:&quot;gaishutsu&quot;},{&quot;translateID&quot;:897316,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;тоска по дому&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;里心&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さとごころ&quot;,&quot;transliteration&quot;:&quot;satogokoro&quot;},{&quot;translateID&quot;:826499,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ветром относит к дому искры&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;風が家に火の粉を吹きつける&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かぜがいえにひのこをふきつける&quot;,&quot;transliteration&quot;:&quot;kazegaienihinoko o fukitsukeru&quot;},{&quot;translateID&quot;:358571,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;уехать из дому&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;家を明ける&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いえをあける&quot;,&quot;transliteration&quot;:&quot;ie o akeru&quot;},{&quot;translateID&quot;:473524,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;от дома к дому&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;戸別に&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こべつに&quot;,&quot;transliteration&quot;:&quot;kobetsuni&quot;},{&quot;translateID&quot;:879228,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;уходить из дому по ночам&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;夜歩きをする&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;よあるきをする&quot;,&quot;transliteration&quot;:&quot;yoaruki o suru&quot;},{&quot;translateID&quot;:893894,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;осмотр врачом на дому&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;来診&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;らいしん&quot;,&quot;transliteration&quot;:&quot;raishin&quot;},{&quot;translateID&quot;:369671,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;затосковать по дому&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;懐郷病にかかる&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かいきょうびょうにかかる&quot;,&quot;transliteration&quot;:&quot;kaikyoubyounikakaru&quot;},{&quot;translateID&quot;:358562,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;выйти из дому&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;家を出る&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いえをでる&quot;,&quot;transliteration&quot;:&quot;ie o deru&quot;},{&quot;translateID&quot;:239586,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;выйти из дому без определённой цели&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ふらっと家を出る&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふらっといえをでる&quot;,&quot;transliteration&quot;:&quot;furattoie o deru&quot;},{&quot;translateID&quot;:878726,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;выход из дому&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;門出&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かどで&quot;,&quot;transliteration&quot;:&quot;kadode&quot;},{&quot;translateID&quot;:893892,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;посещение больного на дому&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;来診&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;らいしん&quot;,&quot;transliteration&quot;:&quot;raishin&quot;},{&quot;translateID&quot;:464132,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;по каждому дому&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;軒別に&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;のきべつに&quot;,&quot;transliteration&quot;:&quot;nokibetsuni&quot;},{&quot;translateID&quot;:358561,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;уходить из дому&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;家を出る&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いえをでる&quot;,&quot;transliteration&quot;:&quot;ie o deru&quot;},{&quot;translateID&quot;:692730,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;дежурство с пребыванием на дому&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;宅直&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たくちょく&quot;,&quot;transliteration&quot;:&quot;takuchoku&quot;},{&quot;translateID&quot;:728483,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;выставить из дому&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;締め出しを食わす&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しめだしをくわす&quot;,&quot;transliteration&quot;:&quot;shimedashi o kuwasu&quot;},{&quot;translateID&quot;:538303,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Каждое утро я выхожу из дому  до восьми часов.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;私は毎日8時前に家を出ます。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;わたしはまいにち8じまえにいえをでます。&quot;,&quot;transliteration&quot;:&quot;watashihamainichi8jimaeniie o demasu。&quot;},{&quot;translateID&quot;:759190,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;из дому&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;内&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;うち&quot;,&quot;transliteration&quot;:&quot;uchi&quot;},{&quot;translateID&quot;:430440,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;известие из дому&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;郷信&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きょうしん&quot;,&quot;transliteration&quot;:&quot;kyoushin&quot;},{&quot;translateID&quot;:910619,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;выгнать из дому&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;路頭に迷わす&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ろとうにまよわす&quot;,&quot;transliteration&quot;:&quot;rotounimayowasu&quot;},{&quot;translateID&quot;:358765,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;убегать из дому&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;家出する&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いえでする&quot;,&quot;transliteration&quot;:&quot;iedesuru&quot;},{&quot;translateID&quot;:577843,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;нелюбовь к выходам из дому&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;出嫌い&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;でぎらい&quot;,&quot;transliteration&quot;:&quot;degirai&quot;},{&quot;translateID&quot;:535628,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Моя работа по дому - мыть посуду.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;私の家事は皿を洗うことです。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;わたしのかじはさらをあらうことです。&quot;,&quot;transliteration&quot;:&quot;watashinokajihasara o araukotodesu。&quot;},{&quot;translateID&quot;:572817,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;прилегающий к дому&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;住宅付属庭地&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じゅうたくふぞくていち&quot;,&quot;transliteration&quot;:&quot;juutakufuzokuteichi&quot;},{&quot;translateID&quot;:430433,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;тоска по родному дому&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;郷思&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きょうし&quot;,&quot;transliteration&quot;:&quot;kyoushi&quot;},{&quot;translateID&quot;:565471,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;работать на дому&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;手内職をする&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てないしょくをする&quot;,&quot;transliteration&quot;:&quot;tenaishoku o suru&quot;},{&quot;translateID&quot;:358761,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;уход из дому&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;家出&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いえで&quot;,&quot;transliteration&quot;:&quot;iede&quot;},{&quot;translateID&quot;:577683,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;давать уроки на дому&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;出稽古する&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;でげいこする&quot;,&quot;transliteration&quot;:&quot;degeikosuru&quot;},{&quot;translateID&quot;:768394,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;хозяйственные работы по дому&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;日曜大工&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にちようだいく&quot;,&quot;transliteration&quot;:&quot;nichiyoudaiku&quot;},{&quot;translateID&quot;:815753,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;делать обход пациентов на дому&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;病家回りをする&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;びょうかまわりをする&quot;,&quot;transliteration&quot;:&quot;byoukamawari o suru&quot;},{&quot;translateID&quot;:722412,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;занятия на дому у преподавателя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;通い稽古&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かよいげいこ&quot;,&quot;transliteration&quot;:&quot;kayoigeiko&quot;},{&quot;translateID&quot;:358469,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;из дому&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;家から&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いえから&quot;,&quot;transliteration&quot;:&quot;iekara&quot;},{&quot;translateID&quot;:506262,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Извините, но сегодня к моему дому не было доставлено молоко.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;今日牛乳がぼくのところへ来なかったのですが。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きょうぎゅうにゅうがぼくのところへこなかったのですが。&quot;,&quot;transliteration&quot;:&quot;kyougyuunyuugabokunotokorohekonakattanodesuga。&quot;},{&quot;translateID&quot;:578733,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;отлучаться из дому&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;出歩く&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;であるく&quot;,&quot;transliteration&quot;:&quot;dearuku&quot;},{&quot;translateID&quot;:524168,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;выйти из дому под видом прогулки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;散歩の体にして出掛ける&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さんぽのからだにしてでかける&quot;,&quot;transliteration&quot;:&quot;sanponokaradanishitedekakeru&quot;},{&quot;translateID&quot;:759960,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;осмотр на дому&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;内診&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ないしん&quot;,&quot;transliteration&quot;:&quot;naishin&quot;},{&quot;translateID&quot;:674344,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;к этому дому неудобно подъезжать&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;足場をこの家は足場が悪い&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あしばをこのいえはあしばがわるい&quot;,&quot;transliteration&quot;:&quot;ashiba o konoiehaashibagawarui&quot;},{&quot;translateID&quot;:257587,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;тоска по дому&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ホームシック&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほーむしっく&quot;,&quot;transliteration&quot;:&quot;ho:mushikku&quot;},{&quot;translateID&quot;:359251,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;от дома к дому&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;家並みに&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いえなみに&quot;,&quot;transliteration&quot;:&quot;ienamini&quot;},{&quot;translateID&quot;:578716,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;нелюбовь к выходам из дому&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;出不精&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;でぶしょう&quot;,&quot;transliteration&quot;:&quot;debushou&quot;},{&quot;translateID&quot;:442650,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;искать по всему дому&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;隅々まで捜す&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;すみずみまでさがす&quot;,&quot;transliteration&quot;:&quot;sumizumimadesagasu&quot;},{&quot;translateID&quot;:759942,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Работа на дому&quot;,&quot;wordnote&quot;:&quot;мошенничество&quot;,&quot;translation&quot;:&quot;内職商法&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ないしょくしょうほう&quot;,&quot;transliteration&quot;:&quot;naishokushouhou&quot;},{&quot;translateID&quot;:549452,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;сделанный на дому&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;自家製の&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じかせいの&quot;,&quot;transliteration&quot;:&quot;jikaseino&quot;},{&quot;translateID&quot;:257559,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;тоска по дому&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ホーム・シック&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほーむ・しっく&quot;,&quot;transliteration&quot;:&quot;ho:mu・shikku&quot;},{&quot;translateID&quot;:358775,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;весточка из дому&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;家信&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かしん&quot;,&quot;transliteration&quot;:&quot;kashin&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="дому" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

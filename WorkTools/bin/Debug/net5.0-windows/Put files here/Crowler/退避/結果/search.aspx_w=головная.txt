@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	головная - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,головная" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u0433%u043e%u043b%u043e%u0432%u043d%u0430%u044f" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV644Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNCz0L7Qu9C+0LLQvdCw0Y9kAgMPZBYIAgIPZBYEAgEPFgIeA3NyYwUPLi4vaW1nL2xvZ28ucG5nZAIFDxYCHgRocmVmBQ4uLi8/bGFuZz1ydS1SVWQCBA8WAh4HVmlzaWJsZWdkAgYPFgIfA2hkAgcPZBYIZg8WAh8DaGQCAQ8WAh8DaGQCAg8WAh8DaGQCBQ8WAh8DaGRkJLR0UF3Hk5Gip8/W5isOqp0eDtU=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAUqECpWyVtWoUbj9jwERR2+lIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/gKZ9xKHNNSuq/QzVZyP+w7zzZ8z" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:true,&quot;Phrases&quot;:[{&quot;translateID&quot;:615544,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;головная часть войсковой колонны&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;進軍の最尖端&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しんぐんのさいせんたん&quot;,&quot;transliteration&quot;:&quot;shingunnosaisentan&quot;},{&quot;translateID&quot;:849637,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;головная повязка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;包み&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;つつみ&quot;,&quot;transliteration&quot;:&quot;tsutsumi&quot;},{&quot;translateID&quot;:849453,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;головная организация&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;母体&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぼたい&quot;,&quot;transliteration&quot;:&quot;botai&quot;},{&quot;translateID&quot;:33102,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Разделяющаяся головная часть с блоками индивидуального наведения&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;MIRV&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;MIRV&quot;,&quot;transliteration&quot;:&quot;MIRV&quot;},{&quot;translateID&quot;:749921,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;головная боль&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;頭痛&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ずつう&quot;,&quot;transliteration&quot;:&quot;zutsuu&quot;},{&quot;translateID&quot;:796813,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Причина, по которой он отсутствовал, заключается в том, что у него была сильная головная боль.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;彼が休んだ理由はひどい頭痛がしたからだった。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かれがやすんだりゆうはひどいずつうがしたからだった。&quot;,&quot;transliteration&quot;:&quot;karegayasundariyuuhahidoizutsuugashitakaradatta。&quot;},{&quot;translateID&quot;:650492,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;головная часть&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;先導隊&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せんどうたい&quot;,&quot;transliteration&quot;:&quot;sendoutai&quot;},{&quot;translateID&quot;:174822,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;У меня слабость и пульсирующая головная боль.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;だるいし頭がずきずきする。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;だるいしあたまがずきずきする。&quot;,&quot;transliteration&quot;:&quot;daruishiatamagazukizukisuru。&quot;},{&quot;translateID&quot;:619898,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;головная часть&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;陣頭&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じんとう&quot;,&quot;transliteration&quot;:&quot;jintou&quot;},{&quot;translateID&quot;:251185,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Головная гарнитура&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ヘッドセット&quot;,&quot;translationnote&quot;:&quot;音響機器&quot;,&quot;reading&quot;:&quot;へっどせっと&quot;,&quot;transliteration&quot;:&quot;heddosetto&quot;},{&quot;translateID&quot;:750125,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;головная вошь&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;頭虱&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あたましらみ&quot;,&quot;transliteration&quot;:&quot;atamashirami&quot;},{&quot;translateID&quot;:749930,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Моя головная боль прошла.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;頭痛が直った。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ずつうがなおった。&quot;,&quot;transliteration&quot;:&quot;zutsuuganaotta。&quot;},{&quot;translateID&quot;:563289,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;головная организация&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;取引先企業の親会社&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とりひきさききぎょうのおやがいしゃ&quot;,&quot;transliteration&quot;:&quot;torihikisakikigyounooyagaisha&quot;},{&quot;translateID&quot;:251030,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;головная запись&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ヘッダーレコード&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;へっだーれこーど&quot;,&quot;transliteration&quot;:&quot;hedda:reko:do&quot;},{&quot;translateID&quot;:463367,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;головная запись&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;見出しレコード&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;みだしれこーど&quot;,&quot;transliteration&quot;:&quot;midashireko:do&quot;},{&quot;translateID&quot;:749995,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;головная часть&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;頭部&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とうぶ&quot;,&quot;transliteration&quot;:&quot;toubu&quot;},{&quot;translateID&quot;:103269,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;головная лампа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;キャップランプ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きゃっぷらんぷ&quot;,&quot;transliteration&quot;:&quot;kyappuranpu&quot;},{&quot;translateID&quot;:699339,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;головная ударная волна&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;弾翁波&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たまおきなは&quot;,&quot;transliteration&quot;:&quot;tamaokinaha&quot;},{&quot;translateID&quot;:834830,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;отделяемая головная часть&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;分離式頭部&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぶんりしきとうぶ&quot;,&quot;transliteration&quot;:&quot;bunrishikitoubu&quot;},{&quot;translateID&quot;:825838,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;головная ударная волна&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;部波&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぶは&quot;,&quot;transliteration&quot;:&quot;buha&quot;},{&quot;translateID&quot;:251211,&quot;translationStatus&quot;:0,&quot;themeID&quot;:14,&quot;groupName&quot;:&quot;車両&quot;,&quot;themeName&quot;:&quot;自動車&quot;,&quot;word&quot;:&quot;головная труба рамы, внутри которой размещается рулевая колонка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ヘッドパイプ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;へっどぱいぷ&quot;,&quot;transliteration&quot;:&quot;heddopaipu&quot;},{&quot;translateID&quot;:103270,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;головная лампа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;キャップランプ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きゃっぷらんぷ&quot;,&quot;transliteration&quot;:&quot;kyappuranpu&quot;},{&quot;translateID&quot;:520708,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;срезанная головная часть&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;皿&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さら&quot;,&quot;transliteration&quot;:&quot;sara&quot;},{&quot;translateID&quot;:541717,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;экспериментальная головная часть&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;試験水頭&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しけんすいあたま&quot;,&quot;transliteration&quot;:&quot;shikensuiatama&quot;},{&quot;translateID&quot;:564564,&quot;translationStatus&quot;:0,&quot;themeID&quot;:49,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;石油・ガス&quot;,&quot;word&quot;:&quot;головная лампа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;手持ちランプ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てもちらんぷ&quot;,&quot;transliteration&quot;:&quot;temochiranpu&quot;},{&quot;translateID&quot;:103271,&quot;translationStatus&quot;:0,&quot;themeID&quot;:49,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;石油・ガス&quot;,&quot;word&quot;:&quot;головная лампа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;キャップランプ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きゃっぷらんぷ&quot;,&quot;transliteration&quot;:&quot;kyappuranpu&quot;},{&quot;translateID&quot;:809672,&quot;translationStatus&quot;:0,&quot;themeID&quot;:50,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;金属&quot;,&quot;word&quot;:&quot;головная группа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;尾翼&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;びよく&quot;,&quot;transliteration&quot;:&quot;biyoku&quot;},{&quot;translateID&quot;:699673,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;головная волна&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;弾頭波&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;だんとうは&quot;,&quot;transliteration&quot;:&quot;dantouha&quot;},{&quot;translateID&quot;:435394,&quot;translationStatus&quot;:0,&quot;themeID&quot;:107,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;神経病学&quot;,&quot;word&quot;:&quot;головная боль напряженного типа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;緊張性頭痛&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きんちょうせいずつう&quot;,&quot;transliteration&quot;:&quot;kinchouseizutsuu&quot;},{&quot;translateID&quot;:863710,&quot;translationStatus&quot;:0,&quot;themeID&quot;:107,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;神経病学&quot;,&quot;word&quot;:&quot;хроническая посттравматическая головная боль&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;慢性外傷後頭痛&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まんせいがいしょうごずつう&quot;,&quot;transliteration&quot;:&quot;manseigaishougozutsuu&quot;},{&quot;translateID&quot;:919109,&quot;translationStatus&quot;:0,&quot;themeID&quot;:125,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;外科&quot;,&quot;word&quot;:&quot;головная вена&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;橈側皮静脈&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とうそくひじょうみゃく&quot;,&quot;transliteration&quot;:&quot;tousokuhijoumyaku&quot;},{&quot;translateID&quot;:863739,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;хроническая кластерная головная боль&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;慢性群発頭痛&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まんせいぐんぱつずつう&quot;,&quot;transliteration&quot;:&quot;manseigunpatsuzutsuu&quot;},{&quot;translateID&quot;:324677,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;первичная кашлевая головная боль&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;一次性咳嗽性頭痛&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いちじせいがいそうせいずつう&quot;,&quot;transliteration&quot;:&quot;ichijiseigaisouseizutsuu&quot;},{&quot;translateID&quot;:492174,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;головная боль после дуральной пункции&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;硬膜穿刺後頭痛&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうまくせんしごずつう&quot;,&quot;transliteration&quot;:&quot;koumakusenshigozutsuu&quot;},{&quot;translateID&quot;:409300,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;нечастая эпизодическая головная боль напряжения&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;稀発反復性緊張型頭痛&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きはつはんぷくせいきんちょうけいずつう&quot;,&quot;transliteration&quot;:&quot;kihatsuhanpukuseikinchoukeizutsuu&quot;},{&quot;translateID&quot;:609021,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;новая ежедневная персистирующая головная боль&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;新規発症持続性連日性頭痛&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しんきはっしょうじぞくせいれんじつせいずつう&quot;,&quot;transliteration&quot;:&quot;shinkihasshoujizokuseirenjitsuseizutsuu&quot;},{&quot;translateID&quot;:794133,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;эпизодическая пучковая головная боль&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;反復性群発頭痛&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はんぷくせいぐんぱつずつう&quot;,&quot;transliteration&quot;:&quot;hanpukuseigunpatsuzutsuu&quot;},{&quot;translateID&quot;:749622,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;частая эпизодическая головная боль напряжения&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;頭蓋周囲の圧痛を伴わない頻発反復性緊張型頭痛&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ずがいしゅういのあっつうをともなわないひんぱつはんぷくせいきんちょうけいずつう&quot;,&quot;transliteration&quot;:&quot;zugaishuuinoattsuu o tomonawanaihinpatsuhanpukuseikinchoukeizutsuu&quot;},{&quot;translateID&quot;:87737,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;оргазмическая головная боль&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;オルガスム時頭痛&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おるがすむじずつう&quot;,&quot;transliteration&quot;:&quot;orugasumujizutsuu&quot;},{&quot;translateID&quot;:863740,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;хроническая пучковая головная боль&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;慢性群発頭痛&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まんせいぐんぱつずつう&quot;,&quot;transliteration&quot;:&quot;manseigunpatsuzutsuu&quot;},{&quot;translateID&quot;:324689,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;первичная колющая головная боль&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;一次性穿刺様頭痛&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いちじせいせんしようずつう&quot;,&quot;transliteration&quot;:&quot;ichijiseisenshiyouzutsuu&quot;},{&quot;translateID&quot;:624720,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;гипническая головная боль&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;睡眠時頭痛&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;すいみんじずつう&quot;,&quot;transliteration&quot;:&quot;suiminjizutsuu&quot;},{&quot;translateID&quot;:409301,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;возможная нечастая головная боль напряжения&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;稀発反復性緊張型頭痛の疑い&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きはつはんぷくせいきんちょうけいずつうのうたがい&quot;,&quot;transliteration&quot;:&quot;kihatsuhanpukuseikinchoukeizutsuunoutagai&quot;},{&quot;translateID&quot;:657990,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;головная почка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;前腎&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぜんじん&quot;,&quot;transliteration&quot;:&quot;zenjin&quot;},{&quot;translateID&quot;:750071,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;головная железа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;頭部腺&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とうぶせん&quot;,&quot;transliteration&quot;:&quot;toubusen&quot;},{&quot;translateID&quot;:749624,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;хроническая головная боль напряжения&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;頭蓋周囲の圧痛を伴わない慢性緊張型頭痛&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ずがいしゅういのあっつうをともなわないまんせいきんちょうけいずつう&quot;,&quot;transliteration&quot;:&quot;zugaishuuinoattsuu o tomonawanaimanseikinchoukeizutsuu&quot;},{&quot;translateID&quot;:863737,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;хроническая головная боль напряжения&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;慢性緊張型頭痛&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まんせいきんちょうけいずつう&quot;,&quot;transliteration&quot;:&quot;manseikinchoukeizutsuu&quot;},{&quot;translateID&quot;:642877,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;головная боль после спинальной анестезии&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;脊麻後頭痛&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せきまごずつう&quot;,&quot;transliteration&quot;:&quot;sekimagozutsuu&quot;},{&quot;translateID&quot;:456980,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;головная боль сосудистого происхождения&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;血管性頭痛&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けっかんせいずつう&quot;,&quot;transliteration&quot;:&quot;kekkanseizutsuu&quot;},{&quot;translateID&quot;:435367,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;возможная головная боль напряжения&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;緊張型頭痛の疑い&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きんちょうけいずつうのうたがい&quot;,&quot;transliteration&quot;:&quot;kinchoukeizutsuunoutagai&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="головная" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

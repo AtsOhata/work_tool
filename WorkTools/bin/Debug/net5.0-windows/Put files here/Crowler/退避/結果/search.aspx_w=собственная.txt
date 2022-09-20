@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	собственная - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,собственная" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u0441%u043e%u0431%u0441%u0442%u0432%u0435%u043d%u043d%u0430%u044f" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAWAAeODreOCt+OCouiqnizml6XmnKzoqp4s44Kq44Oz44Op44Kk44OzLOi+nuabuCzovp7lhbgs5ZKM6ZyyLOe/u+iosyzjg63jgrfjgqLoqp7oqLMs44Ot44K344Ki6Kqe44GnLOmcsuiosyzRgdC+0LHRgdGC0LLQtdC90L3QsNGPZAIDD2QWCAICD2QWBAIBDxYCHgNzcmMFDy4uL2ltZy9sb2dvLnBuZ2QCBQ8WAh4EaHJlZgUOLi4vP2xhbmc9cnUtUlVkAgQPFgIeB1Zpc2libGVnZAIGDxYCHwNoZAIHD2QWCGYPFgIfA2hkAgEPFgIfA2hkAgIPFgIfA2hkAgUPFgIfA2hkZG3U0ESa+ciiwT0hYu1pll+ABJdh" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAWqU3B/ltGQwn2824Gl/ZWDlIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/l6+E7Ja9/+ZcZlPuoP7o6eCwdDS" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:true,&quot;Phrases&quot;:[{&quot;translateID&quot;:550280,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;собственная работа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;自作&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じさく&quot;,&quot;transliteration&quot;:&quot;jisaku&quot;},{&quot;translateID&quot;:815812,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Собственная болезнь разбила все его надежды.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;病気のために彼の希望はすべて挫折した。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;びょうきのためにかれのきぼうはすべてざせつした。&quot;,&quot;transliteration&quot;:&quot;byoukinotamenikarenokibouhasubetezasetsushita。&quot;},{&quot;translateID&quot;:564981,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;собственная лодка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;手船&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てせん&quot;,&quot;transliteration&quot;:&quot;tesen&quot;},{&quot;translateID&quot;:549486,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;собственная автомашина&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;自家用車&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じかようしゃ&quot;,&quot;transliteration&quot;:&quot;jikayousha&quot;},{&quot;translateID&quot;:242432,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Их собственная лига&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;プリティ・リーグ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぷりてぃ・りーぐ&quot;,&quot;transliteration&quot;:&quot;puriti・ri:gu&quot;},{&quot;translateID&quot;:46766,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;У тебя есть собственная комната?&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;あなたは自分の部屋をもっていますか。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あなたはじぶんのへやをもっていますか。&quot;,&quot;transliteration&quot;:&quot;anatahajibunnoheya o motteimasuka。&quot;},{&quot;translateID&quot;:801169,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;У них была своя собственная культура.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;彼らは独自の文化を持っていた。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かれらはどくじのぶんかをもっていた。&quot;,&quot;transliteration&quot;:&quot;karerahadokujinobunka o motteita。&quot;},{&quot;translateID&quot;:491520,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Собственная Его Императорского Величества канцелярия&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;皇帝官房&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうていかんぼう&quot;,&quot;transliteration&quot;:&quot;kouteikanbou&quot;},{&quot;translateID&quot;:585180,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;собственная воля&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;勝手&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かって&quot;,&quot;transliteration&quot;:&quot;katte&quot;},{&quot;translateID&quot;:364565,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;собственная школа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;我流&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;がりゅう&quot;,&quot;transliteration&quot;:&quot;garyuu&quot;},{&quot;translateID&quot;:364210,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;собственная персона&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;我が身&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;わがみ&quot;,&quot;transliteration&quot;:&quot;wagami&quot;},{&quot;translateID&quot;:467638,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;собственная частота затухающих колебаний&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;減衰自然周波数&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;げんすいしぜんしゅうはすう&quot;,&quot;transliteration&quot;:&quot;gensuishizenshuuhasuu&quot;},{&quot;translateID&quot;:473048,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;собственная надёжность&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;固有信頼度&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こゆうしんらいど&quot;,&quot;transliteration&quot;:&quot;koyuushinraido&quot;},{&quot;translateID&quot;:760865,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;собственная память&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;内部記憶&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ないぶきおく&quot;,&quot;transliteration&quot;:&quot;naibukioku&quot;},{&quot;translateID&quot;:490599,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;собственная сеть&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;構内ネットワーク&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうないねっとわーく&quot;,&quot;transliteration&quot;:&quot;kounainettowa:ku&quot;},{&quot;translateID&quot;:550198,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;собственная ёмкость&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;自己容量&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じこようりょう&quot;,&quot;transliteration&quot;:&quot;jikoyouryou&quot;},{&quot;translateID&quot;:81872,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;собственная подпрограмма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;オウン・コード&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おうん・こーど&quot;,&quot;transliteration&quot;:&quot;oun・ko:do&quot;},{&quot;translateID&quot;:552511,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;собственная ёмкость&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;自由キャパシタンス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じゆうきゃぱしたんす&quot;,&quot;transliteration&quot;:&quot;jiyuukyapashitansu&quot;},{&quot;translateID&quot;:81874,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;собственная подпрограмма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;オウンコーディング&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おうんこーでぃんぐ&quot;,&quot;transliteration&quot;:&quot;ounko:dingu&quot;},{&quot;translateID&quot;:827040,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;собственная масса вагона&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;風袋おもり&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふうたいおもり&quot;,&quot;transliteration&quot;:&quot;fuutaiomori&quot;},{&quot;translateID&quot;:81875,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;собственная подпрограмма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;オウンコード&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おうんこーど&quot;,&quot;transliteration&quot;:&quot;ounko:do&quot;},{&quot;translateID&quot;:818365,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;собственная частота незатухающих колебаний&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;不減衰固有振動数&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふげんすいこゆうしんどうすう&quot;,&quot;transliteration&quot;:&quot;fugensuikoyuushindousuu&quot;},{&quot;translateID&quot;:639473,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;собственная энергия&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;静止エネルギー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せいしえねるぎー&quot;,&quot;transliteration&quot;:&quot;seishienerugi:&quot;},{&quot;translateID&quot;:834326,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;собственная ёмкость&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;分布キャパシタンス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぶんぷきゃぱしたんす&quot;,&quot;transliteration&quot;:&quot;bunpukyapashitansu&quot;},{&quot;translateID&quot;:472995,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;собственная фотопроводимость&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;固有形光伝導&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こゆうけいこうでんどう&quot;,&quot;transliteration&quot;:&quot;koyuukeikoudendou&quot;},{&quot;translateID&quot;:870064,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;собственная добротность&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;無負荷Q&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;むふかQ&quot;,&quot;transliteration&quot;:&quot;mufukaQ&quot;},{&quot;translateID&quot;:550999,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;собственная частота гармоники&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;自走周波数&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じそうしゅうはすう&quot;,&quot;transliteration&quot;:&quot;jisoushuuhasuu&quot;},{&quot;translateID&quot;:611934,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;собственная электропроводность&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;真性導電率&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しんせいどうでんりつ&quot;,&quot;transliteration&quot;:&quot;shinseidoudenritsu&quot;},{&quot;translateID&quot;:473125,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;собственная коэрцитивная сила&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;固有保磁力&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こゆうほじりょく&quot;,&quot;transliteration&quot;:&quot;koyuuhojiryoku&quot;},{&quot;translateID&quot;:473019,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;собственная магнитная индукция&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;固有磁束密度&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こゆうじそくみつど&quot;,&quot;transliteration&quot;:&quot;koyuujisokumitsudo&quot;},{&quot;translateID&quot;:550197,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;собственная емкость&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;自己容量&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じこようりょう&quot;,&quot;transliteration&quot;:&quot;jikoyouryou&quot;},{&quot;translateID&quot;:473036,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;собственная частота колебаний&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;固有周波数&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こゆうしゅうはすう&quot;,&quot;transliteration&quot;:&quot;koyuushuuhasuu&quot;},{&quot;translateID&quot;:473060,&quot;translationStatus&quot;:0,&quot;themeID&quot;:24,&quot;groupName&quot;:&quot;土木&quot;,&quot;themeName&quot;:&quot;橋梁工学&quot;,&quot;word&quot;:&quot;собственная частота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;固有振動数&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こゆうしんどうすう&quot;,&quot;transliteration&quot;:&quot;koyuushindousuu&quot;},{&quot;translateID&quot;:473061,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;собственная частота колебаний&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;固有振動数&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こゆうしんどうすう&quot;,&quot;transliteration&quot;:&quot;koyuushindousuu&quot;},{&quot;translateID&quot;:472952,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;собственная устойчивость&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;固有安定性&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こゆうあんていせい&quot;,&quot;transliteration&quot;:&quot;koyuuanteisei&quot;},{&quot;translateID&quot;:473099,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;собственная проводимость&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;固有伝導&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こゆうでんどう&quot;,&quot;transliteration&quot;:&quot;koyuudendou&quot;},{&quot;translateID&quot;:402461,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;низшая собственная частота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;基本周波数&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きほんしゅうはすう&quot;,&quot;transliteration&quot;:&quot;kihonshuuhasuu&quot;},{&quot;translateID&quot;:639562,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;собственная масса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;静止質量&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せいししつりょう&quot;,&quot;transliteration&quot;:&quot;seishishitsuryou&quot;},{&quot;translateID&quot;:467624,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;собственная частота задемпфированных колебаний&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;減衰固有振動数&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;げんすいこゆうしんどうすう&quot;,&quot;transliteration&quot;:&quot;gensuikoyuushindousuu&quot;},{&quot;translateID&quot;:472941,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;собственная светимость&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;固有の明るさ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こゆうのあかるさ&quot;,&quot;transliteration&quot;:&quot;koyuunoakarusa&quot;},{&quot;translateID&quot;:472942,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;собственная чётность&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;固有パリティ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こゆうぱりてぃ&quot;,&quot;transliteration&quot;:&quot;koyuupariti&quot;},{&quot;translateID&quot;:473001,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;собственная светимость&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;固有光度&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こゆうこうど&quot;,&quot;transliteration&quot;:&quot;koyuukoudo&quot;},{&quot;translateID&quot;:401603,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;собственная частота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;基準振動数&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きじゅんしんどうすう&quot;,&quot;transliteration&quot;:&quot;kijunshindousuu&quot;},{&quot;translateID&quot;:473062,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;характеристическая или собственная частота колебаний&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;固有振動数&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こゆうしんどうすう&quot;,&quot;transliteration&quot;:&quot;koyuushindousuu&quot;},{&quot;translateID&quot;:368069,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;вращательная собственная функция&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;回転固有関数&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かいてんこゆうかんすう&quot;,&quot;transliteration&quot;:&quot;kaitenkoyuukansuu&quot;},{&quot;translateID&quot;:401968,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;собственная частота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;基礎振動数&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きそしんどうすう&quot;,&quot;transliteration&quot;:&quot;kisoshindousuu&quot;},{&quot;translateID&quot;:473039,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;собственная частота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;固有周波数&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こゆうしゅうはすう&quot;,&quot;transliteration&quot;:&quot;koyuushuuhasuu&quot;},{&quot;translateID&quot;:472928,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;собственная проводимость&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;固有コンダクタンス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こゆうこんだくたんす&quot;,&quot;transliteration&quot;:&quot;koyuukondakutansu&quot;},{&quot;translateID&quot;:473101,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;собственная удельная электропроводность&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;固有伝導度&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こゆうでんどうど&quot;,&quot;transliteration&quot;:&quot;koyuudendoudo&quot;},{&quot;translateID&quot;:738169,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;собственная функция электронов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;電子固有関数&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;でんしこゆうかんすう&quot;,&quot;transliteration&quot;:&quot;denshikoyuukansuu&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="собственная" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

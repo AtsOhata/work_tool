@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	железные - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,железные" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u0436%u0435%u043b%u0435%u0437%u043d%u044b%u0435" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV644Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNC20LXQu9C10LfQvdGL0LVkAgMPZBYIAgIPZBYEAgEPFgIeA3NyYwUPLi4vaW1nL2xvZ28ucG5nZAIFDxYCHgRocmVmBQ4uLi8/bGFuZz1ydS1SVWQCBA8WAh4HVmlzaWJsZWdkAgYPFgIfA2hkAgcPZBYIZg8WAh8DaGQCAQ8WAh8DaGQCAg8WAh8DaGQCBQ8WAh8DaGRkkEh9wkQUFm+Lb25COYbKT5PsujA=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAX6sQj4EesTTI5shK+ebY7KlIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/kyn4qjHQwbZb+tiQ+ekjcSRAwdX" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:false,&quot;Phrases&quot;:[{&quot;translateID&quot;:179156,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Тунисские железные дороги&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;チュニジア鉄道&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅにじあてつどう&quot;,&quot;transliteration&quot;:&quot;chunijiatetsudou&quot;},{&quot;translateID&quot;:160206,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Словенские железные дороги&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;スロベニア鉄道&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;すろべにあてつどう&quot;,&quot;transliteration&quot;:&quot;surobeniatetsudou&quot;},{&quot;translateID&quot;:730807,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;железные ворота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;鉄門&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てつもん&quot;,&quot;transliteration&quot;:&quot;tetsumon&quot;},{&quot;translateID&quot;:32266,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Японские железные дороги&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;JR&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;JR&quot;,&quot;transliteration&quot;:&quot;JR&quot;},{&quot;translateID&quot;:176514,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Чехословацкие железные дороги&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;チェコスロバキア国鉄&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちぇこすろばきあこくてつ&quot;,&quot;transliteration&quot;:&quot;chekosurobakiakokutetsu&quot;},{&quot;translateID&quot;:66069,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Железные дороги Индии&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;インドの鉄道路線&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いんどのてつどうろせん&quot;,&quot;transliteration&quot;:&quot;indonotetsudourosen&quot;},{&quot;translateID&quot;:257899,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Польские государственные железные дороги&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ポーランド国鉄&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぽーらんどこくてつ&quot;,&quot;transliteration&quot;:&quot;po:randokokutetsu&quot;},{&quot;translateID&quot;:741855,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;иметь железные нервы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;度胸がすわっている&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;どきょうがすわっている&quot;,&quot;transliteration&quot;:&quot;dokyougasuwatteiru&quot;},{&quot;translateID&quot;:149751,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Швейцарские федеральные железные дороги&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;スイス連邦鉄道&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;すいすれんぽうてつどう&quot;,&quot;transliteration&quot;:&quot;suisurenpoutetsudou&quot;},{&quot;translateID&quot;:66027,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Горные железные дороги Индии&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;インドの山岳鉄道群&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いんどのさんがくてつどうぐん&quot;,&quot;transliteration&quot;:&quot;indonosangakutetsudougun&quot;},{&quot;translateID&quot;:171724,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Государственные железные дороги Таиланда&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;タイ国有鉄道&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たいこくゆうてつどう&quot;,&quot;transliteration&quot;:&quot;taikokuyuutetsudou&quot;},{&quot;translateID&quot;:451896,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Узкоколейные железные дороги&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;軽便鉄道&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けいべんてつどう&quot;,&quot;transliteration&quot;:&quot;keibentetsudou&quot;},{&quot;translateID&quot;:92326,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Казахстанские железные дороги&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;カザフスタン鉄道&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かざふすたんてつどう&quot;,&quot;transliteration&quot;:&quot;kazafusutantetsudou&quot;},{&quot;translateID&quot;:63895,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Иранские железные дороги&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;イラン・イスラーム共和国鉄道&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いらん・いすらーむきょうわこくてつどう&quot;,&quot;transliteration&quot;:&quot;iran・isura:mukyouwakokutetsudou&quot;},{&quot;translateID&quot;:730752,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;железные опилки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;鉄粉&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てっぷん&quot;,&quot;transliteration&quot;:&quot;teppun&quot;},{&quot;translateID&quot;:293307,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Литовские железные дороги&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;リトアニア鉄道&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;りとあにあてつどう&quot;,&quot;transliteration&quot;:&quot;ritoaniatetsudou&quot;},{&quot;translateID&quot;:82716,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Железные дороги Австрии&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;オーストリアの鉄道路線&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おーすとりあのてつどうろせん&quot;,&quot;transliteration&quot;:&quot;o:sutorianotetsudourosen&quot;},{&quot;translateID&quot;:502358,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;государственные железные дороги&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;国鉄&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こくてつ&quot;,&quot;transliteration&quot;:&quot;kokutetsu&quot;},{&quot;translateID&quot;:730275,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;железные изделия&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;鉄器&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てっき&quot;,&quot;transliteration&quot;:&quot;tekki&quot;},{&quot;translateID&quot;:530725,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Детские железные дороги&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;子供鉄道&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こどもてつどう&quot;,&quot;transliteration&quot;:&quot;kodomotetsudou&quot;},{&quot;translateID&quot;:243554,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Болгарские государственные железные дороги&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ブルガリア国鉄&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぶるがりあこくてつ&quot;,&quot;transliteration&quot;:&quot;burugariakokutetsu&quot;},{&quot;translateID&quot;:76191,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Египетские национальные железные дороги&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;エジプト鉄道&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;えじぷとてつどう&quot;,&quot;transliteration&quot;:&quot;ejiputotetsudou&quot;},{&quot;translateID&quot;:304314,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Российские железные дороги&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ロシア鉄道&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ろしあてつどう&quot;,&quot;transliteration&quot;:&quot;roshiatetsudou&quot;},{&quot;translateID&quot;:730245,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;железные щипцы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;鉄火箸&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かなひばし&quot;,&quot;transliteration&quot;:&quot;kanahibashi&quot;},{&quot;translateID&quot;:113589,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Хорватские железные дороги&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;クロアチア鉄道&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;くろあちあてつどう&quot;,&quot;transliteration&quot;:&quot;kuroachiatetsudou&quot;},{&quot;translateID&quot;:240813,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Железные дороги Франции&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;フランスの鉄道路線&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふらんすのてつどうろせん&quot;,&quot;transliteration&quot;:&quot;furansunotetsudourosen&quot;},{&quot;translateID&quot;:780876,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Закрытые железные дороги&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;廃線&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はいせん&quot;,&quot;transliteration&quot;:&quot;haisen&quot;},{&quot;translateID&quot;:61820,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Израильские железные дороги&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;イスラエル鉄道&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いすらえるてつどう&quot;,&quot;transliteration&quot;:&quot;isuraerutetsudou&quot;},{&quot;translateID&quot;:730709,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Железные дороги&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;鉄道路線&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てつどうろせん&quot;,&quot;transliteration&quot;:&quot;tetsudourosen&quot;},{&quot;translateID&quot;:72020,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Украинские железные дороги&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ウクライナ鉄道&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;うくらいなてつどう&quot;,&quot;transliteration&quot;:&quot;ukurainatetsudou&quot;},{&quot;translateID&quot;:418281,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;государственные железные дороги&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;宮線&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かんせん&quot;,&quot;transliteration&quot;:&quot;kansen&quot;},{&quot;translateID&quot;:61781,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Железные дороги Израиля&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;イスラエルの鉄道路線&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いすらえるのてつどうろせん&quot;,&quot;transliteration&quot;:&quot;isuraerunotetsudourosen&quot;},{&quot;translateID&quot;:730653,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;железные дороги&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;鉄道施設&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てつどうしせつ&quot;,&quot;transliteration&quot;:&quot;tetsudoushisetsu&quot;},{&quot;translateID&quot;:707158,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Железные дороги Китая&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中華人民共和国の鉄道路線&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅうかじんみんきょうわこくのてつどうろせん&quot;,&quot;transliteration&quot;:&quot;chuukajinminkyouwakokunotetsudourosen&quot;},{&quot;translateID&quot;:297205,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Румынские железные дороги&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ルーマニア鉄道&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;るーまにあてつどう&quot;,&quot;transliteration&quot;:&quot;ru:maniatetsudou&quot;},{&quot;translateID&quot;:60970,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Железные дороги Великобритании&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;イギリスの鉄道路線&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いぎりすのてつどうろせん&quot;,&quot;transliteration&quot;:&quot;igirisunotetsudourosen&quot;},{&quot;translateID&quot;:730599,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;железные дороги прорезают местность по всем направлениям&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;鉄道が縦横に貫通している&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てつどうがじゅうおうにかんつうしている&quot;,&quot;transliteration&quot;:&quot;tetsudougajuuounikantsuushiteiru&quot;},{&quot;translateID&quot;:707156,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Железные дороги Китая&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中華人民共和国の鉄道&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅうかじんみんきょうわこくのてつどう&quot;,&quot;transliteration&quot;:&quot;chuukajinminkyouwakokunotetsudou&quot;},{&quot;translateID&quot;:82773,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Австрийские федеральные железные дороги&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;オーストリア連邦鉄道&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おーすとりあれんぽうてつどう&quot;,&quot;transliteration&quot;:&quot;o:sutoriarenpoutetsudou&quot;},{&quot;translateID&quot;:703092,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Красными линиями на карте показаны железные дороги.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;地図上の赤い線は鉄道をあらわす。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちずじょうのあかいせんはてつどうをあらわす。&quot;,&quot;transliteration&quot;:&quot;chizujounoakaisenhatetsudou o arawasu。&quot;},{&quot;translateID&quot;:730396,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;железные доспехи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;鉄甲&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てっこう&quot;,&quot;transliteration&quot;:&quot;tekkou&quot;},{&quot;translateID&quot;:707134,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Высокоскоростные железные дороги в Китае&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中華人民共和国の高速鉄道&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅうかじんみんきょうわこくのこうそくてつどう&quot;,&quot;transliteration&quot;:&quot;chuukajinminkyouwakokunokousokutetsudou&quot;},{&quot;translateID&quot;:651529,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Промышленные железные дороги&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;専用鉄道&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せんようてつどう&quot;,&quot;transliteration&quot;:&quot;senyoutetsudou&quot;},{&quot;translateID&quot;:730754,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;железные пилки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;鉄粉&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てっぷん&quot;,&quot;transliteration&quot;:&quot;teppun&quot;},{&quot;translateID&quot;:730404,&quot;translationStatus&quot;:0,&quot;themeID&quot;:50,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;金属&quot;,&quot;word&quot;:&quot;руды железные&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;鉄鉱石&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てっこうせき&quot;,&quot;transliteration&quot;:&quot;tekkouseki&quot;},{&quot;translateID&quot;:910462,&quot;translationStatus&quot;:0,&quot;themeID&quot;:50,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;金属&quot;,&quot;word&quot;:&quot;подставки для дров в камине железные&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;炉のまき載せ台&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ろのまきのせだい&quot;,&quot;transliteration&quot;:&quot;ronomakinosedai&quot;},{&quot;translateID&quot;:730222,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;железные квасцы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;鉄ミョウバン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てつみょうばん&quot;,&quot;transliteration&quot;:&quot;tetsumyouban&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="железные" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

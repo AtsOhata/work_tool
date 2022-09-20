@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	сделаю - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,сделаю" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u0441%u0434%u0435%u043b%u0430%u044e" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV244Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNGB0LTQtdC70LDRjmQCAw9kFggCAg9kFgQCAQ8WAh4Dc3JjBQ8uLi9pbWcvbG9nby5wbmdkAgUPFgIeBGhyZWYFDi4uLz9sYW5nPXJ1LVJVZAIEDxYCHgdWaXNpYmxlZ2QCBg8WAh8DaGQCBw9kFghmDxYCHwNoZAIBDxYCHwNoZAICDxYCHwNoZAIFDxYCHwNoZGS6hDi/ppQQZxakSmB2YtIHArhtWA==" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAU3tfRh+lvceT/PwIUu/cH3lIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/v10oZCzpVj0FhK99/jVTMywKj5/" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:false,&quot;Phrases&quot;:[{&quot;translateID&quot;:354925,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Я сделаю вам подарок.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;何かプレゼントをあげるね。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なにかぷれぜんとをあげるね。&quot;,&quot;transliteration&quot;:&quot;nanikapurezento o agerune。&quot;},{&quot;translateID&quot;:443889,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Я сделаю всё, чтобы выколотить эту идею из твоей башки.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;君がそんな考えを忘れるよう僕は努力するつもりだ。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きみがそんなかんがえをわすれるようぼくはどりょくするつもりだ。&quot;,&quot;transliteration&quot;:&quot;kimigasonnakangae o wasureruyoubokuhadoryokusurutsumorida。&quot;},{&quot;translateID&quot;:169382,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;если я это сделаю&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;そんな事をしたら飯の食いあげだ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そんなことをしたらめしのくいあげだ&quot;,&quot;transliteration&quot;:&quot;sonnakoto o shitarameshinokuiageda&quot;},{&quot;translateID&quot;:96672,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Не волнуйся. Я сделаю это.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;かまわないよ。ぼくがやってあげるよ。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かまわないよ。ぼくがやってあげるよ。&quot;,&quot;transliteration&quot;:&quot;kamawanaiyo。bokugayatteageruyo。&quot;},{&quot;translateID&quot;:46876,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Я сделаю из тебя мужчину.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;あなたを一人前の男にしてあげよう。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あなたをいちにんまえのおとこにしてあげよう。&quot;,&quot;transliteration&quot;:&quot;anata o ichininmaenootokonishiteageyou。&quot;},{&quot;translateID&quot;:169279,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;довольно самонадеянно с его стороны было ждать что я это для него сделаю&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;そんなごとを私にして貰おうと思うなんて随分虫のいい話だ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そんなごとをわたしにしてもらおうとおもうなんてずいぶんむしのいいはなしだ&quot;,&quot;transliteration&quot;:&quot;sonnagoto o watashinishitemoraoutoomounantezuibunmushinoiihanashida&quot;},{&quot;translateID&quot;:538108,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;я сделаю из него настоящего человека&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;私は彼を一人前の人間にしてやろう&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;わたしはかれをいちにんまえのにんげんにしてやろう&quot;,&quot;transliteration&quot;:&quot;watashihakare o ichininmaenoningennishiteyarou&quot;},{&quot;translateID&quot;:46290,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Я это сделаю согласно вашим инструкциям.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;あなたの指示どおりにやります。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あなたのしじどおりにやります。&quot;,&quot;transliteration&quot;:&quot;anatanoshijidooriniyarimasu。&quot;},{&quot;translateID&quot;:168951,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Можно, я сделаю это прямо сейчас?&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;それをすぐしてもいいですか。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;それをすぐしてもいいですか。&quot;,&quot;transliteration&quot;:&quot;sore o sugushitemoiidesuka。&quot;},{&quot;translateID&quot;:538038,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Ради него я сделаю что-угодно.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;私は彼のためなら何でもします。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;わたしはかれのためならなんでもします。&quot;,&quot;transliteration&quot;:&quot;watashihakarenotamenaranandemoshimasu。&quot;},{&quot;translateID&quot;:46218,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;для вас я сделаю всё&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;あなたのためなら何なりとも致しましょう&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あなたのためならなんなりともいたしましょう&quot;,&quot;transliteration&quot;:&quot;anatanotamenaranannaritomoitashimashou&quot;},{&quot;translateID&quot;:168950,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;если я не сделаю этого&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;それをしなければ私の義務が立たない&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;それをしなければわたしのぎむがたたない&quot;,&quot;transliteration&quot;:&quot;sore o shinakerebawatashinogimugatatanai&quot;},{&quot;translateID&quot;:536121,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Никогда больше не сделаю такой ошибки.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;私は2度とそんな誤りはしません。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;わたしは2どとそんなあやまりはしません。&quot;,&quot;transliteration&quot;:&quot;watashiha2dotosonnaayamarihashimasen。&quot;},{&quot;translateID&quot;:576548,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Я приду, когда сделаю мою домашнюю работу.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;宿題をすませてしまったら行くよ。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゅくだいをすませてしまったらいくよ。&quot;,&quot;transliteration&quot;:&quot;shukudai o sumaseteshimattaraikuyo。&quot;},{&quot;translateID&quot;:444579,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Я сделаю тебя счастливой.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;君を幸せにします。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きみをしあわせにします。&quot;,&quot;transliteration&quot;:&quot;kimi o shiawasenishimasu。&quot;},{&quot;translateID&quot;:534833,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Я сделаю это.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;私がやります。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;わたしがやります。&quot;,&quot;transliteration&quot;:&quot;watashigayarimasu。&quot;},{&quot;translateID&quot;:355105,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;я сделаю что угодно&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;何でもするがそればかり真平だ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なんでもするがそればかりまっぴらだ&quot;,&quot;transliteration&quot;:&quot;nandemosurugasorebakarimappirada&quot;},{&quot;translateID&quot;:444047,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Я тебе сделаю модель самолёта.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;君に模型飛行機を作ってあげよう。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きみにもけいひこうきをつくってあげよう。&quot;,&quot;transliteration&quot;:&quot;kiminimokeihikouki o tsukutteageyou。&quot;},{&quot;translateID&quot;:404913,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Сделаю это при первой возможности.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;機会があり次第、そうしよう。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きかいがありしだい、そうしよう。&quot;,&quot;transliteration&quot;:&quot;kikaigaarishidai、soushiyou。&quot;},{&quot;translateID&quot;:537311,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Я сделаю это прямо сейчас.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;私は今すぐそれをします。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;わたしはいますぐそれをします。&quot;,&quot;transliteration&quot;:&quot;watashihaimasugusore o shimasu。&quot;},{&quot;translateID&quot;:722203,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Я сделаю Вам укол обезболивающего.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;痛み止めの注射をします。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いたみどめのちゅうしゃをします。&quot;,&quot;transliteration&quot;:&quot;itamidomenochuusha o shimasu。&quot;},{&quot;translateID&quot;:185393,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Я сделаю всё что могу.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;できる限りの事はさせていただきます。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;できるかぎりのことはさせていただきます。&quot;,&quot;transliteration&quot;:&quot;dekirukagirinokotohasaseteitadakimasu。&quot;},{&quot;translateID&quot;:537244,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;я не сделаю ничего такого&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;私は決して人に後指を指されるようなことは致しません&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;わたしはけっしてひとにうしろゆびをさされるようなことはいたしません&quot;,&quot;transliteration&quot;:&quot;watashihakesshitehitoniushiroyubi o sasareruyounakotohaitashimasen&quot;},{&quot;translateID&quot;:631889,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;к полудню непременно сделаю&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;正午までには是非間に合わせます&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょうごまでにはぜひまにあわせます&quot;,&quot;transliteration&quot;:&quot;shougomadenihazehimaniawasemasu&quot;},{&quot;translateID&quot;:89659,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Я сделаю все, что ты захочешь.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;お望みの事はなんでもやってあげるよ。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おのぞみのことはなんでもやってあげるよ。&quot;,&quot;transliteration&quot;:&quot;onozominokotohanandemoyatteageruyo。&quot;},{&quot;translateID&quot;:536711,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;я во что бы то ни стало это сделаю&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;私はどうしてもそれをする&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;わたしはどうしてもそれをする&quot;,&quot;transliteration&quot;:&quot;watashihadoushitemosore o suru&quot;},{&quot;translateID&quot;:872469,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Если завтра будет идти снег, я сделаю снеговика.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;明日雪が降ったら、わたしは雪だるまを作ります。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あしたゆきがふったら、わたしはゆきだるまをつくります。&quot;,&quot;transliteration&quot;:&quot;ashitayukigafuttara、watashihayukidaruma o tsukurimasu。&quot;},{&quot;translateID&quot;:86486,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Я сделаю из тебя мужчину.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;おまえを一人前の男にしてやろう。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おまえをいちにんまえのおとこにしてやろう。&quot;,&quot;transliteration&quot;:&quot;omae o ichininmaenootokonishiteyarou。&quot;},{&quot;translateID&quot;:536625,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Я сделаю это сам.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;私はそれを自分でやります。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;わたしはそれをじぶんでやります。&quot;,&quot;transliteration&quot;:&quot;watashihasore o jibundeyarimasu。&quot;},{&quot;translateID&quot;:650965,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;я не сделаю этого ни за какие сокровища&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;千両箱を山と積んでもいやだ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せんりょうばこをやまとつんでもいやだ&quot;,&quot;transliteration&quot;:&quot;senryoubako o yamatotsundemoiyada&quot;},{&quot;translateID&quot;:756591,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Я сделаю для этого исключение, но, пожалуйста, будьте покороче.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;特別扱いしますが、なるべく短めにしてくださいね。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とくべつあつかいしますが、なるべくみじかめにしてくださいね。&quot;,&quot;transliteration&quot;:&quot;tokubetsuatsukaishimasuga、narubekumijikamenishitekudasaine。&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="сделаю" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

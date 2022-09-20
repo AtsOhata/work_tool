@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	начал - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,начал" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u043d%u0430%u0447%u0430%u043b" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV044Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNC90LDRh9Cw0LtkAgMPZBYIAgIPZBYEAgEPFgIeA3NyYwUPLi4vaW1nL2xvZ28ucG5nZAIFDxYCHgRocmVmBQ4uLi8/bGFuZz1ydS1SVWQCBA8WAh4HVmlzaWJsZWdkAgYPFgIfA2hkAgcPZBYIZg8WAh8DaGQCAQ8WAh8DaGQCAg8WAh8DaGQCBQ8WAh8DaGRkIalGwGcKxm21keldulVEHKW2p4E=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAWNBf+6eJHEYg6ow5KokjHZlIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/i0gifumpRGve55bGhh/fCSvfHHt" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:false,&quot;Phrases&quot;:[{&quot;translateID&quot;:166398,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Ребёнок начал ползать.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;その赤ちゃんははいはいをはじめた。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そのあかちゃんははいはいをはじめた。&quot;,&quot;transliteration&quot;:&quot;sonoakachanhahaihai o hajimeta。&quot;},{&quot;translateID&quot;:602670,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;только я начал есть&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;食べかけのところへ人が来た&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たべかけのところへひとがきた&quot;,&quot;transliteration&quot;:&quot;tabekakenotokorohehitogakita&quot;},{&quot;translateID&quot;:798438,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Он начал играть старую песню.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;彼はなつかしい歌を弾き始めました。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かれはなつかしいうたをひきはじめました。&quot;,&quot;transliteration&quot;:&quot;karehanatsukashiiuta o hikihajimemashita。&quot;},{&quot;translateID&quot;:536438,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Я начал делать рагу.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;私はシチューを作り始めた。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;わたしはしちゅーをつくりはじめた。&quot;,&quot;transliteration&quot;:&quot;watashihashichu: o tsukurihajimeta。&quot;},{&quot;translateID&quot;:166298,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;в довершение всего он начал пить&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;その上に困った事は近頃酒を始めた&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そのうえにこまったことはちかごろさけをはじめた&quot;,&quot;transliteration&quot;:&quot;sonouenikomattakotohachikagorosake o hajimeta&quot;},{&quot;translateID&quot;:62636,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Когда ты начал изучать латынь?&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;いつからラテン語を勉強してるの？&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いつかららてんごをべんきょうしてるの？&quot;,&quot;transliteration&quot;:&quot;itsukararatengo o benkyoushiteruno？&quot;},{&quot;translateID&quot;:798365,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Он выключил телевизор и начал учиться.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;彼はテレビを消して勉強にとりかかった。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かれはてれびをけしてべんきょうにとりかかった。&quot;,&quot;transliteration&quot;:&quot;karehaterebi o keshitebenkyounitorikakatta。&quot;},{&quot;translateID&quot;:801909,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Ей начал нравиться этот дом.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;彼女はその家が好きになった。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かのじょはそのいえがすきになった。&quot;,&quot;transliteration&quot;:&quot;kanojohasonoiegasukininatta。&quot;},{&quot;translateID&quot;:165929,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Преступник стал христианином и начал новую жизнь.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;その罪人はキリスト教徒になり、生活を一新した。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そのざいにんはきりすときょうとになり、せいかつをいっしんした。&quot;,&quot;transliteration&quot;:&quot;sonozaininhakirisutokyoutoninari、seikatsu o isshinshita。&quot;},{&quot;translateID&quot;:407072,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Я взял себя в руки и начал работу.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;気を取り直して仕事に掛かった。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きをとりなおしてしごとにかかった。&quot;,&quot;transliteration&quot;:&quot;ki o torinaoshiteshigotonikakatta。&quot;},{&quot;translateID&quot;:798037,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Он хорошо зажил с тех пор, как начал эту работу.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;彼はこの仕事を始めてから暮らし向きがよい。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かれはこのしごとをはじめてからくらしむきがよい。&quot;,&quot;transliteration&quot;:&quot;karehakonoshigoto o hajimetekarakurashimukigayoi。&quot;},{&quot;translateID&quot;:800581,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Он достал книгу и начал читать.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;彼は本を取り出して、それを読みはじめた。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かれはほんをとりだして、それをよみはじめた。&quot;,&quot;transliteration&quot;:&quot;karehahon o toridashite、sore o yomihajimeta。&quot;},{&quot;translateID&quot;:165585,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Вулкан внезапно начал извергаться, убив много людей.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;その火山は突然噴火し、多くの人が亡くなった。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そのかざんはとつぜんふんかし、おおくのひとがなくなった。&quot;,&quot;transliteration&quot;:&quot;sonokazanhatotsuzenfunkashi、ookunohitoganakunatta。&quot;},{&quot;translateID&quot;:389659,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Пульс в теле пациента вновь начал биться.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;患者の体内で再び脈打ち始める。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かんじゃのたいないでふたたびみゃくうちはじめる。&quot;,&quot;transliteration&quot;:&quot;kanjanotainaidefutatabimyakuuchihajimeru。&quot;},{&quot;translateID&quot;:797994,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Он вышел из себя и начал называть мне имена.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;彼はかんしゃくをおこして私をののしり始めた。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かれはかんしゃくをおこしてわたしをののしりはじめた。&quot;,&quot;transliteration&quot;:&quot;karehakanshaku o okoshitewatashi o nonoshirihajimeta。&quot;},{&quot;translateID&quot;:800036,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Он начал бежать.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;彼は走り出した。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かれははしりだした。&quot;,&quot;transliteration&quot;:&quot;karehahashiridashita。&quot;},{&quot;translateID&quot;:647999,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Снег уже начал таять.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;雪がとけはじめた。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ゆきがとけはじめた。&quot;,&quot;transliteration&quot;:&quot;yukigatokehajimeta。&quot;},{&quot;translateID&quot;:79692,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Эрик начал петь.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;エリックは歌い始めた。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;えりっくはうたいはじめた。&quot;,&quot;transliteration&quot;:&quot;erikkuhautaihajimeta。&quot;},{&quot;translateID&quot;:444348,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Жаль, что ты не начал раньше.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;君はもっと早く出発すれば良かったのに。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きみはもっとはやくしゅっぱつすればよかったのに。&quot;,&quot;transliteration&quot;:&quot;kimihamottohayakushuppatsusurebayokattanoni。&quot;},{&quot;translateID&quot;:798556,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Он начал свой день с хорошего завтрака.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;彼はまずたっぷりと朝食を食べることから始めた。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かれはまずたっぷりとちょうしょくをたべることからはじめた。&quot;,&quot;transliteration&quot;:&quot;karehamazutappuritochoushoku o taberukotokarahajimeta。&quot;},{&quot;translateID&quot;:538073,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Я начал сомневаться в точности его утверждения.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;私は彼の陳述の正確さを疑い始めた。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;わたしはかれのちんじゅつのせいかくさをうたがいはじめた。&quot;,&quot;transliteration&quot;:&quot;watashihakarenochinjutsunoseikakusa o utagaihajimeta。&quot;},{&quot;translateID&quot;:86445,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Человек, который едва не утонул, начал дышать.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;おぼれかけた人は息を吹き返した。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おぼれかけたじんはいきをふきかえした。&quot;,&quot;transliteration&quot;:&quot;oborekaketajinhaiki o fukikaeshita。&quot;},{&quot;translateID&quot;:299463,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Лео начал рычать, когда ему было два года.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;レオは2歳のときに吠え始めた。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;れおは2さいのときにほえはじめた。&quot;,&quot;transliteration&quot;:&quot;reoha2sainotokinihoehajimeta。&quot;},{&quot;translateID&quot;:444238,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Когда ты начал учить немецкий?&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;君は、いつドイツ語の勉強を始めましたか。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きみは、いつどいつごのべんきょうをはじめましたか。&quot;,&quot;transliteration&quot;:&quot;kimiha、itsudoitsugonobenkyou o hajimemashitaka。&quot;},{&quot;translateID&quot;:798535,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Он взял ручку и начал писать.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;彼はペンをとり上げて書き始めた。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かれはぺんをとりあげてかきはじめた。&quot;,&quot;transliteration&quot;:&quot;karehapen o toriagetekakihajimeta。&quot;},{&quot;translateID&quot;:537178,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Я начал изучать английский с целью стать учителем.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;私は教師になるつもりで英語を学び始めた。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;わたしはきょうしになるつもりでえいごをまなびはじめた。&quot;,&quot;transliteration&quot;:&quot;watashihakyoushininarutsumorideeigo o manabihajimeta。&quot;},{&quot;translateID&quot;:165584,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Вулкан  неожиданно начал извержение, много людей погибло.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;その火山は突然噴火し、多くの人が亡くなった。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そのかざんはとつぜんふんかし、おおくのひとがなくなった。&quot;,&quot;transliteration&quot;:&quot;sonokazanhatotsuzenfunkashi、ookunohitoganakunatta。&quot;},{&quot;translateID&quot;:726843,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;К нашему удивлению, занавес начал подниматься преждевременно.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;定刻前に幕が上がり始めたのはおかしかった。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ていこくまえにまくがあがりはじめたのはおかしかった。&quot;,&quot;transliteration&quot;:&quot;teikokumaenimakugaagarihajimetanohaokashikatta。&quot;},{&quot;translateID&quot;:796825,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Постепенно, истинный смысл того, что он сказал, начал доходить до меня.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;彼が言ったことの真意が徐々にわかり始めた。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かれがいったことのしんいがじょじょにわかりはじめた。&quot;,&quot;transliteration&quot;:&quot;karegaittakotonoshinigajojoniwakarihajimeta。&quot;},{&quot;translateID&quot;:800011,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Он начал рано ложиться спать.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;彼は早く寝始めた。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かれははやくねはじめた。&quot;,&quot;transliteration&quot;:&quot;karehahayakunehajimeta。&quot;},{&quot;translateID&quot;:165040,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ты первый начал говорить об этом&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;そっちから言い出した事だ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そっちからいいだしたことだ&quot;,&quot;transliteration&quot;:&quot;socchikaraiidashitakotoda&quot;},{&quot;translateID&quot;:167045,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Этот вопрос начал приобретать международный характер.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;その問題は国際的な性格のものとなり始めた。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そのもんだいはこくさいてきなせいかくのものとなりはじめた。&quot;,&quot;transliteration&quot;:&quot;sonomondaihakokusaitekinaseikakunomonotonarihajimeta。&quot;},{&quot;translateID&quot;:643116,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;малыш начал ходить&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;赤ん坊が立ち歩きするようになった&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あかんぼうがたちあるきするようになった&quot;,&quot;transliteration&quot;:&quot;akanbougatachiarukisuruyouninatta&quot;},{&quot;translateID&quot;:799836,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Он начал новую жизнь.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;彼は新生活を始めた。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かれはしんせいかつをはじめた。&quot;,&quot;transliteration&quot;:&quot;karehashinseikatsu o hajimeta。&quot;},{&quot;translateID&quot;:649849,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Я начал учить китайский на прошлой неделе.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;先週中国語を習い始めました。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せんしゅうちゅうごくごをならいはじめました。&quot;,&quot;transliteration&quot;:&quot;senshuuchuugokugo o naraihajimemashita。&quot;},{&quot;translateID&quot;:822022,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Эректильная дисфункция моего мужа вызвана тем, что он начал пить?&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;夫の勃起不全はお酒を呑むようになったのが原因でしょうか？&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おっとのぼっきふぜんはおさけをのむようになったのがげんいんでしょうか？&quot;,&quot;transliteration&quot;:&quot;ottonobokkifuzenhaosake o nomuyouninattanogagenindeshouka？&quot;},{&quot;translateID&quot;:582251,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;я начал свою службу с пяти тысяч иен&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;初任給は五千円だった&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょにんきゅうは5せんえんだった&quot;,&quot;transliteration&quot;:&quot;shoninkyuuha5senendatta&quot;},{&quot;translateID&quot;:798980,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Он надел свои очки и начал читать.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;彼は眼鏡をかけて読み始めた。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かれはめがねをかけてよみはじめた。&quot;,&quot;transliteration&quot;:&quot;karehamegane o kaketeyomihajimeta。&quot;},{&quot;translateID&quot;:648007,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Начал идти снег.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;雪が降り始めた。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ゆきがおりはじめた。&quot;,&quot;transliteration&quot;:&quot;yukigaorihajimeta。&quot;},{&quot;translateID&quot;:333204,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Начал идти дождь.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;雨が降り始めた。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あめがおりはじめた。&quot;,&quot;transliteration&quot;:&quot;amegaorihajimeta。&quot;},{&quot;translateID&quot;:527048,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Он начал искать работу.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;仕事を捜し始めました。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しごとをさがしはじめました。&quot;,&quot;transliteration&quot;:&quot;shigoto o sagashihajimemashita。&quot;},{&quot;translateID&quot;:798651,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Он начал своё кругосветное путешествие на яхте.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;彼はヨットで世界をまわる航海を始めた。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かれはよっとでせかいをまわるこうかいをはじめた。&quot;,&quot;transliteration&quot;:&quot;karehayottodesekai o mawarukoukai o hajimeta。&quot;},{&quot;translateID&quot;:538401,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Когда я начал путешествовать, мне редко было одиноко.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;私は旅に出かけたときはめったに孤独な感じがしなかった。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;わたしはたびにでかけたときはめったにこどくなかんじがしなかった。&quot;,&quot;transliteration&quot;:&quot;watashihatabinidekaketatokihamettanikodokunakanjigashinakatta。&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="начал" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

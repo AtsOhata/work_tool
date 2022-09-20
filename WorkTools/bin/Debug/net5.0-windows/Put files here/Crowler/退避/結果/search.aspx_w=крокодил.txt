@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	крокодил - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,крокодил" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u043a%u0440%u043e%u043a%u043e%u0434%u0438%u043b" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV644Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNC60YDQvtC60L7QtNC40LtkAgMPZBYIAgIPZBYEAgEPFgIeA3NyYwUPLi4vaW1nL2xvZ28ucG5nZAIFDxYCHgRocmVmBQ4uLi8/bGFuZz1ydS1SVWQCBA8WAh4HVmlzaWJsZWdkAgYPFgIfA2hkAgcPZBYIZg8WAh8DaGQCAQ8WAh8DaGQCAg8WAh8DaGQCBQ8WAh8DaGRkHUUZJkY8ADcZ5PpdMF1Fyw94Wp4=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAW6bnmaABbLYMLXIH7Z0ljolIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/g438HQI4u3QXvqlPjxUmGYS6h05" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[{&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;words&quot;:[{&quot;translateID&quot;:307859,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;крокодил&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ワニ&quot;,&quot;reading&quot;:&quot;わに&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;wani&quot;},{&quot;translateID&quot;:914212,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;крокодил&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;鰐&quot;,&quot;reading&quot;:&quot;わに&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;wani&quot;},{&quot;translateID&quot;:914216,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;крокодил&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;鰐魚&quot;,&quot;reading&quot;:&quot;がくぎょ&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;gakugyo&quot;},{&quot;translateID&quot;:307865,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;Крокодил&quot;,&quot;note&quot;:&quot;зажим&quot;,&quot;translation&quot;:&quot;ワニグチクリップ&quot;,&quot;reading&quot;:&quot;わにぐちくりっぷ&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;waniguchikurippu&quot;},{&quot;translateID&quot;:114087,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;Крокодил&quot;,&quot;note&quot;:&quot;機関車&quot;,&quot;translation&quot;:&quot;クロコダイル&quot;,&quot;reading&quot;:&quot;くろこだいる&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;kurokodairu&quot;}]},{&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;words&quot;:[{&quot;translateID&quot;:307892,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;крокодил&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ワニ口クリップ&quot;,&quot;reading&quot;:&quot;わにくちくりっぷ&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;wanikuchikurippu&quot;}]},{&quot;groupName&quot;:&quot;人文&quot;,&quot;themeName&quot;:&quot;映画&quot;,&quot;words&quot;:[{&quot;translateID&quot;:271296,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;Крокодил&quot;,&quot;note&quot;:&quot;映画&quot;,&quot;translation&quot;:&quot;マンイーター&quot;,&quot;reading&quot;:&quot;まんいーたー&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;mani:ta:&quot;}]}],&quot;topPhrases&quot;:[{&quot;translateID&quot;:50663,&quot;translationStatus&quot;:0,&quot;themeID&quot;:0,&quot;groupName&quot;:null,&quot;themeName&quot;:null,&quot;word&quot;:&quot;Острорылый крокодил&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;アメリカワニ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あめりかわに&quot;,&quot;transliteration&quot;:&quot;amerikawani&quot;},{&quot;translateID&quot;:64054,&quot;translationStatus&quot;:0,&quot;themeID&quot;:0,&quot;groupName&quot;:null,&quot;themeName&quot;:null,&quot;word&quot;:&quot;Гребнистый крокодил&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;イリエワニ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いりえわに&quot;,&quot;transliteration&quot;:&quot;iriewani&quot;},{&quot;translateID&quot;:82488,&quot;translationStatus&quot;:0,&quot;themeID&quot;:0,&quot;groupName&quot;:null,&quot;themeName&quot;:null,&quot;word&quot;:&quot;Австралийский узкорылый крокодил&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;オーストラリアワニ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おーすとらりあわに&quot;,&quot;transliteration&quot;:&quot;o:sutorariawani&quot;},{&quot;translateID&quot;:104190,&quot;translationStatus&quot;:0,&quot;themeID&quot;:0,&quot;groupName&quot;:null,&quot;themeName&quot;:null,&quot;word&quot;:&quot;Кубинский крокодил&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;キューバワニ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きゅーばわに&quot;,&quot;transliteration&quot;:&quot;kyu:bawani&quot;},{&quot;translateID&quot;:114089,&quot;translationStatus&quot;:0,&quot;themeID&quot;:0,&quot;groupName&quot;:null,&quot;themeName&quot;:null,&quot;word&quot;:&quot;Крокодил Данди в Лос-Анджелесе&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;クロコダイル・ダンディー in L.A.&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;くろこだいる・だんでぃー in L.A.&quot;,&quot;transliteration&quot;:&quot;kurokodairu・dandi: in L.A.&quot;},{&quot;translateID&quot;:114090,&quot;translationStatus&quot;:0,&quot;themeID&quot;:0,&quot;groupName&quot;:null,&quot;themeName&quot;:null,&quot;word&quot;:&quot;Крокодил Данди 2&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;クロコダイル・ダンディー2&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;くろこだいる・だんでぃー2&quot;,&quot;transliteration&quot;:&quot;kurokodairu・dandi:2&quot;},{&quot;translateID&quot;:143226,&quot;translationStatus&quot;:0,&quot;themeID&quot;:0,&quot;groupName&quot;:null,&quot;themeName&quot;:null,&quot;word&quot;:&quot;Сиамский крокодил&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;シャムワニ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゃむわに&quot;,&quot;transliteration&quot;:&quot;shamuwani&quot;},{&quot;translateID&quot;:199192,&quot;translationStatus&quot;:0,&quot;themeID&quot;:0,&quot;groupName&quot;:null,&quot;themeName&quot;:null,&quot;word&quot;:&quot;Нильский крокодил&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ナイルワニ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ないるわに&quot;,&quot;transliteration&quot;:&quot;nairuwani&quot;},{&quot;translateID&quot;:201798,&quot;translationStatus&quot;:0,&quot;themeID&quot;:0,&quot;groupName&quot;:null,&quot;themeName&quot;:null,&quot;word&quot;:&quot;Тупорылый крокодил&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ニシアフリカコビトワニ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にしあふりかこびとわに&quot;,&quot;transliteration&quot;:&quot;nishiafurikakobitowani&quot;},{&quot;translateID&quot;:204147,&quot;translationStatus&quot;:0,&quot;themeID&quot;:0,&quot;groupName&quot;:null,&quot;themeName&quot;:null,&quot;word&quot;:&quot;Болотный крокодил&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ヌマワニ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぬまわに&quot;,&quot;transliteration&quot;:&quot;numawani&quot;}],&quot;phrasesGroups&quot;:[{&quot;id&quot;:1,&quot;gid&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;count&quot;:12}],&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:false,&quot;Phrases&quot;:null}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="крокодил" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

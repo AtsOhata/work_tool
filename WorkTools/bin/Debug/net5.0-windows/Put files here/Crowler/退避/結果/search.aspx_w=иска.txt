@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	иска - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,иска" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u0438%u0441%u043a%u0430" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAVy44Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNC40YHQutCwZAIDD2QWCAICD2QWBAIBDxYCHgNzcmMFDy4uL2ltZy9sb2dvLnBuZ2QCBQ8WAh4EaHJlZgUOLi4vP2xhbmc9cnUtUlVkAgQPFgIeB1Zpc2libGVnZAIGDxYCHwNoZAIHD2QWCGYPFgIfA2hkAgEPFgIfA2hkAgIPFgIfA2hkAgUPFgIfA2hkZNEXK8gHFCj87mwPQXD7wZnT/W0z" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAXdo6k3S1Nuet1SsKcEilO7lIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/rLW0RbIfkOSe/yk8gvTk9kRMcQn" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:false,&quot;Phrases&quot;:[{&quot;translateID&quot;:500965,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;предъявление иска&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;告訴&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こくそ&quot;,&quot;transliteration&quot;:&quot;kokuso&quot;},{&quot;translateID&quot;:859867,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;существо иска&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;本案&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほんあん&quot;,&quot;transliteration&quot;:&quot;honan&quot;},{&quot;translateID&quot;:411746,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;предъявление иска&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;起訴&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きそ&quot;,&quot;transliteration&quot;:&quot;kiso&quot;},{&quot;translateID&quot;:663354,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;отказ от иска&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;訴訟放棄&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そしょうほうき&quot;,&quot;transliteration&quot;:&quot;soshouhouki&quot;},{&quot;translateID&quot;:663353,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;взятие иска обратно&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;訴訟放棄&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そしょうほうき&quot;,&quot;transliteration&quot;:&quot;soshouhouki&quot;},{&quot;translateID&quot;:578331,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;предъявление иска&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;出訴&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゅっそ&quot;,&quot;transliteration&quot;:&quot;shusso&quot;},{&quot;translateID&quot;:818016,&quot;translationStatus&quot;:0,&quot;themeID&quot;:197,&quot;groupName&quot;:&quot;法律&quot;,&quot;themeName&quot;:&quot;著作権&quot;,&quot;word&quot;:&quot;обязательство о непредъявлении иска&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;不起訴契約&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふきそけいやく&quot;,&quot;transliteration&quot;:&quot;fukisokeiyaku&quot;},{&quot;translateID&quot;:663312,&quot;translationStatus&quot;:0,&quot;themeID&quot;:197,&quot;groupName&quot;:&quot;法律&quot;,&quot;themeName&quot;:&quot;著作権&quot;,&quot;word&quot;:&quot;основания для предъявления иска&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;訴訟原因&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そしょうげんいん&quot;,&quot;transliteration&quot;:&quot;soshougenin&quot;},{&quot;translateID&quot;:663356,&quot;translationStatus&quot;:0,&quot;themeID&quot;:197,&quot;groupName&quot;:&quot;法律&quot;,&quot;themeName&quot;:&quot;著作権&quot;,&quot;word&quot;:&quot;форма иска&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;訴訟方式&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そしょうほうしき&quot;,&quot;transliteration&quot;:&quot;soshouhoushiki&quot;},{&quot;translateID&quot;:482386,&quot;translationStatus&quot;:0,&quot;themeID&quot;:200,&quot;groupName&quot;:&quot;法律&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;предъявление иска&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;公訴&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうそ&quot;,&quot;transliteration&quot;:&quot;kouso&quot;},{&quot;translateID&quot;:663239,&quot;translationStatus&quot;:0,&quot;themeID&quot;:200,&quot;groupName&quot;:&quot;法律&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;отозвание иска&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;訴えの取り下げ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;うったえのとりさげ&quot;,&quot;transliteration&quot;:&quot;uttaenotorisage&quot;},{&quot;translateID&quot;:411771,&quot;translationStatus&quot;:0,&quot;themeID&quot;:200,&quot;groupName&quot;:&quot;法律&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;приостановка предъявления иска&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;起訴猶予&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きそゆうよ&quot;,&quot;transliteration&quot;:&quot;kisoyuuyo&quot;},{&quot;translateID&quot;:482389,&quot;translationStatus&quot;:0,&quot;themeID&quot;:200,&quot;groupName&quot;:&quot;法律&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;поддерживание иска&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;公訴の維持&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうそのいじ&quot;,&quot;transliteration&quot;:&quot;kousonoiji&quot;},{&quot;translateID&quot;:663240,&quot;translationStatus&quot;:0,&quot;themeID&quot;:200,&quot;groupName&quot;:&quot;法律&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;вчинение иска&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;訴えの提起&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;うったえのていき&quot;,&quot;transliteration&quot;:&quot;uttaenoteiki&quot;},{&quot;translateID&quot;:446124,&quot;translationStatus&quot;:0,&quot;themeID&quot;:200,&quot;groupName&quot;:&quot;法律&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Закон о документе законченного уголовного иска&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;刑事確定訴訟記録法&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けいじかくていそしょうきろくほう&quot;,&quot;transliteration&quot;:&quot;keijikakuteisoshoukirokuhou&quot;},{&quot;translateID&quot;:482390,&quot;translationStatus&quot;:0,&quot;themeID&quot;:200,&quot;groupName&quot;:&quot;法律&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;действие предъявления иска&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;公訴の効力&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうそのこうりょく&quot;,&quot;transliteration&quot;:&quot;kousonokouryoku&quot;},{&quot;translateID&quot;:663257,&quot;translationStatus&quot;:0,&quot;themeID&quot;:200,&quot;groupName&quot;:&quot;法律&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;основание для иска&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;訴因&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そいん&quot;,&quot;transliteration&quot;:&quot;soin&quot;},{&quot;translateID&quot;:859868,&quot;translationStatus&quot;:0,&quot;themeID&quot;:200,&quot;groupName&quot;:&quot;法律&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;основная часть иска&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;本案&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほんあん&quot;,&quot;transliteration&quot;:&quot;honan&quot;},{&quot;translateID&quot;:818017,&quot;translationStatus&quot;:0,&quot;themeID&quot;:200,&quot;groupName&quot;:&quot;法律&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;непредъявление иска&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;不起訴処分&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふきそしょぶん&quot;,&quot;transliteration&quot;:&quot;fukisoshobun&quot;},{&quot;translateID&quot;:482391,&quot;translationStatus&quot;:0,&quot;themeID&quot;:200,&quot;groupName&quot;:&quot;法律&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;аннулирование иска&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;公訴の取消し&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうそのとりけし&quot;,&quot;transliteration&quot;:&quot;kousonotorikeshi&quot;},{&quot;translateID&quot;:663258,&quot;translationStatus&quot;:0,&quot;themeID&quot;:200,&quot;groupName&quot;:&quot;法律&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;дополнение основания для иска&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;訴因の追加&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そいんのついか&quot;,&quot;transliteration&quot;:&quot;soinnotsuika&quot;},{&quot;translateID&quot;:859869,&quot;translationStatus&quot;:0,&quot;themeID&quot;:200,&quot;groupName&quot;:&quot;法律&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;решение об основной части иска&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;本案の裁判&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほんあんのさいばん&quot;,&quot;transliteration&quot;:&quot;honannosaiban&quot;},{&quot;translateID&quot;:818018,&quot;translationStatus&quot;:0,&quot;themeID&quot;:200,&quot;groupName&quot;:&quot;法律&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;объявление о непредъявление иска&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;不起訴処分の告知&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふきそしょぶんのこくち&quot;,&quot;transliteration&quot;:&quot;fukisoshobunnokokuchi&quot;},{&quot;translateID&quot;:482392,&quot;translationStatus&quot;:0,&quot;themeID&quot;:200,&quot;groupName&quot;:&quot;法律&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;принятие иска&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;公訴の受理&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうそのじゅり&quot;,&quot;transliteration&quot;:&quot;kousonojuri&quot;},{&quot;translateID&quot;:663259,&quot;translationStatus&quot;:0,&quot;themeID&quot;:200,&quot;groupName&quot;:&quot;法律&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;прибавление основания для иска&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;訴因の追加&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そいんのついか&quot;,&quot;transliteration&quot;:&quot;soinnotsuika&quot;},{&quot;translateID&quot;:460779,&quot;translationStatus&quot;:0,&quot;themeID&quot;:200,&quot;groupName&quot;:&quot;法律&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;функция для предъявления иска&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;検察&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けんさつ&quot;,&quot;transliteration&quot;:&quot;kensatsu&quot;},{&quot;translateID&quot;:818019,&quot;translationStatus&quot;:0,&quot;themeID&quot;:200,&quot;groupName&quot;:&quot;法律&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;причины для непредъявления иска&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;不起訴理由&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふきそりゆう&quot;,&quot;transliteration&quot;:&quot;fukisoriyuu&quot;},{&quot;translateID&quot;:482393,&quot;translationStatus&quot;:0,&quot;themeID&quot;:200,&quot;groupName&quot;:&quot;法律&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;выполнение иска&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;公訴の遂行&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうそのすいこう&quot;,&quot;transliteration&quot;:&quot;kousonosuikou&quot;},{&quot;translateID&quot;:663261,&quot;translationStatus&quot;:0,&quot;themeID&quot;:200,&quot;groupName&quot;:&quot;法律&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;аннулирование основания для иска&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;訴因の撤回&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そいんのてっかい&quot;,&quot;transliteration&quot;:&quot;soinnotekkai&quot;},{&quot;translateID&quot;:818483,&quot;translationStatus&quot;:0,&quot;themeID&quot;:200,&quot;groupName&quot;:&quot;法律&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;принцип того, что нет судебного решения без предъявления иска&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;不告不理の原則&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふこくふことわりのげんそく&quot;,&quot;transliteration&quot;:&quot;fukokufukotowarinogensoku&quot;},{&quot;translateID&quot;:482394,&quot;translationStatus&quot;:0,&quot;themeID&quot;:200,&quot;groupName&quot;:&quot;法律&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;распоряжение не предъявлять иска&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;公訴を提起しない処分&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうそをていきしないしょぶん&quot;,&quot;transliteration&quot;:&quot;kouso o teikishinaishobun&quot;},{&quot;translateID&quot;:663262,&quot;translationStatus&quot;:0,&quot;themeID&quot;:200,&quot;groupName&quot;:&quot;法律&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;приказ об аннулировании основания для иска&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;訴因の撤回命令&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そいんのてっかいめいれい&quot;,&quot;transliteration&quot;:&quot;soinnotekkaimeirei&quot;},{&quot;translateID&quot;:847183,&quot;translationStatus&quot;:0,&quot;themeID&quot;:200,&quot;groupName&quot;:&quot;法律&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;обеспечение иска&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;保全処分&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほぜんしょぶん&quot;,&quot;transliteration&quot;:&quot;hozenshobun&quot;},{&quot;translateID&quot;:482404,&quot;translationStatus&quot;:0,&quot;themeID&quot;:200,&quot;groupName&quot;:&quot;法律&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;предъявление иска&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;公訴提起&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうそていき&quot;,&quot;transliteration&quot;:&quot;kousoteiki&quot;},{&quot;translateID&quot;:663263,&quot;translationStatus&quot;:0,&quot;themeID&quot;:200,&quot;groupName&quot;:&quot;法律&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;изменение основания для иска&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;訴因の変更&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そいんのへんこう&quot;,&quot;transliteration&quot;:&quot;soinnohenkou&quot;},{&quot;translateID&quot;:692760,&quot;translationStatus&quot;:0,&quot;themeID&quot;:200,&quot;groupName&quot;:&quot;法律&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;альтернативное основание для иска&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;択一的訴因&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たくいつてきそいん&quot;,&quot;transliteration&quot;:&quot;takuitsutekisoin&quot;},{&quot;translateID&quot;:482405,&quot;translationStatus&quot;:0,&quot;themeID&quot;:200,&quot;groupName&quot;:&quot;法律&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;истечение срока действия для предъявления иска&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;公訴提起の失効&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうそていきのしっこう&quot;,&quot;transliteration&quot;:&quot;kousoteikinoshikkou&quot;},{&quot;translateID&quot;:411753,&quot;translationStatus&quot;:0,&quot;themeID&quot;:200,&quot;groupName&quot;:&quot;法律&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;предъявление иска&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;起訴&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きそ&quot;,&quot;transliteration&quot;:&quot;kiso&quot;},{&quot;translateID&quot;:805454,&quot;translationStatus&quot;:0,&quot;themeID&quot;:200,&quot;groupName&quot;:&quot;法律&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;предъявление иска о смещение с должности&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;罷免の訴追&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひめんのそつい&quot;,&quot;transliteration&quot;:&quot;himennosotsui&quot;},{&quot;translateID&quot;:663316,&quot;translationStatus&quot;:0,&quot;themeID&quot;:200,&quot;groupName&quot;:&quot;法律&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;уведомление о подаче иска&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;訴訟告知&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そしょうこくち&quot;,&quot;transliteration&quot;:&quot;soshoukokuchi&quot;},{&quot;translateID&quot;:411769,&quot;translationStatus&quot;:0,&quot;themeID&quot;:200,&quot;groupName&quot;:&quot;法律&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;срок задержания перед предъявлением иска&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;起訴前の勾留期間&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きそまえのこうりゅうきかん&quot;,&quot;transliteration&quot;:&quot;kisomaenokouryuukikan&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="иска" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

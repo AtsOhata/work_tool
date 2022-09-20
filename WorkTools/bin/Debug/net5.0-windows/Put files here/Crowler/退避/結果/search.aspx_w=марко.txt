@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	марко - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,марко" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u043c%u0430%u0440%u043a%u043e" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV044Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNC80LDRgNC60L5kAgMPZBYIAgIPZBYEAgEPFgIeA3NyYwUPLi4vaW1nL2xvZ28ucG5nZAIFDxYCHgRocmVmBQ4uLi8/bGFuZz1ydS1SVWQCBA8WAh4HVmlzaWJsZWdkAgYPFgIfA2hkAgcPZBYIZg8WAh8DaGQCAQ8WAh8DaGQCAg8WAh8DaGQCBQ8WAh8DaGRkjdcDrxM/eos5GHNrHbIT2gt+s/s=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAWJq0XAfhJsHwgJF1Hbr1fBlIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/r2DQrl2Q7k5gDqDa9PwrlKN5oZL" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:true,&quot;Phrases&quot;:[{&quot;translateID&quot;:270326,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Эчеверри, Марко Антонио&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;マルコ・エチェベリ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まるこ・えちぇべり&quot;,&quot;transliteration&quot;:&quot;maruko・echeberi&quot;},{&quot;translateID&quot;:270336,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Сторари, Марко&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;マルコ・ストラーリ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まるこ・すとらーり&quot;,&quot;transliteration&quot;:&quot;maruko・sutora:ri&quot;},{&quot;translateID&quot;:270348,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Баллотта, Марко&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;マルコ・バロッタ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まるこ・ばろった&quot;,&quot;transliteration&quot;:&quot;maruko・barotta&quot;},{&quot;translateID&quot;:270358,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Феррери, Марко&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;マルコ・フェレーリ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まるこ・ふぇれーり&quot;,&quot;transliteration&quot;:&quot;maruko・fere:ri&quot;},{&quot;translateID&quot;:270368,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Матерацци, Марко&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;マルコ・マテラッツィ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まるこ・まてらっつぃ&quot;,&quot;transliteration&quot;:&quot;maruko・materattsi&quot;},{&quot;translateID&quot;:270379,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Ройс, Марко&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;マルコ・ロイス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まるこ・ろいす&quot;,&quot;transliteration&quot;:&quot;maruko・roisu&quot;},{&quot;translateID&quot;:270325,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Вёльфли, Марко&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;マルコ・ヴェルフリ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まるこ・ヴぇるふり&quot;,&quot;transliteration&quot;:&quot;maruko・vuぇrufuri&quot;},{&quot;translateID&quot;:270335,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Шулер, Марко&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;マルコ・シュレル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まるこ・しゅれる&quot;,&quot;transliteration&quot;:&quot;maruko・shureru&quot;},{&quot;translateID&quot;:270347,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Бабич, Марко&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;マルコ・バビッチ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まるこ・ばびっち&quot;,&quot;transliteration&quot;:&quot;maruko・babicchi&quot;},{&quot;translateID&quot;:270357,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Ван Бастен, Марко&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;マルコ・ファン・バステン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まるこ・ふぁん・ばすてん&quot;,&quot;transliteration&quot;:&quot;maruko・fan・basuten&quot;},{&quot;translateID&quot;:270367,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Боррьелло, Марко&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;マルコ・ボリエッロ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まるこ・ぼりえっろ&quot;,&quot;transliteration&quot;:&quot;maruko・borierro&quot;},{&quot;translateID&quot;:270378,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Ремер, Марко&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;マルコ・レーマー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まるこ・れーまー&quot;,&quot;transliteration&quot;:&quot;maruko・re:ma:&quot;},{&quot;translateID&quot;:270324,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Верратти, Марко&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;マルコ・ヴェッラッティ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まるこ・ヴぇっらってぃ&quot;,&quot;transliteration&quot;:&quot;maruko・vuぇrratteぃ&quot;},{&quot;translateID&quot;:270334,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Штреллер, Марко&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;マルコ・シュトレラー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まるこ・しゅとれらー&quot;,&quot;transliteration&quot;:&quot;maruko・shutorera:&quot;},{&quot;translateID&quot;:270346,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Падалино, Марко&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;マルコ・パダリーノ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まるこ・ぱだりーの&quot;,&quot;transliteration&quot;:&quot;maruko・padari:no&quot;},{&quot;translateID&quot;:270356,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Фараони, Марко Давиде&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;マルコ・ファラオーニ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まるこ・ふぁらおーに&quot;,&quot;transliteration&quot;:&quot;maruko・farao:ni&quot;},{&quot;translateID&quot;:270366,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Поло, Марко&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;マルコ・ポーロ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まるこ・ぽーろ&quot;,&quot;transliteration&quot;:&quot;maruko・po:ro&quot;},{&quot;translateID&quot;:270377,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Рубен, Марко&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;マルコ・ルベン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まるこ・るべん&quot;,&quot;transliteration&quot;:&quot;maruko・ruben&quot;},{&quot;translateID&quot;:270323,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Андретти, Марко&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;マルコ・アンドレッティ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まるこ・あんどれってぃ&quot;,&quot;transliteration&quot;:&quot;maruko・andoretteぃ&quot;},{&quot;translateID&quot;:270333,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Симончелли, Марко&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;マルコ・シモンチェリ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まるこ・しもんちぇり&quot;,&quot;transliteration&quot;:&quot;maruko・shimoncheri&quot;},{&quot;translateID&quot;:270345,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Баша, Марко&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;マルコ・バシャ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まるこ・ばしゃ&quot;,&quot;transliteration&quot;:&quot;maruko・basha&quot;},{&quot;translateID&quot;:270355,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Фабиан, Марко&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;マルコ・ファビアン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まるこ・ふぁびあん&quot;,&quot;transliteration&quot;:&quot;maruko・fabian&quot;},{&quot;translateID&quot;:270365,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Марко Поло &quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;マルコ・ポーロ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まるこ・ぽーろ&quot;,&quot;transliteration&quot;:&quot;maruko・po:ro&quot;},{&quot;translateID&quot;:270376,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Рубио, Марко&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;マルコ・ルビオ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まるこ・るびお&quot;,&quot;transliteration&quot;:&quot;maruko・rubio&quot;},{&quot;translateID&quot;:270318,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Апичелла, Марко&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;マルコ・アピチェラ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まるこ・あぴちぇら&quot;,&quot;transliteration&quot;:&quot;maruko・apichera&quot;},{&quot;translateID&quot;:270328,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Кассетти, Марко&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;マルコ・カッセッティ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まるこ・かっせってぃ&quot;,&quot;transliteration&quot;:&quot;maruko・kassetteぃ&quot;},{&quot;translateID&quot;:270339,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Ди Вайо, Марко&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;マルコ・ディ・ヴァイオ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まるこ・でぃ・ヴぁいお&quot;,&quot;transliteration&quot;:&quot;maruko・di・vaio&quot;},{&quot;translateID&quot;:270350,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Пантелич, Марко&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;マルコ・パンテリッチ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まるこ・ぱんてりっち&quot;,&quot;transliteration&quot;:&quot;maruko・pantericchi&quot;},{&quot;translateID&quot;:270360,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Хёгер, Марко&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;マルコ・ヘーガー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まるこ・へーがー&quot;,&quot;transliteration&quot;:&quot;maruko・he:ga:&quot;},{&quot;translateID&quot;:270370,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Маркьонни, Марко&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;マルコ・マルキオンニ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まるこ・まるきおんに&quot;,&quot;transliteration&quot;:&quot;maruko・marukionni&quot;},{&quot;translateID&quot;:270381,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Родригес Морено, Марко&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;マルコ・ロドリゲス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まるこ・ろどりげす&quot;,&quot;transliteration&quot;:&quot;maruko・rodorigesu&quot;},{&quot;translateID&quot;:270317,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Асмер, Марко&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;マルコ・アスマー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まるこ・あすまー&quot;,&quot;transliteration&quot;:&quot;maruko・asuma:&quot;},{&quot;translateID&quot;:270327,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Босси, Марко Энрико&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;マルコ・エンリコ・ボッシ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まるこ・えんりこ・ぼっし&quot;,&quot;transliteration&quot;:&quot;maruko・enriko・bosshi&quot;},{&quot;translateID&quot;:270337,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Тарделли, Марко&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;マルコ・タルデッリ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まるこ・たるでっり&quot;,&quot;transliteration&quot;:&quot;maruko・taruderri&quot;},{&quot;translateID&quot;:270349,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Пантани, Марко&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;マルコ・パンターニ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まるこ・ぱんたーに&quot;,&quot;transliteration&quot;:&quot;maruko・panta:ni&quot;},{&quot;translateID&quot;:270359,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Марко Хук&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;マルコ・フック&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まるこ・ふっく&quot;,&quot;transliteration&quot;:&quot;maruko・fukku&quot;},{&quot;translateID&quot;:270369,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Марин, Марко&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;マルコ・マリン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まるこ・まりん&quot;,&quot;transliteration&quot;:&quot;maruko・marin&quot;},{&quot;translateID&quot;:270380,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Росси, Марко&quot;,&quot;wordnote&quot;:&quot;1978 год&quot;,&quot;translation&quot;:&quot;マルコ・ロッシ&quot;,&quot;translationnote&quot;:&quot;1978年生のサッカー選手&quot;,&quot;reading&quot;:&quot;まるこ・ろっし&quot;,&quot;transliteration&quot;:&quot;maruko・rosshi&quot;},{&quot;translateID&quot;:270322,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Андреолли, Марко&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;マルコ・アンドレオッリ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まるこ・あんどれおっり&quot;,&quot;transliteration&quot;:&quot;maruko・andoreorri&quot;},{&quot;translateID&quot;:270332,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Симоне, Марко&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;マルコ・シモーネ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まるこ・しもーね&quot;,&quot;transliteration&quot;:&quot;maruko・shimo:ne&quot;},{&quot;translateID&quot;:270343,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Топич, Марко&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;マルコ・トピッチ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まるこ・とぴっち&quot;,&quot;transliteration&quot;:&quot;maruko・topicchi&quot;},{&quot;translateID&quot;:270354,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Бюхель, Марко&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;マルコ・ビュッヘル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まるこ・びゅっへる&quot;,&quot;transliteration&quot;:&quot;maruko・byuhheru&quot;},{&quot;translateID&quot;:270364,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Боде, Марко&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;マルコ・ボーデ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まるこ・ぼーで&quot;,&quot;transliteration&quot;:&quot;maruko・bo:de&quot;},{&quot;translateID&quot;:270375,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Ярич, Марко&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;マルコ・ヤリッチ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まるこ・やりっち&quot;,&quot;transliteration&quot;:&quot;maruko・yaricchi&quot;},{&quot;translateID&quot;:270321,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Баррера, Марко Антонио&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;マルコ・アントニオ・バレラ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まるこ・あんとにお・ばれら&quot;,&quot;transliteration&quot;:&quot;maruko・antonio・barera&quot;},{&quot;translateID&quot;:270331,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Кон, Марко&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;マルコ・コン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まるこ・こん&quot;,&quot;transliteration&quot;:&quot;maruko・kon&quot;},{&quot;translateID&quot;:270342,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Донадель, Марко&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;マルコ・ドナデル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まるこ・どなでる&quot;,&quot;transliteration&quot;:&quot;maruko・donaderu&quot;},{&quot;translateID&quot;:270353,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Пизано, Марко&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;マルコ・ピサーノ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まるこ・ぴさーの&quot;,&quot;transliteration&quot;:&quot;maruko・pisa:no&quot;},{&quot;translateID&quot;:270363,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Беллоккьо, Марко&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;マルコ・ベロッキオ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まるこ・べろっきお&quot;,&quot;transliteration&quot;:&quot;maruko・berokkio&quot;},{&quot;translateID&quot;:270374,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Мотта, Марко&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;マルコ・モッタ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まるこ・もった&quot;,&quot;transliteration&quot;:&quot;maruko・motta&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="марко" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

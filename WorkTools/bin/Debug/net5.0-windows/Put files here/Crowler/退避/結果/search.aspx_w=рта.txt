@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	рта - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,рта" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u0440%u0442%u0430" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAVw44Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNGA0YLQsGQCAw9kFggCAg9kFgQCAQ8WAh4Dc3JjBQ8uLi9pbWcvbG9nby5wbmdkAgUPFgIeBGhyZWYFDi4uLz9sYW5nPXJ1LVJVZAIEDxYCHgdWaXNpYmxlZ2QCBg8WAh8DaGQCBw9kFghmDxYCHwNoZAIBDxYCHwNoZAICDxYCHwNoZAIFDxYCHwNoZGT4iecrtmKpfaaSvX1aCbBs4g74UA==" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAVhQ2FNeLnZcfmwa4yoM1jplIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/szi9HegGI3nYRqOgy5baNiXzyR3" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:true,&quot;Phrases&quot;:[{&quot;translateID&quot;:483802,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;иметь дурной запах изо рта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;口気が臭い&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうきがにおい&quot;,&quot;transliteration&quot;:&quot;koukiganioi&quot;},{&quot;translateID&quot;:484463,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;вокруг рта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;口辺に&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうへんに&quot;,&quot;transliteration&quot;:&quot;kouhenni&quot;},{&quot;translateID&quot;:483783,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;с пеной у рта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;口角泡を飛ばして&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうかくあわをとばして&quot;,&quot;transliteration&quot;:&quot;koukakuawa o tobashite&quot;},{&quot;translateID&quot;:484437,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;очертания рта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;口付き&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;くちつき&quot;,&quot;transliteration&quot;:&quot;kuchitsuki&quot;},{&quot;translateID&quot;:483777,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Мышца, опускающая угол рта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;口角下制筋&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうかくかせいすじ&quot;,&quot;transliteration&quot;:&quot;koukakukaseisuji&quot;},{&quot;translateID&quot;:484384,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;воспаление слизистой рта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;口内炎&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうないえん&quot;,&quot;transliteration&quot;:&quot;kounaien&quot;},{&quot;translateID&quot;:571282,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;дурной запах изо рта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;臭い息&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;においいき&quot;,&quot;transliteration&quot;:&quot;nioiiki&quot;},{&quot;translateID&quot;:484299,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;лекарство для полости рта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;口中薬&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうちゅうやく&quot;,&quot;transliteration&quot;:&quot;kouchuuyaku&quot;},{&quot;translateID&quot;:596172,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;верхняя губа рта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;上唇&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;うわくちびる&quot;,&quot;transliteration&quot;:&quot;uwakuchibiru&quot;},{&quot;translateID&quot;:483585,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;кормить из своего рта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;口移しする&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;くちうつしする&quot;,&quot;transliteration&quot;:&quot;kuchiutsushisuru&quot;},{&quot;translateID&quot;:484523,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;уголки рта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;口脇&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;くちわき&quot;,&quot;transliteration&quot;:&quot;kuchiwaki&quot;},{&quot;translateID&quot;:595609,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;верхняя часть рта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;上口&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;うわくち&quot;,&quot;transliteration&quot;:&quot;uwakuchi&quot;},{&quot;translateID&quot;:483583,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;кормление из своего рта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;口移し&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;くちうつし&quot;,&quot;transliteration&quot;:&quot;kuchiutsushi&quot;},{&quot;translateID&quot;:484498,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Круговая мышца рта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;口輪筋&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;くちわすじ&quot;,&quot;transliteration&quot;:&quot;kuchiwasuji&quot;},{&quot;translateID&quot;:351835,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;нижняя губа рта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;下唇&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かしん&quot;,&quot;transliteration&quot;:&quot;kashin&quot;},{&quot;translateID&quot;:484298,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;полость рта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;口中&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうちゅう&quot;,&quot;transliteration&quot;:&quot;kouchuu&quot;},{&quot;translateID&quot;:315085,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;спорить с пеной у рта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;案をたたいて論ずる&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あんをたたいてろんずる&quot;,&quot;transliteration&quot;:&quot;an o tataiteronzuru&quot;},{&quot;translateID&quot;:484074,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;дурной запах изо рта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;口臭&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうしゅう&quot;,&quot;transliteration&quot;:&quot;koushuu&quot;},{&quot;translateID&quot;:173761,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;не выпускающий папиросы изо рта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;タバコを口からはなさない人&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たばこをくちからはなさないひと&quot;,&quot;transliteration&quot;:&quot;tabako o kuchikarahanasanaihito&quot;},{&quot;translateID&quot;:483995,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;болезнь полости рта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;口腔病&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうこうびょう&quot;,&quot;transliteration&quot;:&quot;koukoubyou&quot;},{&quot;translateID&quot;:915992,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;полоскание рта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;嗽&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;うがい&quot;,&quot;transliteration&quot;:&quot;ugai&quot;},{&quot;translateID&quot;:483931,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Гигиена полости рта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;口腔衛生&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうこうえいせい&quot;,&quot;transliteration&quot;:&quot;koukoueisei&quot;},{&quot;translateID&quot;:621273,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;текущая изо рта слюна&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;垂涎&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;すいぜん&quot;,&quot;transliteration&quot;:&quot;suizen&quot;},{&quot;translateID&quot;:483929,&quot;translationStatus&quot;:0,&quot;themeID&quot;:96,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;胃腸病学&quot;,&quot;word&quot;:&quot;флегмона и абсцесс полости рта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;口腔の蜂巣炎及び膿瘍&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうこうのはちすほのおおよびのうよう&quot;,&quot;transliteration&quot;:&quot;koukounohachisuhonoooyobinouyou&quot;},{&quot;translateID&quot;:484001,&quot;translationStatus&quot;:0,&quot;themeID&quot;:96,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;胃腸病学&quot;,&quot;word&quot;:&quot;киста области рта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;口腔部のう胞&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうこうぶのうほう&quot;,&quot;transliteration&quot;:&quot;koukoubunouhou&quot;},{&quot;translateID&quot;:484002,&quot;translationStatus&quot;:0,&quot;themeID&quot;:96,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;胃腸病学&quot;,&quot;word&quot;:&quot;ростовые кисты области рта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;口腔部の発育性のう胞&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうこうぶのはついくせいのうほう&quot;,&quot;transliteration&quot;:&quot;koukoubunohatsuikuseinouhou&quot;},{&quot;translateID&quot;:483986,&quot;translationStatus&quot;:0,&quot;themeID&quot;:96,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;胃腸病学&quot;,&quot;word&quot;:&quot;гиперплазия слизистой оболочки полости рта вследствие раздражения&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;口腔粘膜の刺激性過形成&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうくうねんまくのしげきせいかけいせい&quot;,&quot;transliteration&quot;:&quot;koukuunenmakunoshigekiseikakeisei&quot;},{&quot;translateID&quot;:483987,&quot;translationStatus&quot;:0,&quot;themeID&quot;:96,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;胃腸病学&quot;,&quot;word&quot;:&quot;гранулема и гранулемоподобные поражения слизистой оболочки полости рта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;口腔粘膜の肉芽腫及び肉芽腫様病変&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうこうねんまくのにくげしゅおよびにくげしゅようびょうへん&quot;,&quot;transliteration&quot;:&quot;koukounenmakunonikugeshuoyobinikugeshuyoubyouhen&quot;},{&quot;translateID&quot;:483989,&quot;translationStatus&quot;:0,&quot;themeID&quot;:96,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;胃腸病学&quot;,&quot;word&quot;:&quot;подслизистый фиброз полости рта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;口腔粘膜下線維症&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうこうねんまくかせんいしょう&quot;,&quot;transliteration&quot;:&quot;koukounenmakukasenishou&quot;},{&quot;translateID&quot;:512055,&quot;translationStatus&quot;:0,&quot;themeID&quot;:96,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;胃腸病学&quot;,&quot;word&quot;:&quot;рецидивирующие афты полости рта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;再発性口腔アフタ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さいはつせいこうこうあふた&quot;,&quot;transliteration&quot;:&quot;saihatsuseikoukouafuta&quot;},{&quot;translateID&quot;:483952,&quot;translationStatus&quot;:0,&quot;themeID&quot;:103,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;免疫学&quot;,&quot;word&quot;:&quot;доброкачественное новообразование рта и глотки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;口腔及び咽頭の良性新生物&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうこうおよびいんとうのりょうせいしんせいぶつ&quot;,&quot;transliteration&quot;:&quot;koukouoyobiintounoryouseishinseibutsu&quot;},{&quot;translateID&quot;:483953,&quot;translationStatus&quot;:0,&quot;themeID&quot;:103,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;免疫学&quot;,&quot;word&quot;:&quot;новообразование неопределенного или неизвестного характера полости рта и органов пищеварения&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;口腔及び消化器の性状不詳又は不明の新生物&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうこうおよびしょうかきのせいじょうふしょうまたはふめいのしんせいぶつ&quot;,&quot;transliteration&quot;:&quot;koukouoyobishoukakinoseijoufushoumatahafumeinoshinseibutsu&quot;},{&quot;translateID&quot;:484139,&quot;translationStatus&quot;:0,&quot;themeID&quot;:103,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;免疫学&quot;,&quot;word&quot;:&quot;губы, полости рта и глотки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;口唇、口腔及び咽頭&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうしん、こうこうおよびいんとう&quot;,&quot;transliteration&quot;:&quot;koushin、koukouoyobiintou&quot;},{&quot;translateID&quot;:484316,&quot;translationStatus&quot;:0,&quot;themeID&quot;:109,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;腫瘍学&quot;,&quot;word&quot;:&quot;злокачественное новообразование дна полости рта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;口底の悪性新生物&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;くちぞこのあくせいしんせいぶつ&quot;,&quot;transliteration&quot;:&quot;kuchizokonoakuseishinseibutsu&quot;},{&quot;translateID&quot;:483943,&quot;translationStatus&quot;:0,&quot;themeID&quot;:125,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;外科&quot;,&quot;word&quot;:&quot;диафрагма рта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;口腔隔膜&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうこうかくまく&quot;,&quot;transliteration&quot;:&quot;koukoukakumaku&quot;},{&quot;translateID&quot;:484499,&quot;translationStatus&quot;:0,&quot;themeID&quot;:125,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;外科&quot;,&quot;word&quot;:&quot;круговая мышца рта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;口輪筋&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうりんきん&quot;,&quot;transliteration&quot;:&quot;kourinkin&quot;},{&quot;translateID&quot;:473002,&quot;translationStatus&quot;:0,&quot;themeID&quot;:125,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;外科&quot;,&quot;word&quot;:&quot;собственно полость рта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;固有口腔&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こゆうこうくう&quot;,&quot;transliteration&quot;:&quot;koyuukoukuu&quot;},{&quot;translateID&quot;:483922,&quot;translationStatus&quot;:0,&quot;themeID&quot;:125,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;外科&quot;,&quot;word&quot;:&quot;полость рта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;口腔&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうくう&quot;,&quot;transliteration&quot;:&quot;koukuu&quot;},{&quot;translateID&quot;:322693,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;средства для ухода за полостью рта медицинские&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;医療用口腔洗浄液&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いりょうようこうこうせんじょうえき&quot;,&quot;transliteration&quot;:&quot;iryouyoukoukousenjoueki&quot;},{&quot;translateID&quot;:483909,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;искусственная вентиляция лёгких изо рта в рот&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;口-口式人工呼吸法&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;くち-くちしきじんこうこきゅうほう&quot;,&quot;transliteration&quot;:&quot;kuchi-kuchishikijinkoukokyuuhou&quot;},{&quot;translateID&quot;:483950,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;термический ожог рта и глотки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;口腔及び咽頭の熱傷&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうこうおよびいんとうのねつしょう&quot;,&quot;transliteration&quot;:&quot;koukouoyobiintounonetsushou&quot;},{&quot;translateID&quot;:483977,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;мазок из полости рта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;口腔塗抹標本&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうこうとまつひょうほん&quot;,&quot;transliteration&quot;:&quot;koukoutomatsuhyouhon&quot;},{&quot;translateID&quot;:484400,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;жидкость для полоскания рта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;口内洗浄剤&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうないせんじょうざい&quot;,&quot;transliteration&quot;:&quot;kounaisenjouzai&quot;},{&quot;translateID&quot;:484072,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;бледность вокруг рта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;口周蒼白&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうしゅうそうはく&quot;,&quot;transliteration&quot;:&quot;koushuusouhaku&quot;},{&quot;translateID&quot;:672654,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;боковая часть дна полости рта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;側部口底&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そくぶこうてい&quot;,&quot;transliteration&quot;:&quot;sokubukoutei&quot;},{&quot;translateID&quot;:461696,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;мышца, поднимающая угол рта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;犬歯筋&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けんしきん&quot;,&quot;transliteration&quot;:&quot;kenshikin&quot;},{&quot;translateID&quot;:483778,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;мышца, опускающая угол рта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;口角下制筋&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうかくかせいきん&quot;,&quot;transliteration&quot;:&quot;koukakukaseikin&quot;},{&quot;translateID&quot;:483951,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;химический ожог рта и глотки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;口腔及び咽頭の腐食&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうこうおよびいんとうのふしょく&quot;,&quot;transliteration&quot;:&quot;koukouoyobiintounofushoku&quot;},{&quot;translateID&quot;:483983,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;слизистая оболочка полости рта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;口腔粘膜&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうくうねんまく&quot;,&quot;transliteration&quot;:&quot;koukuunenmaku&quot;},{&quot;translateID&quot;:484317,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;злокачественное образование дна полости рта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;口底の悪性新生物&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうていのあくせいしんせいぶつ&quot;,&quot;transliteration&quot;:&quot;kouteinoakuseishinseibutsu&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="рта" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

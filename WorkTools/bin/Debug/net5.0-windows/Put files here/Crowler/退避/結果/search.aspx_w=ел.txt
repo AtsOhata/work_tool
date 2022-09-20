@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	ел - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,ел" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u0435%u043b" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAVu44Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNC10LtkAgMPZBYIAgIPZBYEAgEPFgIeA3NyYwUPLi4vaW1nL2xvZ28ucG5nZAIFDxYCHgRocmVmBQ4uLi8/bGFuZz1ydS1SVWQCBA8WAh4HVmlzaWJsZWdkAgYPFgIfA2hkAgcPZBYIZg8WAh8DaGQCAQ8WAh8DaGQCAg8WAh8DaGQCBQ8WAh8DaGRkWaJBBs+BURSdUBHQW8cjMN/vlUk=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAUlvuBca6SaohMr1RdgywoVlIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/qIG8tsMTWfTvrulNxxZLDK0m+LF" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:false,&quot;Phrases&quot;:[{&quot;translateID&quot;:279517,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Если бы ты не ел так много, не был бы сейчас таким сонным.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;もしあなたがそんなにたくさん食べていなかったら、今それほど眠くはないでしょう。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;もしあなたがそんなにたくさんたべていなかったら、いまそれほどねむくはないでしょう。&quot;,&quot;transliteration&quot;:&quot;moshianatagasonnanitakusantabeteinakattara、imasorehodonemukuhanaideshou。&quot;},{&quot;translateID&quot;:800618,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Раньше он ел каждый день, но теперь не мог себе этого позволить.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;彼は毎日外食するのが常でしたが、今はその余裕がありません。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かれはまいにちがいしょくするのがつねでしたが、いまはそのよゆうがありません。&quot;,&quot;transliteration&quot;:&quot;karehamainichigaishokusurunogatsunedeshitaga、imahasonoyoyuugaarimasen。&quot;},{&quot;translateID&quot;:536347,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Я ничего не ел последние три дня.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;私はこの3日間なにも食べていない。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;わたしはこのみっかかんなにもたべていない。&quot;,&quot;transliteration&quot;:&quot;watashihakonomikkakannanimotabeteinai。&quot;},{&quot;translateID&quot;:800617,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Раньше он ел ежедневно, но теперь не мог себе этого позволить.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;彼は毎日外食するのが常でしたが、今はその余裕がありません。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かれはまいにちがいしょくするのがつねでしたが、いまはそのよゆうがありません。&quot;,&quot;transliteration&quot;:&quot;karehamainichigaishokusurunogatsunedeshitaga、imahasonoyoyuugaarimasen。&quot;},{&quot;translateID&quot;:536067,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Я совершенно не ел ничего целый день.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;私は、一日中全く何も食べなかった。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;わたしは、1にちじゅうまったくなにもたべなかった。&quot;,&quot;transliteration&quot;:&quot;watashiha、1nichijuumattakunanimotabenakatta。&quot;},{&quot;translateID&quot;:798857,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Он выглядел так, как будто не ел несколько дней.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;彼は何日間も食べてないように見えた。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かれはなんにちかんもたべてないようにみえた。&quot;,&quot;transliteration&quot;:&quot;karehanannichikanmotabetenaiyounimieta。&quot;},{&quot;translateID&quot;:534791,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Когда я был студентом Массачусетского технологического института, я ел в одном ресторане в Бостоне.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;私がMITの学生であった頃、ボストンのある決まったレストランで食事をしていた。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;わたしがMITのがくせいであったころ、ぼすとんのあるきまったれすとらんでしょくじをしていた。&quot;,&quot;transliteration&quot;:&quot;watashigaMITnogakuseideattakoro、bosutonnoarukimattaresutorandeshokuji o shiteita。&quot;},{&quot;translateID&quot;:127842,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Никогда не ел ничего настолько вкусного.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;こんなにおいしい料理は今まで食べたことがありません。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こんなにおいしいりょうりはいままでたべたことがありません。&quot;,&quot;transliteration&quot;:&quot;konnanioishiiryourihaimamadetabetakotogaarimasen。&quot;},{&quot;translateID&quot;:823496,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Бродяга жадно ел ужин на День благодарения, поданный в церкви.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;浮浪者は教会での感謝祭の夕食をがつがつ食べた。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふろうしゃはきょうかいでのかんしゃさいのゆうしょくをがつがつたべた。&quot;,&quot;transliteration&quot;:&quot;furoushahakyoukaidenokanshasainoyuushoku o gatsugatsutabeta。&quot;},{&quot;translateID&quot;:127820,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Ты когда-то ещё ел такой вкусный суп?&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;こんなおいしいスープを味わったことがありますか。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こんなおいしいすーぷをあじわったことがありますか。&quot;,&quot;transliteration&quot;:&quot;konnaoishiisu:pu o ajiwattakotogaarimasuka。&quot;},{&quot;translateID&quot;:700847,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Мужчина ел хлеб.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;男の人はパンを食べました。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おとこのひとはぱんをたべました。&quot;,&quot;transliteration&quot;:&quot;otokonohitohapan o tabemashita。&quot;},{&quot;translateID&quot;:798580,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Он выглядит так, как будто не ел несколько дней.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;彼はまるで何日間も食べていないかのように見えた。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かれはまるでなんにちかんもたべていないかのようにみえた。&quot;,&quot;transliteration&quot;:&quot;karehamarudenannichikanmotabeteinaikanoyounimieta。&quot;},{&quot;translateID&quot;:224200,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Пока он ел пиццу, он выводил сестру из себя.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ピザを食べている間に、彼は妹をイライラさせていた。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぴざをたべているあいだに、かれはいもうとをいらいらさせていた。&quot;,&quot;transliteration&quot;:&quot;piza o tabeteiruaidani、karehaimouto o irairasaseteita。&quot;},{&quot;translateID&quot;:506129,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;я сегодня не ел ни кусочка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;今日は一口も食べませんでした&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きょうはひとくちもたべませんでした&quot;,&quot;transliteration&quot;:&quot;kyouhahitokuchimotabemasendeshita&quot;},{&quot;translateID&quot;:89644,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Моя мать настаивает, чтобы я ел больше овощей.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;お母さんは私にもっと野菜を食べろと要求する。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おかあさんはわたしにもっとやさいをたべろとようきゅうする。&quot;,&quot;transliteration&quot;:&quot;okaasanhawatashinimottoyasai o taberotoyoukyuusuru。&quot;},{&quot;translateID&quot;:176198,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Ты когда-нибудь ел сыр с яблочным пирогом?&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;チーズとアップルパイをいっしょに食べたことがありますか。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちーずとあっぷるぱいをいっしょにたべたことがありますか。&quot;,&quot;transliteration&quot;:&quot;chi:zutoappurupai o isshonitabetakotogaarimasuka。&quot;},{&quot;translateID&quot;:713644,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Поскольку я ничего не ел на завтрак, сейчас я очень голоден.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;朝食は何も食べなかったので今とてもお腹がすいている。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちょうしょくはなにもたべなかったのでいまとてもおなかがすいている。&quot;,&quot;transliteration&quot;:&quot;choushokuhananimotabenakattanodeimatotemoonakagasuiteiru。&quot;},{&quot;translateID&quot;:104396,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Что ты сегодня ел на обед?&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;きょう何を昼食に食べましたか。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きょうなにをちゅうしょくにたべましたか。&quot;,&quot;transliteration&quot;:&quot;kyounani o chuushokunitabemashitaka。&quot;},{&quot;translateID&quot;:859203,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Я никогда раньше не ел манго.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;僕はまだマンゴーを食べたことがない。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぼくはまだまんごーをたべたことがない。&quot;,&quot;transliteration&quot;:&quot;bokuhamadamango: o tabetakotoganai。&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="ел" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

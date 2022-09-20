@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	нижнего - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,нижнего" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u043d%u0438%u0436%u043d%u0435%u0433%u043e" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV444Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNC90LjQttC90LXQs9C+ZAIDD2QWCAICD2QWBAIBDxYCHgNzcmMFDy4uL2ltZy9sb2dvLnBuZ2QCBQ8WAh4EaHJlZgUOLi4vP2xhbmc9cnUtUlVkAgQPFgIeB1Zpc2libGVnZAIGDxYCHwNoZAIHD2QWCGYPFgIfA2hkAgEPFgIfA2hkAgIPFgIfA2hkAgUPFgIfA2hkZF2JKtgpVZ4y9WQoid3/a/9VKOuL" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAWPDtGeZUfo6qS1uH9PKy7jlIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/sD6bdQowjpKkj90dS4T1b3guV7E" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:false,&quot;Phrases&quot;:[{&quot;translateID&quot;:806653,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Неогубленный гласный переднего ряда нижнего подъёма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;非円唇前舌広母音&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひえんくちびるまえしたびろぼいん&quot;,&quot;transliteration&quot;:&quot;hienkuchibirumaeshitabiroboin&quot;},{&quot;translateID&quot;:806651,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Ненапряжённый гласный переднего ряда нижнего подъёма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;非円唇前舌狭めの広母音&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひえんくちびるまえしたせばめのひろしぼいん&quot;,&quot;transliteration&quot;:&quot;hienkuchibirumaeshitasebamenohiroshiboin&quot;},{&quot;translateID&quot;:487912,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Гласные нижнего подъёма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;広母音&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひろしぼいん&quot;,&quot;transliteration&quot;:&quot;hiroshiboin&quot;},{&quot;translateID&quot;:358301,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Культура нижнего слоя Сяцзядянь&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;夏家店下層文化&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なついえてんかそうぶんか&quot;,&quot;transliteration&quot;:&quot;natsuietenkasoubunka&quot;},{&quot;translateID&quot;:806647,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Неогубленный гласный заднего ряда нижнего подъёма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;非円唇後舌広母音&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひえんくちびるごしたびろぼいん&quot;,&quot;transliteration&quot;:&quot;hienkuchibirugoshitabiroboin&quot;},{&quot;translateID&quot;:339070,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Огубленный гласный переднего ряда нижнего подъёма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;円唇前舌広母音&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;えんくちびるまえしたびろぼいん&quot;,&quot;transliteration&quot;:&quot;enkuchibirumaeshitabiroboin&quot;},{&quot;translateID&quot;:339065,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Огублённый гласный заднего ряда нижнего подъёма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;円唇後舌広母音&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;えんくちびるごしたびろぼいん&quot;,&quot;transliteration&quot;:&quot;enkuchibirugoshitabiroboin&quot;},{&quot;translateID&quot;:709422,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Ненапряжённый гласный среднего ряда нижнего подъёма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中舌狭めの広母音&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅうしたせばめのひろしぼいん&quot;,&quot;transliteration&quot;:&quot;chuushitasebamenohiroshiboin&quot;},{&quot;translateID&quot;:352384,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;знак или символ нижнего регистра&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;下段文字&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;げだんもじ&quot;,&quot;transliteration&quot;:&quot;gedanmoji&quot;},{&quot;translateID&quot;:350852,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;сайт нижнего уровня&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;下位のサイト&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かいのさいと&quot;,&quot;transliteration&quot;:&quot;kainosaito&quot;},{&quot;translateID&quot;:588386,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;знак или символ нижнего регистра&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;小文字&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こもじ&quot;,&quot;transliteration&quot;:&quot;komoji&quot;},{&quot;translateID&quot;:352195,&quot;translationStatus&quot;:0,&quot;themeID&quot;:82,&quot;groupName&quot;:&quot;物理&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;облака нижнего яруса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;下層雲&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かそううん&quot;,&quot;transliteration&quot;:&quot;kasouun&quot;},{&quot;translateID&quot;:351202,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;центральное ядро нижнего бугорка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;下丘の中心核&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かきゅうのちゅうしんかく&quot;,&quot;transliteration&quot;:&quot;kakyuunochuushinkaku&quot;},{&quot;translateID&quot;:689322,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;перелом нижнего конца бедренной кости&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;大腿骨遠位端骨折&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;だいたいこつえんいたんこっせつ&quot;,&quot;transliteration&quot;:&quot;daitaikotsuenitankossetsu&quot;},{&quot;translateID&quot;:373953,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;наружное ядро нижнего бугорка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;外下丘核&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;がいかきゅうかく&quot;,&quot;transliteration&quot;:&quot;gaikakyuukaku&quot;},{&quot;translateID&quot;:351201,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;латеральное ядро нижнего бугорка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;下丘の外側核&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かきゅうのがいそくかく&quot;,&quot;transliteration&quot;:&quot;kakyuunogaisokukaku&quot;},{&quot;translateID&quot;:352173,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;артерия нижнего переднего сегмента&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;下前区動脈&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かぜんくどうみゃく&quot;,&quot;transliteration&quot;:&quot;kazenkudoumyaku&quot;},{&quot;translateID&quot;:619439,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;артерия нижнего переднего сегмента почки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;腎臓の下前区動脈&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じんぞうのかぜんくどうみゃく&quot;,&quot;transliteration&quot;:&quot;jinzounokazenkudoumyaku&quot;},{&quot;translateID&quot;:351175,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;флегмона нижнего века&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;下眼瞼蜂窩織炎&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かがんけんほうかしきえん&quot;,&quot;transliteration&quot;:&quot;kagankenhoukashikien&quot;},{&quot;translateID&quot;:351680,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;нижние десневые ветви нижнего зубного сплетения&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;下歯神経叢の下歯肉枝&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かししんけいそうのかしにくし&quot;,&quot;transliteration&quot;:&quot;kashishinkeisounokashinikushi&quot;},{&quot;translateID&quot;:619124,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;артерия нижнего переднего сегмента почки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;腎下前区動脈&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じんかぜんくどうみゃく&quot;,&quot;transliteration&quot;:&quot;jinkazenkudoumyaku&quot;},{&quot;translateID&quot;:351200,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;наружное ядро нижнего бугорка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;下丘の外核&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かきゅうのがいかく&quot;,&quot;transliteration&quot;:&quot;kakyuunogaikaku&quot;},{&quot;translateID&quot;:352107,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;борозда нижнего каменистого синуса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;下錐体洞溝&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かすいたいどうこう&quot;,&quot;transliteration&quot;:&quot;kasuitaidoukou&quot;},{&quot;translateID&quot;:619437,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;артерия нижнего сегмента почки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;腎臓の下区動脈&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じんぞうのかくどうみゃく&quot;,&quot;transliteration&quot;:&quot;jinzounokakudoumyaku&quot;},{&quot;translateID&quot;:351166,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;борозда нижнего века&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;下眼溝&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かがんこう&quot;,&quot;transliteration&quot;:&quot;kagankou&quot;},{&quot;translateID&quot;:351639,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;мышцы нижнего пояса конечностей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;下肢帯筋&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かしたいきん&quot;,&quot;transliteration&quot;:&quot;kashitaikin&quot;},{&quot;translateID&quot;:399282,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;борозда нижнего века&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;眼瞼下溝&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;がんけんかこう&quot;,&quot;transliteration&quot;:&quot;gankenkakou&quot;},{&quot;translateID&quot;:351169,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;борозда нижнего века&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;下眼瞼溝&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かがんけんこう&quot;,&quot;transliteration&quot;:&quot;kagankenkou&quot;},{&quot;translateID&quot;:351678,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;нижние зубные ветви нижнего зубного сплетения&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;下歯神経叢の下歯枝&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かしそうしんけいそうのかしし&quot;,&quot;transliteration&quot;:&quot;kashisoushinkeisounokashishi&quot;},{&quot;translateID&quot;:619117,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;артерия нижнего сегмента почки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;腎下区動脈&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じんかくどうみゃく&quot;,&quot;transliteration&quot;:&quot;jinkakudoumyaku&quot;},{&quot;translateID&quot;:31151,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;крупноклеточная часть нижнего вестибулярного ядра&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;Fグループ細胞&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;えふぐるーぷさいぼう&quot;,&quot;transliteration&quot;:&quot;efuguru:pusaibou&quot;},{&quot;translateID&quot;:351203,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;перицентральное ядро нижнего бугорка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;下丘の中心周囲核&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かきゅのちゅうしんしゅういかく&quot;,&quot;transliteration&quot;:&quot;kakyunochuushinshuuikaku&quot;},{&quot;translateID&quot;:597056,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;перелом нижнего конца плечевой кости&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;上腕骨遠位端骨折&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じょうわんこつえんいたんこっせつ&quot;,&quot;transliteration&quot;:&quot;jouwankotsuenitankossetsu&quot;},{&quot;translateID&quot;:31182,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;крупноклеточная часть нижнего вестибулярного ядра&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;F細胞群&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;えふさいぼうぐん&quot;,&quot;transliteration&quot;:&quot;efusaibougun&quot;},{&quot;translateID&quot;:351204,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ядра нижнего бугорка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;下丘核&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かきゅうかく&quot;,&quot;transliteration&quot;:&quot;kakyuukaku&quot;},{&quot;translateID&quot;:658299,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;крупноклеточная часть нижнего вестибулярного ядра&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;前庭神経下核の大細胞部&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぜんていしんけいかかくのだいさいぼうぶ&quot;,&quot;transliteration&quot;:&quot;zenteishinkeikakakunodaisaiboubu&quot;},{&quot;translateID&quot;:350910,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;щитоглоточная часть нижнего констриктора глотки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;下咽頭収縮筋の甲状咽頭部&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かいんとうしゅうしゅくきんのこうじょういんとうぶ&quot;,&quot;transliteration&quot;:&quot;kaintoushuushukukinnokoujouintoubu&quot;},{&quot;translateID&quot;:351206,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ручка нижнего холмика&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;下丘腕&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かきゅうわん&quot;,&quot;transliteration&quot;:&quot;kakyuuwan&quot;},{&quot;translateID&quot;:919052,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;перелом нижнего конца лучевой кости&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;橈骨遠位端骨折&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とうこつえんいたんこっせつ&quot;,&quot;transliteration&quot;:&quot;toukotsuenitankossetsu&quot;},{&quot;translateID&quot;:350911,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;перстнеглоточная часть нижнего констриктора глотки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;下咽頭収縮筋の輪状咽頭部&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かいんとうしゅうしゅくきんのりんじょういんとうぶ&quot;,&quot;transliteration&quot;:&quot;kaintoushuushukukinnorinjouintoubu&quot;},{&quot;translateID&quot;:351236,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;артерия нижнего сегмента&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;下区動脈&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かくどうみゃく&quot;,&quot;transliteration&quot;:&quot;kakudoumyaku&quot;},{&quot;translateID&quot;:359748,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;переломы нижнего конца костей голени&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;果部骨折&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かぶこっせつ&quot;,&quot;transliteration&quot;:&quot;kabukossetsu&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="нижнего" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

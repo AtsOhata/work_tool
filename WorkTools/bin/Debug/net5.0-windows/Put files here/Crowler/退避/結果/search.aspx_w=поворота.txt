@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	поворота - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,поворота" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u043f%u043e%u0432%u043e%u0440%u043e%u0442%u0430" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV644Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNC/0L7QstC+0YDQvtGC0LBkAgMPZBYIAgIPZBYEAgEPFgIeA3NyYwUPLi4vaW1nL2xvZ28ucG5nZAIFDxYCHgRocmVmBQ4uLi8/bGFuZz1ydS1SVWQCBA8WAh4HVmlzaWJsZWdkAgYPFgIfA2hkAgcPZBYIZg8WAh8DaGQCAQ8WAh8DaGQCAg8WAh8DaGQCBQ8WAh8DaGRkEhMEGfZvzrXuk+fYDpThLO1XXog=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAW055sV5mk8IBWNVhT6RUbPlIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/jcYCemWheyKAFMoaHfvWk+YoqDn" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:true,&quot;Phrases&quot;:[{&quot;translateID&quot;:109525,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;датчик угла поворота коленчатого вала&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;クランク角センサー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;くらんくかくせんさー&quot;,&quot;transliteration&quot;:&quot;kurankukakusensa:&quot;},{&quot;translateID&quot;:127889,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Я не ожидала такого поворота событий.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;こんな成り行きになるとは思わなかった。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こんななりゆきになるとはおもわなかった。&quot;,&quot;transliteration&quot;:&quot;konnanariyukininarutohaomowanakatta。&quot;},{&quot;translateID&quot;:853119,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;указатель поворота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;方向指示器&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほうこうしじき&quot;,&quot;transliteration&quot;:&quot;houkoushijiki&quot;},{&quot;translateID&quot;:368078,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Матрица поворота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;回転行列&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かいてんぎょうれつ&quot;,&quot;transliteration&quot;:&quot;kaitengyouretsu&quot;},{&quot;translateID&quot;:170125,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;сигнал поворота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;たーン・シグナル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たーん・しぐなる&quot;,&quot;transliteration&quot;:&quot;ta:n・shigunaru&quot;},{&quot;translateID&quot;:170124,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;сигнал поворота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ターン・シグナル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たーん・しぐなる&quot;,&quot;transliteration&quot;:&quot;ta:n・shigunaru&quot;},{&quot;translateID&quot;:344855,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;время поворота на 180 град.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;応答時間&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おうとうじかん&quot;,&quot;transliteration&quot;:&quot;outoujikan&quot;},{&quot;translateID&quot;:670424,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;время поворота на 180 град.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;送受反転時間&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そうじゅはんてんじかん&quot;,&quot;transliteration&quot;:&quot;soujuhantenjikan&quot;},{&quot;translateID&quot;:367944,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;кнопка блокировки поворота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;回転ロック ボタン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かいてんろっく ぼたん&quot;,&quot;transliteration&quot;:&quot;kaitenrokku botan&quot;},{&quot;translateID&quot;:665196,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;угол поворота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;掃引角度&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;掃引角度&quot;,&quot;transliteration&quot;:&quot;掃引角度&quot;},{&quot;translateID&quot;:367943,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;блокировка поворота экрана&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;回転ロック&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かいてんろっく&quot;,&quot;transliteration&quot;:&quot;kaitenrokku&quot;},{&quot;translateID&quot;:367907,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;маркер поворота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;回転ハンドル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かいてんはんどる&quot;,&quot;transliteration&quot;:&quot;kaitenhandoru&quot;},{&quot;translateID&quot;:367895,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;угол поворота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;回転の角度&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かいてんのかくど&quot;,&quot;transliteration&quot;:&quot;kaitennokakudo&quot;},{&quot;translateID&quot;:367830,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;жест поворота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;回転ジェスチャ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かいてんじぇすちゃ&quot;,&quot;transliteration&quot;:&quot;kaitenjesucha&quot;},{&quot;translateID&quot;:181878,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;преобразователь цифрового кода в величину угла поворота ротора сельсина&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ディジタルシンクロ変換器&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;でぃじたるしんくろへんかんき&quot;,&quot;transliteration&quot;:&quot;dijitarushinkurohenkanki&quot;},{&quot;translateID&quot;:233915,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;ферритовый ферритовое устройство поворота плоскости поляризации&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;フェライト回転子&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふぇらいとかいてんし&quot;,&quot;transliteration&quot;:&quot;feraitokaitenshi&quot;},{&quot;translateID&quot;:92633,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;угол поворота рулевого колеса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;かじ取り角&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かじとりかど&quot;,&quot;transliteration&quot;:&quot;kajitorikado&quot;},{&quot;translateID&quot;:653938,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;электродвигатель поворота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;旋回電動機&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せんかいでんどうき&quot;,&quot;transliteration&quot;:&quot;senkaidendouki&quot;},{&quot;translateID&quot;:341637,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;угол поворота зубчатого колеса от начала до конца зацепления&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;遠のき角&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とおのきかど&quot;,&quot;transliteration&quot;:&quot;toonokikado&quot;},{&quot;translateID&quot;:368000,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;угол поворота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;回転角&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かいてんかく&quot;,&quot;transliteration&quot;:&quot;kaitenkaku&quot;},{&quot;translateID&quot;:653892,&quot;translationStatus&quot;:0,&quot;themeID&quot;:14,&quot;groupName&quot;:&quot;車両&quot;,&quot;themeName&quot;:&quot;自動車&quot;,&quot;word&quot;:&quot;блокировка поворота платформы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;旋回ロック&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せんかいろっく&quot;,&quot;transliteration&quot;:&quot;senkairokku&quot;},{&quot;translateID&quot;:653927,&quot;translationStatus&quot;:0,&quot;themeID&quot;:14,&quot;groupName&quot;:&quot;車両&quot;,&quot;themeName&quot;:&quot;自動車&quot;,&quot;word&quot;:&quot;редуктор механизма поворота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;旋回装置&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せんかいそうち&quot;,&quot;transliteration&quot;:&quot;senkaisouchi&quot;},{&quot;translateID&quot;:615685,&quot;translationStatus&quot;:0,&quot;themeID&quot;:14,&quot;groupName&quot;:&quot;車両&quot;,&quot;themeName&quot;:&quot;自動車&quot;,&quot;word&quot;:&quot;указатель поворота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;進行方向表示灯&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しんこうほうこうひょうじひ&quot;,&quot;transliteration&quot;:&quot;shinkouhoukouhyoujihi&quot;},{&quot;translateID&quot;:853124,&quot;translationStatus&quot;:0,&quot;themeID&quot;:14,&quot;groupName&quot;:&quot;車両&quot;,&quot;themeName&quot;:&quot;自動車&quot;,&quot;word&quot;:&quot;контрольная лампа указателя поворота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;方向指示灯&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほうこうしじひ&quot;,&quot;transliteration&quot;:&quot;houkoushijihi&quot;},{&quot;translateID&quot;:170170,&quot;translationStatus&quot;:0,&quot;themeID&quot;:14,&quot;groupName&quot;:&quot;車両&quot;,&quot;themeName&quot;:&quot;自動車&quot;,&quot;word&quot;:&quot;индикатор сигнала поворота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ターンシグナルパイロットランプ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たーんしぐなるぱいろっとらんぷ&quot;,&quot;transliteration&quot;:&quot;ta:nshigunarupairottoranpu&quot;},{&quot;translateID&quot;:102966,&quot;translationStatus&quot;:0,&quot;themeID&quot;:14,&quot;groupName&quot;:&quot;車両&quot;,&quot;themeName&quot;:&quot;自動車&quot;,&quot;word&quot;:&quot;Продольный угол наклона оси поворота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;キャスタ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きゃすた&quot;,&quot;transliteration&quot;:&quot;kyasuta&quot;},{&quot;translateID&quot;:170169,&quot;translationStatus&quot;:0,&quot;themeID&quot;:14,&quot;groupName&quot;:&quot;車両&quot;,&quot;themeName&quot;:&quot;自動車&quot;,&quot;word&quot;:&quot;индикатор сигнала поворота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ターンシグナルインジケータ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たーんしぐなるいんじけーた&quot;,&quot;transliteration&quot;:&quot;ta:nshigunaruinjike:ta&quot;},{&quot;translateID&quot;:119211,&quot;translationStatus&quot;:0,&quot;themeID&quot;:14,&quot;groupName&quot;:&quot;車両&quot;,&quot;themeName&quot;:&quot;自動車&quot;,&quot;word&quot;:&quot;лампочка указателя поворота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;コーナリングランプ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こーなりんぐらんぷ&quot;,&quot;transliteration&quot;:&quot;ko:naringuranpu&quot;},{&quot;translateID&quot;:853123,&quot;translationStatus&quot;:0,&quot;themeID&quot;:14,&quot;groupName&quot;:&quot;車両&quot;,&quot;themeName&quot;:&quot;自動車&quot;,&quot;word&quot;:&quot;контрольная лампа сигнала поворота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;方向指示灯&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほうこうしじひ&quot;,&quot;transliteration&quot;:&quot;houkoushijihi&quot;},{&quot;translateID&quot;:109524,&quot;translationStatus&quot;:0,&quot;themeID&quot;:14,&quot;groupName&quot;:&quot;車両&quot;,&quot;themeName&quot;:&quot;自動車&quot;,&quot;word&quot;:&quot;датчик угла поворота коленвала&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;クランク角センサ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;くらんくかどせんさ&quot;,&quot;transliteration&quot;:&quot;kurankukadosensa&quot;},{&quot;translateID&quot;:170172,&quot;translationStatus&quot;:0,&quot;themeID&quot;:14,&quot;groupName&quot;:&quot;車両&quot;,&quot;themeName&quot;:&quot;自動車&quot;,&quot;word&quot;:&quot;контрольная лампа указателя поворота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ターンシグナルランプ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たーんしぐなるらんぷ&quot;,&quot;transliteration&quot;:&quot;ta:nshigunaruranpu&quot;},{&quot;translateID&quot;:170171,&quot;translationStatus&quot;:0,&quot;themeID&quot;:14,&quot;groupName&quot;:&quot;車両&quot;,&quot;themeName&quot;:&quot;自動車&quot;,&quot;word&quot;:&quot;контрольная лампа сигнала поворота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ターンシグナルランプ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たーんしぐなるらんぷ&quot;,&quot;transliteration&quot;:&quot;ta:nshigunaruranpu&quot;},{&quot;translateID&quot;:102975,&quot;translationStatus&quot;:0,&quot;themeID&quot;:14,&quot;groupName&quot;:&quot;車両&quot;,&quot;themeName&quot;:&quot;自動車&quot;,&quot;word&quot;:&quot;Продольный угол наклона оси поворота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;キャスタ角&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きゃすたかど&quot;,&quot;transliteration&quot;:&quot;kyasutakado&quot;},{&quot;translateID&quot;:220959,&quot;translationStatus&quot;:0,&quot;themeID&quot;:44,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;航空宇宙&quot;,&quot;word&quot;:&quot;указатель крена и поворота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;バンク計&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ばんくけい&quot;,&quot;transliteration&quot;:&quot;bankukei&quot;},{&quot;translateID&quot;:445986,&quot;translationStatus&quot;:0,&quot;themeID&quot;:44,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;航空宇宙&quot;,&quot;word&quot;:&quot;указатель крена и поворота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;傾斜旋回計&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けいしゃせんかいけい&quot;,&quot;transliteration&quot;:&quot;keishasenkaikei&quot;},{&quot;translateID&quot;:153872,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;тормоз муфты поворота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ステアリングブレーキ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;すてありんぐぶれーき&quot;,&quot;transliteration&quot;:&quot;sutearingubure:ki&quot;},{&quot;translateID&quot;:169802,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;мотор поворота башни&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ターニングモータ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たーにんぐもーた&quot;,&quot;transliteration&quot;:&quot;ta:ningumo:ta&quot;},{&quot;translateID&quot;:653929,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;механизм поворота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;旋回装置&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せんかいそうち&quot;,&quot;transliteration&quot;:&quot;senkaisouchi&quot;},{&quot;translateID&quot;:156708,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;ось поворота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;スピン軸&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;すぴんじく&quot;,&quot;transliteration&quot;:&quot;supinjiku&quot;},{&quot;translateID&quot;:665482,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;световой сигнал поворота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;操だ目標灯&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そうだめひょうとう&quot;,&quot;transliteration&quot;:&quot;soudamehyoutou&quot;},{&quot;translateID&quot;:726462,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;с ограниченным углом поворота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;定位置への回転運動&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ていいちへのかいてんうんどう&quot;,&quot;transliteration&quot;:&quot;teiichihenokaitenundou&quot;},{&quot;translateID&quot;:169800,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;центр поворота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ターニングセンタ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たーにんぐせんた&quot;,&quot;transliteration&quot;:&quot;ta:ningusenta&quot;},{&quot;translateID&quot;:91128,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;лебёдка для поворота стрелы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ガイウインチ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;がいういんち&quot;,&quot;transliteration&quot;:&quot;gaiuinchi&quot;},{&quot;translateID&quot;:109523,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;угол поворота кривошипа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;クランク角&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;くらんくかど&quot;,&quot;transliteration&quot;:&quot;kurankukado&quot;},{&quot;translateID&quot;:685297,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;угол поворота ЗК от полюса до конца зацепления&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;退き角&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しりぞきかど&quot;,&quot;transliteration&quot;:&quot;shirizokikado&quot;},{&quot;translateID&quot;:368221,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;приспособление для поворота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;回転装置&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かいてんそうち&quot;,&quot;transliteration&quot;:&quot;kaitensouchi&quot;},{&quot;translateID&quot;:842480,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;угол поворота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;偏差角&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;へんさかど&quot;,&quot;transliteration&quot;:&quot;hensakado&quot;},{&quot;translateID&quot;:368353,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;направление поворота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;回転方向&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かいてんほうこう&quot;,&quot;transliteration&quot;:&quot;kaitenhoukou&quot;},{&quot;translateID&quot;:653911,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;диаметр поворота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;旋回圏&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せんかいけん&quot;,&quot;transliteration&quot;:&quot;senkaiken&quot;},{&quot;translateID&quot;:341638,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;угол поворота зубчатого колеса от полюса зацепления зуба до выхода его из зацепления&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;遠のき角&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とおのきかど&quot;,&quot;transliteration&quot;:&quot;toonokikado&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="поворота" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

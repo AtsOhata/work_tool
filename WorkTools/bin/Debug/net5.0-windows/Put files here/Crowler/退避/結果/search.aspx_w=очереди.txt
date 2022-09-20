@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	очереди - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,очереди" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u043e%u0447%u0435%u0440%u0435%u0434%u0438" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV444Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNC+0YfQtdGA0LXQtNC4ZAIDD2QWCAICD2QWBAIBDxYCHgNzcmMFDy4uL2ltZy9sb2dvLnBuZ2QCBQ8WAh4EaHJlZgUOLi4vP2xhbmc9cnUtUlVkAgQPFgIeB1Zpc2libGVnZAIGDxYCHwNoZAIHD2QWCGYPFgIfA2hkAgEPFgIfA2hkAgIPFgIfA2hkAgUPFgIfA2hkZCl2ACVZD5mZ3bCa1UCNyXzxz/vR" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAUZpP4tr7aJxp9PayU0ZEMflIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/twujCeWWg4l9Mqv5f5OEpWX9a9Y" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:true,&quot;Phrases&quot;:[{&quot;translateID&quot;:546938,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;по очереди&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;次々&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;つぎつぎ&quot;,&quot;transliteration&quot;:&quot;tsugitsugi&quot;},{&quot;translateID&quot;:685771,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;по очереди&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;代る代る&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かわるがわる&quot;,&quot;transliteration&quot;:&quot;kawarugawaru&quot;},{&quot;translateID&quot;:519388,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;движение по очереди&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;錯行&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さっこう&quot;,&quot;transliteration&quot;:&quot;sakkou&quot;},{&quot;translateID&quot;:581365,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;по очереди&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;順番に&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じゅんばんに&quot;,&quot;transliteration&quot;:&quot;junbanni&quot;},{&quot;translateID&quot;:476759,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;запас второй очереди&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;後備&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうび&quot;,&quot;transliteration&quot;:&quot;koubi&quot;},{&quot;translateID&quot;:581205,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;по очереди&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;順々に&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じゅんじゅんに&quot;,&quot;transliteration&quot;:&quot;junjunni&quot;},{&quot;translateID&quot;:439456,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;наряд вне очереди&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;苦役&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;くえき&quot;,&quot;transliteration&quot;:&quot;kueki&quot;},{&quot;translateID&quot;:581162,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;по очереди&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;順次に&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じゅんじに&quot;,&quot;transliteration&quot;:&quot;junjini&quot;},{&quot;translateID&quot;:495001,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;стоять в очереди&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;行列している&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぎょうれつしている&quot;,&quot;transliteration&quot;:&quot;gyouretsushiteiru&quot;},{&quot;translateID&quot;:686187,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;занимание очереди для&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;代待ち&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;だいまち&quot;,&quot;transliteration&quot;:&quot;daimachi&quot;},{&quot;translateID&quot;:142711,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Джек и я согласились по очереди работать по субботам.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ジャックと私は、土曜日は交代でオフィスで働くことに同意した。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じゃっくとわたしは、どようびはこうたいでおふぃすではたらくことにどういした。&quot;,&quot;transliteration&quot;:&quot;jakkutowatashiha、doyoubihakoutaideofisudehatarakukotonidouishita。&quot;},{&quot;translateID&quot;:546948,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;по очереди&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;次々に&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;つぎつぎに&quot;,&quot;transliteration&quot;:&quot;tsugitsugini&quot;},{&quot;translateID&quot;:275210,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Мэри и ее сестра по очереди присматривали за больной матерью.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;メアリーと彼女の妹は交代で病気の母の世話をした。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;めありーとかのじょのいもうとはこうたいでびょうきのははのせわをした。&quot;,&quot;transliteration&quot;:&quot;meari:tokanojonoimoutohakoutaidebyoukinohahanosewa o shita。&quot;},{&quot;translateID&quot;:905110,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;по очереди&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;輪番で&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;りんばんで&quot;,&quot;transliteration&quot;:&quot;rinbande&quot;},{&quot;translateID&quot;:581126,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;по очереди&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;順繰りに&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じゅんぐりに&quot;,&quot;transliteration&quot;:&quot;jungurini&quot;},{&quot;translateID&quot;:905102,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;читать по очереди&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;輪読する&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;りんどくする&quot;,&quot;transliteration&quot;:&quot;rindokusuru&quot;},{&quot;translateID&quot;:471330,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;вызывать по очереди&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;呼び回る&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;よびまわる&quot;,&quot;transliteration&quot;:&quot;yobimawaru&quot;},{&quot;translateID&quot;:905100,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;чтение по очереди&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;輪読&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;りんどく&quot;,&quot;transliteration&quot;:&quot;rindoku&quot;},{&quot;translateID&quot;:368709,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;читать по очереди&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;回覧する&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かいらんする&quot;,&quot;transliteration&quot;:&quot;kairansuru&quot;},{&quot;translateID&quot;:904968,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;читать книгу по очереди&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;輪講する&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;りんこうする&quot;,&quot;transliteration&quot;:&quot;rinkousuru&quot;},{&quot;translateID&quot;:368423,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;читать по очереди&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;回読する&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かいどくする&quot;,&quot;transliteration&quot;:&quot;kaidokusuru&quot;},{&quot;translateID&quot;:684277,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;метод доступа с организацией очереди&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;待機アクセス方式&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たいきあくせすほうしき&quot;,&quot;transliteration&quot;:&quot;taikiakusesuhoushiki&quot;},{&quot;translateID&quot;:684164,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;ожидание очереди&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;待ち行列作成&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まちぎょうれつさくせい&quot;,&quot;transliteration&quot;:&quot;machigyouretsusakusei&quot;},{&quot;translateID&quot;:231619,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;в порядке очереди&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;フィフォ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふぃふぉ&quot;,&quot;transliteration&quot;:&quot;fifo&quot;},{&quot;translateID&quot;:684291,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;метод доступа с организацией очереди&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;待機形アクセス方式&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たいきけいあくせすほうしき&quot;,&quot;transliteration&quot;:&quot;taikikeiakusesuhoushiki&quot;},{&quot;translateID&quot;:650511,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;в порядке очереди&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;先入れ先出し&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さきいれさきだし&quot;,&quot;transliteration&quot;:&quot;sakiiresakidashi&quot;},{&quot;translateID&quot;:684293,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;доступ из организуванням очереди&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;待機呼出し&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たいきよびだし&quot;,&quot;transliteration&quot;:&quot;taikiyobidashi&quot;},{&quot;translateID&quot;:30962,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;в порядке очереди&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;FIFO queue&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;FIFO queue&quot;,&quot;transliteration&quot;:&quot;FIFO queue&quot;},{&quot;translateID&quot;:684173,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;элемент очереди&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;待ち行列要素&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まちぎょうれつようそ&quot;,&quot;transliteration&quot;:&quot;machigyouretsuyouso&quot;},{&quot;translateID&quot;:34381,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;в порядке очереди&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;pushup memory&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;pushup memory&quot;,&quot;transliteration&quot;:&quot;pushup memory&quot;},{&quot;translateID&quot;:684156,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;длина очереди&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;待ち行列の長さ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まちぎょうれつのながさ&quot;,&quot;transliteration&quot;:&quot;machigyouretsunonagasa&quot;},{&quot;translateID&quot;:104108,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;ожидание очереди&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;キューイング&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きゅーいんぐ&quot;,&quot;transliteration&quot;:&quot;kyu:ingu&quot;},{&quot;translateID&quot;:685796,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;по очереди&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;代わる代わる&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かわるがわる&quot;,&quot;transliteration&quot;:&quot;kawarugawaru&quot;},{&quot;translateID&quot;:684159,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;организация очереди&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;待ち行列管理&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まちぎょうれつかんり&quot;,&quot;transliteration&quot;:&quot;machigyouretsukanri&quot;},{&quot;translateID&quot;:229458,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;в порядке очереди&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ファイフォ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふぁいふぉ&quot;,&quot;transliteration&quot;:&quot;faifo&quot;},{&quot;translateID&quot;:581039,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;по очереди&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;順に&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じゅんに&quot;,&quot;transliteration&quot;:&quot;junni&quot;},{&quot;translateID&quot;:185366,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;вывести из очереди&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;デキュー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;できゅー&quot;,&quot;transliteration&quot;:&quot;dekyu:&quot;},{&quot;translateID&quot;:684147,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;ждать в очереди&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;待ち行列&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まちぎょうれつ&quot;,&quot;transliteration&quot;:&quot;machigyouretsu&quot;},{&quot;translateID&quot;:104098,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;организация очереди&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;キュー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きゅー&quot;,&quot;transliteration&quot;:&quot;kyu:&quot;},{&quot;translateID&quot;:684148,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;ожидание очереди&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;待ち行列&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まちぎょうれつ&quot;,&quot;transliteration&quot;:&quot;machigyouretsu&quot;},{&quot;translateID&quot;:104103,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;ждать в очереди&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;キュー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きゅー&quot;,&quot;transliteration&quot;:&quot;kyu:&quot;},{&quot;translateID&quot;:684152,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;организация очереди&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;待ち行列の規準&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まちぎょうれつのきじゅん&quot;,&quot;transliteration&quot;:&quot;machigyouretsunokijun&quot;},{&quot;translateID&quot;:104105,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;агент чтения очереди&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;キュー リーダー エージェント&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きゅー りーだー えーじぇんと&quot;,&quot;transliteration&quot;:&quot;kyu: ri:da: e:jento&quot;},{&quot;translateID&quot;:684322,&quot;translationStatus&quot;:0,&quot;themeID&quot;:8,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;インターネット&quot;,&quot;word&quot;:&quot;В очереди&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;待機中&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たいきちゅう&quot;,&quot;transliteration&quot;:&quot;taikichuu&quot;},{&quot;translateID&quot;:684197,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;продолжительность ожидания в очереди&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;待ち時間&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まちじかん&quot;,&quot;transliteration&quot;:&quot;machijikan&quot;},{&quot;translateID&quot;:684195,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;время ожидания очереди&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;待ち時間&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まちじかん&quot;,&quot;transliteration&quot;:&quot;machijikan&quot;},{&quot;translateID&quot;:136427,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;планировщик очереди&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;シーケンスモニター&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しーけんすもにたー&quot;,&quot;transliteration&quot;:&quot;shi:kensumonita:&quot;},{&quot;translateID&quot;:277120,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;организация очереди сообщений&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;メッセージ待ち行列化&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;めっせーじまちぎょうれつか&quot;,&quot;transliteration&quot;:&quot;messe:jimachigyouretsuka&quot;},{&quot;translateID&quot;:277118,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;организация очереди сообщений&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;メッセージ待ち行列&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;めっせーじまちぎょうれつ&quot;,&quot;transliteration&quot;:&quot;messe:jimachigyouretsu&quot;},{&quot;translateID&quot;:684166,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;время в очереди&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;待ち行列時間&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まちぎょうれつじかん&quot;,&quot;transliteration&quot;:&quot;machigyouretsujikan&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="очереди" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

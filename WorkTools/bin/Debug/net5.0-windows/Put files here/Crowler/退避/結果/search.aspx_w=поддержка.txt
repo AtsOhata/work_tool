@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	поддержка - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,поддержка" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u043f%u043e%u0434%u0434%u0435%u0440%u0436%u043a%u0430" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV844Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNC/0L7QtNC00LXRgNC20LrQsGQCAw9kFggCAg9kFgQCAQ8WAh4Dc3JjBQ8uLi9pbWcvbG9nby5wbmdkAgUPFgIeBGhyZWYFDi4uLz9sYW5nPXJ1LVJVZAIEDxYCHgdWaXNpYmxlZ2QCBg8WAh8DaGQCBw9kFghmDxYCHwNoZAIBDxYCHwNoZAICDxYCHwNoZAIFDxYCHwNoZGRv4F5aCztxx4SPGektrGYM4Y1XMQ==" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAXIAx76Aa6tPLriAw6Zqnw9lIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/nLAfZtlXSW5VrjEurBg80oqKSy6" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[{&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;words&quot;:[{&quot;translateID&quot;:133155,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;поддержка&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;サポート&quot;,&quot;reading&quot;:&quot;さぽーと&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;sapo:to&quot;},{&quot;translateID&quot;:214160,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;поддержка&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;バック&quot;,&quot;reading&quot;:&quot;ばっく&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;bakku&quot;},{&quot;translateID&quot;:214192,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;поддержка&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;バック・アップ&quot;,&quot;reading&quot;:&quot;ばっく・あっぷ&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;bakku・appu&quot;},{&quot;translateID&quot;:278461,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;поддержка&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;メンテナンス&quot;,&quot;reading&quot;:&quot;めんてなんす&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;mentenansu&quot;},{&quot;translateID&quot;:320150,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;поддержка&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;維持&quot;,&quot;reading&quot;:&quot;いじ&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;iji&quot;},{&quot;translateID&quot;:329558,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;поддержка&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;引き立て&quot;,&quot;reading&quot;:&quot;ひきたて&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;hikitate&quot;},{&quot;translateID&quot;:340219,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;поддержка&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;援助&quot;,&quot;reading&quot;:&quot;えんじょ&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;enjo&quot;},{&quot;translateID&quot;:344609,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;поддержка&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;応援&quot;,&quot;reading&quot;:&quot;おうえん&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;ouen&quot;},{&quot;translateID&quot;:356620,&quot;translationStatus&quot;:1,&quot;word&quot;:&quot;поддержка&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;加勢&quot;,&quot;reading&quot;:&quot;かせい&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;kasei&quot;},{&quot;translateID&quot;:525023,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;поддержка&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;賛助&quot;,&quot;reading&quot;:&quot;さんじょ&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;sanjo&quot;},{&quot;translateID&quot;:533041,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;поддержка&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;支え&quot;,&quot;reading&quot;:&quot;ささえ&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;sasae&quot;},{&quot;translateID&quot;:533092,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;поддержка&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;支援&quot;,&quot;reading&quot;:&quot;しえん&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;shien&quot;},{&quot;translateID&quot;:533150,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;поддержка&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;支持&quot;,&quot;reading&quot;:&quot;しじ&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;shiji&quot;},{&quot;translateID&quot;:583645,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;поддержка&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;助け&quot;,&quot;reading&quot;:&quot;たすけ&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;tasuke&quot;},{&quot;translateID&quot;:583777,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;поддержка&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;助勢&quot;,&quot;reading&quot;:&quot;じょせい&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;josei&quot;},{&quot;translateID&quot;:630712,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;поддержка&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;整備&quot;,&quot;reading&quot;:&quot;せいび&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;seibi&quot;},{&quot;translateID&quot;:822597,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;поддержка&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;扶助&quot;,&quot;reading&quot;:&quot;ふじょ&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;fujo&quot;},{&quot;translateID&quot;:889881,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;поддержка&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;擁護&quot;,&quot;reading&quot;:&quot;ようご&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;yougo&quot;},{&quot;translateID&quot;:889906,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;поддержка&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;擁立&quot;,&quot;reading&quot;:&quot;ようりつ&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;youritsu&quot;},{&quot;translateID&quot;:894036,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;поддержка&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;頼り&quot;,&quot;reading&quot;:&quot;たより&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;tayori&quot;},{&quot;translateID&quot;:897087,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;поддержка&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;裏打ち&quot;,&quot;reading&quot;:&quot;うらうち&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;urauchi&quot;},{&quot;translateID&quot;:897168,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;поддержка&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;裏付&quot;,&quot;reading&quot;:&quot;うらづ&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;uradu&quot;},{&quot;translateID&quot;:897171,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;поддержка&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;裏付け&quot;,&quot;reading&quot;:&quot;うらづけ&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;uraduke&quot;},{&quot;translateID&quot;:903778,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;поддержка&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;力添え&quot;,&quot;reading&quot;:&quot;ちからぞえ&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;chikarazoe&quot;},{&quot;translateID&quot;:916834,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;поддержка&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;幇助&quot;,&quot;reading&quot;:&quot;ほうじょ&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;houjo&quot;},{&quot;translateID&quot;:893797,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;поддержка&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;来援&quot;,&quot;reading&quot;:&quot;らいえん&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;raien&quot;},{&quot;translateID&quot;:525038,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;поддержка&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;賛成&quot;,&quot;reading&quot;:&quot;さんせい&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;sansei&quot;},{&quot;translateID&quot;:637350,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;поддержка&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;声援&quot;,&quot;reading&quot;:&quot;せいえん&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;seien&quot;},{&quot;translateID&quot;:583819,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;поддержка&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;助力&quot;,&quot;reading&quot;:&quot;じょりょく&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;joryoku&quot;},{&quot;translateID&quot;:329019,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;поддержка&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;引き&quot;,&quot;reading&quot;:&quot;ひき&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;hiki&quot;},{&quot;translateID&quot;:425934,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;поддержка&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;協賛&quot;,&quot;reading&quot;:&quot;きょうさん&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;kyousan&quot;},{&quot;translateID&quot;:475641,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;поддержка&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;後援&quot;,&quot;reading&quot;:&quot;こうえん&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;kouen&quot;},{&quot;translateID&quot;:362135,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;поддержка&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;荷担&quot;,&quot;reading&quot;:&quot;かたん&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;katan&quot;}]},{&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;words&quot;:[{&quot;translateID&quot;:133154,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;поддержка&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;サポート&quot;,&quot;reading&quot;:&quot;さぽーと&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;sapo:to&quot;}]},{&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;金属&quot;,&quot;words&quot;:[{&quot;translateID&quot;:847154,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;поддержка&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;保全&quot;,&quot;reading&quot;:&quot;ほぜん&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;hozen&quot;},{&quot;translateID&quot;:533052,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;поддержка&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;支え&quot;,&quot;reading&quot;:&quot;ささえ&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;sasae&quot;}]},{&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;words&quot;:[{&quot;translateID&quot;:856661,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;поддержка&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;棒あて盤&quot;,&quot;reading&quot;:&quot;ぼうあてばん&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;bouateban&quot;}]},{&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;words&quot;:[{&quot;translateID&quot;:320178,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;поддержка&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;維持費&quot;,&quot;reading&quot;:&quot;いじひ&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;ijihi&quot;}]},{&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;words&quot;:[{&quot;translateID&quot;:848272,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;поддержка&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;補助&quot;,&quot;reading&quot;:&quot;ほじょ&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;hojo&quot;}]},{&quot;groupName&quot;:&quot;法律&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;words&quot;:[{&quot;translateID&quot;:419671,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;поддержка&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;救済&quot;,&quot;reading&quot;:&quot;きゅうさい&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;kyuusai&quot;},{&quot;translateID&quot;:525029,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;поддержка&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;賛助&quot;,&quot;reading&quot;:&quot;さんじょ&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;sanjo&quot;}]}],&quot;topPhrases&quot;:[{&quot;translateID&quot;:185461,&quot;translationStatus&quot;:0,&quot;themeID&quot;:0,&quot;groupName&quot;:null,&quot;themeName&quot;:null,&quot;word&quot;:&quot;техническая поддержка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;テクニカル・サポート&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てくにかる・さぽーと&quot;,&quot;transliteration&quot;:&quot;tekunikaru・sapo:to&quot;},{&quot;translateID&quot;:517445,&quot;translationStatus&quot;:0,&quot;themeID&quot;:0,&quot;groupName&quot;:null,&quot;themeName&quot;:null,&quot;word&quot;:&quot;финансовая поддержка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;財政支援&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ざいせいしえん&quot;,&quot;transliteration&quot;:&quot;zaiseishien&quot;},{&quot;translateID&quot;:280892,&quot;translationStatus&quot;:0,&quot;themeID&quot;:0,&quot;groupName&quot;:null,&quot;themeName&quot;:null,&quot;word&quot;:&quot;моральная поддержка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;モラルサポート&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;もらるさぽーと&quot;,&quot;transliteration&quot;:&quot;morarusapo:to&quot;},{&quot;translateID&quot;:340026,&quot;translationStatus&quot;:0,&quot;themeID&quot;:0,&quot;groupName&quot;:null,&quot;themeName&quot;:null,&quot;word&quot;:&quot;расширенная поддержка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;延長サポート&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;えんちょうさぽーと&quot;,&quot;transliteration&quot;:&quot;enchousapo:to&quot;},{&quot;translateID&quot;:575586,&quot;translationStatus&quot;:0,&quot;themeID&quot;:0,&quot;groupName&quot;:null,&quot;themeName&quot;:null,&quot;word&quot;:&quot;главная поддержка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;重鎮&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じゅうちん&quot;,&quot;transliteration&quot;:&quot;juuchin&quot;},{&quot;translateID&quot;:487439,&quot;translationStatus&quot;:0,&quot;themeID&quot;:0,&quot;groupName&quot;:null,&quot;themeName&quot;:null,&quot;word&quot;:&quot;широкая поддержка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;広い支持&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひろいしじ&quot;,&quot;transliteration&quot;:&quot;hiroishiji&quot;},{&quot;translateID&quot;:719377,&quot;translationStatus&quot;:0,&quot;themeID&quot;:0,&quot;groupName&quot;:null,&quot;themeName&quot;:null,&quot;word&quot;:&quot;прямая поддержка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;直接支援&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちょくせつしえん&quot;,&quot;transliteration&quot;:&quot;chokusetsushien&quot;},{&quot;translateID&quot;:340191,&quot;translationStatus&quot;:0,&quot;themeID&quot;:0,&quot;groupName&quot;:null,&quot;themeName&quot;:null,&quot;word&quot;:&quot;огневая поддержка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;掩護射撃&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;えんごしゃげき&quot;,&quot;transliteration&quot;:&quot;engoshageki&quot;},{&quot;translateID&quot;:660683,&quot;translationStatus&quot;:0,&quot;themeID&quot;:0,&quot;groupName&quot;:null,&quot;themeName&quot;:null,&quot;word&quot;:&quot;общая поддержка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;全般支援&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぜんぱんしえん&quot;,&quot;transliteration&quot;:&quot;zenpanshien&quot;},{&quot;translateID&quot;:275377,&quot;translationStatus&quot;:0,&quot;themeID&quot;:0,&quot;groupName&quot;:null,&quot;themeName&quot;:null,&quot;word&quot;:&quot;базовая поддержка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;メインストリーム サポート&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;めいんすとりーむさぽーと&quot;,&quot;transliteration&quot;:&quot;meinsutori:musapo:to&quot;}],&quot;phrasesGroups&quot;:[{&quot;id&quot;:1,&quot;gid&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;count&quot;:20},{&quot;id&quot;:7,&quot;gid&quot;:2,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;count&quot;:16},{&quot;id&quot;:13,&quot;gid&quot;:2,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;count&quot;:1},{&quot;id&quot;:9,&quot;gid&quot;:2,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;count&quot;:2},{&quot;id&quot;:47,&quot;gid&quot;:5,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;count&quot;:3},{&quot;id&quot;:50,&quot;gid&quot;:5,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;金属&quot;,&quot;count&quot;:1},{&quot;id&quot;:44,&quot;gid&quot;:5,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;航空宇宙&quot;,&quot;count&quot;:1},{&quot;id&quot;:129,&quot;gid&quot;:9,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;count&quot;:4},{&quot;id&quot;:185,&quot;gid&quot;:13,&quot;groupName&quot;:&quot;経済&quot;,&quot;themeName&quot;:&quot;金融&quot;,&quot;count&quot;:2},{&quot;id&quot;:200,&quot;gid&quot;:14,&quot;groupName&quot;:&quot;法律&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;count&quot;:3},{&quot;id&quot;:218,&quot;gid&quot;:15,&quot;groupName&quot;:&quot;人文&quot;,&quot;themeName&quot;:&quot;軍事用語&quot;,&quot;count&quot;:3}],&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:false,&quot;Phrases&quot;:null}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="поддержка" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

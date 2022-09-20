@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	нагрузки - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,нагрузки" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u043d%u0430%u0433%u0440%u0443%u0437%u043a%u0438" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV644Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNC90LDQs9GA0YPQt9C60LhkAgMPZBYIAgIPZBYEAgEPFgIeA3NyYwUPLi4vaW1nL2xvZ28ucG5nZAIFDxYCHgRocmVmBQ4uLi8/bGFuZz1ydS1SVWQCBA8WAh4HVmlzaWJsZWdkAgYPFgIfA2hkAgcPZBYIZg8WAh8DaGQCAQ8WAh8DaGQCAg8WAh8DaGQCBQ8WAh8DaGRkdZd598NqcAbQ05MbGn1NTrXkfcI=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAWN1RweAqBNOoO5u8V6VHOClIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/mcta3riRJCqFIrSUHCpg+InuN+1" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:true,&quot;Phrases&quot;:[{&quot;translateID&quot;:313569,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;допустимый предел нагрузки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;安全荷重&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あんぜんかじゅう&quot;,&quot;transliteration&quot;:&quot;anzenkajuu&quot;},{&quot;translateID&quot;:222580,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;время наивысшей нагрузки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ピーク時&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぴーくじ&quot;,&quot;transliteration&quot;:&quot;pi:kuji&quot;},{&quot;translateID&quot;:222579,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;время наибольшей нагрузки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ピーク時&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぴーくじ&quot;,&quot;transliteration&quot;:&quot;pi:kuji&quot;},{&quot;translateID&quot;:502047,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Международная стандартная стойка полезной нагрузки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;国際標準実験ラック&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こくさいひょうじゅんじっけんらっく&quot;,&quot;transliteration&quot;:&quot;kokusaihyoujunjikkenrakku&quot;},{&quot;translateID&quot;:129682,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Балансировка нагрузки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;サーバロードバランス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さーばろーどばらんす&quot;,&quot;transliteration&quot;:&quot;sa:baro:dobaransu&quot;},{&quot;translateID&quot;:362013,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;смещение нагрузки автомашины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;荷重移動&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かじゅういどう&quot;,&quot;transliteration&quot;:&quot;kajuuidou&quot;},{&quot;translateID&quot;:118579,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;я не выдержу такой нагрузки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;こう忙しくちゃ敵わん&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こういそがしくちゃかなわん&quot;,&quot;transliteration&quot;:&quot;kouisogashikuchakanawan&quot;},{&quot;translateID&quot;:302638,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;монитор тестовой нагрузки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ロード テスト モニター&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ろーど てすと もにたー&quot;,&quot;transliteration&quot;:&quot;ro:do tesuto monita:&quot;},{&quot;translateID&quot;:824617,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;разделение нагрузки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;負荷分割&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふかぶんかつ&quot;,&quot;transliteration&quot;:&quot;fukabunkatsu&quot;},{&quot;translateID&quot;:378784,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;коэффициент нагрузки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;格納係数&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かくのうけいすう&quot;,&quot;transliteration&quot;:&quot;kakunoukeisuu&quot;},{&quot;translateID&quot;:302639,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;шаблон нагрузки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ロード パターン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ろーど ぱたーん&quot;,&quot;transliteration&quot;:&quot;ro:do pata:n&quot;},{&quot;translateID&quot;:824620,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;разделение нагрузки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;負荷分割法&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふかぶんかつほう&quot;,&quot;transliteration&quot;:&quot;fukabunkatsuhou&quot;},{&quot;translateID&quot;:375752,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;внешняя подсистема балансировки нагрузки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;外部の負荷分散装置&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;がいぶのふかぶんさんそうち&quot;,&quot;transliteration&quot;:&quot;gaibunofukabunsansouchi&quot;},{&quot;translateID&quot;:302654,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;диаграмма распределения нагрузки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ロード・チャート&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ろーど・ちゃーと&quot;,&quot;transliteration&quot;:&quot;ro:do・cha:to&quot;},{&quot;translateID&quot;:824623,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;распределение нагрузки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;負荷分散&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふかぶんさん&quot;,&quot;transliteration&quot;:&quot;fukabunsan&quot;},{&quot;translateID&quot;:641927,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;уровень нагрузки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;積載量&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せきさいりょう&quot;,&quot;transliteration&quot;:&quot;sekisairyou&quot;},{&quot;translateID&quot;:302694,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;разделение нагрузки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ロードシェア&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ろーどしぇあ&quot;,&quot;transliteration&quot;:&quot;ro:doshea&quot;},{&quot;translateID&quot;:824624,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;балансировка нагрузки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;負荷分散&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふかぶんさん&quot;,&quot;transliteration&quot;:&quot;fukabunsan&quot;},{&quot;translateID&quot;:302636,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;редактор тестовой нагрузки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ロード テスト エディター&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ろーど てすと えでぃたー&quot;,&quot;transliteration&quot;:&quot;ro:do tesuto edita:&quot;},{&quot;translateID&quot;:824526,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;профиль нагрузки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;負荷プロファイル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふかぷろふぁいる&quot;,&quot;transliteration&quot;:&quot;fukapurofairu&quot;},{&quot;translateID&quot;:568223,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;интервал усреднения измеряемой нагрузки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;需要時限&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じゅようじげん&quot;,&quot;transliteration&quot;:&quot;juyoujigen&quot;},{&quot;translateID&quot;:302637,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;сценарий тестовой нагрузки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ロード テスト シナリオ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ろーど てすと しなりお&quot;,&quot;transliteration&quot;:&quot;ro:do tesuto shinario&quot;},{&quot;translateID&quot;:824587,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;регуляция нагрузки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;負荷制御&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふかせいぎょ&quot;,&quot;transliteration&quot;:&quot;fukaseigyo&quot;},{&quot;translateID&quot;:568234,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;коэффициент нагрузки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;需要率&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じゅようりつ&quot;,&quot;transliteration&quot;:&quot;juyouritsu&quot;},{&quot;translateID&quot;:302695,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;разделение нагрузки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ロードシェアリング&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ろーどしぇありんぐ&quot;,&quot;transliteration&quot;:&quot;ro:doshearingu&quot;},{&quot;translateID&quot;:824625,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;веб-сервер с балансировкой нагрузки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;負荷分散 Web サーバー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふかぶんさんWebさーばー&quot;,&quot;transliteration&quot;:&quot;fukabunsanWebsa:ba:&quot;},{&quot;translateID&quot;:302631,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;моделирование нагрузки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ロード シミュレーション&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ろーど しみゅれーしょん&quot;,&quot;transliteration&quot;:&quot;ro:do shimyure:shon&quot;},{&quot;translateID&quot;:302718,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;устройство регулирования нагрузки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ロードの制御&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ろーどのせいぎょ&quot;,&quot;transliteration&quot;:&quot;ro:donoseigyo&quot;},{&quot;translateID&quot;:824626,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;подсистема балансировки нагрузки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;負荷分散装置&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふかぶんさんそうち&quot;,&quot;transliteration&quot;:&quot;fukabunsansouchi&quot;},{&quot;translateID&quot;:302635,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;мастер тестовой нагрузки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ロード テスト ウィザード&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ろーど てすと うぃざーど&quot;,&quot;transliteration&quot;:&quot;ro:do tesuto uぃza:do&quot;},{&quot;translateID&quot;:306876,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;группа рабочей нагрузки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ワークロード グループ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;わーくろーど ぐるーぷ&quot;,&quot;transliteration&quot;:&quot;wa:kuro:do guru:pu&quot;},{&quot;translateID&quot;:205522,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;балансировка сетевой нагрузки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ネットワーク負荷分散&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ねっとわーくふかぶんさん&quot;,&quot;transliteration&quot;:&quot;nettowa:kufukabunsan&quot;},{&quot;translateID&quot;:302634,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;анализатор тестовой нагрузки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ロード テスト アナライザー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ろーど てすと あならいざー&quot;,&quot;transliteration&quot;:&quot;ro:do tesuto anaraiza:&quot;},{&quot;translateID&quot;:302724,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;распределение нагрузки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ロードバランシング&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ろーどばらんしんぐ&quot;,&quot;transliteration&quot;:&quot;ro:dobaranshingu&quot;},{&quot;translateID&quot;:513898,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;период максимальной нагрузки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;最繁時&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さいしげるじ&quot;,&quot;transliteration&quot;:&quot;saishigeruji&quot;},{&quot;translateID&quot;:579181,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;коэффициент заполнения графика нагрузки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;出力率&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゅつりょくりつ&quot;,&quot;transliteration&quot;:&quot;shutsuryokuritsu&quot;},{&quot;translateID&quot;:632853,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;мощность, обеспечивающая покрытие нагрузки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;正味保証電力&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょうみほしょうでんりょく&quot;,&quot;transliteration&quot;:&quot;shoumihoshoudenryoku&quot;},{&quot;translateID&quot;:824590,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;выводы для подключения нагрузки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;負荷接続線&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふかせつぞくせん&quot;,&quot;transliteration&quot;:&quot;fukasetsuzokusen&quot;},{&quot;translateID&quot;:824511,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;сопротивление полной нагрузки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;負荷インピーダンス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふかいんぴーだんす&quot;,&quot;transliteration&quot;:&quot;fukainpi:dansu&quot;},{&quot;translateID&quot;:302727,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;точка подключения нагрузки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ロードポイント&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ろーどぽいんと&quot;,&quot;transliteration&quot;:&quot;ro:dopointo&quot;},{&quot;translateID&quot;:154438,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;испытания при ступенчатом изменении нагрузки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ステップストレス試験&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;すてっぷすとれすしけん&quot;,&quot;transliteration&quot;:&quot;suteppusutoresushiken&quot;},{&quot;translateID&quot;:737140,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;испытание электрических машин методом взаимной нагрузки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;電気的負荷返還試験&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;でんきてきふかへんかんしけん&quot;,&quot;transliteration&quot;:&quot;denkitekifukahenkanshiken&quot;},{&quot;translateID&quot;:824528,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;модель нагрузки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;負荷モデル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふかもでる&quot;,&quot;transliteration&quot;:&quot;fukamoderu&quot;},{&quot;translateID&quot;:824516,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;выключатель нагрузки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;負荷しゃ断カットアウト&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふかしゃだんかっとあうと&quot;,&quot;transliteration&quot;:&quot;fukashadankattoauto&quot;},{&quot;translateID&quot;:302756,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;точка подключения нагрузки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ロード開始点&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ろーどかいしてん&quot;,&quot;transliteration&quot;:&quot;ro:dokaishiten&quot;},{&quot;translateID&quot;:579151,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;нестабильность выходного напряжения по току нагрузки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;出力電圧変動&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゅつりょくでんあつへんどう&quot;,&quot;transliteration&quot;:&quot;shutsuryokudenatsuhendou&quot;},{&quot;translateID&quot;:513675,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;режим максимальной длительной нагрузки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;最大連続定格&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さいだいれんぞくていかく&quot;,&quot;transliteration&quot;:&quot;saidairenzokuteikaku&quot;},{&quot;translateID&quot;:824616,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;разновременность нагрузки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;負荷不等率&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふかふとうりつ&quot;,&quot;transliteration&quot;:&quot;fukafutouritsu&quot;},{&quot;translateID&quot;:499798,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;несовмещённый максимум нагрузки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;合計最大需要電力&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ごうけいさいだいじゅようでんりょく&quot;,&quot;transliteration&quot;:&quot;goukeisaidaijuyoudenryoku&quot;},{&quot;translateID&quot;:794097,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;режим периодической нагрузки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;反復使用責務&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はんぷくしようせきむ&quot;,&quot;transliteration&quot;:&quot;hanpukushiyousekimu&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="нагрузки" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

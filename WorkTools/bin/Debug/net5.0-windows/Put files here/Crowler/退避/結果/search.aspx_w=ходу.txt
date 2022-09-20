@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	ходу - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,ходу" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u0445%u043e%u0434%u0443" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAVy44Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNGF0L7QtNGDZAIDD2QWCAICD2QWBAIBDxYCHgNzcmMFDy4uL2ltZy9sb2dvLnBuZ2QCBQ8WAh4EaHJlZgUOLi4vP2xhbmc9cnUtUlVkAgQPFgIeB1Zpc2libGVnZAIGDxYCHwNoZAIHD2QWCGYPFgIfA2hkAgEPFgIfA2hkAgIPFgIfA2hkAgUPFgIfA2hkZIwl9IrRkh1au8zJgVisdYorLjjT" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAUdtyUqMrFaVh6RqQTVIUPllIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/ioV+t+tZkLNS+PL/4rKq8QSMNK1" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:true,&quot;Phrases&quot;:[{&quot;translateID&quot;:717008,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;вскакивать на ходу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;跳び乗る&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とびのる&quot;,&quot;transliteration&quot;:&quot;tobinoru&quot;},{&quot;translateID&quot;:808821,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;вскакивать на ходу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;飛び乗りする&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とびのりする&quot;,&quot;transliteration&quot;:&quot;tobinorisuru&quot;},{&quot;translateID&quot;:716997,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;соскакивание на ходу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;跳び下り&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とびおり&quot;,&quot;transliteration&quot;:&quot;tobiori&quot;},{&quot;translateID&quot;:808820,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;вскакивание на ходу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;飛び乗り&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とびのり&quot;,&quot;transliteration&quot;:&quot;tobinori&quot;},{&quot;translateID&quot;:409087,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;спрыгнуть с поезда на ходу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;汽車の進行中に飛びおりる&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きしゃのしんこうちゅうにとびおりる&quot;,&quot;transliteration&quot;:&quot;kishanoshinkouchuunitobioriru&quot;},{&quot;translateID&quot;:808717,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;соскочить на ходу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;飛び下りる&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とびおりる&quot;,&quot;transliteration&quot;:&quot;tobioriru&quot;},{&quot;translateID&quot;:847744,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ботинки скрипят на ходу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;歩く度にくつがきゅうきゅう鳴る&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あるくどにくつがきゅうきゅうなる&quot;,&quot;transliteration&quot;:&quot;arukudonikutsugakyuukyuunaru&quot;},{&quot;translateID&quot;:808714,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;соскакивание на ходу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;飛び下り&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とびおり&quot;,&quot;transliteration&quot;:&quot;tobiori&quot;},{&quot;translateID&quot;:741448,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;по ходу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;途中で&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とちゅうで&quot;,&quot;transliteration&quot;:&quot;tochuude&quot;},{&quot;translateID&quot;:440405,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;работать на холостом ходу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;空回り&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;からまわり&quot;,&quot;transliteration&quot;:&quot;karamawari&quot;},{&quot;translateID&quot;:741443,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;по ходу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;途中&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とちゅう&quot;,&quot;transliteration&quot;:&quot;tochuu&quot;},{&quot;translateID&quot;:615656,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;упасть с поезда на ходу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;進行中の列車から転落する&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しんこうちゅうのれっしゃからてんらくする&quot;,&quot;transliteration&quot;:&quot;shinkouchuunoresshakaratenrakusuru&quot;},{&quot;translateID&quot;:808822,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;вскакивать на ходу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;飛び乗る&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とびのる&quot;,&quot;transliteration&quot;:&quot;tobinoru&quot;},{&quot;translateID&quot;:847718,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;читать на ходу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;歩きながら読む&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あるきながらよむ&quot;,&quot;transliteration&quot;:&quot;arukinagarayomu&quot;},{&quot;translateID&quot;:344667,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;форсирование с ходу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;応急渡河&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おうきゅうとか&quot;,&quot;transliteration&quot;:&quot;oukyuutoka&quot;},{&quot;translateID&quot;:672889,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;на ходу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;即興的に&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そっきょうてきに&quot;,&quot;transliteration&quot;:&quot;sokkyoutekini&quot;},{&quot;translateID&quot;:344643,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;атака с ходу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;応急攻撃&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おうきゅうこうげき&quot;,&quot;transliteration&quot;:&quot;oukyuukougeki&quot;},{&quot;translateID&quot;:672877,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;на ходу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;即興で&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そっきょうで&quot;,&quot;transliteration&quot;:&quot;sokkyoude&quot;},{&quot;translateID&quot;:686884,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;быть в большом ходу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;大いに用いられる&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おおいにもちいられる&quot;,&quot;transliteration&quot;:&quot;ooinimochiirareru&quot;},{&quot;translateID&quot;:124278,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Метрополитен на шинном ходу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ゴムタイヤ式地下鉄&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ごむたいやしきちかてつ&quot;,&quot;transliteration&quot;:&quot;gomutaiyashikichikatetsu&quot;},{&quot;translateID&quot;:440416,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;работать на холостом ходу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;空廻りする&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あきめぐりする&quot;,&quot;transliteration&quot;:&quot;akimegurisuru&quot;},{&quot;translateID&quot;:416361,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;обращение к элементу программы, находящемуся сзади по ходу её выполнения&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;逆方向参照&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぎゃくほうこうさんしょう&quot;,&quot;transliteration&quot;:&quot;gyakuhoukousanshou&quot;},{&quot;translateID&quot;:556357,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;действующий на ходу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;実行&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じっこう&quot;,&quot;transliteration&quot;:&quot;jikkou&quot;},{&quot;translateID&quot;:670001,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;действующий на ходу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;走行&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そうこう&quot;,&quot;transliteration&quot;:&quot;soukou&quot;},{&quot;translateID&quot;:832518,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;выставление счетов по ходу работ&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;分割請求&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぶんかつせいきゅう&quot;,&quot;transliteration&quot;:&quot;bunkatsuseikyuu&quot;},{&quot;translateID&quot;:424268,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;разгонять на холостом ходу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;競合する&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きょうごうする&quot;,&quot;transliteration&quot;:&quot;kyougousuru&quot;},{&quot;translateID&quot;:660370,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;испытание на полном ходу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;全速力試験&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぜんそくりょくしけん&quot;,&quot;transliteration&quot;:&quot;zensokuryokushiken&quot;},{&quot;translateID&quot;:39694,&quot;translationStatus&quot;:0,&quot;themeID&quot;:22,&quot;groupName&quot;:&quot;車両&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;обороты двигателя на холостом ходу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;アイドリング回転数&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あいどりんぐかいてんすう&quot;,&quot;transliteration&quot;:&quot;aidoringukaitensuu&quot;},{&quot;translateID&quot;:39733,&quot;translationStatus&quot;:0,&quot;themeID&quot;:22,&quot;groupName&quot;:&quot;車両&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;обороты двигателя на холостом ходу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;アイドル回転数あいどるかいてんすう&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あいどるかいてんすうあいどるかいてんすう&quot;,&quot;transliteration&quot;:&quot;aidorukaitensuuaidorukaitensuu&quot;},{&quot;translateID&quot;:870068,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;скорость на холостом ходу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;無負荷回転数&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;むふかかいてんすう&quot;,&quot;transliteration&quot;:&quot;mufukakaitensuu&quot;},{&quot;translateID&quot;:39696,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;частота вращения на холостом ходу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;アイドリング速度&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あいどりんぐそくど&quot;,&quot;transliteration&quot;:&quot;aidoringusokudo&quot;},{&quot;translateID&quot;:870069,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;скорость на холостом ходу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;無負荷回転速度&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;むふかかいてんそくど&quot;,&quot;transliteration&quot;:&quot;mufukakaitensokudo&quot;},{&quot;translateID&quot;:598537,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;положение на ходу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;常用ブレーキ位置&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じょうようぶれーきいち&quot;,&quot;transliteration&quot;:&quot;jouyoubure:kiichi&quot;},{&quot;translateID&quot;:259944,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;система обеднения смеси на холостом ходу при прогретом двигателе&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ホットアイドルコンペンセータ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほっとあいどるこんぺんせーた&quot;,&quot;transliteration&quot;:&quot;hottoaidorukonpense:ta&quot;},{&quot;translateID&quot;:730601,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;кран на железнодорожном ходу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;鉄道クレーン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てつどうくれーん&quot;,&quot;transliteration&quot;:&quot;tetsudoukure:n&quot;},{&quot;translateID&quot;:440399,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;работа на холостом ходу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;空回し&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あきまわし&quot;,&quot;transliteration&quot;:&quot;akimawashi&quot;},{&quot;translateID&quot;:194881,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;кран на автомобильном ходу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;トラッククレーン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とらっくくれーん&quot;,&quot;transliteration&quot;:&quot;torakkukure:n&quot;},{&quot;translateID&quot;:98053,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;работа на холостом ходу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;から運転&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;からうんてん&quot;,&quot;transliteration&quot;:&quot;karaunten&quot;},{&quot;translateID&quot;:867802,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;кран на гусеничном ходу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;無限軌道付きクレーン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;むげんきどうつきくれーん&quot;,&quot;transliteration&quot;:&quot;mugenkidoutsukikure:n&quot;},{&quot;translateID&quot;:867162,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;работа на холостом ходу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;無荷重運転&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;むかじゅううんてん&quot;,&quot;transliteration&quot;:&quot;mukajuuunten&quot;},{&quot;translateID&quot;:697545,&quot;translationStatus&quot;:0,&quot;themeID&quot;:49,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;石油・ガス&quot;,&quot;word&quot;:&quot;на ходу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;炭流し&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;すみながし&quot;,&quot;transliteration&quot;:&quot;suminagashi&quot;},{&quot;translateID&quot;:113974,&quot;translationStatus&quot;:0,&quot;themeID&quot;:49,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;石油・ガス&quot;,&quot;word&quot;:&quot;буровой станок на гусеничном ходу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;クローラドリル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;くろーらどりる&quot;,&quot;transliteration&quot;:&quot;kuro:radoriru&quot;},{&quot;translateID&quot;:307511,&quot;translationStatus&quot;:0,&quot;themeID&quot;:49,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;石油・ガス&quot;,&quot;word&quot;:&quot;буровой станок на колёсном ходу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ワゴンドリル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;わごんどりる&quot;,&quot;transliteration&quot;:&quot;wagondoriru&quot;},{&quot;translateID&quot;:237833,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;склеивание ленты на ходу машины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;フライングスプライス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふらいんぐすぷらいす&quot;,&quot;transliteration&quot;:&quot;furaingusupuraisu&quot;},{&quot;translateID&quot;:194374,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;цикл на холостом ходу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ドライサイクル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;どらいさいくる&quot;,&quot;transliteration&quot;:&quot;doraisaikuru&quot;},{&quot;translateID&quot;:828530,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;направление под прямым углом к ходу на машине&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;幅方向&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はばほうこう&quot;,&quot;transliteration&quot;:&quot;habahoukou&quot;},{&quot;translateID&quot;:356429,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;на ходу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;加工中の&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かこうちゅうの&quot;,&quot;transliteration&quot;:&quot;kakouchuuno&quot;},{&quot;translateID&quot;:695776,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;боли по ходу одного нерва&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;単神経痛&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たんしんけいつう&quot;,&quot;transliteration&quot;:&quot;tanshinkeitsuu&quot;},{&quot;translateID&quot;:615689,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;аборт в ходу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;進行流産&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しんこうりゅうざん&quot;,&quot;transliteration&quot;:&quot;shinkouryuuzan&quot;},{&quot;translateID&quot;:613411,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;наличие многочисленных набуханий по ходу нерва&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;神経瘤&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しんけいりゅう&quot;,&quot;transliteration&quot;:&quot;shinkeiryuu&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="ходу" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

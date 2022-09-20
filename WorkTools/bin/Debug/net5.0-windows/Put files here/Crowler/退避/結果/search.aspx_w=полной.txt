@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	полной - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,полной" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u043f%u043e%u043b%u043d%u043e%u0439" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV244Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNC/0L7Qu9C90L7QuWQCAw9kFggCAg9kFgQCAQ8WAh4Dc3JjBQ8uLi9pbWcvbG9nby5wbmdkAgUPFgIeBGhyZWYFDi4uLz9sYW5nPXJ1LVJVZAIEDxYCHgdWaXNpYmxlZ2QCBg8WAh8DaGQCBw9kFghmDxYCHwNoZAIBDxYCHwNoZAICDxYCHwNoZAIFDxYCHwNoZGQefUCA4gqYblPCxqb6uQsXDbnLQg==" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAW/UQkCweq0y62olkl6LZzXlIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/ncb/2vsbicPbj1huLP4WpuS5AKl" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:true,&quot;Phrases&quot;:[{&quot;translateID&quot;:816747,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;жить в полной нищете&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;貧乏のどん底に居る&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;びんぼうのどんぞこにおる&quot;,&quot;transliteration&quot;:&quot;binbounodonzokonioru&quot;},{&quot;translateID&quot;:630726,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;быть в полной готовности&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;整備してある&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せいびしてある&quot;,&quot;transliteration&quot;:&quot;seibishitearu&quot;},{&quot;translateID&quot;:429293,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;вздохнуть полной грудью&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;胸をふくらます&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;むねをふくらます&quot;,&quot;transliteration&quot;:&quot;mune o fukuramasu&quot;},{&quot;translateID&quot;:864056,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;вкусить в полной мере&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;満喫する&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まんきつする&quot;,&quot;transliteration&quot;:&quot;mankitsusuru&quot;},{&quot;translateID&quot;:651277,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;с полной отдачей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;専心に&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せんしんに&quot;,&quot;transliteration&quot;:&quot;senshinni&quot;},{&quot;translateID&quot;:920304,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;достигать полной зрелости&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;爛熟する&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;らんじゅくする&quot;,&quot;transliteration&quot;:&quot;ranjukusuru&quot;},{&quot;translateID&quot;:274529,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Королевство полной луны&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ムーンライズ・キングダム&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;むーんらいず・きんぐだむ&quot;,&quot;transliteration&quot;:&quot;mu:nraizu・kingudamu&quot;},{&quot;translateID&quot;:864052,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;вкусить в полной мере&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;満喫&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まんきつ&quot;,&quot;transliteration&quot;:&quot;mankitsu&quot;},{&quot;translateID&quot;:611217,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;в полной темноте&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;真暗がりで&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しんくらがりで&quot;,&quot;transliteration&quot;:&quot;shinkuragaride&quot;},{&quot;translateID&quot;:919560,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;в полной гармонии&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;渾然&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こんぜん&quot;,&quot;transliteration&quot;:&quot;konzen&quot;},{&quot;translateID&quot;:614400,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;я чувствую себя в полной безопасности&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;親船に乗った心地だ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おやぶねにのったここちだ&quot;,&quot;transliteration&quot;:&quot;oyabuneninottakokochida&quot;},{&quot;translateID&quot;:863998,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;полной энергии&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;満ち溢れた&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;みちあふれた&quot;,&quot;transliteration&quot;:&quot;michiafureta&quot;},{&quot;translateID&quot;:573109,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;в полной мере&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;充分に&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じゅうぶんに&quot;,&quot;transliteration&quot;:&quot;juubunni&quot;},{&quot;translateID&quot;:870586,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;в полной сохранности&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;無疵で&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;むきずで&quot;,&quot;transliteration&quot;:&quot;mukizude&quot;},{&quot;translateID&quot;:791824,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;варить не до полной готовности&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;半熟にする&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はんじゅくにする&quot;,&quot;transliteration&quot;:&quot;hanjukunisuru&quot;},{&quot;translateID&quot;:863444,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;для полной гарантии&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;万全を期するため&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ばんぜんをきするため&quot;,&quot;transliteration&quot;:&quot;banzen o kisurutame&quot;},{&quot;translateID&quot;:680626,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ездить на полной скорости&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;打飛ばす&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぶっとばす&quot;,&quot;transliteration&quot;:&quot;buttobasu&quot;},{&quot;translateID&quot;:560866,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;в полной тишине&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;寂として&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せきとして&quot;,&quot;transliteration&quot;:&quot;sekitoshite&quot;},{&quot;translateID&quot;:630755,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;вес автомашины с полной нагрузкой&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;整備重量&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せいびじゅうりょう&quot;,&quot;transliteration&quot;:&quot;seibijuuryou&quot;},{&quot;translateID&quot;:459346,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;в полной боевой готовности&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;堅甲利兵で&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けんこうりへいで&quot;,&quot;transliteration&quot;:&quot;kenkouriheide&quot;},{&quot;translateID&quot;:867175,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;достигнуть состояния полной аннигиляции собственного «я»&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;無我の境に達する&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;むがのさかいにたっする&quot;,&quot;transliteration&quot;:&quot;muganosakainitassuru&quot;},{&quot;translateID&quot;:632339,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;быть в полной форме&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;正装する&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せいそうする&quot;,&quot;transliteration&quot;:&quot;seisousuru&quot;},{&quot;translateID&quot;:913380,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;в полной гармонии&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;和気藹々として&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;わきあいあいとして&quot;,&quot;transliteration&quot;:&quot;wakiaiaitoshite&quot;},{&quot;translateID&quot;:630727,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;быть в полной готовности&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;整備している&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せいびしている&quot;,&quot;transliteration&quot;:&quot;seibishiteiru&quot;},{&quot;translateID&quot;:313522,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;в полной безопасности&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;安全に&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あんぜんに&quot;,&quot;transliteration&quot;:&quot;anzenni&quot;},{&quot;translateID&quot;:864189,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;при полной воде&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;満潮時に&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まんちょうじに&quot;,&quot;transliteration&quot;:&quot;manchoujini&quot;},{&quot;translateID&quot;:478051,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;для полной ясности&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;誤解のないように&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ごかいのないように&quot;,&quot;transliteration&quot;:&quot;gokainonaiyouni&quot;},{&quot;translateID&quot;:659764,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;символы полной ширины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;全角文字&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぜんかくもじ&quot;,&quot;transliteration&quot;:&quot;zenkakumoji&quot;},{&quot;translateID&quot;:799996,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Он направился к двери на полной скорости.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;彼は全速力でドアの方へ向かった。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かれはぜんそくりょくでどあのかたへむかった。&quot;,&quot;transliteration&quot;:&quot;karehazensokuryokudedoanokatahemukatta。&quot;},{&quot;translateID&quot;:379728,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Получил в полной сохранности&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;確かに受け取りました&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たしかにうけとりました&quot;,&quot;transliteration&quot;:&quot;tashikaniuketorimashita&quot;},{&quot;translateID&quot;:433244,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;держать в полной тайне&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;極秘にする&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ごくひにする&quot;,&quot;transliteration&quot;:&quot;gokuhinisuru&quot;},{&quot;translateID&quot;:659757,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;символы полной ширины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;全角&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぜんかく&quot;,&quot;transliteration&quot;:&quot;zenkaku&quot;},{&quot;translateID&quot;:799995,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Он бежал на полной скорости.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;彼は全速で駆けた。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かれはぜんそくでかけた。&quot;,&quot;transliteration&quot;:&quot;karehazensokudekaketa。&quot;},{&quot;translateID&quot;:172451,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;в полной мере&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;だけ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;だけ&quot;,&quot;transliteration&quot;:&quot;dake&quot;},{&quot;translateID&quot;:388633,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Игра с полной информацией&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;完全情報ゲーム&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かんぜんじょうほうげーむ&quot;,&quot;transliteration&quot;:&quot;kanzenjouhouge:mu&quot;},{&quot;translateID&quot;:486984,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;завод работает с полной нагрузкой&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;工場は手一杯に作業している&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうじょうはていっぱいにさぎょうしている&quot;,&quot;transliteration&quot;:&quot;koujouhateippainisagyoushiteiru&quot;},{&quot;translateID&quot;:796869,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;То, что он сделал потом, было для меня полной неожиданностью.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;彼が次にしたことは、私にはまったくの驚きだった。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かれがつぎにしたことは、わたしにはまったくのおどろきだった。&quot;,&quot;transliteration&quot;:&quot;karegatsuginishitakotoha、watashinihamattakunoodorokidatta。&quot;},{&quot;translateID&quot;:862720,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;мерить полной мерой&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;桝目をたっぷりにする&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ますめをたっぷりにする&quot;,&quot;transliteration&quot;:&quot;masume o tappurinisuru&quot;},{&quot;translateID&quot;:554254,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;быть в полной немилости у фортуны&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;失意のどん底にある&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しついのどんぞこにある&quot;,&quot;transliteration&quot;:&quot;shitsuinodonzokoniaru&quot;},{&quot;translateID&quot;:388336,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;достичь полной зрелости&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;完熟する&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かんじゅくする&quot;,&quot;transliteration&quot;:&quot;kanjukusuru&quot;},{&quot;translateID&quot;:486982,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Завод работает на полной мощности.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;工場はフル稼動している。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうじょうはふるかどうしている。&quot;,&quot;transliteration&quot;:&quot;koujouhafurukadoushiteiru。&quot;},{&quot;translateID&quot;:498478,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;уровень полной воды&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;高潮線&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうちょうせん&quot;,&quot;transliteration&quot;:&quot;kouchousen&quot;},{&quot;translateID&quot;:594731,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ручной метчик с полной резьбой до конца&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;上げタップ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あげたっぷ&quot;,&quot;transliteration&quot;:&quot;agetappu&quot;},{&quot;translateID&quot;:626698,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;с полной точностью&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;寸分違わずに&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;すんぶんちがわずに&quot;,&quot;transliteration&quot;:&quot;sunbunchigawazuni&quot;},{&quot;translateID&quot;:660338,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;импульс считывания при полной выборке&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;全選択読出しパルス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぜんせんたくよみだしぱるす&quot;,&quot;transliteration&quot;:&quot;zensentakuyomidashiparusu&quot;},{&quot;translateID&quot;:388492,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;язык с полной локализацией&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;完全にローカライズされた言語&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かんぜんにろーからいずされたげんご&quot;,&quot;transliteration&quot;:&quot;kanzenniro:karaizusaretagengo&quot;},{&quot;translateID&quot;:824511,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;сопротивление полной нагрузки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;負荷インピーダンス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふかいんぴーだんす&quot;,&quot;transliteration&quot;:&quot;fukainpi:dansu&quot;},{&quot;translateID&quot;:804698,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;счётчик полной энергии&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;皮相電力量計&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひそうでんりょくりょうけい&quot;,&quot;transliteration&quot;:&quot;hisoudenryokuryoukei&quot;},{&quot;translateID&quot;:794511,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;передача с полной несущей и двумя боковыми&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;搬送波伝送&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はんそうはでんそう&quot;,&quot;transliteration&quot;:&quot;hansouhadensou&quot;},{&quot;translateID&quot;:660738,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;ток при полной нагрузке&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;全負荷電流&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぜんふかでんりゅう&quot;,&quot;transliteration&quot;:&quot;zenfukadenryuu&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="полной" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

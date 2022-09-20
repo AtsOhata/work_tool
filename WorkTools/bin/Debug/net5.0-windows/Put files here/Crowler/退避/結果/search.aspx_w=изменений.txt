@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	изменений - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,изменений" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u0438%u0437%u043c%u0435%u043d%u0435%u043d%u0438%u0439" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV844Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNC40LfQvNC10L3QtdC90LjQuWQCAw9kFggCAg9kFgQCAQ8WAh4Dc3JjBQ8uLi9pbWcvbG9nby5wbmdkAgUPFgIeBGhyZWYFDi4uLz9sYW5nPXJ1LVJVZAIEDxYCHgdWaXNpYmxlZ2QCBg8WAh8DaGQCBw9kFghmDxYCHwNoZAIBDxYCHwNoZAICDxYCHwNoZAIFDxYCHwNoZGRlx6FR8AgcsdmGA6kdXpKzbcZUaA==" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAXoNRO41WaUCLp5h8blyq/MlIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/hyBMXH/gl/LNwGgl5LE2EMocEgq" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:true,&quot;Phrases&quot;:[{&quot;translateID&quot;:731407,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;если в погоде не будет никаких неожиданных изменений&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;天候に異常がなければ豊作だろう&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てんこうにいじょうがなければほうさくだろう&quot;,&quot;transliteration&quot;:&quot;tenkouniijouganakerebahousakudarou&quot;},{&quot;translateID&quot;:449791,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;график изменений&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;罫線表&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けいせんひょう&quot;,&quot;transliteration&quot;:&quot;keisenhyou&quot;},{&quot;translateID&quot;:741320,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;внесение изменений в регистрацию автомашины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;登録変更&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とうろくへんこう&quot;,&quot;transliteration&quot;:&quot;tourokuhenkou&quot;},{&quot;translateID&quot;:35400,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Нет изменений&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;Steady&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;Steady&quot;,&quot;transliteration&quot;:&quot;Steady&quot;},{&quot;translateID&quot;:668089,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;без изменений&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;相変わらず&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あいかわらず&quot;,&quot;transliteration&quot;:&quot;aikawarazu&quot;},{&quot;translateID&quot;:421413,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;сохранившийся без изменений&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;旧態依然&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きゅうたいいぜん&quot;,&quot;transliteration&quot;:&quot;kyuutaiizen&quot;},{&quot;translateID&quot;:863277,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;много изменений&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;万化&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ばんか&quot;,&quot;transliteration&quot;:&quot;banka&quot;},{&quot;translateID&quot;:842784,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;без изменений&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;変りなく&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かわりなく&quot;,&quot;transliteration&quot;:&quot;kawarinaku&quot;},{&quot;translateID&quot;:383858,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;журнал изменений&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;活動ログ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かつどうろぐ&quot;,&quot;transliteration&quot;:&quot;katsudourogu&quot;},{&quot;translateID&quot;:843483,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;маркер изменений&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;変更マーカー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;へんこうまーかー&quot;,&quot;transliteration&quot;:&quot;henkouma:ka:&quot;},{&quot;translateID&quot;:138366,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;набор отложенных изменений&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;シェルブセット&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しぇるぶせっと&quot;,&quot;transliteration&quot;:&quot;sherubusetto&quot;},{&quot;translateID&quot;:369996,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;запись изменений&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;改正記録&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かいせいきろく&quot;,&quot;transliteration&quot;:&quot;kaiseikiroku&quot;},{&quot;translateID&quot;:843485,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;журнал изменений&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;変更ログ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;へんこうろぐ&quot;,&quot;transliteration&quot;:&quot;henkourogu&quot;},{&quot;translateID&quot;:177173,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;файл изменений&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;チェンジファイル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちぇんじふぁいる&quot;,&quot;transliteration&quot;:&quot;chenjifairu&quot;},{&quot;translateID&quot;:370094,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;запись изменений&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;改訂記録&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かいていきろく&quot;,&quot;transliteration&quot;:&quot;kaiteikiroku&quot;},{&quot;translateID&quot;:843496,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;организация внесения изменений&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;変更管理&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;へんこうかんり&quot;,&quot;transliteration&quot;:&quot;henkoukanri&quot;},{&quot;translateID&quot;:195386,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;файл изменений&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;トランザクション・ファイル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とらんざくしょん・ふぁいる&quot;,&quot;transliteration&quot;:&quot;toranzakushon・fairu&quot;},{&quot;translateID&quot;:843463,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;журнал изменений&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;変更ジャーナル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;へんこうじゃーなる&quot;,&quot;transliteration&quot;:&quot;henkouja:naru&quot;},{&quot;translateID&quot;:843498,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;организация внесения изменений&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;変更管理機能&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;へんこうかんりきのう&quot;,&quot;transliteration&quot;:&quot;henkoukanrikinou&quot;},{&quot;translateID&quot;:195397,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;программа внесения изменений&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;トランザクションプログラム&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とらんざくしょんぷろぐらむ&quot;,&quot;transliteration&quot;:&quot;toranzakushonpuroguramu&quot;},{&quot;translateID&quot;:671582,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;оценка изменений коллекции&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;増分コレクション評価&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぞうぶんこれくしょんひょうか&quot;,&quot;transliteration&quot;:&quot;zoubunkorekushonhyouka&quot;},{&quot;translateID&quot;:843478,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;индикатор изменений&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;変更バー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;へんこうばー&quot;,&quot;transliteration&quot;:&quot;henkouba:&quot;},{&quot;translateID&quot;:57278,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;восстановить из набора изменений&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;アンシェルブ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あんしぇるぶ&quot;,&quot;transliteration&quot;:&quot;ansherubu&quot;},{&quot;translateID&quot;:169756,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;диапазон изменений&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ダーティ範囲&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;だーてぃはんい&quot;,&quot;transliteration&quot;:&quot;da:tihani&quot;},{&quot;translateID&quot;:843481,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;файл изменений&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;変更ファイル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;へんこうふぁいる&quot;,&quot;transliteration&quot;:&quot;henkoufairu&quot;},{&quot;translateID&quot;:138362,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;включить в набор отложенных изменений&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;シェルブ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しぇるぶ&quot;,&quot;transliteration&quot;:&quot;sherubu&quot;},{&quot;translateID&quot;:843465,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;сценарий изменений&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;変更スクリプト&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;へんこうすくりぷと&quot;,&quot;transliteration&quot;:&quot;henkousukuriputo&quot;},{&quot;translateID&quot;:843521,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;журнал изменений&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;変更履歴&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;へんこうりれき&quot;,&quot;transliteration&quot;:&quot;henkourireki&quot;},{&quot;translateID&quot;:843473,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;Принять без изменений&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;変更せず受け入れる&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;へんこうせずうけいれる&quot;,&quot;transliteration&quot;:&quot;henkousezuukeireru&quot;},{&quot;translateID&quot;:810236,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;дамп изменений&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;微分ダンプ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;びぶんだんぷ&quot;,&quot;transliteration&quot;:&quot;bibundanpu&quot;},{&quot;translateID&quot;:671581,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;оценка изменений элементов коллекции&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;増分コレクション メンバー評価&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぞうぶんこれくしょん めんばーひょうか&quot;,&quot;transliteration&quot;:&quot;zoubunkorekushon menba:hyouka&quot;},{&quot;translateID&quot;:843476,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;синхронизация изменений&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;変更の伝達&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;へんこうのでんたつ&quot;,&quot;transliteration&quot;:&quot;henkounodentatsu&quot;},{&quot;translateID&quot;:570179,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;файл изменений&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;修正用ファイル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゅうせいようふぁいる&quot;,&quot;transliteration&quot;:&quot;shuuseiyoufairu&quot;},{&quot;translateID&quot;:366304,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;журнал изменений&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;解決の履歴&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かいけつのりれき&quot;,&quot;transliteration&quot;:&quot;kaiketsunorireki&quot;},{&quot;translateID&quot;:843474,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;набор изменений&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;変更セット&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;へんこうせっと&quot;,&quot;transliteration&quot;:&quot;henkousetto&quot;},{&quot;translateID&quot;:323567,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;резервное копирование неполного журнала и массовых изменений&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;一括ログ バックアップ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いっかつろぐ ばっくあっぷ&quot;,&quot;transliteration&quot;:&quot;ikkatsurogu bakkuappu&quot;},{&quot;translateID&quot;:489684,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;файл изменений&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;更新ファイル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうしんふぁいる&quot;,&quot;transliteration&quot;:&quot;koushinfairu&quot;},{&quot;translateID&quot;:489710,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;магнитная лента записи изменений&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;更新用テープ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうしんようてーぷ&quot;,&quot;transliteration&quot;:&quot;koushinyoute:pu&quot;},{&quot;translateID&quot;:195396,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;файл изменений&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;トランザクションファイル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とらんざくしょんふぁいる&quot;,&quot;transliteration&quot;:&quot;toranzakushonfairu&quot;},{&quot;translateID&quot;:195392,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;магнитная лента записи изменений&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;トランザクションテープ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とらんざくしょんてーぷ&quot;,&quot;transliteration&quot;:&quot;toranzakushonte:pu&quot;},{&quot;translateID&quot;:563240,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;файл изменений&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;取引きファイル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とりひきふぁいる&quot;,&quot;transliteration&quot;:&quot;torihikifairu&quot;},{&quot;translateID&quot;:843491,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;дамп изменений&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;変更域ダンプ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;へんこういきだんぷ&quot;,&quot;transliteration&quot;:&quot;henkouikidanpu&quot;},{&quot;translateID&quot;:872102,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;файл изменений&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;明細ファイル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;めいさいふぁいる&quot;,&quot;transliteration&quot;:&quot;meisaifairu&quot;},{&quot;translateID&quot;:182540,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;файл изменений&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ディテールファイル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;でぃてーるふぁいる&quot;,&quot;transliteration&quot;:&quot;dite:rufairu&quot;},{&quot;translateID&quot;:413866,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;предложение о внесении изменений в конструкцию&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;技術変更提案&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぎじゅつへんこうていあん&quot;,&quot;transliteration&quot;:&quot;gijutsuhenkouteian&quot;},{&quot;translateID&quot;:789683,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;файл изменений&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;発生ファイル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はっせいふぁいる&quot;,&quot;transliteration&quot;:&quot;hasseifairu&quot;},{&quot;translateID&quot;:843475,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;магнитная лента записи изменений&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;変更テープ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;へんこうてーぷ&quot;,&quot;transliteration&quot;:&quot;henkoute:pu&quot;},{&quot;translateID&quot;:729260,&quot;translationStatus&quot;:0,&quot;themeID&quot;:44,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;航空宇宙&quot;,&quot;word&quot;:&quot;определение диапазона изменений&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;敵砲兵位置の標定&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てきほうへいいちのしるしさだむ&quot;,&quot;transliteration&quot;:&quot;tekihouheiichinoshirushisadamu&quot;},{&quot;translateID&quot;:487789,&quot;translationStatus&quot;:0,&quot;themeID&quot;:44,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;航空宇宙&quot;,&quot;word&quot;:&quot;определение диапазона изменений&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;広地域偵察&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひろしちいきていさつ&quot;,&quot;transliteration&quot;:&quot;hiroshichiikiteisatsu&quot;},{&quot;translateID&quot;:843508,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;уведомление о внесении изменений&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;変更通知&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;へんこうつうち&quot;,&quot;transliteration&quot;:&quot;henkoutsuuchi&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="изменений" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	запуска - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,запуска" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u0437%u0430%u043f%u0443%u0441%u043a%u0430" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV444Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNC30LDQv9GD0YHQutCwZAIDD2QWCAICD2QWBAIBDxYCHgNzcmMFDy4uL2ltZy9sb2dvLnBuZ2QCBQ8WAh4EaHJlZgUOLi4vP2xhbmc9cnUtUlVkAgQPFgIeB1Zpc2libGVnZAIGDxYCHwNoZAIHD2QWCGYPFgIfA2hkAgEPFgIfA2hkAgIPFgIfA2hkAgUPFgIfA2hkZH9IsS4pnnzPv3zXfVUJTxB3l7xP" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAU+6FmUo4jB4VY3cTHVdEJFlIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/o3fW98+MqAC7/8mZEz1irriEsMY" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:false,&quot;Phrases&quot;:[{&quot;translateID&quot;:529801,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;степень лёгкости запуска&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;始動性&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しどうせい&quot;,&quot;transliteration&quot;:&quot;shidousei&quot;},{&quot;translateID&quot;:411870,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;момент запуска времени&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;起動時&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きどうじ&quot;,&quot;transliteration&quot;:&quot;kidouji&quot;},{&quot;translateID&quot;:186526,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;остановка без возможности повторного запуска&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;デッドホールト&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;でっどほーると&quot;,&quot;transliteration&quot;:&quot;deddoho:ruto&quot;},{&quot;translateID&quot;:411848,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;панель запуска&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;起動バー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きどうばー&quot;,&quot;transliteration&quot;:&quot;kidouba:&quot;},{&quot;translateID&quot;:439220,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;остановка без возможности повторного запуска&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;苦境&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;くきょう&quot;,&quot;transliteration&quot;:&quot;kukyou&quot;},{&quot;translateID&quot;:556492,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;параметры запуска&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;実行設定&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じっこうせってい&quot;,&quot;transliteration&quot;:&quot;jikkousettei&quot;},{&quot;translateID&quot;:186486,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;остановка без возможности повторного запуска&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;デッドエンド&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;でっどえんど&quot;,&quot;transliteration&quot;:&quot;deddoendo&quot;},{&quot;translateID&quot;:411847,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;Дополнительные настройки запуска&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;起動の詳細設定&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きどうのしょうさいせってい&quot;,&quot;transliteration&quot;:&quot;kidounoshousaisettei&quot;},{&quot;translateID&quot;:152754,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;панель запуска&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;スタート パッド&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;すたーと ぱっど&quot;,&quot;transliteration&quot;:&quot;suta:to paddo&quot;},{&quot;translateID&quot;:411839,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;Показать окно запуска&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;起動ダイアログを表示する&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きどうだいあろぐをひょうじする&quot;,&quot;transliteration&quot;:&quot;kidoudaiarogu o hyoujisuru&quot;},{&quot;translateID&quot;:494287,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;остановка без возможности повторного запуска&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;行き止まり&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いきどまり&quot;,&quot;transliteration&quot;:&quot;ikidomari&quot;},{&quot;translateID&quot;:411830,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;ключ запуска&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;起動キー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きどうきー&quot;,&quot;transliteration&quot;:&quot;kidouki:&quot;},{&quot;translateID&quot;:106023,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;инструментальная панель быстрого запуска&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;クイック起動ツール バー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;くいっくきどうつーる ばー&quot;,&quot;transliteration&quot;:&quot;kuikkukidoutsu:ru ba:&quot;},{&quot;translateID&quot;:494266,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;остановка без возможности повторного запуска&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;行き詰まり&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いきづまり&quot;,&quot;transliteration&quot;:&quot;ikidumari&quot;},{&quot;translateID&quot;:556412,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;профиль запуска от имени&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;実行プロファイル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じっこうぷろふぁいる&quot;,&quot;transliteration&quot;:&quot;jikkoupurofairu&quot;},{&quot;translateID&quot;:106021,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;панель быстрого запуска&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;クイック起動&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;くいっくきどう&quot;,&quot;transliteration&quot;:&quot;kuikkukidou&quot;},{&quot;translateID&quot;:294300,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;кнопка запуска ленты&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;リボンの起動ボタン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;りぼんのきどうぼたん&quot;,&quot;transliteration&quot;:&quot;ribonnokidoubotan&quot;},{&quot;translateID&quot;:556362,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;учетная запись запуска от имени&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;実行アカウント&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じっこうあかうんと&quot;,&quot;transliteration&quot;:&quot;jikkouakaunto&quot;},{&quot;translateID&quot;:685068,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;остановка без возможности повторного запуска&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;袋小路&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふくろこうじ&quot;,&quot;transliteration&quot;:&quot;fukurokouji&quot;},{&quot;translateID&quot;:865174,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;остановка без возможности повторного запуска&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;未来がないこと&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;みらいがないこと&quot;,&quot;transliteration&quot;:&quot;miraiganaikoto&quot;},{&quot;translateID&quot;:411876,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;драйвер раннего запуска антивредоносной программы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;起動時マルウェア対策ドライバー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きどうじまるうぇあたいさくどらいばー&quot;,&quot;transliteration&quot;:&quot;kidoujimaruuぇataisakudoraiba:&quot;},{&quot;translateID&quot;:34891,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;приложение однократного запуска&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;RunOnce アプリケーション&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;RunOnceあぷりけーしょん&quot;,&quot;transliteration&quot;:&quot;RunOnceapurike:shon&quot;},{&quot;translateID&quot;:665179,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;остановка без возможности повторного запуска&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;掃きだめのような所&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はきだめのようなところ&quot;,&quot;transliteration&quot;:&quot;hakidamenoyounatokoro&quot;},{&quot;translateID&quot;:411875,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;драйвер раннего запуска антивредоносной программы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;起動時ブート ドライバー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きどうじぶーと どらいばー&quot;,&quot;transliteration&quot;:&quot;kidoujibu:to doraiba:&quot;},{&quot;translateID&quot;:582062,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;операционная система запуска&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;初起動オペレーティングシステム&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はつきどうおぺれーてぃんぐしすてむ&quot;,&quot;transliteration&quot;:&quot;hatsukidouopere:tingushisutemu&quot;},{&quot;translateID&quot;:570902,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;остановка без возможности повторного запуска&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;終端&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゅうたん&quot;,&quot;transliteration&quot;:&quot;shuutan&quot;},{&quot;translateID&quot;:200159,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;средство запуска задач&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ナビ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なび&quot;,&quot;transliteration&quot;:&quot;nabi&quot;},{&quot;translateID&quot;:556525,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;команда запуска&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;実行命令&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じっこうめいれい&quot;,&quot;transliteration&quot;:&quot;jikkoumeirei&quot;},{&quot;translateID&quot;:152723,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;операционная система запуска&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;スタータオペレーティングシステム&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;すたーたおぺれーてぃんぐしすてむ&quot;,&quot;transliteration&quot;:&quot;suta:taopere:tingushisutemu&quot;},{&quot;translateID&quot;:195985,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;уровень запуска&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;トリガーレベル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とりがーれべる&quot;,&quot;transliteration&quot;:&quot;toriga:reberu&quot;},{&quot;translateID&quot;:197950,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;аварийный останов без возможности повторного запуска&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ドロップデッドホルト&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;どろっぷでっどほると&quot;,&quot;transliteration&quot;:&quot;doroppudeddohoruto&quot;},{&quot;translateID&quot;:194414,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;схема запуска&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ドライバ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;どらいば&quot;,&quot;transliteration&quot;:&quot;doraiba&quot;},{&quot;translateID&quot;:197951,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;аварийный останов без повторного запуска&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ドロップデッドホルト&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;どろっぷでっどほると&quot;,&quot;transliteration&quot;:&quot;doroppudeddohoruto&quot;},{&quot;translateID&quot;:556482,&quot;translationStatus&quot;:0,&quot;themeID&quot;:11,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;プログラミング&quot;,&quot;word&quot;:&quot;путь запуска&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;実行場所&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じっこうばしょ&quot;,&quot;transliteration&quot;:&quot;jikkoubasho&quot;},{&quot;translateID&quot;:796103,&quot;translationStatus&quot;:0,&quot;themeID&quot;:11,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;プログラミング&quot;,&quot;word&quot;:&quot;для запуска программы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;番のボタンを押してください&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ばんのぼたんをおしてください&quot;,&quot;transliteration&quot;:&quot;bannobotan o oshitekudasai&quot;},{&quot;translateID&quot;:372707,&quot;translationStatus&quot;:0,&quot;themeID&quot;:11,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;プログラミング&quot;,&quot;word&quot;:&quot;путь запуска&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;開始場所&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かいしばしょ&quot;,&quot;transliteration&quot;:&quot;kaishibasho&quot;},{&quot;translateID&quot;:460727,&quot;translationStatus&quot;:0,&quot;themeID&quot;:11,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;プログラミング&quot;,&quot;word&quot;:&quot;путь запуска не найден&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;検索開始パスが見つかりません&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けんさくかいしぱすがみつかりません&quot;,&quot;transliteration&quot;:&quot;kensakukaishipasugamitsukarimasen&quot;},{&quot;translateID&quot;:144113,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;провод для запуска двигателя от внешнего источника&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ジャンパ線&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じゃんぱせん&quot;,&quot;transliteration&quot;:&quot;janpasen&quot;},{&quot;translateID&quot;:529776,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;частота вращения запуска&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;始動回転速度&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しどうかいてんそくど&quot;,&quot;transliteration&quot;:&quot;shidoukaitensokudo&quot;},{&quot;translateID&quot;:109519,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;положение запуска&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;クランク位置&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;くらんくいち&quot;,&quot;transliteration&quot;:&quot;kurankuichi&quot;},{&quot;translateID&quot;:529772,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;наибольшее давление запуска&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;始動圧力&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しどうあつりょく&quot;,&quot;transliteration&quot;:&quot;shidouatsuryoku&quot;},{&quot;translateID&quot;:372692,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;температура запуска&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;開始温度&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かいしおんど&quot;,&quot;transliteration&quot;:&quot;kaishiondo&quot;},{&quot;translateID&quot;:470243,&quot;translationStatus&quot;:0,&quot;themeID&quot;:210,&quot;groupName&quot;:&quot;人文&quot;,&quot;themeName&quot;:&quot;政治&quot;,&quot;word&quot;:&quot;установка для запуска реактивных противотанковых снарядов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;個人携帯対戦車弾&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こじんけいたいたいせんしゃだん&quot;,&quot;transliteration&quot;:&quot;kojinkeitaitaisenshadan&quot;},{&quot;translateID&quot;:424673,&quot;translationStatus&quot;:0,&quot;themeID&quot;:218,&quot;groupName&quot;:&quot;人文&quot;,&quot;themeName&quot;:&quot;軍事用語&quot;,&quot;word&quot;:&quot;резко снижать продажи одного продукта за счёт запуска в продажу другого подобного&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;共食い&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ともぐい&quot;,&quot;transliteration&quot;:&quot;tomogui&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="запуска" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

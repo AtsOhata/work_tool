@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	системой - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,системой" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u0441%u0438%u0441%u0442%u0435%u043c%u043e%u0439" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV644Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNGB0LjRgdGC0LXQvNC+0LlkAgMPZBYIAgIPZBYEAgEPFgIeA3NyYwUPLi4vaW1nL2xvZ28ucG5nZAIFDxYCHgRocmVmBQ4uLi8/bGFuZz1ydS1SVWQCBA8WAh4HVmlzaWJsZWdkAgYPFgIfA2hkAgcPZBYIZg8WAh8DaGQCAQ8WAh8DaGQCAg8WAh8DaGQCBQ8WAh8DaGRkOzzIw5FTK3G0U/CKQPmJ0b4hU04=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAXXQC4mwYHE1ovZH9IW5wjdlIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/rApodSdYw4WcDlYALbAv8gkDdZt" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:false,&quot;Phrases&quot;:[{&quot;translateID&quot;:507152,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;дерево с мощной корневой системой&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;根張りのよい木&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ねはりのよいき&quot;,&quot;transliteration&quot;:&quot;neharinoyoiki&quot;},{&quot;translateID&quot;:436607,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;страна с системой золотого денежного обращения&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;金貨国&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きんかこく&quot;,&quot;transliteration&quot;:&quot;kinkakoku&quot;},{&quot;translateID&quot;:882654,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;мультипрограммирование с системой приоритетов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;優先度付き多重プログラミング&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ゆうせんどつきたじゅうぷろぐらみんぐ&quot;,&quot;transliteration&quot;:&quot;yuusendotsukitajuupuroguramingu&quot;},{&quot;translateID&quot;:139679,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;пульт управления вычислительной системой&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;システム制御盤&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しすてむせいぎょばん&quot;,&quot;transliteration&quot;:&quot;shisutemuseigyoban&quot;},{&quot;translateID&quot;:139676,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;данные для управления системой&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;システム制御データ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しすてむせいぎょでーた&quot;,&quot;transliteration&quot;:&quot;shisutemuseigyode:ta&quot;},{&quot;translateID&quot;:139675,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;управление системой&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;システム制御&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しすてむせいぎょ&quot;,&quot;transliteration&quot;:&quot;shisutemuseigyo&quot;},{&quot;translateID&quot;:139495,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;диск с операционной системой&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;システムディスク&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しすてむでぃすく&quot;,&quot;transliteration&quot;:&quot;shisutemudisuku&quot;},{&quot;translateID&quot;:556376,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;одновременность выполнения заданий операционной системой&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;実行システム同時性&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じっこうしすてむどうじせい&quot;,&quot;transliteration&quot;:&quot;jikkoushisutemudoujisei&quot;},{&quot;translateID&quot;:473734,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;шина заземления с системой сигнализации об отказе&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;故障接地母線&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こしょうせっちぼせん&quot;,&quot;transliteration&quot;:&quot;koshousecchibosen&quot;},{&quot;translateID&quot;:490617,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;терминал, непосредственно соединённый с системой&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;構内接続端末&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうないせつぞくたんまつ&quot;,&quot;transliteration&quot;:&quot;kounaisetsuzokutanmatsu&quot;},{&quot;translateID&quot;:139699,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;пульт управления системой&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;システム操作盤&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しすてむそうさばん&quot;,&quot;transliteration&quot;:&quot;shisutemusousaban&quot;},{&quot;translateID&quot;:701782,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;робот с контурной системой управления&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;知能ロボット&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちのうろぼっと&quot;,&quot;transliteration&quot;:&quot;chinourobotto&quot;},{&quot;translateID&quot;:139632,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;техническое управление системой&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;システム工学&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しすてむこうがく&quot;,&quot;transliteration&quot;:&quot;shisutemukougaku&quot;},{&quot;translateID&quot;:65764,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;робот с контурной системой управления&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;インテリジェントロボット&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いんてりじぇんとろぼっと&quot;,&quot;transliteration&quot;:&quot;interijentorobotto&quot;},{&quot;translateID&quot;:29295,&quot;translationStatus&quot;:0,&quot;themeID&quot;:44,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;航空宇宙&quot;,&quot;word&quot;:&quot;летательный аппарат с конфигурацией, определяемой системой управления&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;CCV&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;CCV&quot;,&quot;transliteration&quot;:&quot;CCV&quot;},{&quot;translateID&quot;:29545,&quot;translationStatus&quot;:0,&quot;themeID&quot;:44,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;航空宇宙&quot;,&quot;word&quot;:&quot;летательный аппарат с конфигурацией, определяемой системой управления&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;control configured vehicle&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;control configured vehicle&quot;,&quot;transliteration&quot;:&quot;control configured vehicle&quot;},{&quot;translateID&quot;:676838,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;машина с независимой системой вентиляции&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;他力通風形電機&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たりきつうふうけいでんき&quot;,&quot;transliteration&quot;:&quot;tarikitsuufuukeidenki&quot;},{&quot;translateID&quot;:702891,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;зрительная труба с оборачивающей системой&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;地上望遠鏡&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちじょうぼうえんきょう&quot;,&quot;transliteration&quot;:&quot;chijoubouenkyou&quot;},{&quot;translateID&quot;:173289,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;корабль с продольной системой набора&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;たて式構造船&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たてしきこうぞうせん&quot;,&quot;transliteration&quot;:&quot;tateshikikouzousen&quot;},{&quot;translateID&quot;:677193,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;РЛС с многофункциональной антенной системой&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;多機能アレイレーダー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たきのうあれいれーだー&quot;,&quot;transliteration&quot;:&quot;takinouareire:da:&quot;},{&quot;translateID&quot;:358071,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;трансформатор с насыщающейся магнитной системой&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;可飽和変圧器&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かほうわへんあつき&quot;,&quot;transliteration&quot;:&quot;kahouwahenatsuki&quot;},{&quot;translateID&quot;:248126,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;прожектор с проекционной оптической системой&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;プロフィールスポットライト&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぷろふぃーるすぽっとらいと&quot;,&quot;transliteration&quot;:&quot;purofi:rusupottoraito&quot;},{&quot;translateID&quot;:480365,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;фонари с оптической системой&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;光学式幻灯機&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうがくしきげんとうき&quot;,&quot;transliteration&quot;:&quot;kougakushikigentouki&quot;},{&quot;translateID&quot;:260071,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;литьевая форма с обогреваемой системой литниковых каналов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ホットマニホールド金型&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほっとまにほーるどかながた&quot;,&quot;transliteration&quot;:&quot;hottomaniho:rudokanagata&quot;},{&quot;translateID&quot;:886477,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;экструдер с планетарной системой шнеков&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;遊星形多軸スクリュー押出機&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ゆうせいけいたじくすくりゅーおしだしき&quot;,&quot;transliteration&quot;:&quot;yuuseikeitajikusukuryu:oshidashiki&quot;},{&quot;translateID&quot;:469934,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;диализатор с ультрафильтрационной системой&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;限外濾過血液透析&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;げんがいろかけつえきとうせき&quot;,&quot;transliteration&quot;:&quot;gengairokaketsuekitouseki&quot;},{&quot;translateID&quot;:709061,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;связанный с центральной нервной системой&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中枢的&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅうすうてき&quot;,&quot;transliteration&quot;:&quot;chuusuuteki&quot;},{&quot;translateID&quot;:910185,&quot;translationStatus&quot;:0,&quot;themeID&quot;:185,&quot;groupName&quot;:&quot;経済&quot;,&quot;themeName&quot;:&quot;金融&quot;,&quot;word&quot;:&quot;Совет управляющих Федеральной резервной системой&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;連邦準備制度理事会&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;れんぽうじゅんびせいどりじかい&quot;,&quot;transliteration&quot;:&quot;renpoujunbiseidorijikai&quot;},{&quot;translateID&quot;:298904,&quot;translationStatus&quot;:0,&quot;themeID&quot;:210,&quot;groupName&quot;:&quot;人文&quot;,&quot;themeName&quot;:&quot;政治&quot;,&quot;word&quot;:&quot;управляемая АБ с лазерной системой наведения&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;レーザー誘導爆弾&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;れーざーゆうどうばくだん&quot;,&quot;transliteration&quot;:&quot;re:za:yuudoubakudan&quot;},{&quot;translateID&quot;:643327,&quot;translationStatus&quot;:0,&quot;themeID&quot;:210,&quot;groupName&quot;:&quot;人文&quot;,&quot;themeName&quot;:&quot;政治&quot;,&quot;word&quot;:&quot;ракета с инфракрасной системой самонаведения&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;赤外線誘導ミサイル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せきがいせんゆうどうみさいる&quot;,&quot;transliteration&quot;:&quot;sekigaisenyuudoumisairu&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="системой" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

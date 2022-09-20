@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	глубокая - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,глубокая" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u0433%u043b%u0443%u0431%u043e%u043a%u0430%u044f" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV644Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNCz0LvRg9Cx0L7QutCw0Y9kAgMPZBYIAgIPZBYEAgEPFgIeA3NyYwUPLi4vaW1nL2xvZ28ucG5nZAIFDxYCHgRocmVmBQ4uLi8/bGFuZz1ydS1SVWQCBA8WAh4HVmlzaWJsZWdkAgYPFgIfA2hkAgcPZBYIZg8WAh8DaGQCAQ8WAh8DaGQCAg8WAh8DaGQCBQ8WAh8DaGRkJUOuxO3yfhsWalFJPfL9OMTFv6U=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAW5sN8Yso7WOddztI07jqz0lIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/lRDRKjy/qSi8gfwt3R1ZWxdfpMx" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:true,&quot;Phrases&quot;:[{&quot;translateID&quot;:689046,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;глубокая древность&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;大昔&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おおむかし&quot;,&quot;transliteration&quot;:&quot;oomukashi&quot;},{&quot;translateID&quot;:796028,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;глубокая осень&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;晩秋&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ばんしゅう&quot;,&quot;transliteration&quot;:&quot;banshuu&quot;},{&quot;translateID&quot;:610570,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;глубокая благодарность&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;深謝&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しんしゃ&quot;,&quot;transliteration&quot;:&quot;shinsha&quot;},{&quot;translateID&quot;:722320,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;глубокая печаль&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;痛惜&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;つうせき&quot;,&quot;transliteration&quot;:&quot;tsuuseki&quot;},{&quot;translateID&quot;:879208,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;глубокая ночь&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;夜半&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;よわ&quot;,&quot;transliteration&quot;:&quot;yowa&quot;},{&quot;translateID&quot;:689045,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;глубокая древность&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;大昔&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おうむかし&quot;,&quot;transliteration&quot;:&quot;oumukashi&quot;},{&quot;translateID&quot;:650711,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;глубокая древность&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;千古&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せんこ&quot;,&quot;transliteration&quot;:&quot;senko&quot;},{&quot;translateID&quot;:610422,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;глубокая обида&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;深怨&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しんえん&quot;,&quot;transliteration&quot;:&quot;shinen&quot;},{&quot;translateID&quot;:427995,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;глубокая почтительность&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;恭謙&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きょうけん&quot;,&quot;transliteration&quot;:&quot;kyouken&quot;},{&quot;translateID&quot;:879207,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;глубокая ночь&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;夜半&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;やはん&quot;,&quot;transliteration&quot;:&quot;yahan&quot;},{&quot;translateID&quot;:688677,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;глубокая рана&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;大傷&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おおきず&quot;,&quot;transliteration&quot;:&quot;ookizu&quot;},{&quot;translateID&quot;:731210,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;глубокая тайна&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;天機&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てんき&quot;,&quot;transliteration&quot;:&quot;tenki&quot;},{&quot;translateID&quot;:610475,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;глубокая осадка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;深吃&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しんきつ&quot;,&quot;transliteration&quot;:&quot;shinkitsu&quot;},{&quot;translateID&quot;:427987,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;глубокая радость&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;恭悦&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きょうえつ&quot;,&quot;transliteration&quot;:&quot;kyouetsu&quot;},{&quot;translateID&quot;:878918,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;кн. наступает глубокая ночь&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;夜は深々と更けて行く&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;よるはふかぶかとふけていく&quot;,&quot;transliteration&quot;:&quot;yoruhafukabukatofuketeiku&quot;},{&quot;translateID&quot;:644628,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;глубокая рана&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;切り疵&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きりきず&quot;,&quot;transliteration&quot;:&quot;kirikizu&quot;},{&quot;translateID&quot;:344335,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;глубокая теория&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;奥底の知れない学理&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おくそこのしれないがくり&quot;,&quot;transliteration&quot;:&quot;okusokonoshirenaigakuri&quot;},{&quot;translateID&quot;:475139,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;глубокая чашка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;五郎八茶碗&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ごろうはちじゃわん&quot;,&quot;transliteration&quot;:&quot;gorouhachijawan&quot;},{&quot;translateID&quot;:427816,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;глубокая радость&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;恐悦&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きょうえつ&quot;,&quot;transliteration&quot;:&quot;kyouetsu&quot;},{&quot;translateID&quot;:878880,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Была глубокая ночь.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;夜がすっかり更けた。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;よるがすっかりふけた。&quot;,&quot;transliteration&quot;:&quot;yorugasukkarifuketa。&quot;},{&quot;translateID&quot;:641836,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;глубокая тоска&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;積欝&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せきうつ&quot;,&quot;transliteration&quot;:&quot;sekiutsu&quot;},{&quot;translateID&quot;:596372,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;глубокая древность&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;上代&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じょうだい&quot;,&quot;transliteration&quot;:&quot;joudai&quot;},{&quot;translateID&quot;:883152,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;глубокая печаль&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;幽愁&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ゆうしゅう&quot;,&quot;transliteration&quot;:&quot;yuushuu&quot;},{&quot;translateID&quot;:610509,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;глубокая вспашка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;深耕&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しんこう&quot;,&quot;transliteration&quot;:&quot;shinkou&quot;},{&quot;translateID&quot;:722336,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;глубокая скорбь&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;痛歎&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;つうたん&quot;,&quot;transliteration&quot;:&quot;tsuutan&quot;},{&quot;translateID&quot;:331480,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;глубокая печать&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;陰文&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いんぶん&quot;,&quot;transliteration&quot;:&quot;inbun&quot;},{&quot;translateID&quot;:595589,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;глубокая древность&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;上古&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じょうこ&quot;,&quot;transliteration&quot;:&quot;jouko&quot;},{&quot;translateID&quot;:883151,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;глубокая задумчивость&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;幽愁&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ゆうしゅう&quot;,&quot;transliteration&quot;:&quot;yuushuu&quot;},{&quot;translateID&quot;:610572,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;глубокая рана&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;深手&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふかで&quot;,&quot;transliteration&quot;:&quot;fukade&quot;},{&quot;translateID&quot;:722333,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;глубокая скорбь&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;痛嘆&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;つうたん&quot;,&quot;transliteration&quot;:&quot;tsuutan&quot;},{&quot;translateID&quot;:644440,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;глубокая рана&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;切り創&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きりきず&quot;,&quot;transliteration&quot;:&quot;kirikizu&quot;},{&quot;translateID&quot;:344152,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;глубокая печать&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;凹版&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おうばん&quot;,&quot;transliteration&quot;:&quot;ouban&quot;},{&quot;translateID&quot;:655800,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;глубокая осадка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;船足が深い&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふねあしがふかい&quot;,&quot;transliteration&quot;:&quot;funeashigafukai&quot;},{&quot;translateID&quot;:610749,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;глубокая ночь&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;深夜&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しんや&quot;,&quot;transliteration&quot;:&quot;shinya&quot;},{&quot;translateID&quot;:256665,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;глубокая миска&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ボウル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぼうる&quot;,&quot;transliteration&quot;:&quot;bouru&quot;},{&quot;translateID&quot;:644398,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;глубокая рана&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;切り傷&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きりきず&quot;,&quot;transliteration&quot;:&quot;kirikizu&quot;},{&quot;translateID&quot;:341561,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;глубокая древность&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;遠い昔&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とおいむかし&quot;,&quot;transliteration&quot;:&quot;tooimukashi&quot;},{&quot;translateID&quot;:612203,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;глубокая ночь&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;真夜中&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まよなか&quot;,&quot;transliteration&quot;:&quot;mayonaka&quot;},{&quot;translateID&quot;:610744,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;глубокая амигаса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;深編笠&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふかあみがさ&quot;,&quot;transliteration&quot;:&quot;fukaamigasa&quot;},{&quot;translateID&quot;:912183,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;глубокая старость&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;老軀&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ろうく&quot;,&quot;transliteration&quot;:&quot;rouku&quot;},{&quot;translateID&quot;:642306,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;глубокая тоска&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;積鬱&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せきうつ&quot;,&quot;transliteration&quot;:&quot;sekiutsu&quot;},{&quot;translateID&quot;:258028,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;глубокая миска&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ボール&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぼーる&quot;,&quot;transliteration&quot;:&quot;bo:ru&quot;},{&quot;translateID&quot;:416628,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;глубокая древность&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;久遠&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;くおん&quot;,&quot;transliteration&quot;:&quot;kuon&quot;},{&quot;translateID&quot;:610657,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;глубокая резьба&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;深彫り&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふかぼり&quot;,&quot;transliteration&quot;:&quot;fukabori&quot;},{&quot;translateID&quot;:911893,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;глубокая старость&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;老寿&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ろうじゅ&quot;,&quot;transliteration&quot;:&quot;rouju&quot;},{&quot;translateID&quot;:873104,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;глубокая благодарность&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;鳴謝&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;めいしゃ&quot;,&quot;transliteration&quot;:&quot;meisha&quot;},{&quot;translateID&quot;:861373,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;глубокая тайна&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;摩訶不思議&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まかふしぎ&quot;,&quot;transliteration&quot;:&quot;makafushigi&quot;},{&quot;translateID&quot;:921936,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;глубокая старина&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;邃古&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;すいこ&quot;,&quot;transliteration&quot;:&quot;suiko&quot;},{&quot;translateID&quot;:610633,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Глубокая паутина&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;深層Web&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しんそうWeb&quot;,&quot;transliteration&quot;:&quot;shinsouWeb&quot;},{&quot;translateID&quot;:44125,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;кругом царила глубокая тишина&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;あたりは森閑としていた&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あたりはしんかんとしていた&quot;,&quot;transliteration&quot;:&quot;atarihashinkantoshiteita&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="глубокая" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

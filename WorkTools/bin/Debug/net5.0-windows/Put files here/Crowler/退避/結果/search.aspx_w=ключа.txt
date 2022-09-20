@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	ключа - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,ключа" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u043a%u043b%u044e%u0447%u0430" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV044Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNC60LvRjtGH0LBkAgMPZBYIAgIPZBYEAgEPFgIeA3NyYwUPLi4vaW1nL2xvZ28ucG5nZAIFDxYCHgRocmVmBQ4uLi8/bGFuZz1ydS1SVWQCBA8WAh4HVmlzaWJsZWdkAgYPFgIfA2hkAgcPZBYIZg8WAh8DaGQCAQ8WAh8DaGQCAg8WAh8DaGQCBQ8WAh8DaGRktv4wrf95N9ayvPqh4HNQF8/G/wE=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAXwCsjOJ7LWrYmsHujCvo8jlIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/ggCmrecHi0MBHoml328P5gu6eP4" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:true,&quot;Phrases&quot;:[{&quot;translateID&quot;:918378,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;часть иероглифа без ключа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;旁&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;つくり&quot;,&quot;transliteration&quot;:&quot;tsukuri&quot;},{&quot;translateID&quot;:438121,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Врата серебряного ключа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;銀の鍵&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぎんのかぎ&quot;,&quot;transliteration&quot;:&quot;ginnokagi&quot;},{&quot;translateID&quot;:101299,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;цилиндр ключа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;キーシリンダー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きーしりんだー&quot;,&quot;transliteration&quot;:&quot;ki:shirinda:&quot;},{&quot;translateID&quot;:101571,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;длина ключа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;キー長&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きーちょう&quot;,&quot;transliteration&quot;:&quot;ki:chou&quot;},{&quot;translateID&quot;:75700,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;Введите, пожалуйста, пароль для защиты экспортированного секретного ключа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;エクスポートされたプライベートキーを保護するためのパスワードを入力してください&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;えくすぽーとされたぷらいべーときーをほごするためのぱすわーどをにゅうりょくしてください&quot;,&quot;transliteration&quot;:&quot;ekusupo:tosaretapuraibe:toki: o hogosurutamenopasuwa:do o nyuuryokushitekudasai&quot;},{&quot;translateID&quot;:405617,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;идентификатор ключа центра сертификации&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;機関キー識別子&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きかんきーしきべつし&quot;,&quot;transliteration&quot;:&quot;kikanki:shikibetsushi&quot;},{&quot;translateID&quot;:101233,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;код ключа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;キー ID&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きーID&quot;,&quot;transliteration&quot;:&quot;ki:ID&quot;},{&quot;translateID&quot;:101573,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;функция формирования ключа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;キー派生関数&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きーはせいかんすう&quot;,&quot;transliteration&quot;:&quot;ki:haseikansuu&quot;},{&quot;translateID&quot;:30075,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;Компонента G ключа DSA&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;DSA コンポネント G&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;DSA こんぽねんと G&quot;,&quot;transliteration&quot;:&quot;DSA konponento G&quot;},{&quot;translateID&quot;:237694,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;Импорт секретного ключа и сертификата не удался&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;プライベートキーと証明書のインポートに失敗しました&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぷらいべーときーとしょうめいしょのいんぽーとにしっぱいしました&quot;,&quot;transliteration&quot;:&quot;puraibe:toki:toshoumeishonoinpo:tonishippaishimashita&quot;},{&quot;translateID&quot;:101343,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;изменение ключа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;キーチェンジ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きーちぇんじ&quot;,&quot;transliteration&quot;:&quot;ki:chenji&quot;},{&quot;translateID&quot;:101533,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;ключ подписывания ключа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;キーを署名するキー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きーをしょめいするきー&quot;,&quot;transliteration&quot;:&quot;ki: o shomeisuruki:&quot;},{&quot;translateID&quot;:30077,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;Компонента Q ключа DSA&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;DSA コンポネント Q&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;DSA こんぽねんと Q&quot;,&quot;transliteration&quot;:&quot;DSA konponento Q&quot;},{&quot;translateID&quot;:481814,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;Инфраструктура открытого ключа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;公開鍵インフラストラクチャ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうかいかぎいんふらすとらくちゃ&quot;,&quot;transliteration&quot;:&quot;koukaikagiinfurasutorakucha&quot;},{&quot;translateID&quot;:101234,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;индекс ключа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;キー インデックス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きー いんでっくす&quot;,&quot;transliteration&quot;:&quot;ki: indekkusu&quot;},{&quot;translateID&quot;:101577,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;блокировка диапазона ключа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;キー範囲ロック&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きーはんいろっく&quot;,&quot;transliteration&quot;:&quot;ki:hanirokku&quot;},{&quot;translateID&quot;:30076,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;Компонента P ключа DSA&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;DSA コンポネント P&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;DSA こんぽねんと P&quot;,&quot;transliteration&quot;:&quot;DSA konponento P&quot;},{&quot;translateID&quot;:481776,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;инфраструктура открытого ключа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;公開キー基盤&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうかいきーきばん&quot;,&quot;transliteration&quot;:&quot;koukaiki:kiban&quot;},{&quot;translateID&quot;:101564,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;материал ключа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;キー材料&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きーざいりょう&quot;,&quot;transliteration&quot;:&quot;ki:zairyou&quot;},{&quot;translateID&quot;:229619,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;Данный файл не содержит секретного ключа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ファイルにプライベートキーがありません&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふぁいるにぷらいべーときーがありません&quot;,&quot;transliteration&quot;:&quot;fairunipuraibe:toki:gaarimasen&quot;},{&quot;translateID&quot;:375697,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;ассоциация на основе внешнего ключа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;外部キーの関連付け&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;がいぶきーのかんれんつけ&quot;,&quot;transliteration&quot;:&quot;gaibuki:nokanrentsuke&quot;},{&quot;translateID&quot;:101566,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;идентификатор ключа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;キー識別子&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きーしきべつし&quot;,&quot;transliteration&quot;:&quot;ki:shikibetsushi&quot;},{&quot;translateID&quot;:470296,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;Сертификат клиента не имеет подходящего секретного ключа в базе данных.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;個人証明書がデータベースのプライベートキーと一致しません。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こじんしょうめいしょがでーたべーすのぷらいべーときーといっちしません。&quot;,&quot;transliteration&quot;:&quot;kojinshoumeishogade:tabe:sunopuraibe:toki:toicchishimasen。&quot;},{&quot;translateID&quot;:378227,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;расширенное использование ключа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;拡張キー使用法&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かくちょうきーしようほう&quot;,&quot;transliteration&quot;:&quot;kakuchouki:shiyouhou&quot;},{&quot;translateID&quot;:101484,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;запись ключа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;キーレコード&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きーれこーど&quot;,&quot;transliteration&quot;:&quot;ki:reko:do&quot;},{&quot;translateID&quot;:133175,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;Неподдерживаемый алгоритм ключа &quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;サポートされていないキーアルゴリズムです &quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さぽーとされていないきーあるごりずむです&quot;,&quot;transliteration&quot;:&quot;sapo:tosareteinaiki:arugorizumudesu&quot;},{&quot;translateID&quot;:375696,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;файл внешнего ключа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;外部キー ファイル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;がいぶきー ふぁいる&quot;,&quot;transliteration&quot;:&quot;gaibuki: fairu&quot;},{&quot;translateID&quot;:101389,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;полет ключа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;キーフィールド&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きーふぃーるど&quot;,&quot;transliteration&quot;:&quot;ki:fi:rudo&quot;},{&quot;translateID&quot;:132915,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;идентификатор ключа субъекта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;サブジェクト キー識別子&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さぶじぇくと きーしきべつし&quot;,&quot;transliteration&quot;:&quot;sabujekuto ki:shikibetsushi&quot;},{&quot;translateID&quot;:35391,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;файл главного ключа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;stash ファイル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;stashふぁいる&quot;,&quot;transliteration&quot;:&quot;stashfairu&quot;},{&quot;translateID&quot;:101369,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;предохранитель ключа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;キーの保護機能&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きーのほごきのう&quot;,&quot;transliteration&quot;:&quot;ki:nohogokinou&quot;},{&quot;translateID&quot;:101583,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;область ключа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;キー領域&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きーりょういき&quot;,&quot;transliteration&quot;:&quot;ki:ryouiki&quot;},{&quot;translateID&quot;:34197,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;Инфраструктура открытого ключа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;PKI&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;PKI&quot;,&quot;transliteration&quot;:&quot;PKI&quot;},{&quot;translateID&quot;:101364,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;шифрование ключа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;キーの暗号化&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きーのあんごうか&quot;,&quot;transliteration&quot;:&quot;ki:noangouka&quot;},{&quot;translateID&quot;:101534,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;Введите, пожалуйста, пароль для защиты ключа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;キーを保護するためのパスワードを入力してください&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きーをほごするためのぱすわーどをにゅうりょくしてください&quot;,&quot;transliteration&quot;:&quot;ki: o hogosurutamenopasuwa:do o nyuuryokushitekudasai&quot;},{&quot;translateID&quot;:30308,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;расширенное использование ключа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;EKU&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;EKU&quot;,&quot;transliteration&quot;:&quot;EKU&quot;},{&quot;translateID&quot;:668770,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;общая часть ключа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;総称キー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そうしょうきー&quot;,&quot;transliteration&quot;:&quot;soushouki:&quot;},{&quot;translateID&quot;:773593,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;заводить автомобиль без ключа зажигания&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;熱線&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ねっせん&quot;,&quot;transliteration&quot;:&quot;nessen&quot;},{&quot;translateID&quot;:101542,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;сжатие ключа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;キー圧縮&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きーあっしゅく&quot;,&quot;transliteration&quot;:&quot;ki:asshuku&quot;},{&quot;translateID&quot;:101581,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;изменение значения ключа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;キー変化&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きーへんか&quot;,&quot;transliteration&quot;:&quot;ki:henka&quot;},{&quot;translateID&quot;:767293,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;ежедневно сменяемый элемент ключа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;日別キーイングエレメント&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひべつきーいんぐえれめんと&quot;,&quot;transliteration&quot;:&quot;hibetsuki:ingueremento&quot;},{&quot;translateID&quot;:866874,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;посылка вызова без ключа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;無けん信号&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;むけんしんごう&quot;,&quot;transliteration&quot;:&quot;mukenshingou&quot;},{&quot;translateID&quot;:101488,&quot;translationStatus&quot;:0,&quot;themeID&quot;:22,&quot;groupName&quot;:&quot;車両&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;система отпирания дверей без ключа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;キーレスエントリー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きーれすえんとりー&quot;,&quot;transliteration&quot;:&quot;ki:resuentori:&quot;},{&quot;translateID&quot;:91999,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;рукоятка торцевого ключа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;かぎ形スパナ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かぎけいすぱな&quot;,&quot;transliteration&quot;:&quot;kagikeisupana&quot;},{&quot;translateID&quot;:225660,&quot;translationStatus&quot;:0,&quot;themeID&quot;:49,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;石油・ガス&quot;,&quot;word&quot;:&quot;бородка ключа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ビット&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;びっと&quot;,&quot;transliteration&quot;:&quot;bitto&quot;},{&quot;translateID&quot;:225663,&quot;translationStatus&quot;:0,&quot;themeID&quot;:50,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;金属&quot;,&quot;word&quot;:&quot;бородка ключа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ビット&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;びっと&quot;,&quot;transliteration&quot;:&quot;bitto&quot;},{&quot;translateID&quot;:172120,&quot;translationStatus&quot;:0,&quot;themeID&quot;:50,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;金属&quot;,&quot;word&quot;:&quot;бородка ключа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;タガネ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たがね&quot;,&quot;transliteration&quot;:&quot;tagane&quot;},{&quot;translateID&quot;:64811,&quot;translationStatus&quot;:0,&quot;themeID&quot;:82,&quot;groupName&quot;:&quot;物理&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;кодовое обозначение ключа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;インジケータ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いんじけーた&quot;,&quot;transliteration&quot;:&quot;injike:ta&quot;},{&quot;translateID&quot;:532385,&quot;translationStatus&quot;:0,&quot;themeID&quot;:82,&quot;groupName&quot;:&quot;物理&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;кодовое обозначение ключа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;指示計&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しじけい&quot;,&quot;transliteration&quot;:&quot;shijikei&quot;},{&quot;translateID&quot;:532378,&quot;translationStatus&quot;:0,&quot;themeID&quot;:82,&quot;groupName&quot;:&quot;物理&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;кодовое обозначение ключа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;指示器&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しじき&quot;,&quot;transliteration&quot;:&quot;shijiki&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="ключа" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

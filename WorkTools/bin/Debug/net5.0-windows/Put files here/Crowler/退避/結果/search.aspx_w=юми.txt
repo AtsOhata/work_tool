@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	юми - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,юми" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u044e%u043c%u0438" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAVw44Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNGO0LzQuGQCAw9kFggCAg9kFgQCAQ8WAh4Dc3JjBQ8uLi9pbWcvbG9nby5wbmdkAgUPFgIeBGhyZWYFDi4uLz9sYW5nPXJ1LVJVZAIEDxYCHgdWaXNpYmxlZ2QCBg8WAh8DaGQCBw9kFghmDxYCHwNoZAIBDxYCHwNoZAICDxYCHwNoZAIFDxYCHwNoZGQd7LUqgSb3r3WNjHW6TAkwfVW15A==" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAX5oZ9JNshz1Inwh2So/5E+lIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/jsfylAyVicRoXwoII4PITH4ykfW" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:true,&quot;Phrases&quot;:[{&quot;translateID&quot;:885470,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Юми очень хорошо говорит по-английски.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;由美は英語をとても上手に話す。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ゆみはえいごをとてもじょうずにはなす。&quot;,&quot;transliteration&quot;:&quot;yumihaeigo o totemojouzunihanasu。&quot;},{&quot;translateID&quot;:885469,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Юми пошла туда одна.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;由美は一人でそこへ行った。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ゆみはひとりでそこへいった。&quot;,&quot;transliteration&quot;:&quot;yumihahitoridesokoheitta。&quot;},{&quot;translateID&quot;:885468,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Юми учила английский вчера вечером.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;由美はゆうべ英語を勉強した。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ゆみはゆうべえいごをべんきょうした。&quot;,&quot;transliteration&quot;:&quot;yumihayuubeeigo o benkyoushita。&quot;},{&quot;translateID&quot;:885467,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Юми не будет играть в теннис.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;由美はテニスをしないでしょう。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ゆみはてにすをしないでしょう。&quot;,&quot;transliteration&quot;:&quot;yumihatenisu o shinaideshou。&quot;},{&quot;translateID&quot;:866630,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Я видел Юми во сне.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;夢でユミを見た。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ゆめでゆみをみた。&quot;,&quot;transliteration&quot;:&quot;yumedeyumi o mita。&quot;},{&quot;translateID&quot;:885472,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;У Юми много книг.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;由美は本をたくさん持っている。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ゆみはほんをたくさんもっている。&quot;,&quot;transliteration&quot;:&quot;yumihahon o takusanmotteiru。&quot;},{&quot;translateID&quot;:284772,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Сейчас у Юми много денег.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ユミは今たくさんのお金を持っています。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ゆみはこんたくさんのおかねをもっています。&quot;,&quot;transliteration&quot;:&quot;yumihakontakusannookane o motteimasu。&quot;},{&quot;translateID&quot;:885471,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Юми станет учителем.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;由美は先生になるでしょう。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ゆみはせんせいになるでしょう。&quot;,&quot;transliteration&quot;:&quot;yumihasenseininarudeshou。&quot;},{&quot;translateID&quot;:885466,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Увлечение Юми - петь популярные песни.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;由美の趣味は流行歌をうたうことです。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ゆみのしゅみはりゅうこうかをうたうことです。&quot;,&quot;transliteration&quot;:&quot;yuminoshumiharyuukouka o utaukotodesu。&quot;},{&quot;translateID&quot;:313925,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Адати, Юми&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;安達祐実&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あだちたすくみ&quot;,&quot;transliteration&quot;:&quot;adachitasukumi&quot;},{&quot;translateID&quot;:498544,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Такада, Юми&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;高田由美&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たかだゆみ&quot;,&quot;transliteration&quot;:&quot;takadayumi&quot;},{&quot;translateID&quot;:885474,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Юми будет пользоваться этой камерой завтра вечером.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;由美は明日の午後このカメラを使うでしょう。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ゆみはあしたのごごこのかめらをつかうでしょう。&quot;,&quot;transliteration&quot;:&quot;yumihaashitanogogokonokamera o tsukaudeshou。&quot;},{&quot;translateID&quot;:742925,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Тома, Юми&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;冬馬由美&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふゆうまゆみ&quot;,&quot;transliteration&quot;:&quot;fuyuumayumi&quot;},{&quot;translateID&quot;:885473,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Юми будет использовать этот фотоаппарат завтра днём.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;由美は明日の午後このカメラを使うでしょう。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ゆみはあしたのごごこのかめらをつかうでしょう。&quot;,&quot;transliteration&quot;:&quot;yumihaashitanogogokonokamera o tsukaudeshou。&quot;},{&quot;translateID&quot;:1058414,&quot;translationStatus&quot;:0,&quot;themeID&quot;:5,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;人名&quot;,&quot;word&quot;:&quot;Моробоси Юми&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;諸星 由美&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;もろぼし ゆみ&quot;,&quot;transliteration&quot;:&quot;moroboshi yumi&quot;},{&quot;translateID&quot;:1063900,&quot;translationStatus&quot;:0,&quot;themeID&quot;:5,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;人名&quot;,&quot;word&quot;:&quot;Сомэя Юми&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;染谷 ゆみ &quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そめや ゆみ&quot;,&quot;transliteration&quot;:&quot;someya yumi&quot;},{&quot;translateID&quot;:1070267,&quot;translationStatus&quot;:0,&quot;themeID&quot;:5,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;人名&quot;,&quot;word&quot;:&quot;Нара Юми&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;奈良 ゆみ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なら ゆみ&quot;,&quot;transliteration&quot;:&quot;nara yumi&quot;},{&quot;translateID&quot;:1075919,&quot;translationStatus&quot;:0,&quot;themeID&quot;:5,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;人名&quot;,&quot;word&quot;:&quot;Мугурума Юми&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;六車 由美&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;むぐるま ゆみ&quot;,&quot;transliteration&quot;:&quot;muguruma yumi&quot;},{&quot;translateID&quot;:1058470,&quot;translationStatus&quot;:0,&quot;themeID&quot;:5,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;人名&quot;,&quot;word&quot;:&quot;Кокамо Юми&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;小鴨 由水&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こかも ゆみ&quot;,&quot;transliteration&quot;:&quot;kokamo yumi&quot;},{&quot;translateID&quot;:1064095,&quot;translationStatus&quot;:0,&quot;themeID&quot;:5,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;人名&quot;,&quot;word&quot;:&quot;Сомия Юми&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;曽宮 夕見&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そみや ゆみ&quot;,&quot;transliteration&quot;:&quot;somiya yumi&quot;},{&quot;translateID&quot;:1071142,&quot;translationStatus&quot;:0,&quot;themeID&quot;:5,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;人名&quot;,&quot;word&quot;:&quot;Сиракава Юми&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;白川 由美&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しらかわ ゆみ&quot;,&quot;transliteration&quot;:&quot;shirakawa yumi&quot;},{&quot;translateID&quot;:1046438,&quot;translationStatus&quot;:0,&quot;themeID&quot;:5,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;人名&quot;,&quot;word&quot;:&quot;Адати Юми&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;安達 祐実&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あだち ゆみ&quot;,&quot;transliteration&quot;:&quot;adachi yumi&quot;},{&quot;translateID&quot;:1053317,&quot;translationStatus&quot;:0,&quot;themeID&quot;:5,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;人名&quot;,&quot;word&quot;:&quot;Эгава Юми&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;江川 有未&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;えがわ ゆみ&quot;,&quot;transliteration&quot;:&quot;egawa yumi&quot;},{&quot;translateID&quot;:1059467,&quot;translationStatus&quot;:0,&quot;themeID&quot;:5,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;人名&quot;,&quot;word&quot;:&quot;Кобаяси Юми&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;小林 由美&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こばやし ゆみ&quot;,&quot;transliteration&quot;:&quot;kobayashi yumi&quot;},{&quot;translateID&quot;:1064792,&quot;translationStatus&quot;:0,&quot;themeID&quot;:5,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;人名&quot;,&quot;word&quot;:&quot;Такигава Юми&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;多岐川 裕美&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たきがわ ゆみ&quot;,&quot;transliteration&quot;:&quot;takigawa yumi&quot;},{&quot;translateID&quot;:1072121,&quot;translationStatus&quot;:0,&quot;themeID&quot;:5,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;人名&quot;,&quot;word&quot;:&quot;Фукава Юми&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;府川 唯未&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふかわ ゆみ&quot;,&quot;transliteration&quot;:&quot;fukawa yumi&quot;},{&quot;translateID&quot;:1047236,&quot;translationStatus&quot;:0,&quot;themeID&quot;:5,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;人名&quot;,&quot;word&quot;:&quot;Ида Юми&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;井田 由美&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いだ ゆみ&quot;,&quot;transliteration&quot;:&quot;ida yumi&quot;},{&quot;translateID&quot;:1056267,&quot;translationStatus&quot;:0,&quot;themeID&quot;:5,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;人名&quot;,&quot;word&quot;:&quot;Ямаока Юми&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;山岡 有美&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;やまおか ゆみ&quot;,&quot;transliteration&quot;:&quot;yamaoka yumi&quot;},{&quot;translateID&quot;:1059996,&quot;translationStatus&quot;:0,&quot;themeID&quot;:5,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;人名&quot;,&quot;word&quot;:&quot;Мацутоя Юми&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;松任谷 由実&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まつとうや ゆみ&quot;,&quot;transliteration&quot;:&quot;matsutouya yumi&quot;},{&quot;translateID&quot;:1064821,&quot;translationStatus&quot;:0,&quot;themeID&quot;:5,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;人名&quot;,&quot;word&quot;:&quot;Тада Юми&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;多田 由美&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ただ ゆみ&quot;,&quot;transliteration&quot;:&quot;tada yumi&quot;},{&quot;translateID&quot;:1073109,&quot;translationStatus&quot;:0,&quot;themeID&quot;:5,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;人名&quot;,&quot;word&quot;:&quot;Тоёдзаки Юми&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;豊崎 由美&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とよざき ゆみ&quot;,&quot;transliteration&quot;:&quot;toyozaki yumi&quot;},{&quot;translateID&quot;:1048252,&quot;translationStatus&quot;:0,&quot;themeID&quot;:5,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;人名&quot;,&quot;word&quot;:&quot;Окуяма Юми&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;奥山 由美&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おくやま ゆみ&quot;,&quot;transliteration&quot;:&quot;okuyama yumi&quot;},{&quot;translateID&quot;:1057390,&quot;translationStatus&quot;:0,&quot;themeID&quot;:5,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;人名&quot;,&quot;word&quot;:&quot;Итосэ Юми&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;糸瀬 裕美&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いとせ ゆみ&quot;,&quot;transliteration&quot;:&quot;itose yumi&quot;},{&quot;translateID&quot;:1063159,&quot;translationStatus&quot;:0,&quot;themeID&quot;:5,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;人名&quot;,&quot;word&quot;:&quot;Исихара Юми&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;石原 結實&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いしはら ゆうみ&quot;,&quot;transliteration&quot;:&quot;ishihara yuumi&quot;},{&quot;translateID&quot;:1069278,&quot;translationStatus&quot;:0,&quot;themeID&quot;:5,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;人名&quot;,&quot;word&quot;:&quot;Тома Юми&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;冬馬 由美&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とうま ゆみ&quot;,&quot;transliteration&quot;:&quot;touma yumi&quot;},{&quot;translateID&quot;:1075117,&quot;translationStatus&quot;:0,&quot;themeID&quot;:5,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;人名&quot;,&quot;word&quot;:&quot;Юми Каору&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;由美 かおる&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ゆみ かおる&quot;,&quot;transliteration&quot;:&quot;yumi kaoru&quot;},{&quot;translateID&quot;:1051346,&quot;translationStatus&quot;:0,&quot;themeID&quot;:5,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;人名&quot;,&quot;word&quot;:&quot;Юми Кэико&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;弓 恵子&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ゆみ けいこ&quot;,&quot;transliteration&quot;:&quot;yumi keiko&quot;},{&quot;translateID&quot;:1058036,&quot;translationStatus&quot;:0,&quot;themeID&quot;:5,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;人名&quot;,&quot;word&quot;:&quot;Акимото Юми&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;秋元 勇巳&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あきもと ゆうみ&quot;,&quot;transliteration&quot;:&quot;akimoto yuumi&quot;},{&quot;translateID&quot;:1063690,&quot;translationStatus&quot;:0,&quot;themeID&quot;:5,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;人名&quot;,&quot;word&quot;:&quot;Тида Юми&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;千田 由美&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちだ ゆみ&quot;,&quot;transliteration&quot;:&quot;chida yumi&quot;},{&quot;translateID&quot;:1070182,&quot;translationStatus&quot;:0,&quot;themeID&quot;:5,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;人名&quot;,&quot;word&quot;:&quot;Токунага Юми&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;徳永 有美&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とくなが ゆみ&quot;,&quot;transliteration&quot;:&quot;tokunaga yumi&quot;},{&quot;translateID&quot;:1075230,&quot;translationStatus&quot;:0,&quot;themeID&quot;:5,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;人名&quot;,&quot;word&quot;:&quot;Аикава Юми&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;藍川 由美&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あいかわ ゆみ&quot;,&quot;transliteration&quot;:&quot;aikawa yumi&quot;},{&quot;translateID&quot;:1051582,&quot;translationStatus&quot;:0,&quot;themeID&quot;:5,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;人名&quot;,&quot;word&quot;:&quot;Тамаи Юми&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;玉井 夕海&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たまい ゆうみ&quot;,&quot;transliteration&quot;:&quot;tamai yuumi&quot;},{&quot;translateID&quot;:1056321,&quot;translationStatus&quot;:0,&quot;themeID&quot;:5,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;人名&quot;,&quot;word&quot;:&quot;Ямасита Юми&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;山下 柚美&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;やました ゆみ&quot;,&quot;transliteration&quot;:&quot;yamashita yumi&quot;},{&quot;translateID&quot;:1061094,&quot;translationStatus&quot;:0,&quot;themeID&quot;:5,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;人名&quot;,&quot;word&quot;:&quot;Морио Юми &quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;森尾 由美&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;もりお ゆみ &quot;,&quot;transliteration&quot;:&quot;morio yumi &quot;},{&quot;translateID&quot;:1065721,&quot;translationStatus&quot;:0,&quot;themeID&quot;:5,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;人名&quot;,&quot;word&quot;:&quot;Ообэ Юми&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;大部 由美&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おおべ ゆみ&quot;,&quot;transliteration&quot;:&quot;oobe yumi&quot;},{&quot;translateID&quot;:1073779,&quot;translationStatus&quot;:0,&quot;themeID&quot;:5,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;人名&quot;,&quot;word&quot;:&quot;Асо Юми&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;麻生 祐未&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あそう ゆみ&quot;,&quot;transliteration&quot;:&quot;asou yumi&quot;},{&quot;translateID&quot;:1049056,&quot;translationStatus&quot;:0,&quot;themeID&quot;:5,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;人名&quot;,&quot;word&quot;:&quot;Утахана Юми&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;歌花 由美&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;うたはな ゆみ&quot;,&quot;transliteration&quot;:&quot;utahana yumi&quot;},{&quot;translateID&quot;:1056364,&quot;translationStatus&quot;:0,&quot;themeID&quot;:5,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;人名&quot;,&quot;word&quot;:&quot;Ямагата Юми&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;山形 由美&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;やまがた ゆみ&quot;,&quot;transliteration&quot;:&quot;yamagata yumi&quot;},{&quot;translateID&quot;:1061587,&quot;translationStatus&quot;:0,&quot;themeID&quot;:5,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;人名&quot;,&quot;word&quot;:&quot;Мидзуори Юми&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;水織 ゆみ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;みずおり ゆみ&quot;,&quot;transliteration&quot;:&quot;mizuori yumi&quot;},{&quot;translateID&quot;:1066169,&quot;translationStatus&quot;:0,&quot;themeID&quot;:5,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;人名&quot;,&quot;word&quot;:&quot;Танимура Юми&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;谷村 有美&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たにむら ゆみ&quot;,&quot;transliteration&quot;:&quot;tanimura yumi&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="юми" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

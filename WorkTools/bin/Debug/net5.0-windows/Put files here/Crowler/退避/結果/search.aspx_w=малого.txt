@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	малого - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,малого" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u043c%u0430%u043b%u043e%u0433%u043e" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV244Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNC80LDQu9C+0LPQvmQCAw9kFggCAg9kFgQCAQ8WAh4Dc3JjBQ8uLi9pbWcvbG9nby5wbmdkAgUPFgIeBGhyZWYFDi4uLz9sYW5nPXJ1LVJVZAIEDxYCHgdWaXNpYmxlZ2QCBg8WAh8DaGQCBw9kFghmDxYCHwNoZAIBDxYCHwNoZAICDxYCHwNoZAIFDxYCHwNoZGTlzmTvvGOBnW8z023Xp6ooKKQEYg==" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAVKYboU/abpCQK3o+/jAkqilIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/io5l52l0uAEfFgK8KefaxRkphZ7" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:false,&quot;Phrases&quot;:[{&quot;translateID&quot;:586709,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;газета малого формата&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;小型新聞&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こがたしんぶん&quot;,&quot;transliteration&quot;:&quot;kogatashinbun&quot;},{&quot;translateID&quot;:165607,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;эта компания начинала с малого&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;その会社は初めは小さいものでした&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そのかいしゃははじめはちいさいものでした&quot;,&quot;transliteration&quot;:&quot;sonokaishahahajimehachiisaimonodeshita&quot;},{&quot;translateID&quot;:586687,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;газета малого формата&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;小型の新聞&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こがたのしんぶん&quot;,&quot;transliteration&quot;:&quot;kogatanoshinbun&quot;},{&quot;translateID&quot;:587717,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;малого размера&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;小造り&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こづくり&quot;,&quot;transliteration&quot;:&quot;kodukuri&quot;},{&quot;translateID&quot;:788109,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;без малого&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;八九分&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はっくぶ&quot;,&quot;transliteration&quot;:&quot;hakkubu&quot;},{&quot;translateID&quot;:587545,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;из малого составляется большое&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;小積もって大となる&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょうつもってだいとなる&quot;,&quot;transliteration&quot;:&quot;shoutsumottedaitonaru&quot;},{&quot;translateID&quot;:576887,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;издание малого формата&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;縮刷版&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゅくさつばん&quot;,&quot;transliteration&quot;:&quot;shukusatsuban&quot;},{&quot;translateID&quot;:587385,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;малого размера&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;小振りの&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こぶりの&quot;,&quot;transliteration&quot;:&quot;koburino&quot;},{&quot;translateID&quot;:840005,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;малого роста&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;柄の小さい&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;がらのちいさい&quot;,&quot;transliteration&quot;:&quot;garanochiisai&quot;},{&quot;translateID&quot;:586313,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;без малого миля&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;小マイル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょうまいる&quot;,&quot;transliteration&quot;:&quot;shoumairu&quot;},{&quot;translateID&quot;:859683,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;без малого три тысячи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;殆ど三千&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほとんど3000&quot;,&quot;transliteration&quot;:&quot;hotondo3000&quot;},{&quot;translateID&quot;:586230,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;начинать с малого&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;小さく始める&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちいさくはじめる&quot;,&quot;transliteration&quot;:&quot;chiisakuhajimeru&quot;},{&quot;translateID&quot;:674035,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;без малого&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;足らず&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たらず&quot;,&quot;transliteration&quot;:&quot;tarazu&quot;},{&quot;translateID&quot;:120364,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Список звёзд созвездия Малого Льва&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;こじし座の恒星の一覧&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こじしざのこうせいのいちらん&quot;,&quot;transliteration&quot;:&quot;kojishizanokouseinoichiran&quot;},{&quot;translateID&quot;:587193,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;без малого час&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;小時間&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょうじかん&quot;,&quot;transliteration&quot;:&quot;shoujikan&quot;},{&quot;translateID&quot;:120363,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;46 Малого Льва&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;こじし座46番星&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こじしざ46ばんほし&quot;,&quot;transliteration&quot;:&quot;kojishiza46banhoshi&quot;},{&quot;translateID&quot;:587078,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;большое начинается с малого&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;小事は大事&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょうじはだいじ&quot;,&quot;transliteration&quot;:&quot;shoujihadaiji&quot;},{&quot;translateID&quot;:118527,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Список звёзд созвездия Малого Коня&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;こうま座の恒星の一覧&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうまざのこうせいのいちらん&quot;,&quot;transliteration&quot;:&quot;koumazanokouseinoichiran&quot;},{&quot;translateID&quot;:586975,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;малого размера&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;小作り&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こづくり&quot;,&quot;transliteration&quot;:&quot;kodukuri&quot;},{&quot;translateID&quot;:118347,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Список звёзд созвездия Малого Пса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;こいぬ座の恒星の一覧&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こいぬざのこうせいのいちらん&quot;,&quot;transliteration&quot;:&quot;koinuzanokouseinoichiran&quot;},{&quot;translateID&quot;:586782,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;созвездие Малого Пса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;小犬座&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こいぬざ&quot;,&quot;transliteration&quot;:&quot;koinuza&quot;},{&quot;translateID&quot;:698030,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;крыло малого удлинения&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;短翼&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たんつばさ&quot;,&quot;transliteration&quot;:&quot;tantsubasa&quot;},{&quot;translateID&quot;:725619,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;жиклёр малого газа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;低速ジェット&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ていそくじぇっと&quot;,&quot;transliteration&quot;:&quot;teisokujetto&quot;},{&quot;translateID&quot;:276246,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;отвод малого радиуса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;めすおす肘接手&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;めすおすひじせって&quot;,&quot;transliteration&quot;:&quot;mesuosuhijisette&quot;},{&quot;translateID&quot;:821857,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;тяга на режиме малого газа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;付帯スラスト&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふたいすらすと&quot;,&quot;transliteration&quot;:&quot;futaisurasuto&quot;},{&quot;translateID&quot;:155254,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;отвод малого радиуса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ストリートエルボ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;すとりーとえるぼ&quot;,&quot;transliteration&quot;:&quot;sutori:toerubo&quot;},{&quot;translateID&quot;:586784,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;созвездие Малого Пса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;小犬座&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こいぬざ&quot;,&quot;transliteration&quot;:&quot;koinuza&quot;},{&quot;translateID&quot;:120362,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;созвездие Малого Льва&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;こじし座&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こじしざ&quot;,&quot;transliteration&quot;:&quot;kojishiza&quot;},{&quot;translateID&quot;:435931,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;сила малого радиуса действия&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;近距離力&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きんきょりりょく&quot;,&quot;transliteration&quot;:&quot;kinkyoriryoku&quot;},{&quot;translateID&quot;:646743,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;метод малого параметра&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;摂動理論&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せつどうりろん&quot;,&quot;transliteration&quot;:&quot;setsudouriron&quot;},{&quot;translateID&quot;:587053,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;созвездие Малого Льва&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;小獅子座&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょうししざ&quot;,&quot;transliteration&quot;:&quot;shoushishiza&quot;},{&quot;translateID&quot;:586743,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;труба малого диаметра&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;小径管&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょうけいかん&quot;,&quot;transliteration&quot;:&quot;shoukeikan&quot;},{&quot;translateID&quot;:84820,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;отвод малого радиуса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;おすめすエルボ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おすめすえるぼ&quot;,&quot;transliteration&quot;:&quot;osumesuerubo&quot;},{&quot;translateID&quot;:451646,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;материал малого сечения или тонкого профиля&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;軽材料&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けいざいりょう&quot;,&quot;transliteration&quot;:&quot;keizairyou&quot;},{&quot;translateID&quot;:587445,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;борозда малого каменистого нерва&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;小錐体神経溝&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょうすいたいしんけいこう&quot;,&quot;transliteration&quot;:&quot;shousuitaishinkeikou&quot;},{&quot;translateID&quot;:587985,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;зрачок чрезмерно малого размера&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;小瞳孔症&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょうどうこうしょう&quot;,&quot;transliteration&quot;:&quot;shoudoukoushou&quot;},{&quot;translateID&quot;:725562,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;синдром малого сердечного выброса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;低心拍出量症候群&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ていしんぱくしゅつりょうしょうこうぐん&quot;,&quot;transliteration&quot;:&quot;teishinpakushutsuryoushoukougun&quot;},{&quot;translateID&quot;:472383,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;уплотнение тканей малого таза&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;固着骨盤&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こちゃくこつばん&quot;,&quot;transliteration&quot;:&quot;kochakukotsuban&quot;},{&quot;translateID&quot;:782673,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;гипертензия малого круга кровообращения&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;肺高血圧症&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はいこうけつあつしょう&quot;,&quot;transliteration&quot;:&quot;haikouketsuatsushou&quot;},{&quot;translateID&quot;:588015,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;почечная ветвь малого внутренностного нерва&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;小内臓神経の腎枝&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょうないぞうしんけいのじんし&quot;,&quot;transliteration&quot;:&quot;shounaizoushinkeinojinshi&quot;},{&quot;translateID&quot;:587444,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;расщелина канала малого каменистого нерва&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;小錐体神経管裂孔&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょうすいたいしんけいかんれっこう&quot;,&quot;transliteration&quot;:&quot;shousuitaishinkeikanrekkou&quot;},{&quot;translateID&quot;:587431,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;хрусталик глаза чрезмерно малого размера&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;小水晶体&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょうすいしょうたい&quot;,&quot;transliteration&quot;:&quot;shousuishoutai&quot;},{&quot;translateID&quot;:587203,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ушные раковины чрезмерно малого размера&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;小耳症&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょうじしょう&quot;,&quot;transliteration&quot;:&quot;shoujishou&quot;},{&quot;translateID&quot;:586461,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;роговица чрезмерно малого диаметра&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;小角膜症&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょうかくまくしょう&quot;,&quot;transliteration&quot;:&quot;shoukakumakushou&quot;},{&quot;translateID&quot;:586855,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;тонзиллярные ветви малого небного нерва&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;小口蓋神経の扁桃枝&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょうこうがいしんけいのへんとうし&quot;,&quot;transliteration&quot;:&quot;shoukougaishinkeinohentoushi&quot;},{&quot;translateID&quot;:586772,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;гребень малого бугорка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;小結節稜&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょうけっせつりょう&quot;,&quot;transliteration&quot;:&quot;shoukessetsuryou&quot;},{&quot;translateID&quot;:760213,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;внутренний орган необычно малого размера&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;内臓矮小症&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ないぞうわいしょうしょう&quot;,&quot;transliteration&quot;:&quot;naizouwaishoushou&quot;},{&quot;translateID&quot;:393839,&quot;translationStatus&quot;:0,&quot;themeID&quot;:225,&quot;groupName&quot;:&quot;人文&quot;,&quot;themeName&quot;:&quot;航空&quot;,&quot;word&quot;:&quot;посадка на режиме малого газа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;緩速出力&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かんそくしゅつりょく&quot;,&quot;transliteration&quot;:&quot;kansokushutsuryoku&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="малого" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

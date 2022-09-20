@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	восточная - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,восточная" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u0432%u043e%u0441%u0442%u043e%u0447%u043d%u0430%u044f" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV844Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNCy0L7RgdGC0L7Rh9C90LDRj2QCAw9kFggCAg9kFgQCAQ8WAh4Dc3JjBQ8uLi9pbWcvbG9nby5wbmdkAgUPFgIeBGhyZWYFDi4uLz9sYW5nPXJ1LVJVZAIEDxYCHgdWaXNpYmxlZ2QCBg8WAh8DaGQCBw9kFghmDxYCHwNoZAIBDxYCHwNoZAICDxYCHwNoZAIFDxYCHwNoZGRYBT1rIXxk96/7vHFBsDlAc47Adg==" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAWihTvxa11aBH6ExwLgYXldlIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/ugqEKCX0p8Tfks9M4IlHloKAmfg" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:true,&quot;Phrases&quot;:[{&quot;translateID&quot;:132671,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;скумбрия восточная&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;サバ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さば&quot;,&quot;transliteration&quot;:&quot;saba&quot;},{&quot;translateID&quot;:707062,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Восточная линия Тюо&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中央東線&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅうおうひがしせん&quot;,&quot;transliteration&quot;:&quot;chuuouhigashisen&quot;},{&quot;translateID&quot;:744143,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Восточная Азия&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;東アジア&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひがしあじあ&quot;,&quot;transliteration&quot;:&quot;higashiajia&quot;},{&quot;translateID&quot;:744218,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Восточная Новая Британия&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;東ニューブリテン州&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひがしにゅーぶりてんしゅう&quot;,&quot;transliteration&quot;:&quot;higashinyu:buritenshuu&quot;},{&quot;translateID&quot;:744593,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;восточная долгота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;東経&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とうけい&quot;,&quot;transliteration&quot;:&quot;toukei&quot;},{&quot;translateID&quot;:744754,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Восточная Антарктида&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;東南極&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とうなんきょく&quot;,&quot;transliteration&quot;:&quot;tounankyoku&quot;},{&quot;translateID&quot;:744963,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Восточная философия&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;東洋哲学&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とうようてつがく&quot;,&quot;transliteration&quot;:&quot;touyoutetsugaku&quot;},{&quot;translateID&quot;:88583,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;восточная дроздовидная камышовка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;お葦切り&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;およしきり&quot;,&quot;transliteration&quot;:&quot;oyoshikiri&quot;},{&quot;translateID&quot;:539099,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;туя восточная&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;糸杉&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いとすぎ&quot;,&quot;transliteration&quot;:&quot;itosugi&quot;},{&quot;translateID&quot;:744140,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;восточная часть о-ва Хонсю&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;東&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あずま&quot;,&quot;transliteration&quot;:&quot;azuma&quot;},{&quot;translateID&quot;:744184,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Восточная Финляндия&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;東スオミ州&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひがしすおみしゅう&quot;,&quot;transliteration&quot;:&quot;higashisuomishuu&quot;},{&quot;translateID&quot;:744581,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;восточная граница&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;東境&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とうきょう&quot;,&quot;transliteration&quot;:&quot;toukyou&quot;},{&quot;translateID&quot;:744731,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Восточная Германия&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;東独&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とうどく&quot;,&quot;transliteration&quot;:&quot;toudoku&quot;},{&quot;translateID&quot;:744901,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;восточная сторона&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;東面&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とうめん&quot;,&quot;transliteration&quot;:&quot;toumen&quot;},{&quot;translateID&quot;:496387,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;восточная форель&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;香魚&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あゆ&quot;,&quot;transliteration&quot;:&quot;ayu&quot;},{&quot;translateID&quot;:84726,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Восточная марка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;オストマルク&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おすとまるく&quot;,&quot;transliteration&quot;:&quot;osutomaruku&quot;},{&quot;translateID&quot;:348018,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;восточная горная трясогузка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;黄鶺鴒&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きせきれい&quot;,&quot;transliteration&quot;:&quot;kisekirei&quot;},{&quot;translateID&quot;:544783,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;туя восточная&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;児の手柏&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;このてがしわ&quot;,&quot;transliteration&quot;:&quot;konotegashiwa&quot;},{&quot;translateID&quot;:744183,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Восточная Ява&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;東ジャワ州&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひがしじゃわしゅう&quot;,&quot;transliteration&quot;:&quot;higashijawashuu&quot;},{&quot;translateID&quot;:744307,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;восточная часть Японии&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;東海&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とうかい&quot;,&quot;transliteration&quot;:&quot;toukai&quot;},{&quot;translateID&quot;:744722,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;восточная столица&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;東都&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とうと&quot;,&quot;transliteration&quot;:&quot;touto&quot;},{&quot;translateID&quot;:744857,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;восточная страна&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;東邦&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とうほう&quot;,&quot;transliteration&quot;:&quot;touhou&quot;},{&quot;translateID&quot;:190042,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Германская Восточная Африка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ドイツ領東アフリカ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;どいつりょうひがしあふりか&quot;,&quot;transliteration&quot;:&quot;doitsuryouhigashiafurika&quot;},{&quot;translateID&quot;:84725,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Саксонская Восточная марка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;オストマルク&quot;,&quot;translationnote&quot;:&quot;ザクセン&quot;,&quot;reading&quot;:&quot;おすとまるく&quot;,&quot;transliteration&quot;:&quot;osutomaruku&quot;},{&quot;translateID&quot;:859025,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Китайская Восточная железная дорога&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;北満鉄道&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きたみつるてつどう&quot;,&quot;transliteration&quot;:&quot;kitamitsurutetsudou&quot;},{&quot;translateID&quot;:114100,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Восточная рифовая цапля&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;クロサギ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;くろさぎ&quot;,&quot;transliteration&quot;:&quot;kurosagi&quot;},{&quot;translateID&quot;:744180,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Восточная Сибирь - Тихий океан&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;東シベリア・太平洋石油パイプライン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひがししべりあ・たいへいようせきゆぱいぷらいん&quot;,&quot;transliteration&quot;:&quot;higashishiberia・taiheiyousekiyupaipurain&quot;},{&quot;translateID&quot;:744296,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Восточная Европа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;東欧&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とうおう&quot;,&quot;transliteration&quot;:&quot;touou&quot;},{&quot;translateID&quot;:744717,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;восточная половина неба&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;東天&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とうてん&quot;,&quot;transliteration&quot;:&quot;touten&quot;},{&quot;translateID&quot;:744853,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Восточная жемчужина&quot;,&quot;wordnote&quot;:&quot;телебашня&quot;,&quot;translation&quot;:&quot;東方明珠電視塔&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とうほうあきらたまでんしとう&quot;,&quot;transliteration&quot;:&quot;touhouakiratamadenshitou&quot;},{&quot;translateID&quot;:91981,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Хурма восточная&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;カキノキ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かきのき&quot;,&quot;transliteration&quot;:&quot;kakinoki&quot;},{&quot;translateID&quot;:774747,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;форель восточная&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;年魚&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あゆ&quot;,&quot;transliteration&quot;:&quot;ayu&quot;},{&quot;translateID&quot;:313061,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;восточная форель&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;鮎&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あゆ&quot;,&quot;transliteration&quot;:&quot;ayu&quot;},{&quot;translateID&quot;:475382,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;восточная часть о-ва Хонсю&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;吾妻&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あずま&quot;,&quot;transliteration&quot;:&quot;azuma&quot;},{&quot;translateID&quot;:744151,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Восточная Анатолия&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;東アナトリア地方&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひがしあなとりあちほう&quot;,&quot;transliteration&quot;:&quot;higashianatoriachihou&quot;},{&quot;translateID&quot;:744235,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Восточная Македония и Фракия&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;東マケドニア・トラキア&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひがしまけどにあ・とらきあ&quot;,&quot;transliteration&quot;:&quot;higashimakedonia・torakia&quot;},{&quot;translateID&quot;:744612,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;восточная страна&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;東国&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とうごく&quot;,&quot;transliteration&quot;:&quot;tougoku&quot;},{&quot;translateID&quot;:744769,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;восточная часть&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;東部&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とうぶ&quot;,&quot;transliteration&quot;:&quot;toubu&quot;},{&quot;translateID&quot;:744985,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Восточная Вэй&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;東魏&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひがしぎ&quot;,&quot;transliteration&quot;:&quot;higashigi&quot;},{&quot;translateID&quot;:774746,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;восточная форель&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;年魚&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あゆ&quot;,&quot;transliteration&quot;:&quot;ayu&quot;},{&quot;translateID&quot;:199308,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;бельдюга восточная удлинённая&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;なががじ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なががじ&quot;,&quot;transliteration&quot;:&quot;nagagaji&quot;},{&quot;translateID&quot;:707738,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Восточная кухня&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中近東の食文化&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅうきんとうのしょくぶんか&quot;,&quot;transliteration&quot;:&quot;chuukintounoshokubunka&quot;},{&quot;translateID&quot;:744150,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Восточная Аттика&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;東アッティカ県&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひがしあってぃかけん&quot;,&quot;transliteration&quot;:&quot;higashiatteぃkaken&quot;},{&quot;translateID&quot;:744231,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Восточная Пруссия&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;東プロイセン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひがしぷろいせん&quot;,&quot;transliteration&quot;:&quot;higashipuroisen&quot;},{&quot;translateID&quot;:744610,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;восточная окраина города&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;東郊&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とうこう&quot;,&quot;transliteration&quot;:&quot;toukou&quot;},{&quot;translateID&quot;:744761,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;восточная половина&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;東半&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とうはん&quot;,&quot;transliteration&quot;:&quot;touhan&quot;},{&quot;translateID&quot;:744972,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Восточная библиотека&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;東洋文庫&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とうようぶんこ&quot;,&quot;transliteration&quot;:&quot;touyoubunko&quot;},{&quot;translateID&quot;:377038,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;хурма восточная&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;柿&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かき&quot;,&quot;transliteration&quot;:&quot;kaki&quot;},{&quot;translateID&quot;:728300,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;хурма восточная&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;梯&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かき&quot;,&quot;transliteration&quot;:&quot;kaki&quot;},{&quot;translateID&quot;:925596,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;восточная медведка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;螻蛄&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けら&quot;,&quot;transliteration&quot;:&quot;kera&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="восточная" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

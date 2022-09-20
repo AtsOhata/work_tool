@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	длинные - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,длинные" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u0434%u043b%u0438%u043d%u043d%u044b%u0435" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV444Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNC00LvQuNC90L3Ri9C1ZAIDD2QWCAICD2QWBAIBDxYCHgNzcmMFDy4uL2ltZy9sb2dvLnBuZ2QCBQ8WAh4EaHJlZgUOLi4vP2xhbmc9cnUtUlVkAgQPFgIeB1Zpc2libGVnZAIGDxYCHwNoZAIHD2QWCGYPFgIfA2hkAgEPFgIfA2hkAgIPFgIfA2hkAgUPFgIfA2hkZPUkKrwiRdnQTa+R4KmAynNQPkau" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAUqcJeiJfoWItNVu6EoTCZVlIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/sk5OB5gQ75gWOre4vcOX2FKDb+Q" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:true,&quot;Phrases&quot;:[{&quot;translateID&quot;:640400,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;На таможне будут длинные очереди.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;税関では長い列が出来ているだろう。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぜいかんではながいれつができているだろう。&quot;,&quot;transliteration&quot;:&quot;zeikandehanagairetsugadekiteirudarou。&quot;},{&quot;translateID&quot;:717866,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;длинные рукава&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;長袖&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ながそで&quot;,&quot;transliteration&quot;:&quot;nagasode&quot;},{&quot;translateID&quot;:801608,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Её волосы длинные и красивые.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;彼女の髪の毛は長くて美しい。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かのじょのかみのけはながくてうつくしい。&quot;,&quot;transliteration&quot;:&quot;kanojonokaminokehanagakuteutsukushii。&quot;},{&quot;translateID&quot;:306373,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Длинные юбки сейчас не в моде.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ロングスカートは流行ってないよ。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ろんぐすかーとははやってないよ。&quot;,&quot;transliteration&quot;:&quot;rongusuka:tohahayattenaiyo。&quot;},{&quot;translateID&quot;:717765,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;длинные волны&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;長周波&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちょうしゅうは&quot;,&quot;transliteration&quot;:&quot;choushuuha&quot;},{&quot;translateID&quot;:797532,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;У него длинные ноги.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;彼の足は長い。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かれのあしはながい。&quot;,&quot;transliteration&quot;:&quot;karenoashihanagai。&quot;},{&quot;translateID&quot;:306355,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;длинные волосы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ロング・ヘア&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ろんぐ・へあ&quot;,&quot;transliteration&quot;:&quot;rongu・hea&quot;},{&quot;translateID&quot;:717745,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;длинные перчатки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;長手袋&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ながてぶくろ&quot;,&quot;transliteration&quot;:&quot;nagatebukuro&quot;},{&quot;translateID&quot;:535905,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;У меня самые длинные волосы в классе.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;私の髪はクラスで一番長い。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;わたしのかみはくらすでいちばんながい。&quot;,&quot;transliteration&quot;:&quot;watashinokamihakurasudeichibannagai。&quot;},{&quot;translateID&quot;:579444,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;в весенние длинные дни&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;春の日長に&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はるのひながに&quot;,&quot;transliteration&quot;:&quot;harunohinagani&quot;},{&quot;translateID&quot;:717565,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;длинные чулки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;長靴下&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ながくつした&quot;,&quot;transliteration&quot;:&quot;nagakutsushita&quot;},{&quot;translateID&quot;:717124,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Длинные юбки в моде.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;長いスカートが大変流行している。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ながいすかーとがたいへんりゅうこうしている。&quot;,&quot;transliteration&quot;:&quot;nagaisuka:togataihenryuukoushiteiru。&quot;},{&quot;translateID&quot;:740334,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;длинные уши&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;兎耳&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;うさぎみみ&quot;,&quot;transliteration&quot;:&quot;usagimimi&quot;},{&quot;translateID&quot;:717511,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Одиночество бегуна на длинные дистанции&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;長距離ランナーの孤独&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちょうきょりらんなーのこどく&quot;,&quot;transliteration&quot;:&quot;choukyoriranna:nokodoku&quot;},{&quot;translateID&quot;:718013,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;длинные волны&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;長波&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちょうは&quot;,&quot;transliteration&quot;:&quot;chouha&quot;},{&quot;translateID&quot;:914959,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;длинные уши&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;兔耳&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;うさぎみみ&quot;,&quot;transliteration&quot;:&quot;usagimimi&quot;},{&quot;translateID&quot;:570531,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;в длинные осенние ночи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;秋の夜長に&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あきのよながに&quot;,&quot;transliteration&quot;:&quot;akinoyonagani&quot;},{&quot;translateID&quot;:347150,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;У королей длинные руки.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;王の腕は長い。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おうのうではながい。&quot;,&quot;transliteration&quot;:&quot;ounoudehanagai。&quot;},{&quot;translateID&quot;:717867,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;длинные рукава&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;長袖&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちょうしゅう&quot;,&quot;transliteration&quot;:&quot;choushuu&quot;},{&quot;translateID&quot;:802299,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;В прошлом году у нее были длинные волосы.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;彼女は去年、長い髪をしていた。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かのじょはきょねん、ながいかみをしていた。&quot;,&quot;transliteration&quot;:&quot;kanojohakyonen、nagaikami o shiteita。&quot;},{&quot;translateID&quot;:802618,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;У неё длинные руки и ноги.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;彼女は手も足も長い。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かのじょはてもあしもながい。&quot;,&quot;transliteration&quot;:&quot;kanojohatemoashimonagai。&quot;},{&quot;translateID&quot;:717531,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Бегуны на длинные дистанции&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;長距離走の選手&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちょうきょりそうのせんしゅ&quot;,&quot;transliteration&quot;:&quot;choukyorisounosenshu&quot;},{&quot;translateID&quot;:655349,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;длинные тонкие ломтики&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;繊切り&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せんぎり&quot;,&quot;transliteration&quot;:&quot;sengiri&quot;},{&quot;translateID&quot;:689227,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;длинные ноги&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;大足&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おうあし&quot;,&quot;transliteration&quot;:&quot;ouashi&quot;},{&quot;translateID&quot;:717530,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Бег на длинные дистанции&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;長距離走&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちょうきょりそう&quot;,&quot;transliteration&quot;:&quot;choukyorisou&quot;},{&quot;translateID&quot;:72075,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;У кролика длинные уши.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;うさぎの耳は長い。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;うさぎのみみはながい。&quot;,&quot;transliteration&quot;:&quot;usaginomimihanagai。&quot;},{&quot;translateID&quot;:269652,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;У Марии длинные волосы.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;マリアさんの髪は長いです。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まりあさんのかみはながいです。&quot;,&quot;transliteration&quot;:&quot;mariasannokamihanagaidesu。&quot;},{&quot;translateID&quot;:717528,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;бегун на длинные дистанции&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;長距離選手&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちょうきょりせんしゅ&quot;,&quot;transliteration&quot;:&quot;choukyorisenshu&quot;},{&quot;translateID&quot;:718027,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;длинные волосы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;長髪&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちょうはつ&quot;,&quot;transliteration&quot;:&quot;chouhatsu&quot;},{&quot;translateID&quot;:862252,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;У моей сестры длинные ноги.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;妹は足が長い。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いもうとはあしがながい。&quot;,&quot;transliteration&quot;:&quot;imoutohaashiganagai。&quot;},{&quot;translateID&quot;:717521,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;бег на длинные дистанции&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;長距離競走&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちょうきょりきょうそう&quot;,&quot;transliteration&quot;:&quot;choukyorikyousou&quot;},{&quot;translateID&quot;:718022,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;длинные волны&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;長波長&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちょうはちょう&quot;,&quot;transliteration&quot;:&quot;chouhachou&quot;},{&quot;translateID&quot;:928287,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;длинные висячие усы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;鯰髭&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なまずひげ&quot;,&quot;transliteration&quot;:&quot;namazuhige&quot;},{&quot;translateID&quot;:665611,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;Длинные сигналы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;操作音 長&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そうさおん ちょう&quot;,&quot;transliteration&quot;:&quot;sousaon chou&quot;},{&quot;translateID&quot;:836786,&quot;translationStatus&quot;:0,&quot;themeID&quot;:8,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;インターネット&quot;,&quot;word&quot;:&quot;Слишком длинные строки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;文字数の長い行&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;もじすうのながいぎょう&quot;,&quot;transliteration&quot;:&quot;mojisuunonagaigyou&quot;},{&quot;translateID&quot;:105356,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;длинные волны&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;キロメートル波&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きろめーとるは&quot;,&quot;transliteration&quot;:&quot;kirome:toruha&quot;},{&quot;translateID&quot;:306391,&quot;translationStatus&quot;:0,&quot;themeID&quot;:11,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;プログラミング&quot;,&quot;word&quot;:&quot;длинные имена файлов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ロングファイルネームを使う&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ろんぐふぁいるねーむをつかう&quot;,&quot;transliteration&quot;:&quot;rongufairune:mu o tsukau&quot;},{&quot;translateID&quot;:717464,&quot;translationStatus&quot;:0,&quot;themeID&quot;:82,&quot;groupName&quot;:&quot;物理&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;длинные волны&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;長期波動&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちょうきはどう&quot;,&quot;transliteration&quot;:&quot;choukihadou&quot;},{&quot;translateID&quot;:232288,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;разрезание плёночного полотна на длинные полоски&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;フィルムスリッチング&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふぃるむすりっちんぐ&quot;,&quot;transliteration&quot;:&quot;firumusuricchingu&quot;},{&quot;translateID&quot;:718123,&quot;translationStatus&quot;:0,&quot;themeID&quot;:125,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;外科&quot;,&quot;word&quot;:&quot;длинные ресничные нервы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;長毛様体神経&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちょうもうようたいしんけい&quot;,&quot;transliteration&quot;:&quot;choumouyoutaishinkei&quot;},{&quot;translateID&quot;:687316,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;патологически длинные ноги&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;大下腿症&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;だいかたいしょう&quot;,&quot;transliteration&quot;:&quot;daikataishou&quot;},{&quot;translateID&quot;:570978,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;длинные ассоциативные волокна конечного мозга&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;終脳の長連合線維&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゅうのうのちょうれんごうせんい&quot;,&quot;transliteration&quot;:&quot;shuunounochourengouseni&quot;},{&quot;translateID&quot;:351583,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;длинные кости нижней конечности&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;下肢の長骨&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かしのちょうこつ&quot;,&quot;transliteration&quot;:&quot;kashinochoukotsu&quot;},{&quot;translateID&quot;:766369,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;задние длинные ресничные артерии&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;虹彩動脈&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうさいどうみゃく&quot;,&quot;transliteration&quot;:&quot;kousaidoumyaku&quot;},{&quot;translateID&quot;:718188,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;длинные ассоциативные волокна&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;長連合線維&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちょうれんごうせんい&quot;,&quot;transliteration&quot;:&quot;chourengouseni&quot;},{&quot;translateID&quot;:688450,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;чрезмерно длинные конечности&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;大肢症&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;だいししょう&quot;,&quot;transliteration&quot;:&quot;daishishou&quot;},{&quot;translateID&quot;:718206,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;длинные мышцы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;長肋骨拳筋&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちょうろっこつきょきん&quot;,&quot;transliteration&quot;:&quot;chourokkotsukyokin&quot;},{&quot;translateID&quot;:422066,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;чрезмерно длинные пальцы рук и ног&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;巨指&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きょし&quot;,&quot;transliteration&quot;:&quot;kyoshi&quot;},{&quot;translateID&quot;:595897,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;длинные кости верхней конечности&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;上肢の長骨&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じょうしのちょうこつ&quot;,&quot;transliteration&quot;:&quot;joushinochoukotsu&quot;},{&quot;translateID&quot;:717129,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;длинные ресницы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;長いまつげ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ながいまつげ&quot;,&quot;transliteration&quot;:&quot;nagaimatsuge&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="длинные" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

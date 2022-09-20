@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	руководитель - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,руководитель" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u0440%u0443%u043a%u043e%u0432%u043e%u0434%u0438%u0442%u0435%u043b%u044c" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAWCAeODreOCt+OCouiqnizml6XmnKzoqp4s44Kq44Oz44Op44Kk44OzLOi+nuabuCzovp7lhbgs5ZKM6ZyyLOe/u+iosyzjg63jgrfjgqLoqp7oqLMs44Ot44K344Ki6Kqe44GnLOmcsuiosyzRgNGD0LrQvtCy0L7QtNC40YLQtdC70YxkAgMPZBYIAgIPZBYEAgEPFgIeA3NyYwUPLi4vaW1nL2xvZ28ucG5nZAIFDxYCHgRocmVmBQ4uLi8/bGFuZz1ydS1SVWQCBA8WAh4HVmlzaWJsZWdkAgYPFgIfA2hkAgcPZBYIZg8WAh8DaGQCAQ8WAh8DaGQCAg8WAh8DaGQCBQ8WAh8DaGRkUPiDJvj2bKGp2mXZu6eTgy47oxM=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAXTA/HSEfI0wrLym5c30FtJlIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/hir79WkYULqPHCvDma+Wj2U31+c" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[{&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;words&quot;:[{&quot;translateID&quot;:183168,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;руководитель&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ディレクター&quot;,&quot;reading&quot;:&quot;でぃれくたー&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;direkuta:&quot;},{&quot;translateID&quot;:251095,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;руководитель&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ヘッド&quot;,&quot;reading&quot;:&quot;へっど&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;heddo&quot;},{&quot;translateID&quot;:291372,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;руководитель&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;リーダー&quot;,&quot;reading&quot;:&quot;りーだー&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;ri:da:&quot;},{&quot;translateID&quot;:370217,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;руководитель&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;魁&quot;,&quot;reading&quot;:&quot;かい&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;kai&quot;},{&quot;translateID&quot;:422338,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;руководитель&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;巨頭&quot;,&quot;reading&quot;:&quot;おおあたま&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;ooatama&quot;},{&quot;translateID&quot;:428295,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;руководитель&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;教護官&quot;,&quot;reading&quot;:&quot;きょうごかん&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;kyougokan&quot;},{&quot;translateID&quot;:428478,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;руководитель&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;教導係&quot;,&quot;reading&quot;:&quot;きょうどうがかり&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;kyoudougakari&quot;},{&quot;translateID&quot;:448468,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;руководитель&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;経営者&quot;,&quot;reading&quot;:&quot;けいえいしゃ&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;keieisha&quot;},{&quot;translateID&quot;:514117,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;руководитель&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;宰領&quot;,&quot;reading&quot;:&quot;さいりょう&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;sairyou&quot;},{&quot;translateID&quot;:528557,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;руководитель&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;司&quot;,&quot;reading&quot;:&quot;つかさ&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;tsukasa&quot;},{&quot;translateID&quot;:531480,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;руководитель&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;師表&quot;,&quot;reading&quot;:&quot;しひょう&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;shihyou&quot;},{&quot;translateID&quot;:532216,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;руководитель&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;指揮者&quot;,&quot;reading&quot;:&quot;しきしゃ&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;shikisha&quot;},{&quot;translateID&quot;:532819,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;руководитель&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;指導者&quot;,&quot;reading&quot;:&quot;しどうしゃ&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;shidousha&quot;},{&quot;translateID&quot;:562137,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;руководитель&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;主動者&quot;,&quot;reading&quot;:&quot;しゅどうしゃ&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;shudousha&quot;},{&quot;translateID&quot;:562166,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;руководитель&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;主任&quot;,&quot;reading&quot;:&quot;しゅにん&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;shunin&quot;},{&quot;translateID&quot;:562185,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;руководитель&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;主脳&quot;,&quot;reading&quot;:&quot;しゅのう&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;shunou&quot;},{&quot;translateID&quot;:562191,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;руководитель&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;主脳者&quot;,&quot;reading&quot;:&quot;しゅのうしゃ&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;shunousha&quot;},{&quot;translateID&quot;:619899,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;руководитель&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;陣頭&quot;,&quot;reading&quot;:&quot;じんとう&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;jintou&quot;},{&quot;translateID&quot;:621470,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;руководитель&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;推進者&quot;,&quot;reading&quot;:&quot;すいしんしゃ&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;suishinsha&quot;},{&quot;translateID&quot;:668708,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;руководитель&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;総裁&quot;,&quot;reading&quot;:&quot;そうさい&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;sousai&quot;},{&quot;translateID&quot;:668796,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;руководитель&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;総帥&quot;,&quot;reading&quot;:&quot;そうすい&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;sousui&quot;},{&quot;translateID&quot;:669011,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;руководитель&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;総務&quot;,&quot;reading&quot;:&quot;そうむ&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;soumu&quot;},{&quot;translateID&quot;:669064,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;руководитель&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;総理&quot;,&quot;reading&quot;:&quot;そうり&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;souri&quot;},{&quot;translateID&quot;:689793,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;руководитель&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;大頭株&quot;,&quot;reading&quot;:&quot;おうあたまかぶ&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;ouatamakabu&quot;},{&quot;translateID&quot;:708768,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;руководитель&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中心人物&quot;,&quot;reading&quot;:&quot;ちゅうしんじんぶつ&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;chuushinjinbutsu&quot;},{&quot;translateID&quot;:745043,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;руководитель&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;棟梁&quot;,&quot;reading&quot;:&quot;とうりょう&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;touryou&quot;},{&quot;translateID&quot;:749751,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;руководитель&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;頭株&quot;,&quot;reading&quot;:&quot;あたまかぶ&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;atamakabu&quot;},{&quot;translateID&quot;:749817,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;руководитель&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;頭取&quot;,&quot;reading&quot;:&quot;とうどり&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;toudori&quot;},{&quot;translateID&quot;:750111,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;руководитель&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;頭目&quot;,&quot;reading&quot;:&quot;とうもく&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;toumoku&quot;},{&quot;translateID&quot;:566803,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;руководитель&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;首長&quot;,&quot;reading&quot;:&quot;しゅちょう&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;shuchou&quot;},{&quot;translateID&quot;:566839,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;руководитель&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;首脳&quot;,&quot;reading&quot;:&quot;しゅのう&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;shunou&quot;},{&quot;translateID&quot;:566848,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;руководитель&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;首脳者&quot;,&quot;reading&quot;:&quot;しゅのうしゃ&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;shunousha&quot;},{&quot;translateID&quot;:566858,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;руководитель&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;首班&quot;,&quot;reading&quot;:&quot;しゅはん&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;shuhan&quot;},{&quot;translateID&quot;:566891,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;руководитель&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;首領&quot;,&quot;reading&quot;:&quot;しゅりょう&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;shuryou&quot;},{&quot;translateID&quot;:575588,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;руководитель&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;重鎮&quot;,&quot;reading&quot;:&quot;じゅうちん&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;juuchin&quot;},{&quot;translateID&quot;:872633,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;руководитель&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;盟主&quot;,&quot;reading&quot;:&quot;めいしゅ&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;meishu&quot;},{&quot;translateID&quot;:876699,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;руководитель&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;木鐸&quot;,&quot;reading&quot;:&quot;ぼくたく&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;bokutaku&quot;},{&quot;translateID&quot;:928142,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;руководитель&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;驍将&quot;,&quot;reading&quot;:&quot;ぎょうしょう&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;gyoushou&quot;},{&quot;translateID&quot;:562281,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;руководитель&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;主謀&quot;,&quot;reading&quot;:&quot;しゅぼう&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;shubou&quot;},{&quot;translateID&quot;:562286,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;руководитель&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;主謀者&quot;,&quot;reading&quot;:&quot;しゅぼうしゃ&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;shubousha&quot;},{&quot;translateID&quot;:428263,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;руководитель&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;教官&quot;,&quot;reading&quot;:&quot;きょうかん&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;kyoukan&quot;},{&quot;translateID&quot;:291359,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;руководитель&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;リーダ&quot;,&quot;reading&quot;:&quot;りーだ&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;ri:da&quot;}]},{&quot;groupName&quot;:&quot;土木&quot;,&quot;themeName&quot;:&quot;基礎工学&quot;,&quot;words&quot;:[{&quot;translateID&quot;:335014,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;руководитель&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;運搬距離&quot;,&quot;reading&quot;:&quot;うんぱんきょり&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;unpankyori&quot;}]},{&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;words&quot;:[{&quot;translateID&quot;:315213,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;руководитель&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;案内書&quot;,&quot;reading&quot;:&quot;あんないしょ&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;annaisho&quot;}]},{&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;words&quot;:[{&quot;translateID&quot;:334126,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;руководитель&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;運営管理者&quot;,&quot;reading&quot;:&quot;うんえいかんりしゃ&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;uneikanrisha&quot;},{&quot;translateID&quot;:393262,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;руководитель&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;管理者&quot;,&quot;reading&quot;:&quot;かんりしゃ&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;kanrisha&quot;}]},{&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;寄生虫学&quot;,&quot;words&quot;:[{&quot;translateID&quot;:758249,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;руководитель&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;突起&quot;,&quot;reading&quot;:&quot;とっき&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;tokki&quot;}]},{&quot;groupName&quot;:&quot;経済&quot;,&quot;themeName&quot;:&quot;マクロ経済&quot;,&quot;words&quot;:[{&quot;translateID&quot;:595828,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;руководитель&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;上司 &quot;,&quot;reading&quot;:&quot;じょうし &quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;joushi &quot;}]}],&quot;topPhrases&quot;:[{&quot;translateID&quot;:532811,&quot;translationStatus&quot;:0,&quot;themeID&quot;:0,&quot;groupName&quot;:null,&quot;themeName&quot;:null,&quot;word&quot;:&quot;научный руководитель&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;指導教員&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しどうきょういん&quot;,&quot;transliteration&quot;:&quot;shidoukyouin&quot;},{&quot;translateID&quot;:544019,&quot;translationStatus&quot;:0,&quot;themeID&quot;:0,&quot;groupName&quot;:null,&quot;themeName&quot;:null,&quot;word&quot;:&quot;руководитель департамента&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;事業部長&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じぎょうぶちょう&quot;,&quot;transliteration&quot;:&quot;jigyoubuchou&quot;},{&quot;translateID&quot;:452444,&quot;translationStatus&quot;:0,&quot;themeID&quot;:0,&quot;groupName&quot;:null,&quot;themeName&quot;:null,&quot;word&quot;:&quot;художественный руководитель&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;芸術監督&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;げいじゅつかんとく&quot;,&quot;transliteration&quot;:&quot;geijutsukantoku&quot;},{&quot;translateID&quot;:108744,&quot;translationStatus&quot;:0,&quot;themeID&quot;:0,&quot;groupName&quot;:null,&quot;themeName&quot;:null,&quot;word&quot;:&quot;классный руководитель&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;クラス主任&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;くらすしゅにん&quot;,&quot;transliteration&quot;:&quot;kurasushunin&quot;},{&quot;translateID&quot;:422333,&quot;translationStatus&quot;:0,&quot;themeID&quot;:0,&quot;groupName&quot;:null,&quot;themeName&quot;:null,&quot;word&quot;:&quot;высший руководитель&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;巨頭&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きょとう&quot;,&quot;transliteration&quot;:&quot;kyotou&quot;},{&quot;translateID&quot;:634281,&quot;translationStatus&quot;:0,&quot;themeID&quot;:0,&quot;groupName&quot;:null,&quot;themeName&quot;:null,&quot;word&quot;:&quot;руководитель производства&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;生産部長&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せいさんぶちょう&quot;,&quot;transliteration&quot;:&quot;seisanbuchou&quot;},{&quot;translateID&quot;:778800,&quot;translationStatus&quot;:0,&quot;themeID&quot;:0,&quot;groupName&quot;:null,&quot;themeName&quot;:null,&quot;word&quot;:&quot;верховный руководитель&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;覇者&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はしゃ&quot;,&quot;transliteration&quot;:&quot;hasha&quot;},{&quot;translateID&quot;:668508,&quot;translationStatus&quot;:0,&quot;themeID&quot;:0,&quot;groupName&quot;:null,&quot;themeName&quot;:null,&quot;word&quot;:&quot;главный руководитель&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;総監督&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そうかんとく&quot;,&quot;transliteration&quot;:&quot;soukantoku&quot;},{&quot;translateID&quot;:878735,&quot;translationStatus&quot;:1,&quot;themeID&quot;:0,&quot;groupName&quot;:null,&quot;themeName&quot;:null,&quot;word&quot;:&quot;духовный руководитель&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;門跡&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;もんぜき&quot;,&quot;transliteration&quot;:&quot;monzeki&quot;},{&quot;translateID&quot;:656243,&quot;translationStatus&quot;:0,&quot;themeID&quot;:0,&quot;groupName&quot;:null,&quot;themeName&quot;:null,&quot;word&quot;:&quot;руководитель избирательного штаба&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;選挙対策委員長&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せんきょたいさくいいんちょう&quot;,&quot;transliteration&quot;:&quot;senkyotaisakuiinchou&quot;}],&quot;phrasesGroups&quot;:[{&quot;id&quot;:1,&quot;gid&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;count&quot;:21},{&quot;id&quot;:7,&quot;gid&quot;:2,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;count&quot;:1},{&quot;id&quot;:53,&quot;gid&quot;:5,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;count&quot;:1},{&quot;id&quot;:47,&quot;gid&quot;:5,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;count&quot;:2},{&quot;id&quot;:50,&quot;gid&quot;:5,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;金属&quot;,&quot;count&quot;:1},{&quot;id&quot;:92,&quot;gid&quot;:8,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;count&quot;:1},{&quot;id&quot;:129,&quot;gid&quot;:9,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;count&quot;:2},{&quot;id&quot;:177,&quot;gid&quot;:13,&quot;groupName&quot;:&quot;経済&quot;,&quot;themeName&quot;:&quot;マクロ経済&quot;,&quot;count&quot;:4},{&quot;id&quot;:184,&quot;gid&quot;:13,&quot;groupName&quot;:&quot;経済&quot;,&quot;themeName&quot;:&quot;会計&quot;,&quot;count&quot;:1},{&quot;id&quot;:185,&quot;gid&quot;:13,&quot;groupName&quot;:&quot;経済&quot;,&quot;themeName&quot;:&quot;金融&quot;,&quot;count&quot;:1},{&quot;id&quot;:200,&quot;gid&quot;:14,&quot;groupName&quot;:&quot;法律&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;count&quot;:1},{&quot;id&quot;:217,&quot;gid&quot;:15,&quot;groupName&quot;:&quot;人文&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;count&quot;:1},{&quot;id&quot;:202,&quot;gid&quot;:15,&quot;groupName&quot;:&quot;人文&quot;,&quot;themeName&quot;:&quot;芸術&quot;,&quot;count&quot;:2},{&quot;id&quot;:210,&quot;gid&quot;:15,&quot;groupName&quot;:&quot;人文&quot;,&quot;themeName&quot;:&quot;政治&quot;,&quot;count&quot;:1}],&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:false,&quot;Phrases&quot;:null}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="руководитель" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

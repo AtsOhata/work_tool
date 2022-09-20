@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	самому - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,самому" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u0441%u0430%u043c%u043e%u043c%u0443" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV244Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNGB0LDQvNC+0LzRg2QCAw9kFggCAg9kFgQCAQ8WAh4Dc3JjBQ8uLi9pbWcvbG9nby5wbmdkAgUPFgIeBGhyZWYFDi4uLz9sYW5nPXJ1LVJVZAIEDxYCHgdWaXNpYmxlZ2QCBg8WAh8DaGQCBw9kFghmDxYCHwNoZAIBDxYCHwNoZAICDxYCHwNoZAIFDxYCHwNoZGQuBqWETt0DNl8ErdpaGiCFn7qJCQ==" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAX1PGTHA7++54zm8+WnshcPlIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/gMz6UedqXdWjLKyY1h+ghqh2LCd" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:false,&quot;Phrases&quot;:[{&quot;translateID&quot;:552265,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;готовить самому себе&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;自分で煮焚きする&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じぶんでにだきする&quot;,&quot;transliteration&quot;:&quot;jibundenidakisuru&quot;},{&quot;translateID&quot;:757575,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;обязанный всем самому себе&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;独力で仕上げた人&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;どくりょくでしあげたひと&quot;,&quot;transliteration&quot;:&quot;dokuryokudeshiagetahito&quot;},{&quot;translateID&quot;:463854,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;видеть и слышать самому&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;見聞きする&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;みききする&quot;,&quot;transliteration&quot;:&quot;mikikisuru&quot;},{&quot;translateID&quot;:552102,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;вырыть яму самому себе&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;自縄自縛に陥る&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じじょうじばくにおちいる&quot;,&quot;transliteration&quot;:&quot;jijoujibakuniochiiru&quot;},{&quot;translateID&quot;:512279,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Вы должны приготовится к самому худшему.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;最悪の事態に対して覚悟しなければならない。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さいあくのじたいにたいしてかくごしなければならない。&quot;,&quot;transliteration&quot;:&quot;saiakunojitainitaishitekakugoshinakerebanaranai。&quot;},{&quot;translateID&quot;:407081,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;самому себя мучить&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;気を病む&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きをやむ&quot;,&quot;transliteration&quot;:&quot;ki o yamu&quot;},{&quot;translateID&quot;:550488,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;самому готовить&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;自炊する&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じすいする&quot;,&quot;transliteration&quot;:&quot;jisuisuru&quot;},{&quot;translateID&quot;:444570,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Теперь, когда ты повзрослел, тебе нужно самому искать средства для существования.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;君も成年したからには、自活の道を求めなければならぬ。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きみもせいねんしたからには、じかつのみちをもとめなければならぬ。&quot;,&quot;transliteration&quot;:&quot;kimimoseinenshitakaraniha、jikatsunomichi o motomenakerebanaranu。&quot;},{&quot;translateID&quot;:406876,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;самому себя мучить&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;気で気を病む&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きできをやむ&quot;,&quot;transliteration&quot;:&quot;kideki o yamu&quot;},{&quot;translateID&quot;:550441,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;К самому себе&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;自省録&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じせいろく&quot;,&quot;transliteration&quot;:&quot;jiseiroku&quot;},{&quot;translateID&quot;:46894,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Лучше тебе самому пойти.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;あなた自身が行った方がいいよ。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あなたじしんがいったかたがいいよ。&quot;,&quot;transliteration&quot;:&quot;anatajishingaittakatagaiiyo。&quot;},{&quot;translateID&quot;:535694,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;хотя мне самому и неудобно говорить&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;私の口から言うのはおかしいがあの子は天才だ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;わたしのくちからいうのはおかしいがあのこはてんさいだ&quot;,&quot;transliteration&quot;:&quot;watashinokuchikaraiunohaokashiigaanokohatensaida&quot;},{&quot;translateID&quot;:549542,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;самому зарабатывать на жизнь&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;自活する&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じかつする&quot;,&quot;transliteration&quot;:&quot;jikatsusuru&quot;},{&quot;translateID&quot;:552284,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;делать свои дела самому&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;自分のことは自分でする&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じぶんのことはじぶんでする&quot;,&quot;transliteration&quot;:&quot;jibunnokotohajibundesuru&quot;},{&quot;translateID&quot;:364230,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;мне самому стыдно&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;我ながら恥ずかしい&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;われながらはずかしい&quot;,&quot;transliteration&quot;:&quot;warenagarahazukashii&quot;},{&quot;translateID&quot;:898510,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;обязанного своим успехом в жизни самому себе&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;立志伝&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;りっしでん&quot;,&quot;transliteration&quot;:&quot;risshiden&quot;},{&quot;translateID&quot;:391077,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;идти самому вам незачем&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;敢えて行くには及びません&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あえていくにはおよびません&quot;,&quot;transliteration&quot;:&quot;aeteikunihaoyobimasen&quot;},{&quot;translateID&quot;:552269,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;самому себе&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;自分に&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じぶんに&quot;,&quot;transliteration&quot;:&quot;jibunni&quot;},{&quot;translateID&quot;:364212,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;самому себе&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;我が身に&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;わがみに&quot;,&quot;transliteration&quot;:&quot;wagamini&quot;},{&quot;translateID&quot;:527589,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;к самому концу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;仕舞際に&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しまいぎわに&quot;,&quot;transliteration&quot;:&quot;shimaigiwani&quot;},{&quot;translateID&quot;:549803,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;отвращение к самому себе&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;自己嫌悪&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じこけんお&quot;,&quot;transliteration&quot;:&quot;jikokeno&quot;},{&quot;translateID&quot;:589253,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;вода подступила к самому полу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;床下に浸水する&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ゆかしたにしんすいする&quot;,&quot;transliteration&quot;:&quot;yukashitanishinsuisuru&quot;},{&quot;translateID&quot;:723944,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;самому себе противоречить&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;辻褄の合わない事を言う&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;つじつまのあわないことをいう&quot;,&quot;transliteration&quot;:&quot;tsujitsumanoawanaikoto o iu&quot;},{&quot;translateID&quot;:549801,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ненависть к самому себе&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;自己嫌悪&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じこけんお&quot;,&quot;transliteration&quot;:&quot;jikokeno&quot;},{&quot;translateID&quot;:852654,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;предоставление самому себе&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;放任主義&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほうにんしゅぎ&quot;,&quot;transliteration&quot;:&quot;houninshugi&quot;},{&quot;translateID&quot;:549465,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;противоречить самому себе&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;自家撞着する&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じかどうちゃくする&quot;,&quot;transliteration&quot;:&quot;jikadouchakusuru&quot;},{&quot;translateID&quot;:549544,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;самому себя обеспечивать&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;自活する&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じかつする&quot;,&quot;transliteration&quot;:&quot;jikatsusuru&quot;},{&quot;translateID&quot;:852651,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;предоставить самому себе&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;放任する&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほうにんする&quot;,&quot;transliteration&quot;:&quot;houninsuru&quot;},{&quot;translateID&quot;:549464,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;противоречие самому себе&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;自家撞着&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じかどうちゃく&quot;,&quot;transliteration&quot;:&quot;jikadouchaku&quot;},{&quot;translateID&quot;:549543,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;самому зарабатывать себе на жизнь&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;自活する&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じかつする&quot;,&quot;transliteration&quot;:&quot;jikatsusuru&quot;},{&quot;translateID&quot;:552376,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;быть самому себе хозяином&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;自分勝手が出来る&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じぶんかってができる&quot;,&quot;transliteration&quot;:&quot;jibunkattegadekiru&quot;},{&quot;translateID&quot;:860562,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;Я должен быть верен самому себе.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;本当の自分自身をもっと知りたいのに・・・。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほんとうのじぶんじしんをもっとしりたいのに・・・。&quot;,&quot;transliteration&quot;:&quot;hontounojibunjishin o mottoshiritainoni・・・。&quot;},{&quot;translateID&quot;:552272,&quot;translationStatus&quot;:0,&quot;themeID&quot;:8,&quot;groupName&quot;:&quot;Компьютерный&quot;,&quot;themeName&quot;:&quot;Интернет&quot;,&quot;word&quot;:&quot;Нельзя отправить контакты самому себе&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;自分にはコンタクトの送信はできません&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じぶんにはこんたくとのそうしんはできません&quot;,&quot;transliteration&quot;:&quot;jibunnihakontakutonosoushinhadekimasen&quot;},{&quot;translateID&quot;:550001,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;Медицинский&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;нанесенное самому себе&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;自己損傷&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じこそんしょう&quot;,&quot;transliteration&quot;:&quot;jikosonshou&quot;},{&quot;translateID&quot;:360319,&quot;translationStatus&quot;:0,&quot;themeID&quot;:200,&quot;groupName&quot;:&quot;Юридический&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;сооружения, принадлежащего самому преступнику&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;火&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひ&quot;,&quot;transliteration&quot;:&quot;hi&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="самому" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	плоская - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,плоская" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u043f%u043b%u043e%u0441%u043a%u0430%u044f" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV444Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNC/0LvQvtGB0LrQsNGPZAIDD2QWCAICD2QWBAIBDxYCHgNzcmMFDy4uL2ltZy9sb2dvLnBuZ2QCBQ8WAh4EaHJlZgUOLi4vP2xhbmc9cnUtUlVkAgQPFgIeB1Zpc2libGVnZAIGDxYCHwNoZAIHD2QWCGYPFgIfA2hkAgEPFgIfA2hkAgIPFgIfA2hkAgUPFgIfA2hkZCzZr8t6zsf/nvmYfi3bw6T67QbO" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAW3sGfe/hPjZdmpcyNPzUYrlIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/mV7PmBGSImWGHhzKs5dY7n0u2JX" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:true,&quot;Phrases&quot;:[{&quot;translateID&quot;:838138,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;плоская крыша&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;平屋根&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひらやね&quot;,&quot;transliteration&quot;:&quot;hirayane&quot;},{&quot;translateID&quot;:838137,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;плоская кровля&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;平屋根&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひらやね&quot;,&quot;transliteration&quot;:&quot;hirayane&quot;},{&quot;translateID&quot;:250880,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;плоская грудь&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ぺちゃぱい&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぺちゃぱい&quot;,&quot;transliteration&quot;:&quot;pechapai&quot;},{&quot;translateID&quot;:250879,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;плоская грудь&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ペチャパイ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぺちゃぱい&quot;,&quot;transliteration&quot;:&quot;pechapai&quot;},{&quot;translateID&quot;:510307,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;плоская подушка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;座蒲団&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ざぶとん&quot;,&quot;transliteration&quot;:&quot;zabuton&quot;},{&quot;translateID&quot;:623670,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;широкая плоская ваза&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;水盤&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;すいばん&quot;,&quot;transliteration&quot;:&quot;suiban&quot;},{&quot;translateID&quot;:839701,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;плоская морда&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;平面&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひらづら&quot;,&quot;transliteration&quot;:&quot;hiradura&quot;},{&quot;translateID&quot;:227744,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Красноголовая плоская черепаха&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ヒラタヘビクビガメ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひらたへびくびがめ&quot;,&quot;transliteration&quot;:&quot;hiratahebikubigame&quot;},{&quot;translateID&quot;:897701,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Плоская кровля&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;陸屋根&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ろくやね&quot;,&quot;transliteration&quot;:&quot;rokuyane&quot;},{&quot;translateID&quot;:928347,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;плоская рыба&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;鰈&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かれい&quot;,&quot;transliteration&quot;:&quot;karei&quot;},{&quot;translateID&quot;:702459,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Плоская Земля&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;地球平面説&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちきゅうへいめんせつ&quot;,&quot;transliteration&quot;:&quot;chikyuuheimensetsu&quot;},{&quot;translateID&quot;:928242,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;плоская рыба&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;鮃&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひらめ&quot;,&quot;transliteration&quot;:&quot;hirame&quot;},{&quot;translateID&quot;:839948,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;плоская стамеска&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;平鑿&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひらのみ&quot;,&quot;transliteration&quot;:&quot;hiranomi&quot;},{&quot;translateID&quot;:382689,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;большая плоская бамбуковая шляпа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;笠&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かさ&quot;,&quot;transliteration&quot;:&quot;kasa&quot;},{&quot;translateID&quot;:839758,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;плоская фигура&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;平面形&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;へいめんけい&quot;,&quot;transliteration&quot;:&quot;heimenkei&quot;},{&quot;translateID&quot;:623671,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;широкая плоская ваза для декоративной расстановки цветов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;水盤&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;すいばん&quot;,&quot;transliteration&quot;:&quot;suiban&quot;},{&quot;translateID&quot;:839702,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;плоская поверхность&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;平面&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;へいめん&quot;,&quot;transliteration&quot;:&quot;heimen&quot;},{&quot;translateID&quot;:107776,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;плоская катушка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;くもの巣コイル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;くものすこいる&quot;,&quot;transliteration&quot;:&quot;kumonosukoiru&quot;},{&quot;translateID&quot;:10847,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;плоская система&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;2D方式&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;2Dほうしき&quot;,&quot;transliteration&quot;:&quot;2Dhoushiki&quot;},{&quot;translateID&quot;:11021,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;плоская матрица&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;2次元配列&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;2じげんはいれつ&quot;,&quot;transliteration&quot;:&quot;2jigenhairetsu&quot;},{&quot;translateID&quot;:244641,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;плоская двумерная антенная решётка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;プレーナーアレイ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぷれーなーあれい&quot;,&quot;transliteration&quot;:&quot;pure:na:arei&quot;},{&quot;translateID&quot;:794674,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;плоская катушка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;板コイル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いたこいる&quot;,&quot;transliteration&quot;:&quot;itakoiru&quot;},{&quot;translateID&quot;:838010,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;плоская регулировка усиления&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;平たん利得制御&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;へいたんりとくせいぎょ&quot;,&quot;transliteration&quot;:&quot;heitanritokuseigyo&quot;},{&quot;translateID&quot;:433980,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;однородная плоская волна&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;均等平面波&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きんとうへいめんは&quot;,&quot;transliteration&quot;:&quot;kintouheimenha&quot;},{&quot;translateID&quot;:839825,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;плоская волна&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;平面波&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;へいめんは&quot;,&quot;transliteration&quot;:&quot;heimenha&quot;},{&quot;translateID&quot;:839806,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;плоская Земля&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;平面大地&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;へいめんだいち&quot;,&quot;transliteration&quot;:&quot;heimendaichi&quot;},{&quot;translateID&quot;:839483,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;плоская антенна в виде системы горизонтальных проводов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;平頂空中線&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひらいただきくうちゅうせん&quot;,&quot;transliteration&quot;:&quot;hiraitadakikuuchuusen&quot;},{&quot;translateID&quot;:239506,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;плоская плита&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;フラットスラブ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふらっとすらぶ&quot;,&quot;transliteration&quot;:&quot;furattosurabu&quot;},{&quot;translateID&quot;:794669,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;плоская муфта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;板クラッチ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いたくらっち&quot;,&quot;transliteration&quot;:&quot;itakuracchi&quot;},{&quot;translateID&quot;:696186,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;плоская нить накаливания в лампе&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;単平面フイラメント&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たんへいめんふいらめんと&quot;,&quot;transliteration&quot;:&quot;tanheimenfuiramento&quot;},{&quot;translateID&quot;:839547,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;плоская трамбовка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;平突き棒&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひらづきぼう&quot;,&quot;transliteration&quot;:&quot;hiradukibou&quot;},{&quot;translateID&quot;:874107,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;плоская фигура&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;面図形&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;めんずけい&quot;,&quot;transliteration&quot;:&quot;menzukei&quot;},{&quot;translateID&quot;:159056,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;плоская заготовка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;スラブ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;すらぶ&quot;,&quot;transliteration&quot;:&quot;surabu&quot;},{&quot;translateID&quot;:839836,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;плоская поляризация&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;平面偏波&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;へいめんへんは&quot;,&quot;transliteration&quot;:&quot;heimenhenha&quot;},{&quot;translateID&quot;:839482,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;плоская антенна&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;平頂空中線&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひらいただきくうちゅうせん&quot;,&quot;transliteration&quot;:&quot;hiraitadakikuuchuusen&quot;},{&quot;translateID&quot;:839712,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;плоская ферма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;平面トラス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;へいめんとらす&quot;,&quot;transliteration&quot;:&quot;heimentorasu&quot;},{&quot;translateID&quot;:297008,&quot;translationStatus&quot;:0,&quot;themeID&quot;:14,&quot;groupName&quot;:&quot;車両&quot;,&quot;themeName&quot;:&quot;自動車&quot;,&quot;word&quot;:&quot;плоская крыша&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ルーフデッキ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;るーふでっき&quot;,&quot;transliteration&quot;:&quot;ru:fudekki&quot;},{&quot;translateID&quot;:838722,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;плоская прокладка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;平形ガスケット&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひらかたがすけっと&quot;,&quot;transliteration&quot;:&quot;hirakatagasuketto&quot;},{&quot;translateID&quot;:839705,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;плоская поверхность&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;平面&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;へいめん&quot;,&quot;transliteration&quot;:&quot;heimen&quot;},{&quot;translateID&quot;:632910,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;плоская шлифовка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;正面研削&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょうめんけんさく&quot;,&quot;transliteration&quot;:&quot;shoumenkensaku&quot;},{&quot;translateID&quot;:559454,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;обыкновенная плоская кисть&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;車体接地装置&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゃたいせっちそうち&quot;,&quot;transliteration&quot;:&quot;shataisecchisouchi&quot;},{&quot;translateID&quot;:838029,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;плоская лента&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;平ベルト&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひらべると&quot;,&quot;transliteration&quot;:&quot;hiraberuto&quot;},{&quot;translateID&quot;:839548,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;плоская трамбовка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;平突き棒&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひらづきぼう&quot;,&quot;transliteration&quot;:&quot;hiradukibou&quot;},{&quot;translateID&quot;:733716,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;плоская резьбонакатная плашка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;転造平ダイス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てんみやつこひらだいす&quot;,&quot;transliteration&quot;:&quot;tenmiyatsukohiradaisu&quot;},{&quot;translateID&quot;:727592,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;плоская крышка штепсельной розетки, закрепляемая на стене&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;底わく&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そこわく&quot;,&quot;transliteration&quot;:&quot;sokowaku&quot;},{&quot;translateID&quot;:231582,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;плоская блочная обойма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;フィドル滑車&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふぃどるかっしゃ&quot;,&quot;transliteration&quot;:&quot;fidorukassha&quot;},{&quot;translateID&quot;:839502,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;плоская часть днища&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;平底部&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひらぞこぶ&quot;,&quot;transliteration&quot;:&quot;hirazokobu&quot;},{&quot;translateID&quot;:108426,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;плоская коническая ЗП&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;クラウン歯車&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;くらうんはぐるま&quot;,&quot;transliteration&quot;:&quot;kuraunhaguruma&quot;},{&quot;translateID&quot;:856804,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;плоская сортировка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;棒篩&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぼうふるい&quot;,&quot;transliteration&quot;:&quot;boufurui&quot;},{&quot;translateID&quot;:763923,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;плоская задача&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;二次元問題&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にじげんもんだい&quot;,&quot;transliteration&quot;:&quot;nijigenmondai&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="плоская" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

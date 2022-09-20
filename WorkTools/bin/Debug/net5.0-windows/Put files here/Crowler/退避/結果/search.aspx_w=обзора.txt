@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	обзора - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,обзора" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u043e%u0431%u0437%u043e%u0440%u0430" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV244Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNC+0LHQt9C+0YDQsGQCAw9kFggCAg9kFgQCAQ8WAh4Dc3JjBQ8uLi9pbWcvbG9nby5wbmdkAgUPFgIeBGhyZWYFDi4uLz9sYW5nPXJ1LVJVZAIEDxYCHgdWaXNpYmxlZ2QCBg8WAh8DaGQCBw9kFghmDxYCHwNoZAIBDxYCHwNoZAICDxYCHwNoZAIFDxYCHwNoZGRUohI4myzIdDnBPqbnlYIjvlNZGg==" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAU22fT+E8eH7FxY2L7ctxt2lIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/nnHAbqm5yhZ8N9xJJdWtO5bQ9jC" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:false,&quot;Phrases&quot;:[{&quot;translateID&quot;:739442,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;индикатор кругового обзора&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;電波探知鏡&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;でんぱたんちきょう&quot;,&quot;transliteration&quot;:&quot;denpatanchikyou&quot;},{&quot;translateID&quot;:64773,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;зеркало заднего обзора&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;インサイドミラー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いんさいどみらー&quot;,&quot;transliteration&quot;:&quot;insaidomira:&quot;},{&quot;translateID&quot;:364682,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;угол обзора&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;画角&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;がかく&quot;,&quot;transliteration&quot;:&quot;gakaku&quot;},{&quot;translateID&quot;:556748,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;поле реального обзора&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;実視界&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じっしかい&quot;,&quot;transliteration&quot;:&quot;jisshikai&quot;},{&quot;translateID&quot;:522914,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;кнопка обзора&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;参照ボタン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さんしょうぼたん&quot;,&quot;transliteration&quot;:&quot;sanshoubotan&quot;},{&quot;translateID&quot;:97001,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;точка обзора&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;カメラの視点&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かめらのしてん&quot;,&quot;transliteration&quot;:&quot;kameranoshiten&quot;},{&quot;translateID&quot;:227413,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;плоскость обзора&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ビュー平面&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;びゅーへいめん&quot;,&quot;transliteration&quot;:&quot;byu:heimen&quot;},{&quot;translateID&quot;:743921,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;проекционный индикатор кругового обзора&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;投射式PPI&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とうしゃしきPPI&quot;,&quot;transliteration&quot;:&quot;toushashikiPPI&quot;},{&quot;translateID&quot;:392442,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;радар кругового обзора&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;監視レーダ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かんしれーだ&quot;,&quot;transliteration&quot;:&quot;kanshire:da&quot;},{&quot;translateID&quot;:341730,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;выносной индикатор кругового обзора&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;遠隔PPI&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;えんかくPPI&quot;,&quot;transliteration&quot;:&quot;enkakuPPI&quot;},{&quot;translateID&quot;:540426,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;поле обзора&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;視界&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しかい&quot;,&quot;transliteration&quot;:&quot;shikai&quot;},{&quot;translateID&quot;:34275,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;индикатор кругового обзора&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;PPI&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;PPI&quot;,&quot;transliteration&quot;:&quot;PPI&quot;},{&quot;translateID&quot;:226001,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;ограничение сектора обзора на экране индикатора РЛС&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ビデオマスキング&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;びでおますきんぐ&quot;,&quot;transliteration&quot;:&quot;bideomasukingu&quot;},{&quot;translateID&quot;:704735,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;индикатор кругового обзора с задержанной развёрткой&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;遅延PPI&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちえんPPI&quot;,&quot;transliteration&quot;:&quot;chienPPI&quot;},{&quot;translateID&quot;:541203,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;поле обзора&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;視野&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しや&quot;,&quot;transliteration&quot;:&quot;shiya&quot;},{&quot;translateID&quot;:34276,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;выносной индикатор кругового обзора&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;PPIレピータ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;PPIれぴーた&quot;,&quot;transliteration&quot;:&quot;PPIrepi:ta&quot;},{&quot;translateID&quot;:493599,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;авиационный радиолокатор кругового обзора&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;航空路監視レーダ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうくうろかんしれーだ&quot;,&quot;transliteration&quot;:&quot;koukuurokanshire:da&quot;},{&quot;translateID&quot;:34277,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;выносной индикатор кругового обзора&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;PPI中継器&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;PPIちゅうけいき&quot;,&quot;transliteration&quot;:&quot;PPIchuukeiki&quot;},{&quot;translateID&quot;:28059,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;радиолокационная станция обзора лётного поля&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ACR&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ACR&quot;,&quot;transliteration&quot;:&quot;ACR&quot;},{&quot;translateID&quot;:330097,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;радиолокационный индикатор кругового обзора с растянутой развёрткой&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;引伸しPPI&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひきのばしPPI&quot;,&quot;transliteration&quot;:&quot;hikinobashiPPI&quot;},{&quot;translateID&quot;:546036,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;индикатор кругового обзора с задержанной развёрткой&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;時間軸遅延PPI&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じかんじくちえんPPI&quot;,&quot;transliteration&quot;:&quot;jikanjikuchienPPI&quot;},{&quot;translateID&quot;:43632,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;модифицированный индикатор кругового обзора с дополнительным отображением третьей координаты&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;アゼルディスプレー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あぜるでぃすぷれー&quot;,&quot;transliteration&quot;:&quot;azerudisupure:&quot;},{&quot;translateID&quot;:842535,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;индикатор кругового обзора со смещённым центром&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;偏心PPI&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;へんしんPPI&quot;,&quot;transliteration&quot;:&quot;henshinPPI&quot;},{&quot;translateID&quot;:826153,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;индикатор секторного обзора&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;部分表示&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぶぶんひょうじ&quot;,&quot;transliteration&quot;:&quot;bubunhyouji&quot;},{&quot;translateID&quot;:441446,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;радиолокационная станция обзора лётного поля&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;空港監視レーダ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;くうこうかんしれーだ&quot;,&quot;transliteration&quot;:&quot;kuukoukanshire:da&quot;},{&quot;translateID&quot;:540606,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;угол обзора&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;視角&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しかく&quot;,&quot;transliteration&quot;:&quot;shikaku&quot;},{&quot;translateID&quot;:463647,&quot;translationStatus&quot;:0,&quot;themeID&quot;:44,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;航空宇宙&quot;,&quot;word&quot;:&quot;угол обзора&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;見通し線&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;みとおしせん&quot;,&quot;transliteration&quot;:&quot;mitooshisen&quot;},{&quot;translateID&quot;:392444,&quot;translationStatus&quot;:0,&quot;themeID&quot;:44,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;航空宇宙&quot;,&quot;word&quot;:&quot;радиолокатор кругового обзора&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;監視レーダー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かんしれーだー&quot;,&quot;transliteration&quot;:&quot;kanshire:da:&quot;},{&quot;translateID&quot;:541211,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;угол обзора&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;視野角&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しやかど&quot;,&quot;transliteration&quot;:&quot;shiyakado&quot;},{&quot;translateID&quot;:852881,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;индикатор кругового обзора со стабилизацией по азимуту&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;方位安定型平面位置指示器&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほういあんていがたへいめんいちしじき&quot;,&quot;transliteration&quot;:&quot;houianteigataheimenichishijiki&quot;},{&quot;translateID&quot;:660518,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;камера кругового обзора&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;全天空カメラ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぜんてんくうかめら&quot;,&quot;transliteration&quot;:&quot;zentenkuukamera&quot;},{&quot;translateID&quot;:672724,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;радиолокатор бокового обзора&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;側方監視レーダー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そくほうかんしれーだー&quot;,&quot;transliteration&quot;:&quot;sokuhoukanshire:da:&quot;},{&quot;translateID&quot;:372761,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;индикатор кругового обзора с открытым центром&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;開心PPI&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かいしんPPI&quot;,&quot;transliteration&quot;:&quot;kaishinPPI&quot;},{&quot;translateID&quot;:579641,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;мгновенная зона обзора&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;瞬間視野&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゅんかんしや&quot;,&quot;transliteration&quot;:&quot;shunkanshiya&quot;},{&quot;translateID&quot;:540608,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;сектор обзора&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;視角&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しかく&quot;,&quot;transliteration&quot;:&quot;shikaku&quot;},{&quot;translateID&quot;:540607,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;угол обзора&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;視角&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しかく&quot;,&quot;transliteration&quot;:&quot;shikaku&quot;},{&quot;translateID&quot;:151304,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;гидролокационная гидролокатор кругового обзора&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;スキャニングソナー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;すきゃにんぐそなー&quot;,&quot;transliteration&quot;:&quot;sukyaningusona:&quot;},{&quot;translateID&quot;:83349,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;РЛС с перекрывающимися секторами обзора&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;オーバーラップレーダー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おーばーらっぷれーだー&quot;,&quot;transliteration&quot;:&quot;o:ba:rappure:da:&quot;},{&quot;translateID&quot;:858386,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;индикатор кругового обзора с ориентацией на север&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;北安定型平面位置指示器&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きたあんていがたへいめんいちしじき&quot;,&quot;transliteration&quot;:&quot;kitaanteigataheimenichishijiki&quot;},{&quot;translateID&quot;:541199,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;сектор обзора&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;視野&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しや&quot;,&quot;transliteration&quot;:&quot;shiya&quot;},{&quot;translateID&quot;:673704,&quot;translationStatus&quot;:0,&quot;themeID&quot;:82,&quot;groupName&quot;:&quot;物理&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;поле обзора&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;測定視野角&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そくていしやかど&quot;,&quot;transliteration&quot;:&quot;sokuteishiyakado&quot;},{&quot;translateID&quot;:541202,&quot;translationStatus&quot;:0,&quot;themeID&quot;:82,&quot;groupName&quot;:&quot;物理&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;поле обзора&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;視野&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しや&quot;,&quot;transliteration&quot;:&quot;shiya&quot;},{&quot;translateID&quot;:782347,&quot;translationStatus&quot;:0,&quot;themeID&quot;:197,&quot;groupName&quot;:&quot;法律&quot;,&quot;themeName&quot;:&quot;著作権&quot;,&quot;word&quot;:&quot;обратного обзора&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;背面図&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はいめんず&quot;,&quot;transliteration&quot;:&quot;haimenzu&quot;},{&quot;translateID&quot;:857384,&quot;translationStatus&quot;:0,&quot;themeID&quot;:217,&quot;groupName&quot;:&quot;人文&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Орган по проведению обзора торговой политики&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;貿易政策検討機関&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぼうえきせいさくけんとうきかん&quot;,&quot;transliteration&quot;:&quot;bouekiseisakukentoukikan&quot;},{&quot;translateID&quot;:392443,&quot;translationStatus&quot;:0,&quot;themeID&quot;:225,&quot;groupName&quot;:&quot;人文&quot;,&quot;themeName&quot;:&quot;航空&quot;,&quot;word&quot;:&quot;радиолокатор кругового обзора&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;監視レーダー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かんしれーだー&quot;,&quot;transliteration&quot;:&quot;kanshire:da:&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="обзора" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	захвата - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,захвата" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u0437%u0430%u0445%u0432%u0430%u0442%u0430" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV444Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNC30LDRhdCy0LDRgtCwZAIDD2QWCAICD2QWBAIBDxYCHgNzcmMFDy4uL2ltZy9sb2dvLnBuZ2QCBQ8WAh4EaHJlZgUOLi4vP2xhbmc9cnUtUlVkAgQPFgIeB1Zpc2libGVnZAIGDxYCHwNoZAIHD2QWCGYPFgIfA2hkAgEPFgIfA2hkAgIPFgIfA2hkAgUPFgIfA2hkZNap+K6S2CzEmWu/ciuW9Mciec5z" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAWjoGvjqsacPXPanRnc6aCllIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/qeLYtQcP0gbaJGZHEizboqchUCo" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:true,&quot;Phrases&quot;:[{&quot;translateID&quot;:597576,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;план захвата&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;乗取り策&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;のっとりさく&quot;,&quot;transliteration&quot;:&quot;nottorisaku&quot;},{&quot;translateID&quot;:377010,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;тактика захвата одного острова за другим&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;蛙飛び作戦&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かわずとびさくせん&quot;,&quot;transliteration&quot;:&quot;kawazutobisakusen&quot;},{&quot;translateID&quot;:631911,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;центр захвата дырок&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;正孔のトラップ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せいこうのとらっぷ&quot;,&quot;transliteration&quot;:&quot;seikounotorappu&quot;},{&quot;translateID&quot;:103530,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;устройства захвата&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;キャプチャ デバイス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きゃぷちゃ でばいす&quot;,&quot;transliteration&quot;:&quot;kyapucha debaisu&quot;},{&quot;translateID&quot;:96790,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;угол захвата&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;かみ込み角度&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かみこみかくど&quot;,&quot;transliteration&quot;:&quot;kamikomikakudo&quot;},{&quot;translateID&quot;:631910,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;дырочный центр захвата&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;正孔トラップ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せいこうとらっぷ&quot;,&quot;transliteration&quot;:&quot;seikoutorappu&quot;},{&quot;translateID&quot;:847610,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;коэффициент захвата&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;捕獲比&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほかくひ&quot;,&quot;transliteration&quot;:&quot;hokakuhi&quot;},{&quot;translateID&quot;:847604,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;центр захвата&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;捕獲中心&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほかくちゅうしん&quot;,&quot;transliteration&quot;:&quot;hokakuchuushin&quot;},{&quot;translateID&quot;:847602,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;сечение захвата&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;捕獲断面積&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほかくだんめんせき&quot;,&quot;transliteration&quot;:&quot;hokakudanmenseki&quot;},{&quot;translateID&quot;:847586,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;область захвата&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;捕獲スポット&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほかくすぽっと&quot;,&quot;transliteration&quot;:&quot;hokakusupotto&quot;},{&quot;translateID&quot;:847607,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;реакция захвата&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;捕獲反応&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほかくはんのう&quot;,&quot;transliteration&quot;:&quot;hokakuhannou&quot;},{&quot;translateID&quot;:645941,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;дуга захвата&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;接触弧&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せっしょくこ&quot;,&quot;transliteration&quot;:&quot;sesshokuko&quot;},{&quot;translateID&quot;:297683,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;клещи для захвата тиглей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;るつぼばさみ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;るつぼばさみ&quot;,&quot;transliteration&quot;:&quot;rutsubobasami&quot;},{&quot;translateID&quot;:645042,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;ширина захвата&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;切取り幅&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きりとりはば&quot;,&quot;transliteration&quot;:&quot;kiritorihaba&quot;},{&quot;translateID&quot;:520835,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;приспособление для захвата нитки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;三つ目糸掛け&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;みっつめいとがけ&quot;,&quot;transliteration&quot;:&quot;mittsumeitogake&quot;},{&quot;translateID&quot;:420843,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;эффективность захвата&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;給気効率&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きゅうきこうりつ&quot;,&quot;transliteration&quot;:&quot;kyuukikouritsu&quot;},{&quot;translateID&quot;:96779,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;угол захвата&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;かみ角&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かみかど&quot;,&quot;transliteration&quot;:&quot;kamikado&quot;},{&quot;translateID&quot;:111383,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;длина захвата&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;グリップ長さ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぐりっぷちょうさ&quot;,&quot;transliteration&quot;:&quot;gurippuchousa&quot;},{&quot;translateID&quot;:223143,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;клещи для захвата балок&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ビームグラブ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;びーむぐらぶ&quot;,&quot;transliteration&quot;:&quot;bi:mugurabu&quot;},{&quot;translateID&quot;:223156,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;крюк для захвата балок&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ビームつかみ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;びーむつかみ&quot;,&quot;transliteration&quot;:&quot;bi:mutsukami&quot;},{&quot;translateID&quot;:382376,&quot;translationStatus&quot;:0,&quot;themeID&quot;:50,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;金属&quot;,&quot;word&quot;:&quot;губка захвата&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;顎掴み &quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あごづかみ&quot;,&quot;transliteration&quot;:&quot;agodukami&quot;},{&quot;translateID&quot;:111302,&quot;translationStatus&quot;:0,&quot;themeID&quot;:50,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;金属&quot;,&quot;word&quot;:&quot;губка захвата&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;グリッパージョー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぐりっぱーじょー&quot;,&quot;transliteration&quot;:&quot;gurippa:jo:&quot;},{&quot;translateID&quot;:80502,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;детектор захвата электронов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;エレクトロン・キャプチャ・ディテクタ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;えれくとろん・きゃぷちゃ・でぃてくた&quot;,&quot;transliteration&quot;:&quot;erekutoron・kyapucha・ditekuta&quot;},{&quot;translateID&quot;:847608,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;реакция захвата&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;捕獲反応&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほかくはんのう&quot;,&quot;transliteration&quot;:&quot;hokakuhannou&quot;},{&quot;translateID&quot;:847600,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;эффективное сечение захвата&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;捕獲断面積&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほかくだんめんせき&quot;,&quot;transliteration&quot;:&quot;hokakudanmenseki&quot;},{&quot;translateID&quot;:425336,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;вероятность избежания резонансного захвата&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;共鳴吸収をのがれる確率&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きょうめいきゅうしゅうをのがれるかくりつ&quot;,&quot;transliteration&quot;:&quot;kyoumeikyuushuu o nogarerukakuritsu&quot;},{&quot;translateID&quot;:133429,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;вырез для захвата пальцами&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;サム・カット&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さむ・かっと&quot;,&quot;transliteration&quot;:&quot;samu・katto&quot;},{&quot;translateID&quot;:852228,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;сечение радиационного захвата&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;放射捕獲断面積&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほうしゃほかくだんめんせき&quot;,&quot;transliteration&quot;:&quot;houshahokakudanmenseki&quot;},{&quot;translateID&quot;:628243,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;скорость захвата&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;制御風速&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せいぎょふうそく&quot;,&quot;transliteration&quot;:&quot;seigyofuusoku&quot;},{&quot;translateID&quot;:709286,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;сечение захвата нейтронов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中性子捕獲断面積&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅうせいしほかくだんめんせき&quot;,&quot;transliteration&quot;:&quot;chuuseishihokakudanmenseki&quot;},{&quot;translateID&quot;:910493,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;цилиндр для захвата грунта при алмазном бурении&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;炉心槽&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ろしんそう&quot;,&quot;transliteration&quot;:&quot;roshinsou&quot;},{&quot;translateID&quot;:847647,&quot;translationStatus&quot;:0,&quot;themeID&quot;:82,&quot;groupName&quot;:&quot;物理&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;эффективность захвата&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;捕捉効率&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほそくこうりつ&quot;,&quot;transliteration&quot;:&quot;hosokukouritsu&quot;},{&quot;translateID&quot;:847601,&quot;translationStatus&quot;:0,&quot;themeID&quot;:82,&quot;groupName&quot;:&quot;物理&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;сечение захвата&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;捕獲断面積&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほかくだんめんせき&quot;,&quot;transliteration&quot;:&quot;hokakudanmenseki&quot;},{&quot;translateID&quot;:847603,&quot;translationStatus&quot;:0,&quot;themeID&quot;:82,&quot;groupName&quot;:&quot;物理&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;центр захвата&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;捕獲中心&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほかくちゅうしん&quot;,&quot;transliteration&quot;:&quot;hokakuchuushin&quot;},{&quot;translateID&quot;:847591,&quot;translationStatus&quot;:0,&quot;themeID&quot;:82,&quot;groupName&quot;:&quot;物理&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;процесс захвата&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;捕獲過程&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほかくかてい&quot;,&quot;transliteration&quot;:&quot;hokakukatei&quot;},{&quot;translateID&quot;:847597,&quot;translationStatus&quot;:0,&quot;themeID&quot;:82,&quot;groupName&quot;:&quot;物理&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;уровень захвата&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;捕獲準位&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほかくじゅんくらい&quot;,&quot;transliteration&quot;:&quot;hokakujunkurai&quot;},{&quot;translateID&quot;:852229,&quot;translationStatus&quot;:0,&quot;themeID&quot;:82,&quot;groupName&quot;:&quot;物理&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;сечение радиационного захвата&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;放射捕獲断面積&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほうしゃほかくだんめんせき&quot;,&quot;transliteration&quot;:&quot;houshahokakudanmenseki&quot;},{&quot;translateID&quot;:652625,&quot;translationStatus&quot;:0,&quot;themeID&quot;:82,&quot;groupName&quot;:&quot;物理&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;мелкая ловушка захвата&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;浅いトラップ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あさいとらっぷ&quot;,&quot;transliteration&quot;:&quot;asaitorappu&quot;},{&quot;translateID&quot;:709287,&quot;translationStatus&quot;:0,&quot;themeID&quot;:82,&quot;groupName&quot;:&quot;物理&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;сечение захвата нейтронов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中性子捕獲断面積&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅうせいしほかくだんめんせき&quot;,&quot;transliteration&quot;:&quot;chuuseishihokakudanmenseki&quot;},{&quot;translateID&quot;:884622,&quot;translationStatus&quot;:0,&quot;themeID&quot;:82,&quot;groupName&quot;:&quot;物理&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;эффективное сечение захвата&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;有効捕獲断面積&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ゆうこうほかくだんめんせき&quot;,&quot;transliteration&quot;:&quot;yuukouhokakudanmenseki&quot;},{&quot;translateID&quot;:847609,&quot;translationStatus&quot;:0,&quot;themeID&quot;:82,&quot;groupName&quot;:&quot;物理&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;реакция захвата&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;捕獲反応&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほかくはんのう&quot;,&quot;transliteration&quot;:&quot;hokakuhannou&quot;},{&quot;translateID&quot;:195001,&quot;translationStatus&quot;:0,&quot;themeID&quot;:82,&quot;groupName&quot;:&quot;物理&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;сечение захвата&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;トラップ断面積&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とらっぷだんめんせき&quot;,&quot;transliteration&quot;:&quot;torappudanmenseki&quot;},{&quot;translateID&quot;:99184,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;приспособление для захвата отхода&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;カルピックアップ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かるぴっくあっぷ&quot;,&quot;transliteration&quot;:&quot;karupikkuappu&quot;},{&quot;translateID&quot;:425328,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;вероятность избежания резонансного захвата&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;共鳴を逃れる確率&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きょうめいをのがれるかくりつ&quot;,&quot;transliteration&quot;:&quot;kyoumei o nogarerukakuritsu&quot;},{&quot;translateID&quot;:673084,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;гамма-лучи захвата&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;即発ガンマ線&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そくはつがんません&quot;,&quot;transliteration&quot;:&quot;sokuhatsuganmasen&quot;},{&quot;translateID&quot;:738589,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;детектор захвата электронов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;電子捕獲型検出器&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;でんしほかくがたけんしゅつき&quot;,&quot;transliteration&quot;:&quot;denshihokakugatakenshutsuki&quot;},{&quot;translateID&quot;:428011,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;угол захвата&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;挟み角&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はさみかど&quot;,&quot;transliteration&quot;:&quot;hasamikado&quot;},{&quot;translateID&quot;:311255,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;сила захвата&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;握力&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あくりょく&quot;,&quot;transliteration&quot;:&quot;akuryoku&quot;},{&quot;translateID&quot;:738590,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;детектор захвата электронов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;電子捕獲検出器&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;でんしほかくけんしゅつき&quot;,&quot;transliteration&quot;:&quot;denshihokakukenshutsuki&quot;},{&quot;translateID&quot;:651091,&quot;translationStatus&quot;:0,&quot;themeID&quot;:210,&quot;groupName&quot;:&quot;人文&quot;,&quot;themeName&quot;:&quot;政治&quot;,&quot;word&quot;:&quot;силы захвата&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;占領軍&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せんりょうぐん&quot;,&quot;transliteration&quot;:&quot;senryougun&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="захвата" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

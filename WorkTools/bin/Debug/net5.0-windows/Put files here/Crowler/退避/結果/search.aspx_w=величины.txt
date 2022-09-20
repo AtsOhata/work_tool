@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	величины - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,величины" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u0432%u0435%u043b%u0438%u0447%u0438%u043d%u044b" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV644Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNCy0LXQu9C40YfQuNC90YtkAgMPZBYIAgIPZBYEAgEPFgIeA3NyYwUPLi4vaW1nL2xvZ28ucG5nZAIFDxYCHgRocmVmBQ4uLi8/bGFuZz1ydS1SVWQCBA8WAh4HVmlzaWJsZWdkAgYPFgIfA2hkAgcPZBYIZg8WAh8DaGQCAQ8WAh8DaGQCAg8WAh8DaGQCBQ8WAh8DaGRk4NEnlRiYz6DwTvtyUX/lsourG9c=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAX6uVy09cu72dovU00bB9V9lIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/tX8L0WaqDUD2bRQRHkZsJbgK1Xb" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:true,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:true,&quot;Phrases&quot;:[{&quot;translateID&quot;:279172,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Моменты случайной величины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;モーメント&quot;,&quot;translationnote&quot;:&quot;数学&quot;,&quot;reading&quot;:&quot;もーめんと&quot;,&quot;transliteration&quot;:&quot;mo:mento&quot;},{&quot;translateID&quot;:122009,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;вот такой величины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;この位の大きさ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;このくらいのおおきさ&quot;,&quot;transliteration&quot;:&quot;konokurainoookisa&quot;},{&quot;translateID&quot;:708401,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;блюдо средней величины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中皿&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅうざら&quot;,&quot;transliteration&quot;:&quot;chuuzara&quot;},{&quot;translateID&quot;:706836,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;средние величины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中位数&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅういすう&quot;,&quot;transliteration&quot;:&quot;chuuisuu&quot;},{&quot;translateID&quot;:756141,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Характеристическая функция случайной величины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;特性関数&quot;,&quot;translationnote&quot;:&quot;確率論&quot;,&quot;reading&quot;:&quot;とくせいかんすう&quot;,&quot;transliteration&quot;:&quot;tokuseikansuu&quot;},{&quot;translateID&quot;:217066,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Размерность физической величины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ハメル次元&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はめるじげん&quot;,&quot;transliteration&quot;:&quot;hamerujigen&quot;},{&quot;translateID&quot;:838307,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Средние величины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;平均&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;へいきん&quot;,&quot;transliteration&quot;:&quot;heikin&quot;},{&quot;translateID&quot;:626324,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Порядок величины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;数量の比較&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;すうりょうのひかく&quot;,&quot;transliteration&quot;:&quot;suuryounohikaku&quot;},{&quot;translateID&quot;:95807,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;довольно большой величины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;かなりの大きさの&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かなりのおおきさの&quot;,&quot;transliteration&quot;:&quot;kanarinoookisano&quot;},{&quot;translateID&quot;:833043,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Дисперсия случайной величины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;分散&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぶんさん&quot;,&quot;transliteration&quot;:&quot;bunsan&quot;},{&quot;translateID&quot;:686976,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;какой величины вы желаете&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;大きさはどの位にしますか&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おおきさはどのくらいにしますか&quot;,&quot;transliteration&quot;:&quot;ookisahadonokurainishimasuka&quot;},{&quot;translateID&quot;:326214,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;звезда первой величины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;一等星&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いっとうせい&quot;,&quot;transliteration&quot;:&quot;ittousei&quot;},{&quot;translateID&quot;:138950,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;сигнал величины координатного перемещения по оси X&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;シグナル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しぐなる&quot;,&quot;transliteration&quot;:&quot;shigunaru&quot;},{&quot;translateID&quot;:843050,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;отклонение от номинальной величины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;変化&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;へんか&quot;,&quot;transliteration&quot;:&quot;henka&quot;},{&quot;translateID&quot;:135858,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;уплотнение путём передачи средней величины и отклонения&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;サンプル変化コンパクション&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さんぷるへんかこんぱくしょん&quot;,&quot;transliteration&quot;:&quot;sanpuruhenkakonpakushon&quot;},{&quot;translateID&quot;:569655,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;безусловное распределение компоненты многомерной случайной величины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;周辺分布&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゅうへんぶんぷ&quot;,&quot;transliteration&quot;:&quot;shuuhenbunpu&quot;},{&quot;translateID&quot;:479782,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;выпрямленное значение переменной величины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;交流量の整流値&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうりゅうりょうのせいりゅうち&quot;,&quot;transliteration&quot;:&quot;kouryuuryounoseiryuuchi&quot;},{&quot;translateID&quot;:673760,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;эталон единицы физической величины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;測定標準&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そくていひょうじゅん&quot;,&quot;transliteration&quot;:&quot;sokuteihyoujun&quot;},{&quot;translateID&quot;:673499,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;световые величины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;測光量&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そっこうりょう&quot;,&quot;transliteration&quot;:&quot;sokkouryou&quot;},{&quot;translateID&quot;:217491,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;погрешность, возникающая при многократном измерении величины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ばらつき誤差&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ばらつきごさ&quot;,&quot;transliteration&quot;:&quot;baratsukigosa&quot;},{&quot;translateID&quot;:628221,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;диапазон изменения регулируемой величины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;制御範囲&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せいぎょはんい&quot;,&quot;transliteration&quot;:&quot;seigyohani&quot;},{&quot;translateID&quot;:522946,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;шкала величины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;参照値目盛&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さんしょうちめもり&quot;,&quot;transliteration&quot;:&quot;sanshouchimemori&quot;},{&quot;translateID&quot;:852272,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;энергетические величины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;放射量&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほうしゃりょう&quot;,&quot;transliteration&quot;:&quot;housharyou&quot;},{&quot;translateID&quot;:423186,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;максимально допустимая скорость изменения регулируемой величины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;許容変化率&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きょようへんかりつ&quot;,&quot;transliteration&quot;:&quot;kyoyouhenkaritsu&quot;},{&quot;translateID&quot;:604279,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;ограничитель величины сигнала&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;信号リミッタ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しんごうりみった&quot;,&quot;transliteration&quot;:&quot;shingourimitta&quot;},{&quot;translateID&quot;:831845,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;физические величины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;物理量&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぶつりりょう&quot;,&quot;transliteration&quot;:&quot;butsuriryou&quot;},{&quot;translateID&quot;:450898,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;эталон единицы физической величины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;計測標準&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けいそくひょうじゅん&quot;,&quot;transliteration&quot;:&quot;keisokuhyoujun&quot;},{&quot;translateID&quot;:628253,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;отклонение регулируемой величины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;制御偏差&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せいぎょへんさ&quot;,&quot;transliteration&quot;:&quot;seigyohensa&quot;},{&quot;translateID&quot;:727283,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;система поддержания постоянной величины тока&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;定電流方式&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ていでんりゅうほうしき&quot;,&quot;transliteration&quot;:&quot;teidenryuuhoushiki&quot;},{&quot;translateID&quot;:183513,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;измеренные величины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;データ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;でーた&quot;,&quot;transliteration&quot;:&quot;de:ta&quot;},{&quot;translateID&quot;:737255,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;мера электрической величины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;電気標準器&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;でんきひょうじゅんき&quot;,&quot;transliteration&quot;:&quot;denkihyoujunki&quot;},{&quot;translateID&quot;:644870,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;значение величины срабатывания&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;切換値&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きりかえち&quot;,&quot;transliteration&quot;:&quot;kirikaechi&quot;},{&quot;translateID&quot;:557081,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;действительное значение геометрической величины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;実測繊度&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じっそくせんど&quot;,&quot;transliteration&quot;:&quot;jissokusendo&quot;},{&quot;translateID&quot;:443765,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;погрешность, возникающая при многократном измерении величины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;繰返し性誤差&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;くりかえしせいごさ&quot;,&quot;transliteration&quot;:&quot;kurikaeshiseigosa&quot;},{&quot;translateID&quot;:648751,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;прибор для определения абсолютных значений измеряемой величины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;絶対測定装置&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぜったいそくていそうち&quot;,&quot;transliteration&quot;:&quot;zettaisokuteisouchi&quot;},{&quot;translateID&quot;:324760,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;линейно независимые величины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;一次独立量&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いちじどくりつりょう&quot;,&quot;transliteration&quot;:&quot;ichijidokuritsuryou&quot;},{&quot;translateID&quot;:674803,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;измеритель величины тока&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;速度型流量計&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そくどがたりゅうりょうけい&quot;,&quot;transliteration&quot;:&quot;sokudogataryuuryoukei&quot;},{&quot;translateID&quot;:402052,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ошибка данной величины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;基値誤差&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;もとちごさ&quot;,&quot;transliteration&quot;:&quot;motochigosa&quot;},{&quot;translateID&quot;:774523,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;термодинамические величины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;熱力学的量&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ねつりきがくてきりょう&quot;,&quot;transliteration&quot;:&quot;netsurikigakutekiryou&quot;},{&quot;translateID&quot;:540653,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;световые величины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;視感度量&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しかんどりょう&quot;,&quot;transliteration&quot;:&quot;shikandoryou&quot;},{&quot;translateID&quot;:401545,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;нормальная область значений влияющей величины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;基準距離&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きじゅんきょり&quot;,&quot;transliteration&quot;:&quot;kijunkyori&quot;},{&quot;translateID&quot;:401720,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;нормальная область значений влияющей величины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;基準範囲&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きじゅんはんい&quot;,&quot;transliteration&quot;:&quot;kijunhani&quot;},{&quot;translateID&quot;:686971,&quot;translationStatus&quot;:0,&quot;themeID&quot;:82,&quot;groupName&quot;:&quot;物理&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;порядок величины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;大きさの順位&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おおきさのじゅんい&quot;,&quot;transliteration&quot;:&quot;ookisanojuni&quot;},{&quot;translateID&quot;:739725,&quot;translationStatus&quot;:0,&quot;themeID&quot;:82,&quot;groupName&quot;:&quot;物理&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;измеритель величины тока&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;電流計&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;でんりゅうけい&quot;,&quot;transliteration&quot;:&quot;denryuukei&quot;},{&quot;translateID&quot;:628256,&quot;translationStatus&quot;:0,&quot;themeID&quot;:82,&quot;groupName&quot;:&quot;物理&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;отклонение регулируемой величины от идеального значения&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;制御偏差&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せいぎょへんさ&quot;,&quot;transliteration&quot;:&quot;seigyohensa&quot;},{&quot;translateID&quot;:727270,&quot;translationStatus&quot;:0,&quot;themeID&quot;:82,&quot;groupName&quot;:&quot;物理&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;источник тока постоянной величины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;定電流源&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ていでんりゅうげん&quot;,&quot;transliteration&quot;:&quot;teidenryuugen&quot;},{&quot;translateID&quot;:727266,&quot;translationStatus&quot;:0,&quot;themeID&quot;:82,&quot;groupName&quot;:&quot;物理&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ток постоянной величины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;定電流&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ていでんりゅう&quot;,&quot;transliteration&quot;:&quot;teidenryuu&quot;},{&quot;translateID&quot;:727249,&quot;translationStatus&quot;:0,&quot;themeID&quot;:82,&quot;groupName&quot;:&quot;物理&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;источник напряжения постоянной величины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;定電圧源&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ていでんあつげん&quot;,&quot;transliteration&quot;:&quot;teidenatsugen&quot;},{&quot;translateID&quot;:922084,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;зерно чрезмерной величины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;篩上&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふるいじょう&quot;,&quot;transliteration&quot;:&quot;furuijou&quot;},{&quot;translateID&quot;:803887,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;отношение величины поверхности к объёму&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;比表面積&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひひょうめんせき&quot;,&quot;transliteration&quot;:&quot;hihyoumenseki&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="величины" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

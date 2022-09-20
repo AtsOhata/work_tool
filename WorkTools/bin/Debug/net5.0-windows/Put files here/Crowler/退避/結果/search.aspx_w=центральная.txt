@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	центральная - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,центральная" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u0446%u0435%u043d%u0442%u0440%u0430%u043b%u044c%u043d%u0430%u044f" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAWAAeODreOCt+OCouiqnizml6XmnKzoqp4s44Kq44Oz44Op44Kk44OzLOi+nuabuCzovp7lhbgs5ZKM6ZyyLOe/u+iosyzjg63jgrfjgqLoqp7oqLMs44Ot44K344Ki6Kqe44GnLOmcsuiosyzRhtC10L3RgtGA0LDQu9GM0L3QsNGPZAIDD2QWCAICD2QWBAIBDxYCHgNzcmMFDy4uL2ltZy9sb2dvLnBuZ2QCBQ8WAh4EaHJlZgUOLi4vP2xhbmc9cnUtUlVkAgQPFgIeB1Zpc2libGVnZAIGDxYCHwNoZAIHD2QWCGYPFgIfA2hkAgEPFgIfA2hkAgIPFgIfA2hkAgUPFgIfA2hkZFh4So2SQVW+0RTpGFWzDVnpYpgZ" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAXX+VFJkoOxbFDosdxqORR4lIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/klmOq+A+JUtvZyiOPlHKEZxtnKr" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:true,&quot;Phrases&quot;:[{&quot;translateID&quot;:163736,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Центральная догма молекулярной биологии&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;セントラルドグマ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せんとらるどぐま&quot;,&quot;transliteration&quot;:&quot;sentorarudoguma&quot;},{&quot;translateID&quot;:706930,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Центральная Ютландия&quot;,&quot;wordnote&quot;:&quot;область&quot;,&quot;translation&quot;:&quot;中央ユラン地域&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅうおうゆらんちいき&quot;,&quot;transliteration&quot;:&quot;chuuouyuranchiiki&quot;},{&quot;translateID&quot;:707938,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;центральная часть равнины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中原&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅうげん&quot;,&quot;transliteration&quot;:&quot;chuugen&quot;},{&quot;translateID&quot;:709032,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;центральная нервная система&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中枢神経系統&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅうすしんけいけいとう&quot;,&quot;transliteration&quot;:&quot;chuusushinkeikeitou&quot;},{&quot;translateID&quot;:710066,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Центральная Японская товарная биржа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中部大阪商品取引所&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅうぶおおさかしょうひんとりひきじょ&quot;,&quot;transliteration&quot;:&quot;chuubuoosakashouhintorihikijo&quot;},{&quot;translateID&quot;:163731,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Центральная хоккейная лига&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;セントラル・ホッケー・リーグ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せんとらる・ほっけー・りーぐ&quot;,&quot;transliteration&quot;:&quot;sentoraru・hokke:・ri:gu&quot;},{&quot;translateID&quot;:706928,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Центральная Македония&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中央マケドニア&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅうおうまけどにあ&quot;,&quot;transliteration&quot;:&quot;chuuoumakedonia&quot;},{&quot;translateID&quot;:707937,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;центральная часть государства&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中原&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅうげん&quot;,&quot;transliteration&quot;:&quot;chuugen&quot;},{&quot;translateID&quot;:708985,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;центральная фигура&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中枢&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅうすう&quot;,&quot;transliteration&quot;:&quot;chuusuu&quot;},{&quot;translateID&quot;:710064,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;центральная часть Тихого океана&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中部太平洋&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅうぶたいへいよう&quot;,&quot;transliteration&quot;:&quot;chuubutaiheiyou&quot;},{&quot;translateID&quot;:163502,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;центральная выхлопная труба&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;センターパイプ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せんたーぱいぷ&quot;,&quot;transliteration&quot;:&quot;senta:paipu&quot;},{&quot;translateID&quot;:706914,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Центральная Финляндия&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中央スオミ県&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅうおうすおみけん&quot;,&quot;transliteration&quot;:&quot;chuuousuomiken&quot;},{&quot;translateID&quot;:707241,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;центральная фигура&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中核体&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅうかくたい&quot;,&quot;transliteration&quot;:&quot;chuukakutai&quot;},{&quot;translateID&quot;:708885,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;центральная часть&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中心部&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅうしんぶ&quot;,&quot;transliteration&quot;:&quot;chuushinbu&quot;},{&quot;translateID&quot;:710061,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Центральная провинция&quot;,&quot;wordnote&quot;:&quot;Шри-Ланка&quot;,&quot;translation&quot;:&quot;中部州&quot;,&quot;translationnote&quot;:&quot;スリランカ&quot;,&quot;reading&quot;:&quot;ちゅうぶしゅう&quot;,&quot;transliteration&quot;:&quot;chuubushuu&quot;},{&quot;translateID&quot;:860055,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;центральная станция&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;本局&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほんきょく&quot;,&quot;transliteration&quot;:&quot;honkyoku&quot;},{&quot;translateID&quot;:614431,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;центральная колонна&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;親柱&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おやばしら&quot;,&quot;transliteration&quot;:&quot;oyabashira&quot;},{&quot;translateID&quot;:706911,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Центральная Греция&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中央ギリシャ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅうおうぎりしゃ&quot;,&quot;transliteration&quot;:&quot;chuuougirisha&quot;},{&quot;translateID&quot;:707092,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Центральная Европа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中欧&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅうおう&quot;,&quot;transliteration&quot;:&quot;chuuou&quot;},{&quot;translateID&quot;:708859,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;центральная точка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中心点&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅうしんてん&quot;,&quot;transliteration&quot;:&quot;chuushinten&quot;},{&quot;translateID&quot;:710057,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Центральная Остроботния&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中部ポフヤンマー県&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅうぶぽふやんまーけん&quot;,&quot;transliteration&quot;:&quot;chuubupofuyanma:ken&quot;},{&quot;translateID&quot;:566822,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;центральная часть Токио&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;首都圏&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゅとけん&quot;,&quot;transliteration&quot;:&quot;shutoken&quot;},{&quot;translateID&quot;:232397,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Национальная центральная библиотека Флоренции&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;フィレンツェ国立中央図書館&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふぃれんつぇこくりつちゅうおうとしょかん&quot;,&quot;transliteration&quot;:&quot;firentsekokuritsuchuuoutoshokan&quot;},{&quot;translateID&quot;:165008,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Это не Центральная школа вождения?&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;そちらはセントラル自動車学校ではないんですか。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そちらはせんとらるじどうしゃがっこうではないんですか。&quot;,&quot;transliteration&quot;:&quot;sochirahasentorarujidoushagakkoudehanaindesuka。&quot;},{&quot;translateID&quot;:706988,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Центральная Кордильера&quot;,&quot;wordnote&quot;:&quot;Филиппины&quot;,&quot;translation&quot;:&quot;中央山岳地帯&quot;,&quot;translationnote&quot;:&quot;ルソン島&quot;,&quot;reading&quot;:&quot;ちゅうおうさんがくちたい&quot;,&quot;transliteration&quot;:&quot;chuuousangakuchitai&quot;},{&quot;translateID&quot;:708517,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;центральная фигура&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中軸&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅうじく&quot;,&quot;transliteration&quot;:&quot;chuujiku&quot;},{&quot;translateID&quot;:709910,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Центральная и Южная Америка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中南米&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅうなんべい&quot;,&quot;transliteration&quot;:&quot;chuunanbei&quot;},{&quot;translateID&quot;:709004,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;центральная нервная система&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中枢神経&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅうすしんけい&quot;,&quot;transliteration&quot;:&quot;chuusushinkei&quot;},{&quot;translateID&quot;:72019,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Центральная рада Украинской Народной Республики&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ウクライナ中央ラーダ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;うくらいなちゅうおうらーだ&quot;,&quot;transliteration&quot;:&quot;ukurainachuuoura:da&quot;},{&quot;translateID&quot;:163754,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Центральная линия&quot;,&quot;wordnote&quot;:&quot;Лондон&quot;,&quot;translation&quot;:&quot;セントラル線&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せんとらるせん&quot;,&quot;transliteration&quot;:&quot;sentorarusen&quot;},{&quot;translateID&quot;:706931,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Центральная Европа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中央ヨーロッパ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅうおうよーろっぱ&quot;,&quot;transliteration&quot;:&quot;chuuouyo:roppa&quot;},{&quot;translateID&quot;:708268,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Центральная комиссия КПК по проверке дисциплины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中国共産党中央規律検査委員会&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅうごくきょうさんとうちゅうおうきりつけんさいいんかい&quot;,&quot;transliteration&quot;:&quot;chuugokukyousantouchuuoukiritsukensaiinkai&quot;},{&quot;translateID&quot;:709033,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;центральная нервная система&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中枢神経系統&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅうすうしんけいけいとう&quot;,&quot;transliteration&quot;:&quot;chuusuushinkeikeitou&quot;},{&quot;translateID&quot;:710095,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Центральная Америка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中米&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅうべい&quot;,&quot;transliteration&quot;:&quot;chuubei&quot;},{&quot;translateID&quot;:431731,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;центральная телефонная станция&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;局&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きょく&quot;,&quot;transliteration&quot;:&quot;kyoku&quot;},{&quot;translateID&quot;:706909,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Центральная Экватория&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中央エクアトリア州&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅうおうえくあとりあしゅう&quot;,&quot;transliteration&quot;:&quot;chuuouekuatoriashuu&quot;},{&quot;translateID&quot;:707037,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Центральная избирательная комиссия&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中央選挙管理委員会&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅうおうせんきょかんりいいんかい&quot;,&quot;transliteration&quot;:&quot;chuuousenkyokanriiinkai&quot;},{&quot;translateID&quot;:708858,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;центральная роль&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中心的役割&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅうしんてきやくわり&quot;,&quot;transliteration&quot;:&quot;chuushintekiyakuwari&quot;},{&quot;translateID&quot;:710052,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Центральная Ява&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中部ジャワ州&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅうぶじゃわしゅう&quot;,&quot;transliteration&quot;:&quot;chuubujawashuu&quot;},{&quot;translateID&quot;:760519,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;центральная часть крепости&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;内庭&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ないてい&quot;,&quot;transliteration&quot;:&quot;naitei&quot;},{&quot;translateID&quot;:478704,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;центральная телефонная станция&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;交換局&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうかんきょく&quot;,&quot;transliteration&quot;:&quot;koukankyoku&quot;},{&quot;translateID&quot;:706904,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Центральная Америка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中央アメリカ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅうおうあめりか&quot;,&quot;transliteration&quot;:&quot;chuuouamerika&quot;},{&quot;translateID&quot;:707035,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Центральная избирательная комиссия&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中央選挙委員会&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅうおうせんきょいいんかい&quot;,&quot;transliteration&quot;:&quot;chuuousenkyoiinkai&quot;},{&quot;translateID&quot;:708766,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;центральная фигура&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中心人物&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅうしんじんぶつ&quot;,&quot;transliteration&quot;:&quot;chuushinjinbutsu&quot;},{&quot;translateID&quot;:710048,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Центральная Африка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中部アフリカ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅうぶあふりか&quot;,&quot;transliteration&quot;:&quot;chuubuafurika&quot;},{&quot;translateID&quot;:734269,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Центральная симметрия&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;点対称&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てんたいしょう&quot;,&quot;transliteration&quot;:&quot;tentaishou&quot;},{&quot;translateID&quot;:378907,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;центральная часть&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;核となる部分&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かくとなるぶぶん&quot;,&quot;transliteration&quot;:&quot;kakutonarububun&quot;},{&quot;translateID&quot;:706887,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Центральная Анатолия&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中央アナトリア地方&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅうおうあなとりあちほう&quot;,&quot;transliteration&quot;:&quot;chuuouanatoriachihou&quot;},{&quot;translateID&quot;:706996,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Центральная область&quot;,&quot;wordnote&quot;:&quot;Того&quot;,&quot;translation&quot;:&quot;中央州&quot;,&quot;translationnote&quot;:&quot;トーゴ&quot;,&quot;reading&quot;:&quot;ちゅうおうしゅう&quot;,&quot;transliteration&quot;:&quot;chuuoushuu&quot;},{&quot;translateID&quot;:708731,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;центральная ось&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中心軸&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅうしんじく&quot;,&quot;transliteration&quot;:&quot;chuushinjiku&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="центральная" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	наук - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,наук" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u043d%u0430%u0443%u043a" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAVy44Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNC90LDRg9C6ZAIDD2QWCAICD2QWBAIBDxYCHgNzcmMFDy4uL2ltZy9sb2dvLnBuZ2QCBQ8WAh4EaHJlZgUOLi4vP2xhbmc9cnUtUlVkAgQPFgIeB1Zpc2libGVnZAIGDxYCHwNoZAIHD2QWCGYPFgIfA2hkAgEPFgIfA2hkAgIPFgIfA2hkAgUPFgIfA2hkZKI7hsUEHpQcJTiglnxmwPKNxtfJ" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAUcJ5nk/iMz2HcfzYCh9Zi/lIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/ikpPGgmV2oFCaeU1FYfOLt9gCg/" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:true,&quot;Phrases&quot;:[{&quot;translateID&quot;:191752,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;доктор наук&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ドクトル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;どくとる&quot;,&quot;transliteration&quot;:&quot;dokutoru&quot;},{&quot;translateID&quot;:359377,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Академии наук&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;科学アカデミー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かがくあかでみー&quot;,&quot;transliteration&quot;:&quot;kagakuakademi:&quot;},{&quot;translateID&quot;:150237,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Шведская королевская академия наук&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;スウェーデン王立科学アカデミー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;すうぇーでんおうりつかがくあかでみー&quot;,&quot;transliteration&quot;:&quot;suuぇ:denouritsukagakuakademi:&quot;},{&quot;translateID&quot;:708248,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Академики Академии наук Китая&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中国科学院の院士&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅうごくかがくいんのいんし&quot;,&quot;transliteration&quot;:&quot;chuugokukagakuinnoinshi&quot;},{&quot;translateID&quot;:80989,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Энциклопедия философских наук&quot;,&quot;wordnote&quot;:&quot;Гегель&quot;,&quot;translation&quot;:&quot;エンチクロペディー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;えんちくろぺでぃー&quot;,&quot;transliteration&quot;:&quot;enchikuropedi:&quot;},{&quot;translateID&quot;:836458,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;достойная доктора филологических наук&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;文学博士たるに恥じない論文&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぶんがくはかせたるにはじないろんぶん&quot;,&quot;transliteration&quot;:&quot;bungakuhakasetarunihajinaironbun&quot;},{&quot;translateID&quot;:785346,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;диссертация на соискание учёной степени доктора наук&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;博士論文&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はくしろんぶん&quot;,&quot;transliteration&quot;:&quot;hakushironbun&quot;},{&quot;translateID&quot;:708247,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Китайская академия наук&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中国科学院&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅうごくかがくいん&quot;,&quot;transliteration&quot;:&quot;chuugokukagakuin&quot;},{&quot;translateID&quot;:76687,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Высшая школа экономических и коммерческих наук&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;エセック経済商科大学院大学&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;えせっくけいざいしょうかだいがくいんだいがく&quot;,&quot;transliteration&quot;:&quot;esekkukeizaishoukadaigakuindaigaku&quot;},{&quot;translateID&quot;:836457,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;доктор филологических наук&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;文学博士&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぶんがくはかせ&quot;,&quot;transliteration&quot;:&quot;bungakuhakase&quot;},{&quot;translateID&quot;:785340,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;степень доктора наук&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;博士号&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はくしごう&quot;,&quot;transliteration&quot;:&quot;hakushigou&quot;},{&quot;translateID&quot;:452435,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Город искусств и наук&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;芸術科学都市&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;げいじゅつかがくとし&quot;,&quot;transliteration&quot;:&quot;geijutsukagakutoshi&quot;},{&quot;translateID&quot;:220706,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Венгерская академия наук&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ハンガリー科学アカデミー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はんがりーかがくあかでみー&quot;,&quot;transliteration&quot;:&quot;hangari:kagakuakademi:&quot;},{&quot;translateID&quot;:836408,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;факультет гуманитарных наук&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;文科大学&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぶんかだいがく&quot;,&quot;transliteration&quot;:&quot;bunkadaigaku&quot;},{&quot;translateID&quot;:785336,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;степень доктора наук&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;博士の肩書&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はかせのかたがき&quot;,&quot;transliteration&quot;:&quot;hakasenokatagaki&quot;},{&quot;translateID&quot;:306468,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Лондонская школа экономики и политических наук&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ロンドン・スクール・オブ・エコノミクス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ろんどん・すくーる・おぶ・えこのみくす&quot;,&quot;transliteration&quot;:&quot;rondon・suku:ru・obu・ekonomikusu&quot;},{&quot;translateID&quot;:322301,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;доктор медицинских наук&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;医博&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いはく&quot;,&quot;transliteration&quot;:&quot;ihaku&quot;},{&quot;translateID&quot;:91659,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Медицинская академия Литовского университета для наук здравоохранения&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;カウナス医科大学&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かうなすいかだいがく&quot;,&quot;transliteration&quot;:&quot;kaunasuikadaigaku&quot;},{&quot;translateID&quot;:359379,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Французская академия наук&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;科学アカデミー&quot;,&quot;translationnote&quot;:&quot;フランス&quot;,&quot;reading&quot;:&quot;かがくあかでみー&quot;,&quot;transliteration&quot;:&quot;kagakuakademi:&quot;},{&quot;translateID&quot;:98391,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Калифорнийская академия наук&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;カリフォルニア科学アカデミー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かりふぉるにあかがくあかでみー&quot;,&quot;transliteration&quot;:&quot;kariforuniakagakuakademi:&quot;},{&quot;translateID&quot;:501908,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Международный союз геодезических и геофизических наук&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;国際測地学・地球物理学連合&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こくさいそくちがく・ちきゅうぶつりがくれんごう&quot;,&quot;transliteration&quot;:&quot;kokusaisokuchigaku・chikyuubutsurigakurengou&quot;},{&quot;translateID&quot;:50787,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Американская академия искусств и наук&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;アメリカ芸術科学アカデミー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あめりかげいじゅつかがくあかでみー&quot;,&quot;transliteration&quot;:&quot;amerikageijutsukagakuakademi:&quot;},{&quot;translateID&quot;:431540,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;курс наук&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;業&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぎょう&quot;,&quot;transliteration&quot;:&quot;gyou&quot;},{&quot;translateID&quot;:359378,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Академия наук&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;科学アカデミー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かがくあかでみー&quot;,&quot;transliteration&quot;:&quot;kagakuakademi:&quot;},{&quot;translateID&quot;:335825,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Академия кинематографических искусств и наук&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;映画芸術科学アカデミー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;えいがげいじゅつかがくあかでみー&quot;,&quot;transliteration&quot;:&quot;eigageijutsukagakuakademi:&quot;},{&quot;translateID&quot;:708311,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Академия общественных наук КНР&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中国社会科学院&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅうごくしゃかいかがくいん&quot;,&quot;transliteration&quot;:&quot;chuugokushakaikagakuin&quot;},{&quot;translateID&quot;:72003,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Национальная академия наук Украины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ウクライナ国立学士院&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;うくらいなこくりつがくしいん&quot;,&quot;transliteration&quot;:&quot;ukurainakokuritsugakushiin&quot;},{&quot;translateID&quot;:836405,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;факультет гуманитарных наук&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;文科&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぶんか&quot;,&quot;transliteration&quot;:&quot;bunka&quot;},{&quot;translateID&quot;:785327,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;доктор наук&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;博士&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はかせ&quot;,&quot;transliteration&quot;:&quot;hakase&quot;},{&quot;translateID&quot;:304187,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Российская академия наук&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ロシア科学アカデミー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ろしあかがくあかでみー&quot;,&quot;transliteration&quot;:&quot;roshiakagakuakademi:&quot;},{&quot;translateID&quot;:896611,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;доктор физико-математических наук&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;理学博士&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;りがく&quot;,&quot;transliteration&quot;:&quot;rigaku&quot;},{&quot;translateID&quot;:585468,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;доктор коммерческих наук&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;商学博士&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょうがく&quot;,&quot;transliteration&quot;:&quot;shougaku&quot;},{&quot;translateID&quot;:558840,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Высшая школа социальных наук&quot;,&quot;wordnote&quot;:&quot;Франция&quot;,&quot;translation&quot;:&quot;社会科学高等研究院&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゃかいかがくだかなどけんきゅういん&quot;,&quot;transliteration&quot;:&quot;shakaikagakudakanadokenkyuuin&quot;},{&quot;translateID&quot;:785326,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;доктор наук&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;博士&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はくし&quot;,&quot;transliteration&quot;:&quot;hakushi&quot;},{&quot;translateID&quot;:304186,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Академия наук Российской Федерации&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ロシア科学アカデミー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ろしあかがくあかでみー&quot;,&quot;transliteration&quot;:&quot;roshiakagakuakademi:&quot;},{&quot;translateID&quot;:896600,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;бакалавр физико-математических наук&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;理学士&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;りがくし&quot;,&quot;transliteration&quot;:&quot;rigakushi&quot;},{&quot;translateID&quot;:585467,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;бакалавр коммерческих наук&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;商学士&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょうがくし&quot;,&quot;transliteration&quot;:&quot;shougakushi&quot;},{&quot;translateID&quot;:558839,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Награды в области общественных наук&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;社会科学の賞&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゃかいかがくのしょう&quot;,&quot;transliteration&quot;:&quot;shakaikagakunoshou&quot;},{&quot;translateID&quot;:245888,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Прусская академия наук&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;プロイセン科学アカデミー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぷろいせんかがくあかでみー&quot;,&quot;transliteration&quot;:&quot;puroisenkagakuakademi:&quot;},{&quot;translateID&quot;:257875,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Польская академия наук&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ポーランド科学アカデミー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぽーらんどかがくあかでみー&quot;,&quot;transliteration&quot;:&quot;po:randokagakuakademi:&quot;},{&quot;translateID&quot;:896564,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;факультет естественных наук&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;理科大学&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;りかだいがく&quot;,&quot;transliteration&quot;:&quot;rikadaigaku&quot;},{&quot;translateID&quot;:381601,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;академия наук&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;学士院&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;がくしいん&quot;,&quot;transliteration&quot;:&quot;gakushiin&quot;},{&quot;translateID&quot;:558838,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;курс общественных наук&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;社会科学&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゃかいかがく&quot;,&quot;transliteration&quot;:&quot;shakaikagaku&quot;},{&quot;translateID&quot;:853557,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;кандидат юридических наук&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;法学士&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほうがくし&quot;,&quot;transliteration&quot;:&quot;hougakushi&quot;},{&quot;translateID&quot;:162797,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Сербская академия наук и искусств&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;セルビア科学芸術アカデミー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せるびあかがくげいじゅつあかでみー&quot;,&quot;transliteration&quot;:&quot;serubiakagakugeijutsuakademi:&quot;},{&quot;translateID&quot;:841198,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Национальная академия наук США&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;米国科学アカデミー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;べいこくかがくあかでみー&quot;,&quot;transliteration&quot;:&quot;beikokukagakuakademi:&quot;},{&quot;translateID&quot;:701672,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;классификация наук&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;知識分類&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちしきぶんるい&quot;,&quot;transliteration&quot;:&quot;chishikibunrui&quot;},{&quot;translateID&quot;:381901,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;классификация наук&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;学問分類&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;がくもんぶんるい&quot;,&quot;transliteration&quot;:&quot;gakumonbunrui&quot;},{&quot;translateID&quot;:841199,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Национальная академия наук&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;米国科学アカデミー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;べいこくかがくあかでみー&quot;,&quot;transliteration&quot;:&quot;beikokukagakuakademi:&quot;},{&quot;translateID&quot;:785333,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;доктор наук&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;博士&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はかせ&quot;,&quot;transliteration&quot;:&quot;hakase&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="наук" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

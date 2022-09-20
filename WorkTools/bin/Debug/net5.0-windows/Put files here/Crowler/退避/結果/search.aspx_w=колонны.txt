@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	колонны - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,колонны" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u043a%u043e%u043b%u043e%u043d%u043d%u044b" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV444Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNC60L7Qu9C+0L3QvdGLZAIDD2QWCAICD2QWBAIBDxYCHgNzcmMFDy4uL2ltZy9sb2dvLnBuZ2QCBQ8WAh4EaHJlZgUOLi4vP2xhbmc9cnUtUlVkAgQPFgIeB1Zpc2libGVnZAIGDxYCHwNoZAIHD2QWCGYPFgIfA2hkAgEPFgIfA2hkAgIPFgIfA2hkAgUPFgIfA2hkZKxx+mNUsn/w2tWZ4fF6lnCckP47" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAW4tvwfVaW/drj92lpV6DrDlIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/lbtRm6Gog5J1NS1tz3+38ASKv33" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:false,&quot;Phrases&quot;:[{&quot;translateID&quot;:711129,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;в виде колонны&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;柱状の&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅうじょうの&quot;,&quot;transliteration&quot;:&quot;chuujouno&quot;},{&quot;translateID&quot;:615544,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;головная часть войсковой колонны&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;進軍の最尖端&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しんぐんのさいせんたん&quot;,&quot;transliteration&quot;:&quot;shingunnosaisentan&quot;},{&quot;translateID&quot;:495010,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;примкнуть к концу колонны&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;行列の後につく&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぎょうれつのあとにつく&quot;,&quot;transliteration&quot;:&quot;gyouretsunoatonitsuku&quot;},{&quot;translateID&quot;:495006,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;примкнуть к концу колонны&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;行列のびりに付く&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぎょうれつのびりにつく&quot;,&quot;transliteration&quot;:&quot;gyouretsunobirinitsuku&quot;},{&quot;translateID&quot;:650605,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;голова колонны&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;先兵&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せんぺい&quot;,&quot;transliteration&quot;:&quot;senpei&quot;},{&quot;translateID&quot;:572902,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;насадочные колонны&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;充てんカラム&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じゅうてんからむ&quot;,&quot;transliteration&quot;:&quot;juutenkaramu&quot;},{&quot;translateID&quot;:711110,&quot;translationStatus&quot;:0,&quot;themeID&quot;:24,&quot;groupName&quot;:&quot;土木&quot;,&quot;themeName&quot;:&quot;橋梁工学&quot;,&quot;word&quot;:&quot;фундамент колонны&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;柱基部&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はしらきぶ&quot;,&quot;transliteration&quot;:&quot;hashirakibu&quot;},{&quot;translateID&quot;:162193,&quot;translationStatus&quot;:0,&quot;themeID&quot;:27,&quot;groupName&quot;:&quot;土木&quot;,&quot;themeName&quot;:&quot;材料工学&quot;,&quot;word&quot;:&quot;колонны из материалов на основе цементов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;セメント柱&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せめんとばしら&quot;,&quot;transliteration&quot;:&quot;sementobashira&quot;},{&quot;translateID&quot;:533297,&quot;translationStatus&quot;:0,&quot;themeID&quot;:34,&quot;groupName&quot;:&quot;土木&quot;,&quot;themeName&quot;:&quot;基礎工学&quot;,&quot;word&quot;:&quot;ветвь составной решётчатой колонны&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;支柱&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しちゅう&quot;,&quot;transliteration&quot;:&quot;shichuu&quot;},{&quot;translateID&quot;:117407,&quot;translationStatus&quot;:0,&quot;themeID&quot;:43,&quot;groupName&quot;:&quot;土木&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;стержень колонны&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;けらば&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けらば&quot;,&quot;transliteration&quot;:&quot;keraba&quot;},{&quot;translateID&quot;:600202,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;куб колонны&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;蒸溜塔&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じょうりゅうとう&quot;,&quot;transliteration&quot;:&quot;jouryuutou&quot;},{&quot;translateID&quot;:173422,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;тарелка колонны&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;たな板&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たなばん&quot;,&quot;transliteration&quot;:&quot;tanaban&quot;},{&quot;translateID&quot;:384241,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;направляющий башмак обсадной колонны&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;滑り靴&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;すべりぐつ&quot;,&quot;transliteration&quot;:&quot;suberigutsu&quot;},{&quot;translateID&quot;:204782,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;угол азимутального отклонения бурильной колонны&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ねじり角度&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ねじりかくど&quot;,&quot;transliteration&quot;:&quot;nejirikakudo&quot;},{&quot;translateID&quot;:278945,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;компенсатор бурильной колонны&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;モーションコンペンセータ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;もーしょんこんぺんせーた&quot;,&quot;transliteration&quot;:&quot;mo:shonkonpense:ta&quot;},{&quot;translateID&quot;:711164,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;капитель колонны&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;柱頭&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅうとう&quot;,&quot;transliteration&quot;:&quot;chuutou&quot;},{&quot;translateID&quot;:115836,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;хвостовик обсадной колонны&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ケーシングライナ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けーしんぐらいな&quot;,&quot;transliteration&quot;:&quot;ke:shinguraina&quot;},{&quot;translateID&quot;:418063,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;адсорбционные колонны&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;吸着筒&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きゅうちゃくつつ&quot;,&quot;transliteration&quot;:&quot;kyuuchakutsutsu&quot;},{&quot;translateID&quot;:636930,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;ректификационные колонны&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;精溜塔&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せいためとう&quot;,&quot;transliteration&quot;:&quot;seitametou&quot;},{&quot;translateID&quot;:115816,&quot;translationStatus&quot;:0,&quot;themeID&quot;:49,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;石油・ガス&quot;,&quot;word&quot;:&quot;муфта обсадной колонны&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ケーシングカップリング&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けーしんぐかっぷりんぐ&quot;,&quot;transliteration&quot;:&quot;ke:shingukappuringu&quot;},{&quot;translateID&quot;:115831,&quot;translationStatus&quot;:0,&quot;themeID&quot;:49,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;石油・ガス&quot;,&quot;word&quot;:&quot;головка обсадной колонны&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ケーシングヘッド&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けーしんぐへっど&quot;,&quot;transliteration&quot;:&quot;ke:shinguheddo&quot;},{&quot;translateID&quot;:171411,&quot;translationStatus&quot;:0,&quot;themeID&quot;:49,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;石油・ガス&quot;,&quot;word&quot;:&quot;алмазный башмак обсадной колонны&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ダイヤモンドケーシングシュー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;だいやもんどけーしんぐしゅー&quot;,&quot;transliteration&quot;:&quot;daiyamondoke:shingushu:&quot;},{&quot;translateID&quot;:459939,&quot;translationStatus&quot;:0,&quot;themeID&quot;:50,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;金属&quot;,&quot;word&quot;:&quot;колонны для сооружений, конструкций&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;建築用金属製柱&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けんちくようきんぞくせいばしら&quot;,&quot;transliteration&quot;:&quot;kenchikuyoukinzokuseibashira&quot;},{&quot;translateID&quot;:115832,&quot;translationStatus&quot;:0,&quot;themeID&quot;:50,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;金属&quot;,&quot;word&quot;:&quot;головка обсадной колонны&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ケーシングヘッド&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けーしんぐへっど&quot;,&quot;transliteration&quot;:&quot;ke:shinguheddo&quot;},{&quot;translateID&quot;:600270,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;колонны дистилляционные&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;蒸留塔&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じょうりゅうとう&quot;,&quot;transliteration&quot;:&quot;jouryuutou&quot;},{&quot;translateID&quot;:220538,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;подвеска обсадной колонны&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ハンガー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はんがー&quot;,&quot;transliteration&quot;:&quot;hanga:&quot;},{&quot;translateID&quot;:654522,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;прорезание тросом искривлённой обсадной колонны&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;線画凸版&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せんがとっぱん&quot;,&quot;transliteration&quot;:&quot;sengatoppan&quot;},{&quot;translateID&quot;:179003,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;подвеска лифтовой колонны&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;チュービングハンガー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅーびんぐはんがー&quot;,&quot;transliteration&quot;:&quot;chu:binguhanga:&quot;},{&quot;translateID&quot;:854086,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;колпачок барботажной ректификационной колонны&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;泡鐘&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あわかね&quot;,&quot;transliteration&quot;:&quot;awakane&quot;},{&quot;translateID&quot;:179004,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;головка лифтовой колонны&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;チュービングヘッド&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅーびんぐへっど&quot;,&quot;transliteration&quot;:&quot;chu:binguheddo&quot;},{&quot;translateID&quot;:216723,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;колпачок барботажной ректификационной колонны&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;バブルキャップ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ばぶるきゃっぷ&quot;,&quot;transliteration&quot;:&quot;baburukyappu&quot;},{&quot;translateID&quot;:306374,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;нижняя секция эксплуатационной колонны&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ロングストリング&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ろんぐすとりんぐ&quot;,&quot;transliteration&quot;:&quot;rongusutoringu&quot;},{&quot;translateID&quot;:215212,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;колпачок барботажной ректификационной колонны&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;バッブルキャップ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ばっぶるきゃっぷ&quot;,&quot;transliteration&quot;:&quot;babburukyappu&quot;},{&quot;translateID&quot;:179006,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;предохранительный клапан лифтовой колонны&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;チュービング安全弁&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅーびんぐあんぜんべん&quot;,&quot;transliteration&quot;:&quot;chu:binguanzenben&quot;},{&quot;translateID&quot;:776874,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;укрепляющая часть колонны&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;濃縮塔&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;のうしゅくとう&quot;,&quot;transliteration&quot;:&quot;noushukutou&quot;},{&quot;translateID&quot;:115822,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;цементирование обсадной колонны&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ケーシングセメンティング&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けーしんぐせめんてぃんぐ&quot;,&quot;transliteration&quot;:&quot;ke:shingusementingu&quot;},{&quot;translateID&quot;:884975,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;давление колонны&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;有柱プレス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ゆうばしらぷれす&quot;,&quot;transliteration&quot;:&quot;yuubashirapuresu&quot;},{&quot;translateID&quot;:115825,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;контрольный прибор для исследования обсадной колонны труб на герметичность&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ケーシングテスター&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けーしんぐてすたー&quot;,&quot;transliteration&quot;:&quot;ke:shingutesuta:&quot;},{&quot;translateID&quot;:179002,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;пакер лифтовой колонны&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;チュービングパッカー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅーびんぐぱっかー&quot;,&quot;transliteration&quot;:&quot;chu:bingupakka:&quot;},{&quot;translateID&quot;:253593,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;головка колонны&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ベルキャップ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;べるきゃっぷ&quot;,&quot;transliteration&quot;:&quot;berukyappu&quot;},{&quot;translateID&quot;:98006,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;эффективность колонны&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;カラム効率&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;からむこうりつ&quot;,&quot;transliteration&quot;:&quot;karamukouritsu&quot;},{&quot;translateID&quot;:154922,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;предохранительный клапан лифтовой колонны&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ストームチョーク&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;すとーむちょーく&quot;,&quot;transliteration&quot;:&quot;suto:mucho:ku&quot;},{&quot;translateID&quot;:115828,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;подвеска обсадной колонны&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ケーシングハンガー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けーしんぐはんがー&quot;,&quot;transliteration&quot;:&quot;ke:shinguhanga:&quot;},{&quot;translateID&quot;:157447,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;хомут, применяемый при регулировке рабочей длины колонны насосно-компрессорных труб&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;スペーシングクランプ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;すぺーしんぐくらんぷ&quot;,&quot;transliteration&quot;:&quot;supe:shingukuranpu&quot;},{&quot;translateID&quot;:357710,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;нижняя тарелка колонны&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;可動側取付板&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かどうがわとりつけいた&quot;,&quot;transliteration&quot;:&quot;kadougawatoritsukeita&quot;},{&quot;translateID&quot;:893386,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;траверса колонны&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;翼板&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;よくばん&quot;,&quot;transliteration&quot;:&quot;yokuban&quot;},{&quot;translateID&quot;:711128,&quot;translationStatus&quot;:0,&quot;themeID&quot;:175,&quot;groupName&quot;:&quot;地学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;в виде колонны&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;柱状&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅうじょう&quot;,&quot;transliteration&quot;:&quot;chuujou&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="колонны" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

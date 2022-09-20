@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	ханс - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,ханс" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u0445%u0430%u043d%u0441" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAVy44Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNGF0LDQvdGBZAIDD2QWCAICD2QWBAIBDxYCHgNzcmMFDy4uL2ltZy9sb2dvLnBuZ2QCBQ8WAh4EaHJlZgUOLi4vP2xhbmc9cnUtUlVkAgQPFgIeB1Zpc2libGVnZAIGDxYCHwNoZAIHD2QWCGYPFgIfA2hkAgEPFgIfA2hkAgIPFgIfA2hkAgUPFgIfA2hkZHYz+hkM/Ul8jKgqfjItY+W76Umq" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAVVVHcNQhkKQrp3Me78IB+ilIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/iyT/NCvQ1M+vGIbpLYe6SmqD0Vg" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:true,&quot;Phrases&quot;:[{&quot;translateID&quot;:221100,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Хенце, Ханс Вернер&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ハンス・ヴェルナー・ヘンツェ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はんす・ヴぇるなー・へんつぇ&quot;,&quot;transliteration&quot;:&quot;hansu・vuぇruna:・hentse&quot;},{&quot;translateID&quot;:221124,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Кребс, Ханс Адольф&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ハンス・クレブス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はんす・くれぶす&quot;,&quot;transliteration&quot;:&quot;hansu・kurebusu&quot;},{&quot;translateID&quot;:221145,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Тальхоффер, Ханс&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ハンス・タールホファー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はんす・たーるほふぁー&quot;,&quot;transliteration&quot;:&quot;hansu・ta:ruhofa:&quot;},{&quot;translateID&quot;:221159,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Обстфельдер, Ханс фон&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ハンス・フォン・オープストフェルダー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はんす・ふぉん・おーぷすとふぇるだー&quot;,&quot;transliteration&quot;:&quot;hansu・fon・o:pusutoferuda:&quot;},{&quot;translateID&quot;:221180,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Холляйн, Ханс&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ハンス・ホライン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はんす・ほらいん&quot;,&quot;transliteration&quot;:&quot;hansu・horain&quot;},{&quot;translateID&quot;:221096,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Йелинек, Ханс&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ハンス・イェリネク&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はんす・いぇりねく&quot;,&quot;transliteration&quot;:&quot;hansu・iぇrineku&quot;},{&quot;translateID&quot;:221120,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Лумбю, Ханс Кристиан&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ハンス・クリスチャン・ロンビ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はんす・くりすちゃん・ろんび&quot;,&quot;transliteration&quot;:&quot;hansu・kurisuchan・ronbi&quot;},{&quot;translateID&quot;:221141,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Шмидт-Иссерштедт, Ханс&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ハンス・シュミット・イッセルシュテット&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はんす・しゅみっと・いっせるしゅてっと&quot;,&quot;transliteration&quot;:&quot;hansu・shumitto・isserushutetto&quot;},{&quot;translateID&quot;:221158,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Эйлер-Хельпин, Ханс Карл Август Симон фон&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ハンス・フォン・オイラー・ケルピン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はんす・ふぉん・おいらー・けるぴん&quot;,&quot;transliteration&quot;:&quot;hansu・fon・oira:・kerupin&quot;},{&quot;translateID&quot;:221178,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Хоттер, Ханс&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ハンス・ホッター&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はんす・ほったー&quot;,&quot;transliteration&quot;:&quot;hansu・hotta:&quot;},{&quot;translateID&quot;:221090,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Ферзен, Ханс Аксель фон&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ハンス・アクセル・フォン・フェルセン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はんす・あくせる・ふぉん・ふぇるせん&quot;,&quot;transliteration&quot;:&quot;hansu・akuseru・fon・ferusen&quot;},{&quot;translateID&quot;:221118,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Андерсен, Ханс Кристиан&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ハンス・クリスチャン・アンデルセン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はんす・くりすちゃん・あんでるせん&quot;,&quot;transliteration&quot;:&quot;hansu・kurisuchan・anderusen&quot;},{&quot;translateID&quot;:221140,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Шпеман, Ханс&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ハンス・シュペーマン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はんす・しゅぺーまん&quot;,&quot;transliteration&quot;:&quot;hansu・shupe:man&quot;},{&quot;translateID&quot;:221157,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Аахен, Ханс фон&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ハンス・フォン・アーヘン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はんす・ふぉん・あーへん&quot;,&quot;transliteration&quot;:&quot;hansu・fon・a:hen&quot;},{&quot;translateID&quot;:221177,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Беллмер, Ханс&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ハンス・ベルメール&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はんす・べるめーる&quot;,&quot;transliteration&quot;:&quot;hansu・berume:ru&quot;},{&quot;translateID&quot;:221087,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Эйслер, Ханс&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ハンス・アイスラー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はんす・あいすらー&quot;,&quot;transliteration&quot;:&quot;hansu・aisura:&quot;},{&quot;translateID&quot;:221117,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Кранкль, Ханс&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ハンス・クランクル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はんす・くらんくる&quot;,&quot;transliteration&quot;:&quot;hansu・kurankuru&quot;},{&quot;translateID&quot;:221139,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Шпайдель, Ханс&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ハンス・シュパイデル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はんす・しゅぱいでる&quot;,&quot;transliteration&quot;:&quot;hansu・shupaideru&quot;},{&quot;translateID&quot;:221156,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Фишер, Ханс&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ハンス・フィッシャー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はんす・ふぃっしゃー&quot;,&quot;transliteration&quot;:&quot;hansu・fissha:&quot;},{&quot;translateID&quot;:221175,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Пёльциг, Ханс&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ハンス・ペルツィヒ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はんす・ぺるつぃひ&quot;,&quot;transliteration&quot;:&quot;hansu・perutsihi&quot;},{&quot;translateID&quot;:221211,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Росбауд, Ханс&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ハンス・ロスバウト&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はんす・ろすばうと&quot;,&quot;transliteration&quot;:&quot;hansu・rosubauto&quot;},{&quot;translateID&quot;:104363,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Клюге, Ханс Гюнтер фон&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ギュンター・フォン・クルーゲ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぎゅんたー・ふぉん・くるーげ&quot;,&quot;transliteration&quot;:&quot;gyunta:・fon・kuru:ge&quot;},{&quot;translateID&quot;:221103,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Апостель, Ханс Эрих&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ハンス・エーリッヒ・アポステル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はんす・えーりっひ・あぽすてる&quot;,&quot;transliteration&quot;:&quot;hansu・e:rihhi・aposuteru&quot;},{&quot;translateID&quot;:221131,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Гершвилер, Ханс&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ハンス・ゲルシュヴィラー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はんす・げるしゅヴぃらー&quot;,&quot;transliteration&quot;:&quot;hansu・gerushuvira:&quot;},{&quot;translateID&quot;:221148,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Демельт, Ханс Георг&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ハンス・デーメルト&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はんす・でーめると&quot;,&quot;transliteration&quot;:&quot;hansu・de:meruto&quot;},{&quot;translateID&quot;:221164,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Вонк, Ханс&quot;,&quot;wordnote&quot;:&quot;дирижёр&quot;,&quot;translation&quot;:&quot;ハンス・フォンク&quot;,&quot;translationnote&quot;:&quot;指揮者&quot;,&quot;reading&quot;:&quot;はんす・ふぉんく&quot;,&quot;transliteration&quot;:&quot;hansu・fonku&quot;},{&quot;translateID&quot;:221184,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Мэтисон, Ханс&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ハンス・マシソン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はんす・ましそん&quot;,&quot;transliteration&quot;:&quot;hansu・mashison&quot;},{&quot;translateID&quot;:57907,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Андерсен Ханс Кристиан&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;アンデルセン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あんでるせん&quot;,&quot;transliteration&quot;:&quot;anderusen&quot;},{&quot;translateID&quot;:221101,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Бальтазар, Ханс Урс фон&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ハンス・ウルス・フォン・バルタサル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はんす・うるす・ふぉん・ばるたさる&quot;,&quot;transliteration&quot;:&quot;hansu・urusu・fon・barutasaru&quot;},{&quot;translateID&quot;:221125,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Крох, Ханс&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ハンス・クロー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はんす・くろー&quot;,&quot;transliteration&quot;:&quot;hansu・kuro:&quot;},{&quot;translateID&quot;:221146,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Тильковски, Ханс&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ハンス・チルコフスキ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はんす・ちるこふすき&quot;,&quot;transliteration&quot;:&quot;hansu・chirukofusuki&quot;},{&quot;translateID&quot;:221162,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Сект, Ханс фон&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ハンス・フォン・ゼークト&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はんす・ふぉん・ぜーくと&quot;,&quot;transliteration&quot;:&quot;hansu・fon・ze:kuto&quot;},{&quot;translateID&quot;:221182,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Зутермайстер, Ханс Мартин&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ハンス・マーティン・ズーターマイスター&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はんす・まーてぃん・ずーたーまいすたー&quot;,&quot;transliteration&quot;:&quot;hansu・ma:tin・zu:ta:maisuta:&quot;},{&quot;translateID&quot;:116503,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Райнхардт, Георг Ханс&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ゲオルク・ハンス・ラインハルト&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;げおるく・はんす・らいんはると&quot;,&quot;transliteration&quot;:&quot;georuku・hansu・rainharuto&quot;},{&quot;translateID&quot;:221113,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Кнаппертсбуш, Ханс&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ハンス・クナッパーツブッシュ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はんす・くなっぱーつぶっしゅ&quot;,&quot;transliteration&quot;:&quot;hansu・kunappa:tsubusshu&quot;},{&quot;translateID&quot;:221137,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Циммер, Ханс&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ハンス・ジマー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はんす・じまー&quot;,&quot;transliteration&quot;:&quot;hansu・jima:&quot;},{&quot;translateID&quot;:221155,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Ван Брёкелен, Ханс&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ハンス・ファン・ブロイケレン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はんす・ふぁん・ぶろいけれん&quot;,&quot;transliteration&quot;:&quot;hansu・fan・buroikeren&quot;},{&quot;translateID&quot;:221173,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Бете, Ханс Альбрехт&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ハンス・ベーテ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はんす・べーて&quot;,&quot;transliteration&quot;:&quot;hansu・be:te&quot;},{&quot;translateID&quot;:221204,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Рихтер, Ханс&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ハンス・リヒター&quot;,&quot;translationnote&quot;:&quot;画家&quot;,&quot;reading&quot;:&quot;はんす・りひたー&quot;,&quot;transliteration&quot;:&quot;hansu・rihita:&quot;},{&quot;translateID&quot;:31475,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Рей, Ханс Аугусто&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;H・A・レイ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;H・A・れい&quot;,&quot;transliteration&quot;:&quot;H・A・rei&quot;},{&quot;translateID&quot;:221111,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Кюнг, Ханс&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ハンス・キュング&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はんす・きゅんぐ&quot;,&quot;transliteration&quot;:&quot;hansu・kyungu&quot;},{&quot;translateID&quot;:221136,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Шефер, Ханс&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ハンス・シェーファー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はんす・しぇーふぁー&quot;,&quot;transliteration&quot;:&quot;hansu・she:fa:&quot;},{&quot;translateID&quot;:221154,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Бальдунг, Ханс&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ハンス・バルドゥング&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はんす・ばるどぅんぐ&quot;,&quot;transliteration&quot;:&quot;hansu・barudoぅngu&quot;},{&quot;translateID&quot;:221170,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Блюменберг, Ханс&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ハンス・ブルーメンベルク&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はんす・ぶるーめんべるく&quot;,&quot;transliteration&quot;:&quot;hansu・buru:menberuku&quot;},{&quot;translateID&quot;:221199,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Райзер, Ханс&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ハンス・ライザー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はんす・らいざー&quot;,&quot;transliteration&quot;:&quot;hansu・raiza:&quot;},{&quot;translateID&quot;:285882,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Йенсен, Йоханнес Ханс Даниель&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ヨハネス・ハンス・イェンゼン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;よはねす・はんす・いぇんぜん&quot;,&quot;transliteration&quot;:&quot;yohanesu・hansu・iぇnzen&quot;},{&quot;translateID&quot;:221107,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Остер, Ханс&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ハンス・オスター&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はんす・おすたー&quot;,&quot;transliteration&quot;:&quot;hansu・osuta:&quot;},{&quot;translateID&quot;:221134,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Сарпей, Ханс&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ハンス・サーペイ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はんす・さーぺい&quot;,&quot;transliteration&quot;:&quot;hansu・sa:pei&quot;},{&quot;translateID&quot;:221152,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Хан, Ханс&quot;,&quot;wordnote&quot;:&quot;лётчик&quot;,&quot;translation&quot;:&quot;ハンス・ハーン&quot;,&quot;translationnote&quot;:&quot;軍人&quot;,&quot;reading&quot;:&quot;はんす・はーん&quot;,&quot;transliteration&quot;:&quot;hansu・ha:n&quot;},{&quot;translateID&quot;:221168,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Бликс, Ханс&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ハンス・ブリックス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はんす・ぶりっくす&quot;,&quot;transliteration&quot;:&quot;hansu・burikkusu&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="ханс" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

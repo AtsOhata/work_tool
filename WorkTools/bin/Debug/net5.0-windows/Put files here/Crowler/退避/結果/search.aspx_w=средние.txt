@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	средние - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,средние" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u0441%u0440%u0435%u0434%u043d%u0438%u0435" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV444Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNGB0YDQtdC00L3QuNC1ZAIDD2QWCAICD2QWBAIBDxYCHgNzcmMFDy4uL2ltZy9sb2dvLnBuZ2QCBQ8WAh4EaHJlZgUOLi4vP2xhbmc9cnUtUlVkAgQPFgIeB1Zpc2libGVnZAIGDxYCHwNoZAIHD2QWCGYPFgIfA2hkAgEPFgIfA2hkAgIPFgIfA2hkAgUPFgIfA2hkZKOr4UrBvc5LouduLU+3nVF0s6zT" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAVuM7FstrnxnGkf8ekR5Gt8lIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/iCr3DLFDGQSwVB1wg/rcX59nPR1" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:false,&quot;Phrases&quot;:[{&quot;translateID&quot;:708584,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;средние и мелкие предприниматели&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中小企業者&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅうしょうきぎょうしゃ&quot;,&quot;transliteration&quot;:&quot;chuushoukigyousha&quot;},{&quot;translateID&quot;:878722,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;средние передние зубы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;門歯&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;もんし&quot;,&quot;transliteration&quot;:&quot;monshi&quot;},{&quot;translateID&quot;:708582,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;средние и мелкие предприятия&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中小企業&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅうしょうきぎょう&quot;,&quot;transliteration&quot;:&quot;chuushoukigyou&quot;},{&quot;translateID&quot;:838307,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Средние величины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;平均&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;へいきん&quot;,&quot;transliteration&quot;:&quot;heikin&quot;},{&quot;translateID&quot;:708535,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;средние по скороспелости сорта риса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中手&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なかて&quot;,&quot;transliteration&quot;:&quot;nakate&quot;},{&quot;translateID&quot;:709999,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;средние волны&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中波長&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅうはちょう&quot;,&quot;transliteration&quot;:&quot;chuuhachou&quot;},{&quot;translateID&quot;:708416,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;средние классы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中産階級&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぎゅうさんかいきゅう&quot;,&quot;transliteration&quot;:&quot;gyuusankaikyuu&quot;},{&quot;translateID&quot;:709991,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Средние волны&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中波&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅうは&quot;,&quot;transliteration&quot;:&quot;chuuha&quot;},{&quot;translateID&quot;:707705,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;средние классы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中級&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅうきゅう&quot;,&quot;transliteration&quot;:&quot;chuukyuu&quot;},{&quot;translateID&quot;:708590,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;средние и мелкие торговцы и предприниматели&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中小商工業者&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅうしょうしょうこうぎょうしゃ&quot;,&quot;transliteration&quot;:&quot;chuushoushoukougyousha&quot;},{&quot;translateID&quot;:689490,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;средние и малые&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;大中小の&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おおなかしょうの&quot;,&quot;transliteration&quot;:&quot;oonakashouno&quot;},{&quot;translateID&quot;:706836,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;средние величины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中位数&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅういすう&quot;,&quot;transliteration&quot;:&quot;chuuisuu&quot;},{&quot;translateID&quot;:708589,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;малые и средние страны&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中小諸国家&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちょうしょうしょこっか&quot;,&quot;transliteration&quot;:&quot;choushoushokokka&quot;},{&quot;translateID&quot;:584114,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;женские вузы и средние школы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;女子大中&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じょしだいちゅう&quot;,&quot;transliteration&quot;:&quot;joshidaichuu&quot;},{&quot;translateID&quot;:707956,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;средние века&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中古&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅうこ&quot;,&quot;transliteration&quot;:&quot;chuuko&quot;},{&quot;translateID&quot;:709429,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Средние танки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中戦車&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅうせんしゃ&quot;,&quot;transliteration&quot;:&quot;chuusensha&quot;},{&quot;translateID&quot;:521200,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;три корейских государства в средние века&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;三韓&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さんかん&quot;,&quot;transliteration&quot;:&quot;sankan&quot;},{&quot;translateID&quot;:709080,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;средние века&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中世紀&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅうせいき&quot;,&quot;transliteration&quot;:&quot;chuuseiki&quot;},{&quot;translateID&quot;:707721,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Бегуны на средние дистанции&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中距離走の選手&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅうきょりそうのせんしゅ&quot;,&quot;transliteration&quot;:&quot;chuukyorisounosenshu&quot;},{&quot;translateID&quot;:709076,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Средние века&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中世ヨーロッパ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅうせいよーろっぱ&quot;,&quot;transliteration&quot;:&quot;chuuseiyo:roppa&quot;},{&quot;translateID&quot;:860959,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;средние способности&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;凡手&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぼんしゅ&quot;,&quot;transliteration&quot;:&quot;bonshu&quot;},{&quot;translateID&quot;:707720,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Бег на средние дистанции&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中距離走&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅうきょりそう&quot;,&quot;transliteration&quot;:&quot;chuukyorisou&quot;},{&quot;translateID&quot;:709067,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;средние века&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中世&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅうせい&quot;,&quot;transliteration&quot;:&quot;chuusei&quot;},{&quot;translateID&quot;:625299,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;средние ворота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;随身門&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ずいじんもん&quot;,&quot;transliteration&quot;:&quot;zuijinmon&quot;},{&quot;translateID&quot;:757544,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;отклонение от прямой, проведённой через средние точки максимальных отклонений&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;独立直線性&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;どくりつちょくせんせい&quot;,&quot;transliteration&quot;:&quot;dokuritsuchokusensei&quot;},{&quot;translateID&quot;:250349,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;средние волны&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ヘクトメートル波&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;へくとめーとるは&quot;,&quot;transliteration&quot;:&quot;hekutome:toruha&quot;},{&quot;translateID&quot;:838565,&quot;translationStatus&quot;:0,&quot;themeID&quot;:82,&quot;groupName&quot;:&quot;物理&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;средние солнечные сутки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;平均太陽日&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;へいきんたいようひ&quot;,&quot;transliteration&quot;:&quot;heikintaiyouhi&quot;},{&quot;translateID&quot;:838484,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;средние комнатные условия&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;平均室条件&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;へいきんしつじょうけん&quot;,&quot;transliteration&quot;:&quot;heikinshitsujouken&quot;},{&quot;translateID&quot;:880158,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;средние расходы по пенсионному плану&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;役務費&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;えきむひ&quot;,&quot;transliteration&quot;:&quot;ekimuhi&quot;},{&quot;translateID&quot;:838545,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;средние эритроцитные константы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;平均赤血球恒数&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;へいきんせっけっきゅうこうすう&quot;,&quot;transliteration&quot;:&quot;heikinsekkekkyuukousuu&quot;},{&quot;translateID&quot;:710304,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;средние ячейки решетчатой кости&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中篩骨蜂巣&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅうしこつほうそう&quot;,&quot;transliteration&quot;:&quot;chuushikotsuhousou&quot;},{&quot;translateID&quot;:710305,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;средние решетчатые ячейки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中篩骨蜂巣&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅうしこつほうそう&quot;,&quot;transliteration&quot;:&quot;chuushikotsuhousou&quot;},{&quot;translateID&quot;:707921,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;средние ободочные лимфатические узлы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中結腸リンパ節&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅうけっちょうりんぱせつ&quot;,&quot;transliteration&quot;:&quot;chuukecchourinpasetsu&quot;},{&quot;translateID&quot;:672474,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;средние резцы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;側切歯&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そくせっし&quot;,&quot;transliteration&quot;:&quot;sokusesshi&quot;},{&quot;translateID&quot;:707985,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;средние щитовидные вены&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中甲状腺静脈&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅうこうじょうせんじょうみゃく&quot;,&quot;transliteration&quot;:&quot;chuukoujousenjoumyaku&quot;},{&quot;translateID&quot;:707987,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;средние менингеальные вены&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中硬膜静脈&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅうこうまくじょうみゃく&quot;,&quot;transliteration&quot;:&quot;chuukoumakujoumyaku&quot;},{&quot;translateID&quot;:258260,&quot;translationStatus&quot;:0,&quot;themeID&quot;:185,&quot;groupName&quot;:&quot;経済&quot;,&quot;themeName&quot;:&quot;金融&quot;,&quot;word&quot;:&quot;банк, обслуживающий средние и крупные предприятия&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ホールセール・バンク&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほーるせーる・ばんく&quot;,&quot;transliteration&quot;:&quot;ho:ruse:ru・banku&quot;},{&quot;translateID&quot;:708583,&quot;translationStatus&quot;:0,&quot;themeID&quot;:200,&quot;groupName&quot;:&quot;法律&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;средние и мелкие предприятия&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中小企業&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅうしょうきぎょう&quot;,&quot;transliteration&quot;:&quot;chuushoukigyou&quot;},{&quot;translateID&quot;:709070,&quot;translationStatus&quot;:0,&quot;themeID&quot;:208,&quot;groupName&quot;:&quot;人文&quot;,&quot;themeName&quot;:&quot;文学&quot;,&quot;word&quot;:&quot;Философский дневник маньяка-убийцы, жившего в Средние века&quot;,&quot;wordnote&quot;:&quot;автор: Мисима Юкио, переводчик: Коваленин Ю.&quot;,&quot;translation&quot;:&quot;中世に於ける一殺人常習者の遺せる哲学的日記の抜粋&quot;,&quot;translationnote&quot;:&quot;三島由紀夫&quot;,&quot;reading&quot;:&quot;ちゅうせいにおいてけるいちさつじんじょうしゅうしゃののこせるてつがくてきにっきのばっすい&quot;,&quot;transliteration&quot;:&quot;chuuseinioitekeruichisatsujinjoushuushanonokoserutetsugakutekinikkinobassui&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="средние" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	службу - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,службу" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u0441%u043b%u0443%u0436%u0431%u0443" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV244Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNGB0LvRg9C20LHRg2QCAw9kFggCAg9kFgQCAQ8WAh4Dc3JjBQ8uLi9pbWcvbG9nby5wbmdkAgUPFgIeBGhyZWYFDi4uLz9sYW5nPXJ1LVJVZAIEDxYCHgdWaXNpYmxlZ2QCBg8WAh8DaGQCBw9kFghmDxYCHwNoZAIBDxYCHwNoZAICDxYCHwNoZAIFDxYCHwNoZGSN7qJwHIZFo+PvzSI8nFruvBVNFQ==" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAVltFKhbfzywI230ilIOsx3lIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/juWeJMeyv7feGmO1H+KOyToWoZw" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:false,&quot;Phrases&quot;:[{&quot;translateID&quot;:770177,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;поступать на службу куда-либо&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;入社する&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にゅうしゃする&quot;,&quot;transliteration&quot;:&quot;nyuushasuru&quot;},{&quot;translateID&quot;:577645,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;приходить на службу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;出勤する&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゅっきんする&quot;,&quot;transliteration&quot;:&quot;shukkinsuru&quot;},{&quot;translateID&quot;:415201,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;черёд идти на службу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;詰め番&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;つめばん&quot;,&quot;transliteration&quot;:&quot;tsumeban&quot;},{&quot;translateID&quot;:848943,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;добровольно поступить на военную службу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;募兵に応じる&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぼへいにおうじる&quot;,&quot;transliteration&quot;:&quot;boheinioujiru&quot;},{&quot;translateID&quot;:770173,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;поступление на службу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;入社&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にゅうしゃ&quot;,&quot;transliteration&quot;:&quot;nyuusha&quot;},{&quot;translateID&quot;:577643,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;явка на службу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;出勤&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゅっきん&quot;,&quot;transliteration&quot;:&quot;shukkin&quot;},{&quot;translateID&quot;:367309,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;устраивать поминальную службу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;回向する&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;えこうする&quot;,&quot;transliteration&quot;:&quot;ekousuru&quot;},{&quot;translateID&quot;:714287,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Был посажен на службу радиоперехвата&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;聴取に取り掛かったのです&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちょうしゅにとりかかったのです&quot;,&quot;transliteration&quot;:&quot;choushunitorikakattanodesu&quot;},{&quot;translateID&quot;:769819,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;поступление на военную службу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;入営&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にゅうえい&quot;,&quot;transliteration&quot;:&quot;nyuuei&quot;},{&quot;translateID&quot;:741226,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ходить на службу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;登庁する&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とうちょうする&quot;,&quot;transliteration&quot;:&quot;touchousuru&quot;},{&quot;translateID&quot;:824915,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;отправиться на службу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;赴任する&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふにんする&quot;,&quot;transliteration&quot;:&quot;funinsuru&quot;},{&quot;translateID&quot;:713384,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;идти на военную службу по призыву&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;徴兵に出る&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちょうへいにでる&quot;,&quot;transliteration&quot;:&quot;chouheinideru&quot;},{&quot;translateID&quot;:365905,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ходить на службу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;会社に出る&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かいしゃにでる&quot;,&quot;transliteration&quot;:&quot;kaishanideru&quot;},{&quot;translateID&quot;:741225,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;хождение на службу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;登庁&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とうちょう&quot;,&quot;transliteration&quot;:&quot;touchou&quot;},{&quot;translateID&quot;:578093,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;явиться на службу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;出社する&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゅっしゃする&quot;,&quot;transliteration&quot;:&quot;shusshasuru&quot;},{&quot;translateID&quot;:713383,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;быть взятым на военную службу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;徴兵に取られる&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちょうへいにとられる&quot;,&quot;transliteration&quot;:&quot;chouheinitorareru&quot;},{&quot;translateID&quot;:406551,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;возвращение на службу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;帰社&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きしゃ&quot;,&quot;transliteration&quot;:&quot;kisha&quot;},{&quot;translateID&quot;:771824,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;принимать на службу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;任用する&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にんようする&quot;,&quot;transliteration&quot;:&quot;ninyousuru&quot;},{&quot;translateID&quot;:577648,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;час явки на службу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;出勤時&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゅっきんじ&quot;,&quot;transliteration&quot;:&quot;shukkinji&quot;},{&quot;translateID&quot;:433569,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;отправляться на службу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;勤めに出る&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;づとめにでる&quot;,&quot;transliteration&quot;:&quot;dutomenideru&quot;},{&quot;translateID&quot;:344688,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;быть призванным на военную службу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;応召する&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おうしょうする&quot;,&quot;transliteration&quot;:&quot;oushousuru&quot;},{&quot;translateID&quot;:771821,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;принятие на службу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;任用&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にんよう&quot;,&quot;transliteration&quot;:&quot;ninyou&quot;},{&quot;translateID&quot;:577646,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;являться на службу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;出勤する&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゅっきんする&quot;,&quot;transliteration&quot;:&quot;shukkinsuru&quot;},{&quot;translateID&quot;:635881,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;медаль за отличную службу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;精勤章&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せいきんしょう&quot;,&quot;transliteration&quot;:&quot;seikinshou&quot;},{&quot;translateID&quot;:850419,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;поступить на службу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;奉職&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほうしょく&quot;,&quot;transliteration&quot;:&quot;houshoku&quot;},{&quot;translateID&quot;:260439,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Пожалуйста, позовите службу охраны гостиницы.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ホテルの保安係りにつないでください。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほてるのほあんかかりにつないでください。&quot;,&quot;transliteration&quot;:&quot;hoterunohoankakarinitsunaidekudasai。&quot;},{&quot;translateID&quot;:741140,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;явка на службу 院&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;登院&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とういん&quot;,&quot;transliteration&quot;:&quot;touin&quot;},{&quot;translateID&quot;:578092,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ходить на службу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;出社する&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゅっしゃする&quot;,&quot;transliteration&quot;:&quot;shusshasuru&quot;},{&quot;translateID&quot;:713379,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;призыв на службу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;徴兵&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちょうへい&quot;,&quot;transliteration&quot;:&quot;chouhei&quot;},{&quot;translateID&quot;:582251,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;я начал свою службу с пяти тысяч иен&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;初任給は五千円だった&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょにんきゅうは5せんえんだった&quot;,&quot;transliteration&quot;:&quot;shoninkyuuha5senendatta&quot;},{&quot;translateID&quot;:569846,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;поступить на службу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;就職する&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゅうしょくする&quot;,&quot;transliteration&quot;:&quot;shuushokusuru&quot;},{&quot;translateID&quot;:577652,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;день явки на службу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;出勤日&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゅっきんび&quot;,&quot;transliteration&quot;:&quot;shukkinbi&quot;},{&quot;translateID&quot;:475599,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;справить заупокойную службу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;後を弔う&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あとをとむらう&quot;,&quot;transliteration&quot;:&quot;ato o tomurau&quot;},{&quot;translateID&quot;:526888,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;поступить на службу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;仕官する&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しかんする&quot;,&quot;transliteration&quot;:&quot;shikansuru&quot;},{&quot;translateID&quot;:88912,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;принятый на государственную службу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;お雇教師&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おやといきょうし&quot;,&quot;transliteration&quot;:&quot;oyatoikyoushi&quot;},{&quot;translateID&quot;:577651,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;явившийся на службу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;出勤者&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゅっきんしゃ&quot;,&quot;transliteration&quot;:&quot;shukkinsha&quot;},{&quot;translateID&quot;:710599,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;в благодарность за верную службу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;忠勤に愛でて&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅうきんにめでて&quot;,&quot;transliteration&quot;:&quot;chuukinnimedete&quot;},{&quot;translateID&quot;:526887,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;поступить на государственную службу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;仕官する&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しかんする&quot;,&quot;transliteration&quot;:&quot;shikansuru&quot;},{&quot;translateID&quot;:445338,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;вступать на военную службу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;軍籍に入る&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぐんせきにはいる&quot;,&quot;transliteration&quot;:&quot;gunsekinihairu&quot;},{&quot;translateID&quot;:577649,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;час явки на службу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;出勤時間&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゅっきんじかん&quot;,&quot;transliteration&quot;:&quot;shukkinjikan&quot;},{&quot;translateID&quot;:433700,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;благодарность за службу и труд&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;勤労感謝&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きんろうかんしゃ&quot;,&quot;transliteration&quot;:&quot;kinroukansha&quot;},{&quot;translateID&quot;:29880,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;сеть, поддерживающая службу каталога&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;DEN&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;DEN&quot;,&quot;transliteration&quot;:&quot;DEN&quot;},{&quot;translateID&quot;:183204,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;Программа, обеспечивающая службу каталогов X.500 Directory Service для части информационной базы каталогов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ディレクトリシステムエージェント&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;でぃれくとりしすてむえーじぇんと&quot;,&quot;transliteration&quot;:&quot;direkutorishisutemue:jento&quot;},{&quot;translateID&quot;:483031,&quot;translationStatus&quot;:0,&quot;themeID&quot;:50,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;金属&quot;,&quot;word&quot;:&quot;знак благодарности за отличную службу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;効率&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうりつ&quot;,&quot;transliteration&quot;:&quot;kouritsu&quot;},{&quot;translateID&quot;:370351,&quot;translationStatus&quot;:0,&quot;themeID&quot;:190,&quot;groupName&quot;:&quot;法律&quot;,&quot;themeName&quot;:&quot;労働法&quot;,&quot;word&quot;:&quot;денежная надбавка за службу за пределами метрополии&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;海外勤務手当&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かいがいきんむてあて&quot;,&quot;transliteration&quot;:&quot;kaigaikinmuteate&quot;},{&quot;translateID&quot;:445388,&quot;translationStatus&quot;:0,&quot;themeID&quot;:217,&quot;groupName&quot;:&quot;人文&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;экзаменационный пункт набора на военную службу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;軍徴募者検査所&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぐんちょうぼしゃけんさじょ&quot;,&quot;transliteration&quot;:&quot;gunchouboshakensajo&quot;},{&quot;translateID&quot;:770402,&quot;translationStatus&quot;:0,&quot;themeID&quot;:218,&quot;groupName&quot;:&quot;人文&quot;,&quot;themeName&quot;:&quot;軍事用語&quot;,&quot;word&quot;:&quot;поступивший на военную службу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;入隊者&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にゅうたいしゃ&quot;,&quot;transliteration&quot;:&quot;nyuutaisha&quot;},{&quot;translateID&quot;:511925,&quot;translationStatus&quot;:0,&quot;themeID&quot;:218,&quot;groupName&quot;:&quot;人文&quot;,&quot;themeName&quot;:&quot;軍事用語&quot;,&quot;word&quot;:&quot;продление контракта на военную службу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;再任用&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さいにんよう&quot;,&quot;transliteration&quot;:&quot;saininyou&quot;},{&quot;translateID&quot;:468864,&quot;translationStatus&quot;:0,&quot;themeID&quot;:218,&quot;groupName&quot;:&quot;人文&quot;,&quot;themeName&quot;:&quot;軍事用語&quot;,&quot;word&quot;:&quot;призван из резерва на действительную военную службу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;現役招集&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;げんえきしょうしゅう&quot;,&quot;transliteration&quot;:&quot;genekishoushuu&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="службу" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

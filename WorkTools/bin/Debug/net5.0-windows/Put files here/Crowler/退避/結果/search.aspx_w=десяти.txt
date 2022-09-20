@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	десяти - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,десяти" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u0434%u0435%u0441%u044f%u0442%u0438" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV244Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNC00LXRgdGP0YLQuGQCAw9kFggCAg9kFgQCAQ8WAh4Dc3JjBQ8uLi9pbWcvbG9nby5wbmdkAgUPFgIeBGhyZWYFDi4uLz9sYW5nPXJ1LVJVZAIEDxYCHgdWaXNpYmxlZ2QCBg8WAh8DaGQCBw9kFghmDxYCHwNoZAIBDxYCHwNoZAICDxYCHwNoZAIFDxYCHwNoZGSyFoFcQ4xgWCazV9NjBI9+1h687Q==" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAV74QK+JOhvD9kmh5Aqc2HUlIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/tusi/zFx/RJ32ouUGdErrWoDJu/" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:false,&quot;Phrases&quot;:[{&quot;translateID&quot;:101688,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;дороже десяти тысяч иен&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;きかない&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きかない&quot;,&quot;transliteration&quot;:&quot;kikanai&quot;},{&quot;translateID&quot;:475022,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Персоналии эпохи Пяти династий и десяти царств&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;五代十国の人物&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ごだいじゅっこくのじんぶつ&quot;,&quot;transliteration&quot;:&quot;godaijukkokunojinbutsu&quot;},{&quot;translateID&quot;:573396,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;в восьми- девяти случаях из десяти&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;十中八九&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じっちゅうはっく&quot;,&quot;transliteration&quot;:&quot;jicchuuhakku&quot;},{&quot;translateID&quot;:31206,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Группа десяти&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;G10&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;G10&quot;,&quot;transliteration&quot;:&quot;G10&quot;},{&quot;translateID&quot;:165501,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Комитет состоит из десяти членов.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;その委員会は10人のメンバーで構成されている。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そのいいんかいは10にんのめんばーでこうせいされている。&quot;,&quot;transliteration&quot;:&quot;sonoiinkaiha10ninnomenba:dekouseisareteiru。&quot;},{&quot;translateID&quot;:573395,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;в восьми – девяти случаях из десяти&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;十中八九&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じゅうちゅうはっく&quot;,&quot;transliteration&quot;:&quot;juuchuuhakku&quot;},{&quot;translateID&quot;:118054,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;У Кена не больше десяти книг.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ケンはわずか10冊しか本を持っていない。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けんはわずか10さつしかほんをもっていない。&quot;,&quot;transliteration&quot;:&quot;kenhawazuka10satsushikahon o motteinai。&quot;},{&quot;translateID&quot;:580017,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;свыше десяти дней&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;旬余&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じゅんよ&quot;,&quot;transliteration&quot;:&quot;junyo&quot;},{&quot;translateID&quot;:573393,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;в восьми случаях из десяти&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;十中の八まで&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;10なかの8まで&quot;,&quot;transliteration&quot;:&quot;10nakano8made&quot;},{&quot;translateID&quot;:118053,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;У Кена не более десяти книг.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ケンはわずか10冊しか本を持っていない。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けんはわずか10さつしかほんをもっていない。&quot;,&quot;transliteration&quot;:&quot;kenhawazuka10satsushikahon o motteinai。&quot;},{&quot;translateID&quot;:722969,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;в общей сложности больше десяти лет&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;通算して十年以上&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;つうさんして10ねんいじょう&quot;,&quot;transliteration&quot;:&quot;tsuusanshite10nenijou&quot;},{&quot;translateID&quot;:573350,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Притча о десяти девах&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;十人の処女たちのたとえ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;10にんのしょじょたちのたとえ&quot;,&quot;transliteration&quot;:&quot;10ninnoshojotachinotatoe&quot;},{&quot;translateID&quot;:213340,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Автобус приедет в течение десяти минут.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;バスは10分以内につくだろう。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ばすは10ぷんいないにつくだろう。&quot;,&quot;transliteration&quot;:&quot;basuha10puninainitsukudarou。&quot;},{&quot;translateID&quot;:536102,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Я прождал его до десяти часов.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;私は10時まで、寝ずに彼を待っていた。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;わたしは10じまで、ねずにかれをまっていた。&quot;,&quot;transliteration&quot;:&quot;watashiha10jimade、nezunikare o matteita。&quot;},{&quot;translateID&quot;:573143,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;если из десяти вычесть четыре&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;十から四を引くと六残る&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;10から4をひくと6のこる&quot;,&quot;transliteration&quot;:&quot;10kara4 o hikuto6nokoru&quot;},{&quot;translateID&quot;:573549,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;про длиться более десяти лет&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;十年の期間を越える&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;10ねんのきかんをこえる&quot;,&quot;transliteration&quot;:&quot;10nennokikan o koeru&quot;},{&quot;translateID&quot;:847711,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;в десяти минутах ходьбы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;歩いて十分の距離にある&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あるいてじゅうぶんのきょりにある&quot;,&quot;transliteration&quot;:&quot;aruitejuubunnokyoriniaru&quot;},{&quot;translateID&quot;:534995,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Наша школа в десяти минутах ходьбы отсюда.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;私たちの学校はここから歩いて10分のところにある。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;わたしたちのがっこうはここからあるいて10ぷんのところにある。&quot;,&quot;transliteration&quot;:&quot;watashitachinogakkouhakokokaraaruite10punnotokoroniaru。&quot;},{&quot;translateID&quot;:475023,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Эпоха пяти династий и десяти царств&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;五代十国時代&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ごだいじゅっこくじだい&quot;,&quot;transliteration&quot;:&quot;godaijukkokujidai&quot;},{&quot;translateID&quot;:573397,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;в девяти случаях из десяти&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;十中八九&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じっちゅうはっく&quot;,&quot;transliteration&quot;:&quot;jicchuuhakku&quot;},{&quot;translateID&quot;:530975,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;в десяти милях к северу от города&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;市の北方十マイルの所に&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しのほっぽう10まいるのところに&quot;,&quot;transliteration&quot;:&quot;shinohoppou10mairunotokoroni&quot;},{&quot;translateID&quot;:518930,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Она вчера спала больше десяти часов.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;昨日、彼女は10時間以上寝た。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きのう、かのじょは10じかんいじょうねた。&quot;,&quot;transliteration&quot;:&quot;kinou、kanojoha10jikanijouneta。&quot;},{&quot;translateID&quot;:573316,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Сейчас около десяти часов?&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;十時ごろですか。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;10じごろですか。&quot;,&quot;transliteration&quot;:&quot;10jigorodesuka。&quot;},{&quot;translateID&quot;:802178,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Он был выбран из десяти тысяч кандидатов.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;彼女は一万人の応募者の中から撰ばれた。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かのじょは1まんにんのおうぼしゃのなかからえらばれた。&quot;,&quot;transliteration&quot;:&quot;kanojoha1manninnoouboshanonakakaraerabareta。&quot;},{&quot;translateID&quot;:880205,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;около десяти тысяч иен&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;約一万円&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;やくいちまんえん&quot;,&quot;transliteration&quot;:&quot;yakuichimanen&quot;},{&quot;translateID&quot;:6770,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Это будет стоить больше десяти тысяч йен.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;1万円以上します。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;1まんえんいじょうします。&quot;,&quot;transliteration&quot;:&quot;1manenijoushimasu。&quot;},{&quot;translateID&quot;:573173,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Битва десяти царей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;十王戦争&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じゅうおうせんそう&quot;,&quot;transliteration&quot;:&quot;juuousensou&quot;},{&quot;translateID&quot;:801691,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Она может разговаривать на десяти языках.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;彼女は10ヶ国語を話すことができる。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かのじょは10かこくごをはなすことができる。&quot;,&quot;transliteration&quot;:&quot;kanojoha10kakokugo o hanasukotogadekiru。&quot;},{&quot;translateID&quot;:438656,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;девять из десяти&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;九分通り&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;くぶどうり&quot;,&quot;transliteration&quot;:&quot;kubudouri&quot;},{&quot;translateID&quot;:704,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;После десяти минут пешком я оказался на станции.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;10分歩くと、私は駅に着いた。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;10ぷんあるくと、わたしはえきについた。&quot;,&quot;transliteration&quot;:&quot;10punarukuto、watashihaekinitsuita。&quot;},{&quot;translateID&quot;:573151,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;на расстоянии десяти метров&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;十メートルの間をおいて&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;10めーとるのあいだをおいて&quot;,&quot;transliteration&quot;:&quot;10me:torunoaida o oite&quot;},{&quot;translateID&quot;:797785,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Он зарабатывал не больше десяти долларов в день.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;彼は1日に10ドルしかかせがなかった。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かれは1にちに10どるしかかせがなかった。&quot;,&quot;transliteration&quot;:&quot;kareha1nichini10dorushikakaseganakatta。&quot;},{&quot;translateID&quot;:438652,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;девять шансов из десяти&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;九分九厘&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;くぶくりん&quot;,&quot;transliteration&quot;:&quot;kubukurin&quot;},{&quot;translateID&quot;:611,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Мы закончили работу незадолго до десяти часов.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;10時ちょっと前に仕事が済んだ。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;10じちょっとまえにしごとがすんだ。&quot;,&quot;transliteration&quot;:&quot;10jichottomaenishigotogasunda。&quot;},{&quot;translateID&quot;:573147,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;девять шансов из десяти&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;十のものなら九つまで&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;10のものならここのつまで&quot;,&quot;transliteration&quot;:&quot;10nomononarakokonotsumade&quot;},{&quot;translateID&quot;:573550,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;в течение долгих десяти лет&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;十年の長きに亙って&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;10ねんのながきにわたって&quot;,&quot;transliteration&quot;:&quot;10nennonagakiniwatatte&quot;},{&quot;translateID&quot;:573405,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;высота неровностей профиля по десяти точкам&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;十点平均粗さ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;10てんへいきんあらさ&quot;,&quot;transliteration&quot;:&quot;10tenheikinarasa&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="десяти" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

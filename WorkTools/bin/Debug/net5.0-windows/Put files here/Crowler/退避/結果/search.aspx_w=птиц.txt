@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	птиц - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,птиц" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u043f%u0442%u0438%u0446" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAVy44Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNC/0YLQuNGGZAIDD2QWCAICD2QWBAIBDxYCHgNzcmMFDy4uL2ltZy9sb2dvLnBuZ2QCBQ8WAh4EaHJlZgUOLi4vP2xhbmc9cnUtUlVkAgQPFgIeB1Zpc2libGVnZAIGDxYCHwNoZAIHD2QWCGYPFgIfA2hkAgEPFgIfA2hkAgIPFgIfA2hkAgUPFgIfA2hkZLsnFW0Mx/70PTKgcst5SN7rP6k1" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAXe6PP/96Jxy99ebqoz9b/klIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/uehH58slGpqgZ+rOtFMYLYBNYSY" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:true,&quot;Phrases&quot;:[{&quot;translateID&quot;:718402,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;У птиц есть крылья.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;鳥には翼がある。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とりにはつばさがある。&quot;,&quot;transliteration&quot;:&quot;torinihatsubasagaaru。&quot;},{&quot;translateID&quot;:251611,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Список птиц Вьетнама&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ベトナムの野鳥一覧&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;べとなむのやちょういちらん&quot;,&quot;transliteration&quot;:&quot;betonamunoyachouichiran&quot;},{&quot;translateID&quot;:29460,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Систематика птиц&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;Clements鳥類分類&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;Clementsちょうるいぶんるい&quot;,&quot;transliteration&quot;:&quot;Clementschouruibunrui&quot;},{&quot;translateID&quot;:908598,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;тесто для корма птиц&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;煉り餌&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ねりえさ&quot;,&quot;transliteration&quot;:&quot;neriesa&quot;},{&quot;translateID&quot;:928565,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;шест для ловли птиц&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;黐竿&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;もちざお&quot;,&quot;transliteration&quot;:&quot;mochizao&quot;},{&quot;translateID&quot;:279929,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ловить птиц на шест&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;もちで鳥をさす&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;もちでとりをさす&quot;,&quot;transliteration&quot;:&quot;mochidetori o sasu&quot;},{&quot;translateID&quot;:741016,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Миграция птиц&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;渡り鳥&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;わたりどり&quot;,&quot;transliteration&quot;:&quot;wataridori&quot;},{&quot;translateID&quot;:928562,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;клей для ловли птиц&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;黐&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;もち&quot;,&quot;transliteration&quot;:&quot;mochi&quot;},{&quot;translateID&quot;:650840,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;множество птиц&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;千鳥&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちどり&quot;,&quot;transliteration&quot;:&quot;chidori&quot;},{&quot;translateID&quot;:309936,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;любитель птиц&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;愛鳥家&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あいちょうか&quot;,&quot;transliteration&quot;:&quot;aichouka&quot;},{&quot;translateID&quot;:718587,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Кольцевание птиц&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;鳥類標識調査&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちょうるいひょうしきちょうさ&quot;,&quot;transliteration&quot;:&quot;chouruihyoushikichousa&quot;},{&quot;translateID&quot;:587869,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;магазин по продаже птиц&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;小鳥屋&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ことりや&quot;,&quot;transliteration&quot;:&quot;kotoriya&quot;},{&quot;translateID&quot;:332872,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;счётный суффикс для птиц&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;羽&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;は&quot;,&quot;transliteration&quot;:&quot;ha&quot;},{&quot;translateID&quot;:718471,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;шест для ловли птиц&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;鳥竿&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とりざお&quot;,&quot;transliteration&quot;:&quot;torizao&quot;},{&quot;translateID&quot;:304151,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Список птиц России&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ロシアの野鳥一覧&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ろしあのやちょういちらん&quot;,&quot;transliteration&quot;:&quot;roshianoyachouichiran&quot;},{&quot;translateID&quot;:502352,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Список национальных птиц&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;国鳥&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こくちょう&quot;,&quot;transliteration&quot;:&quot;kokuchou&quot;},{&quot;translateID&quot;:82468,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Список птиц Австралии&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;オーストラリアの野鳥一覧&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おーすとらりあのやちょういちらん&quot;,&quot;transliteration&quot;:&quot;o:sutorarianoyachouichiran&quot;},{&quot;translateID&quot;:718425,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;У птиц острое зрение.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;鳥は鋭い目をもっている。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とりはするどいめをもっている。&quot;,&quot;transliteration&quot;:&quot;torihasurudoime o motteiru。&quot;},{&quot;translateID&quot;:253350,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Список птиц Перу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ペルーの野鳥一覧&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぺるーのやちょういちらん&quot;,&quot;transliteration&quot;:&quot;peru:noyachouichiran&quot;},{&quot;translateID&quot;:238506,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Список птиц Бразилии&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ブラジルの野鳥一覧&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぶらじるのやちょういちらん&quot;,&quot;transliteration&quot;:&quot;burajirunoyachouichiran&quot;},{&quot;translateID&quot;:309735,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;любитель птиц&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;愛禽家&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あいきんか&quot;,&quot;transliteration&quot;:&quot;aikinka&quot;},{&quot;translateID&quot;:718575,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Анатомия птиц&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;鳥類の体の構造&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちょうるいのからだのこうぞう&quot;,&quot;transliteration&quot;:&quot;chouruinokaradanokouzou&quot;},{&quot;translateID&quot;:708223,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Список птиц Китайской Народной Республики&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中国の野鳥一覧&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅうごくのやちょういちらん&quot;,&quot;transliteration&quot;:&quot;chuugokunoyachouichiran&quot;},{&quot;translateID&quot;:762101,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Список птиц Антарктиды&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;南極大陸の野鳥一覧&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なんきょくたいりくのやちょういちらん&quot;,&quot;transliteration&quot;:&quot;nankyokutairikunoyachouichiran&quot;},{&quot;translateID&quot;:718524,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;изгнание с полей птиц&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;鳥追い&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とりおい&quot;,&quot;transliteration&quot;:&quot;torioi&quot;},{&quot;translateID&quot;:542667,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Медицина для птиц - диагностика и лечение заболеваний.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;飼鳥の医学―病気の診断とその治療。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かいどりのいがく―びょうきのしんだんとそのちりょう。&quot;,&quot;transliteration&quot;:&quot;kaidorinoigaku―byoukinoshindantosonochiryou。&quot;},{&quot;translateID&quot;:335308,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ловля птиц&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;餌刺し&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;えさし&quot;,&quot;transliteration&quot;:&quot;esashi&quot;},{&quot;translateID&quot;:718517,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;крики птиц&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;鳥声&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちょうせい&quot;,&quot;transliteration&quot;:&quot;chousei&quot;},{&quot;translateID&quot;:852500,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;выпускание птиц на волю&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;放鳥&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほうちょう&quot;,&quot;transliteration&quot;:&quot;houchou&quot;},{&quot;translateID&quot;:335306,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ловля птиц&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;餌差し&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;えさし&quot;,&quot;transliteration&quot;:&quot;esashi&quot;},{&quot;translateID&quot;:718516,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;голоса птиц&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;鳥声&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とりごえ&quot;,&quot;transliteration&quot;:&quot;torigoe&quot;},{&quot;translateID&quot;:166703,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Говорят, что этот вид птиц находится на грани вымирания.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;その鳥は絶滅の恐れがあるといわれています。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そのとりはぜつめつのおそれがあるといわれています。&quot;,&quot;transliteration&quot;:&quot;sonotorihazetsumetsunoosoregaarutoiwareteimasu。&quot;},{&quot;translateID&quot;:718561,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;продолжительность жизни птиц&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;鳥問題&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とりもんだい&quot;,&quot;transliteration&quot;:&quot;torimondai&quot;},{&quot;translateID&quot;:718584,&quot;translationStatus&quot;:0,&quot;themeID&quot;:27,&quot;groupName&quot;:&quot;土木&quot;,&quot;themeName&quot;:&quot;材料工学&quot;,&quot;word&quot;:&quot;вольеры для птиц&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;鳥類飼育檻&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちょうるいしいくおり&quot;,&quot;transliteration&quot;:&quot;chouruishiikuori&quot;},{&quot;translateID&quot;:587872,&quot;translationStatus&quot;:0,&quot;themeID&quot;:27,&quot;groupName&quot;:&quot;土木&quot;,&quot;themeName&quot;:&quot;材料工学&quot;,&quot;word&quot;:&quot;ванны для птиц&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;小鳥用水盤&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ことりようすいばん&quot;,&quot;transliteration&quot;:&quot;kotoriyousuiban&quot;},{&quot;translateID&quot;:358624,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;вагон для птиц&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;家禽車&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かきんくるま&quot;,&quot;transliteration&quot;:&quot;kakinkuruma&quot;},{&quot;translateID&quot;:437478,&quot;translationStatus&quot;:0,&quot;themeID&quot;:50,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;金属&quot;,&quot;word&quot;:&quot;ванны для птиц&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;金属製小鳥用水盤&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きんぞくせいことりようすいばん&quot;,&quot;transliteration&quot;:&quot;kinzokuseikotoriyousuiban&quot;},{&quot;translateID&quot;:827261,&quot;translationStatus&quot;:0,&quot;themeID&quot;:50,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;金属&quot;,&quot;word&quot;:&quot;устройства против птиц ветряные&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;風力式鳥類撃退器&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふうりょくしきちょうるいげきたいき&quot;,&quot;transliteration&quot;:&quot;fuuryokushikichouruigekitaiki&quot;},{&quot;translateID&quot;:718573,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;миелобластоз птиц&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;鳥類の骨髄芽細胞症&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちょうるいのこつずいがさいぼうしょう&quot;,&quot;transliteration&quot;:&quot;chouruinokotsuzuigasaiboushou&quot;},{&quot;translateID&quot;:358477,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;псевдочума птиц&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;家ちくペスト&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かちくぺすと&quot;,&quot;transliteration&quot;:&quot;kachikupesuto&quot;},{&quot;translateID&quot;:718572,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;миелобластоз птиц&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;鳥類の骨髄芽球症&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちょうるいのこつずいがきゅうしょう&quot;,&quot;transliteration&quot;:&quot;chouruinokotsuzuigakyuushou&quot;},{&quot;translateID&quot;:271212,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;нейролимфоматоз птиц&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;マレク病&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まれくびょう&quot;,&quot;transliteration&quot;:&quot;marekubyou&quot;},{&quot;translateID&quot;:333071,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;патологическая боязнь птиц&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;羽毛恐怖&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;うもうきょうふ&quot;,&quot;transliteration&quot;:&quot;umoukyoufu&quot;},{&quot;translateID&quot;:718574,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;эритробластоз птиц&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;鳥類の赤芽球症&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちょうるいのせきがきゅうしょう&quot;,&quot;transliteration&quot;:&quot;chouruinosekigakyuushou&quot;},{&quot;translateID&quot;:358620,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;пастереллёз птиц&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;家禽コレラ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かきんこれら&quot;,&quot;transliteration&quot;:&quot;kakinkorera&quot;},{&quot;translateID&quot;:718585,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;вирус инфекционного ларинготрахеита птиц&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;鳥類伝染性喉頭気管炎ウイルス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちょうるいでんせんせいこうとうきかんえんういるす&quot;,&quot;transliteration&quot;:&quot;chouruidensenseikoutoukikanenuirusu&quot;},{&quot;translateID&quot;:718541,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;вирус саркомы птиц&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;鳥肉腫ウイルス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とりにくしゅういるす&quot;,&quot;transliteration&quot;:&quot;torinikushuuirusu&quot;},{&quot;translateID&quot;:358621,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;оспа-дифтерит птиц&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;家禽のジフテリア&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かきんのじふてりあ&quot;,&quot;transliteration&quot;:&quot;kakinnojifuteria&quot;},{&quot;translateID&quot;:718586,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;вирус энцефаломиелита птиц&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;鳥類脳脊髄炎ウイルス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちょうるいのうせきずいえんういるす&quot;,&quot;transliteration&quot;:&quot;chouruinousekizuienuirusu&quot;},{&quot;translateID&quot;:718521,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;вирус эритробластоза птиц&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;鳥赤芽球症ウイルス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とりあかめきゅうしょうういるす&quot;,&quot;transliteration&quot;:&quot;toriakamekyuushouuirusu&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="птиц" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

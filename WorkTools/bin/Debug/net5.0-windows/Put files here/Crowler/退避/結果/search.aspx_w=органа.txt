@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	органа - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,органа" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u043e%u0440%u0433%u0430%u043d%u0430" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV244Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNC+0YDQs9Cw0L3QsGQCAw9kFggCAg9kFgQCAQ8WAh4Dc3JjBQ8uLi9pbWcvbG9nby5wbmdkAgUPFgIeBGhyZWYFDi4uLz9sYW5nPXJ1LVJVZAIEDxYCHgdWaXNpYmxlZ2QCBg8WAh8DaGQCBw9kFghmDxYCHwNoZAIBDxYCHwNoZAICDxYCHwNoZAIFDxYCHwNoZGRfuoqrkOtPQ/0YG4aXIQerdKk7jw==" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAXXUC6nTy6Eu6Sw0JLovXqglIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/sTZN1nSZGS3w5/p4u+vIRgDV9ka" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:true,&quot;Phrases&quot;:[{&quot;translateID&quot;:432118,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;заболевание одного органа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;局部疳&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きょくぶかん&quot;,&quot;transliteration&quot;:&quot;kyokubukan&quot;},{&quot;translateID&quot;:671714,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;пересадка органа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;臓器移植&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぞうきいしょく&quot;,&quot;transliteration&quot;:&quot;zoukiishoku&quot;},{&quot;translateID&quot;:298378,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Лея Органа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;レイア・オーガナ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;れいあ・おーがな&quot;,&quot;transliteration&quot;:&quot;reia・o:gana&quot;},{&quot;translateID&quot;:87763,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Произведения для органа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;オルガン曲&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おるがんきょく&quot;,&quot;transliteration&quot;:&quot;orugankyoku&quot;},{&quot;translateID&quot;:87762,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Произведения для органа с оркестром&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;オルガン協奏曲&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おるがんきょうそうきょく&quot;,&quot;transliteration&quot;:&quot;orugankyousoukyoku&quot;},{&quot;translateID&quot;:350315,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;регистр органа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;音栓&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おんせん&quot;,&quot;transliteration&quot;:&quot;onsen&quot;},{&quot;translateID&quot;:349729,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;труба органа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;音管&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おんかん&quot;,&quot;transliteration&quot;:&quot;onkan&quot;},{&quot;translateID&quot;:81093,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;устройство присоединения рабочего органа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;エンドエフェクタ結合装置&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;えんどえふぇくたけつごうそうち&quot;,&quot;transliteration&quot;:&quot;endoefekutaketsugousouchi&quot;},{&quot;translateID&quot;:748925,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;заглубление рабочего органа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;透過度&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とうかど&quot;,&quot;transliteration&quot;:&quot;toukado&quot;},{&quot;translateID&quot;:825651,&quot;translationStatus&quot;:0,&quot;themeID&quot;:123,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;泌尿器学/肛門学&quot;,&quot;word&quot;:&quot;воспалительные болезни неуточненного мужского полового органа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;部位不明の男性生殖器の炎症性障害&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぶいふめいのだんせいせいしょくきのえんしょうせいしょうがい&quot;,&quot;transliteration&quot;:&quot;buifumeinodanseiseishokukinoenshouseishougai&quot;},{&quot;translateID&quot;:760087,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;грыжа внутреннего органа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;内臓ヘルニア&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ないぞうへるにあ&quot;,&quot;transliteration&quot;:&quot;naizouherunia&quot;},{&quot;translateID&quot;:829255,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;собственная фасция внутрибрюшного органа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;腹部器官固有筋膜&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふくぶきかんこゆうきんまく&quot;,&quot;transliteration&quot;:&quot;fukubukikankoyuukinmaku&quot;},{&quot;translateID&quot;:319713,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;отмирание и отторжение пересаженного органа и ткани,&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;移植臓器及び組織の不全及び拒絶反応&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いしょくぞうきおよびそしきのふぜんおよびきょぜつはんのう&quot;,&quot;transliteration&quot;:&quot;ishokuzoukioyobisoshikinofuzenoyobikyozetsuhannou&quot;},{&quot;translateID&quot;:671738,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;предоставление донорского органа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;臓器提供&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぞうきていきょう&quot;,&quot;transliteration&quot;:&quot;zoukiteikyou&quot;},{&quot;translateID&quot;:297222,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;полость трубчатого органа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ルーメン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;るーめん&quot;,&quot;transliteration&quot;:&quot;ru:men&quot;},{&quot;translateID&quot;:543184,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;зачаток эмалевого органа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;歯索&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しさく&quot;,&quot;transliteration&quot;:&quot;shisaku&quot;},{&quot;translateID&quot;:288671,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;сетчатая перепонка спирального органа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ラセン器の網状膜&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;らせんきのもうじょうまく&quot;,&quot;transliteration&quot;:&quot;rasenkinomoujoumaku&quot;},{&quot;translateID&quot;:694956,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;разрастание соединительной ткани между отдельными клетками органа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;単一細胞性硬化症&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たんいつさいぼうせいこうかしょう&quot;,&quot;transliteration&quot;:&quot;tanitsusaibouseikoukashou&quot;},{&quot;translateID&quot;:829254,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;собственная фасция органа брюшной полости&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;腹部器官固有の筋膜&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふくぶきかんこゆうのきんまく&quot;,&quot;transliteration&quot;:&quot;fukubukikankoyuunokinmaku&quot;},{&quot;translateID&quot;:125219,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;клетка кортиева органа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;コルティ細胞&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こるてぃさいぼう&quot;,&quot;transliteration&quot;:&quot;korutisaibou&quot;},{&quot;translateID&quot;:671737,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;донорство органа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;臓器提供&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぞうきていきょう&quot;,&quot;transliteration&quot;:&quot;zoukiteikyou&quot;},{&quot;translateID&quot;:891570,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;удаление доли органа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;葉摘出術&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ようてきしゅつじゅつ&quot;,&quot;transliteration&quot;:&quot;youtekishutsujutsu&quot;},{&quot;translateID&quot;:543183,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;зачаток эмалевого органа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;歯索&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はさく&quot;,&quot;transliteration&quot;:&quot;hasaku&quot;},{&quot;translateID&quot;:288670,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;сетчатая мембрана спирального органа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ラセン器の網状膜&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;らせんきのもうじょうまく&quot;,&quot;transliteration&quot;:&quot;rasenkinomoujoumaku&quot;},{&quot;translateID&quot;:694024,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;отделение органа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;脱離&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;だつり&quot;,&quot;transliteration&quot;:&quot;datsuri&quot;},{&quot;translateID&quot;:829236,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;собственная фасция внутрибрюшного органа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;腹部の器官固有筋膜&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふくぶのきかんこゆうきんまく&quot;,&quot;transliteration&quot;:&quot;fukubunokikankoyuukinmaku&quot;},{&quot;translateID&quot;:125202,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;туннель кортиева органа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;コルティトンネル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こるてぃとんねる&quot;,&quot;transliteration&quot;:&quot;korutitonneru&quot;},{&quot;translateID&quot;:671734,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;выпячивание органа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;臓器脱出&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぞうきだっしゅつ&quot;,&quot;transliteration&quot;:&quot;zoukidasshutsu&quot;},{&quot;translateID&quot;:840879,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;перевязка на выключение органа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;閉塞結紮&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;へいそくけっさつ&quot;,&quot;transliteration&quot;:&quot;heisokukessatsu&quot;},{&quot;translateID&quot;:878786,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ворота органа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;門部&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;もんぶ&quot;,&quot;transliteration&quot;:&quot;monbu&quot;},{&quot;translateID&quot;:288669,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ретикулярная мембрана спирального органа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ラセン器の網状膜&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;らせんきのもうじょうまく&quot;,&quot;transliteration&quot;:&quot;rasenkinomoujoumaku&quot;},{&quot;translateID&quot;:402184,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;дно органа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;基底部&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きていぶ&quot;,&quot;transliteration&quot;:&quot;kiteibu&quot;},{&quot;translateID&quot;:829147,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;инфаркт органа брюшной полости&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;腹卒中&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふくそっちゅう&quot;,&quot;transliteration&quot;:&quot;fukusocchuu&quot;},{&quot;translateID&quot;:77873,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;пульпа эмалевого органа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;エナメル髄&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;えなめるずい&quot;,&quot;transliteration&quot;:&quot;enameruzui&quot;},{&quot;translateID&quot;:671728,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;поражение органа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;臓器障害&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぞうきしょうがい&quot;,&quot;transliteration&quot;:&quot;zoukishougai&quot;},{&quot;translateID&quot;:776627,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ушивание капсулы органа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;嚢縫合術&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;のうほうごうじゅつ&quot;,&quot;transliteration&quot;:&quot;nouhougoujutsu&quot;},{&quot;translateID&quot;:878652,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ворота органа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;門&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;もん&quot;,&quot;transliteration&quot;:&quot;mon&quot;},{&quot;translateID&quot;:431839,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;некроз органа или его части&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;局所壊死&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きょくしょえし&quot;,&quot;transliteration&quot;:&quot;kyokushoeshi&quot;},{&quot;translateID&quot;:401153,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;удаление органа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;器官の除去&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きかんのじょきょ&quot;,&quot;transliteration&quot;:&quot;kikannojokyo&quot;},{&quot;translateID&quot;:760146,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;воспаление вокруг внутренних органов или органа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;内臓周囲炎&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ないぞうしゅういえん&quot;,&quot;transliteration&quot;:&quot;naizoushuuien&quot;},{&quot;translateID&quot;:829279,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;воспаление органа брюшной полости&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;腹部内臓炎&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふくぶないぞうえん&quot;,&quot;transliteration&quot;:&quot;fukubunaizouen&quot;},{&quot;translateID&quot;:363193,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;жировое изменение какого-либо органа или ткани&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;過脂肪症&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かしぼうしょう&quot;,&quot;transliteration&quot;:&quot;kashiboushou&quot;},{&quot;translateID&quot;:671740,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;специфический антиген органа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;臓器特異抗原&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぞうきとくいこうげん&quot;,&quot;transliteration&quot;:&quot;zoukitokuikougen&quot;},{&quot;translateID&quot;:505169,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;собственная фасция органа таза&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;骨盤固有器官の筋膜&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こつばんこゆうきかんのきんまく&quot;,&quot;transliteration&quot;:&quot;kotsubankoyuukikannokinmaku&quot;},{&quot;translateID&quot;:660512,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;полное удаление органа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;全摘&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぜんてき&quot;,&quot;transliteration&quot;:&quot;zenteki&quot;},{&quot;translateID&quot;:756531,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;инфаркт органа брюшной полости&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;特発性腹腔卒中&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とくはつせいふくくうそっちゅう&quot;,&quot;transliteration&quot;:&quot;tokuhatsuseifukukuusocchuu&quot;},{&quot;translateID&quot;:401154,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;поле органа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;器官の場&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きかんのば&quot;,&quot;transliteration&quot;:&quot;kikannoba&quot;},{&quot;translateID&quot;:760194,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;смещение внутреннего органа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;内臓転位&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ないぞうてんい&quot;,&quot;transliteration&quot;:&quot;naizouteni&quot;},{&quot;translateID&quot;:447281,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;потеря или врожденное отсутствие органа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;形成欠落&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けいせいけつらく&quot;,&quot;transliteration&quot;:&quot;keiseiketsuraku&quot;},{&quot;translateID&quot;:389914,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;окончание органа чувств&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;感覚器終末&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かんかくきしゅうまつ&quot;,&quot;transliteration&quot;:&quot;kankakukishuumatsu&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="органа" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	мусора - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,мусора" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u043c%u0443%u0441%u043e%u0440%u0430" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV244Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNC80YPRgdC+0YDQsGQCAw9kFggCAg9kFgQCAQ8WAh4Dc3JjBQ8uLi9pbWcvbG9nby5wbmdkAgUPFgIeBGhyZWYFDi4uLz9sYW5nPXJ1LVJVZAIEDxYCHgdWaXNpYmxlZ2QCBg8WAh8DaGQCBw9kFghmDxYCHwNoZAIBDxYCHwNoZAICDxYCHwNoZAIFDxYCHwNoZGTYBw+0qOO7X4X+oP6KymVYCLQCjA==" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAWDSgh4kps4/nQNmbP8Z188lIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/rV2QvRHzFvZpGL3rUHXFu/uqmGY" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:false,&quot;Phrases&quot;:[{&quot;translateID&quot;:618828,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ящик для мусора&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;塵芥箱&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じんかいばこ&quot;,&quot;transliteration&quot;:&quot;jinkaibako&quot;},{&quot;translateID&quot;:372088,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ящик для мусора&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;芥箱&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ごみばこ&quot;,&quot;transliteration&quot;:&quot;gomibako&quot;},{&quot;translateID&quot;:372086,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;корзина для мусора&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;芥箱&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ごみばこ&quot;,&quot;transliteration&quot;:&quot;gomibako&quot;},{&quot;translateID&quot;:442784,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;корзина для канцелярского мусора&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;屑籠&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;くずかご&quot;,&quot;transliteration&quot;:&quot;kuzukago&quot;},{&quot;translateID&quot;:124219,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;корзина для мусора&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ごみ箱&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ごみばこ&quot;,&quot;transliteration&quot;:&quot;gomibako&quot;},{&quot;translateID&quot;:618838,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;совок для мусора&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;塵取り&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちりとり&quot;,&quot;transliteration&quot;:&quot;chiritori&quot;},{&quot;translateID&quot;:124131,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Сборщик мусора приходит три раза в неделю.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ごみは週3で集めに来る。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ごみはしゅう3であつめにくる。&quot;,&quot;transliteration&quot;:&quot;gomihashuu3deatsumenikuru。&quot;},{&quot;translateID&quot;:618837,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;совок для мусора&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;塵取り&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ごみとり&quot;,&quot;transliteration&quot;:&quot;gomitori&quot;},{&quot;translateID&quot;:442772,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ящик для мусора&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;屑入れ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;くずいれ&quot;,&quot;transliteration&quot;:&quot;kuzuire&quot;},{&quot;translateID&quot;:665268,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ящик для мусора&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;掃溜め箱&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はきだめばこ&quot;,&quot;transliteration&quot;:&quot;hakidamebako&quot;},{&quot;translateID&quot;:916862,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ящик для мусора&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;廚芥箱&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅうかいばこ&quot;,&quot;transliteration&quot;:&quot;chuukaibako&quot;},{&quot;translateID&quot;:665257,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;уборщик мусора&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;掃除夫&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そうじふ&quot;,&quot;transliteration&quot;:&quot;soujifu&quot;},{&quot;translateID&quot;:755043,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;уборщик мусора&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;道路掃除人&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;どうろそうじにん&quot;,&quot;transliteration&quot;:&quot;dourosoujinin&quot;},{&quot;translateID&quot;:96503,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Сборка мусора&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ガベージコレクション&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;がべーじこれくしょん&quot;,&quot;transliteration&quot;:&quot;gabe:jikorekushon&quot;},{&quot;translateID&quot;:124220,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Контейнер для мусора&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ごみ箱&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ごみばこ&quot;,&quot;transliteration&quot;:&quot;gomibako&quot;},{&quot;translateID&quot;:780743,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;перевозка и разгрузка мусора&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;廃棄物の輸送及び保管&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はいきぶつのゆそうおよびほかん&quot;,&quot;transliteration&quot;:&quot;haikibutsunoyusouoyobihokan&quot;},{&quot;translateID&quot;:124209,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;сбор мусора&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ごみ収集&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ごみしゅうしゅう&quot;,&quot;transliteration&quot;:&quot;gomishuushuu&quot;},{&quot;translateID&quot;:96500,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;сборка мусора&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ガベージ コレクション&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;がべーじ これくしょん&quot;,&quot;transliteration&quot;:&quot;gabe:ji korekushon&quot;},{&quot;translateID&quot;:96501,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;сборщик мусора&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ガベージ コレクタ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;がべーじこれくた&quot;,&quot;transliteration&quot;:&quot;gabe:jikorekuta&quot;},{&quot;translateID&quot;:96502,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;сборщик мусора&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ガベージ コレクター&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;がべーじ これくたー&quot;,&quot;transliteration&quot;:&quot;gabe:ji korekuta:&quot;},{&quot;translateID&quot;:627375,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;сборка мусора разных поколений&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;世代別ごみ集め&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せだいべつごみあつめ&quot;,&quot;transliteration&quot;:&quot;sedaibetsugomiatsume&quot;},{&quot;translateID&quot;:332450,&quot;translationStatus&quot;:0,&quot;themeID&quot;:44,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;航空宇宙&quot;,&quot;word&quot;:&quot;фрагменты космического мусора&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;宇宙ゴミ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;うちゅうごみ&quot;,&quot;transliteration&quot;:&quot;uchuugomi&quot;},{&quot;translateID&quot;:157497,&quot;translationStatus&quot;:0,&quot;themeID&quot;:44,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;航空宇宙&quot;,&quot;word&quot;:&quot;фрагменты космического мусора&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;スペースデブリ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;すぺーすでぶり&quot;,&quot;transliteration&quot;:&quot;supe:sudeburi&quot;},{&quot;translateID&quot;:633557,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;машины для дробления отходов, отбросов, мусора&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;生ごみ廃棄物処理機&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なまごみはいきぶつしょりき&quot;,&quot;transliteration&quot;:&quot;namagomihaikibutsushoriki&quot;},{&quot;translateID&quot;:553219,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;печь для сжигания мусора&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;鹿芥焼却炉&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しかごもくしょうきゃくろ&quot;,&quot;transliteration&quot;:&quot;shikagomokushoukyakuro&quot;},{&quot;translateID&quot;:124216,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;печь для сжигания мусора&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ごみ焼き炉&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ごみやきろ&quot;,&quot;transliteration&quot;:&quot;gomiyakiro&quot;},{&quot;translateID&quot;:124194,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;машины для уплотнения отходов, мусора&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ごみ圧縮機械&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ごみあっしゅくきかい&quot;,&quot;transliteration&quot;:&quot;gomiasshukukikai&quot;},{&quot;translateID&quot;:124197,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ведро для сухого мусора&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ごみ缶&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ごみかん&quot;,&quot;transliteration&quot;:&quot;gomikan&quot;},{&quot;translateID&quot;:124218,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;мешок для мусора&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ごみ袋&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ごみぶくろ&quot;,&quot;transliteration&quot;:&quot;gomibukuro&quot;},{&quot;translateID&quot;:124217,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;сжигание мусора&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ごみ焼却&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ごみしょうきゃく&quot;,&quot;transliteration&quot;:&quot;gomishoukyaku&quot;},{&quot;translateID&quot;:442748,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;урна для мусора&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;屑かご&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;くずかご&quot;,&quot;transliteration&quot;:&quot;kuzukago&quot;},{&quot;translateID&quot;:539274,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;корзина для канцелярского мусора&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;紙屑かご&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かみくずかご&quot;,&quot;transliteration&quot;:&quot;kamikuzukago&quot;},{&quot;translateID&quot;:620549,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;чан для мусора&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;厨芥溜め&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅうかいため&quot;,&quot;transliteration&quot;:&quot;chuukaitame&quot;},{&quot;translateID&quot;:620548,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;контейнер для мусора&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;厨芥入れ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅうかいいれ&quot;,&quot;transliteration&quot;:&quot;chuukaiire&quot;},{&quot;translateID&quot;:620547,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;пакет для мусора&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;厨芥袋&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅうかいぶくろ&quot;,&quot;transliteration&quot;:&quot;chuukaibukuro&quot;},{&quot;translateID&quot;:124201,&quot;translationStatus&quot;:0,&quot;themeID&quot;:146,&quot;groupName&quot;:&quot;地学&quot;,&quot;themeName&quot;:&quot;生態学&quot;,&quot;word&quot;:&quot;топливо, получаемое из мусора&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ごみ固形燃料&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ごみこけいねんりょう&quot;,&quot;transliteration&quot;:&quot;gomikokeinenryou&quot;},{&quot;translateID&quot;:862231,&quot;translationStatus&quot;:0,&quot;themeID&quot;:146,&quot;groupName&quot;:&quot;地学&quot;,&quot;themeName&quot;:&quot;生態学&quot;,&quot;word&quot;:&quot;свалка мусора&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;埋立処分地&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;うめたてしょぶんち&quot;,&quot;transliteration&quot;:&quot;umetateshobunchi&quot;},{&quot;translateID&quot;:780750,&quot;translationStatus&quot;:0,&quot;themeID&quot;:146,&quot;groupName&quot;:&quot;地学&quot;,&quot;themeName&quot;:&quot;生態学&quot;,&quot;word&quot;:&quot;уборка мусора&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;廃棄物収集&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はいきぶつしゅうしゅう&quot;,&quot;transliteration&quot;:&quot;haikibutsushuushuu&quot;},{&quot;translateID&quot;:780748,&quot;translationStatus&quot;:0,&quot;themeID&quot;:146,&quot;groupName&quot;:&quot;地学&quot;,&quot;themeName&quot;:&quot;生態学&quot;,&quot;word&quot;:&quot;топливо, получаемое из мусора&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;廃棄物固形燃料&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はいきぶつこけいねんりょう&quot;,&quot;transliteration&quot;:&quot;haikibutsukokeinenryou&quot;},{&quot;translateID&quot;:780739,&quot;translationStatus&quot;:0,&quot;themeID&quot;:220,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;軽工業&quot;,&quot;word&quot;:&quot;обработка мусора и отбросов повторная&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;廃棄物の再生&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はいきぶつのさいせい&quot;,&quot;transliteration&quot;:&quot;haikibutsunosaisei&quot;},{&quot;translateID&quot;:780740,&quot;translationStatus&quot;:0,&quot;themeID&quot;:220,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;軽工業&quot;,&quot;word&quot;:&quot;сжигание мусора&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;廃棄物の焼却処理&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はいきぶつのしょうきゃくしょり&quot;,&quot;transliteration&quot;:&quot;haikibutsunoshoukyakushori&quot;},{&quot;translateID&quot;:780741,&quot;translationStatus&quot;:0,&quot;themeID&quot;:220,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;軽工業&quot;,&quot;word&quot;:&quot;уничтожение мусора и отходов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;廃棄物の破砕処理&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はいきぶつのはさいしょり&quot;,&quot;transliteration&quot;:&quot;haikibutsunohasaishori&quot;},{&quot;translateID&quot;:124226,&quot;translationStatus&quot;:0,&quot;themeID&quot;:220,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;軽工業&quot;,&quot;word&quot;:&quot;ящики для мусора&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ごみ箱&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ごみばこ&quot;,&quot;transliteration&quot;:&quot;gomibako&quot;},{&quot;translateID&quot;:539341,&quot;translationStatus&quot;:0,&quot;themeID&quot;:221,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;印刷工業&quot;,&quot;word&quot;:&quot;мешки для мусора&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;紙製又はプラスチック製のごみ収集用袋&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かみせいまたはぷらすちっくせいのごみしゅうしゅうようぶくろ&quot;,&quot;transliteration&quot;:&quot;kamiseimatahapurasuchikkuseinogomishuushuuyoubukuro&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="мусора" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

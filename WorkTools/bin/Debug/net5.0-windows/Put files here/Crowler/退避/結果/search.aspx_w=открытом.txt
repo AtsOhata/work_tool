@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	открытом - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,открытом" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u043e%u0442%u043a%u0440%u044b%u0442%u043e%u043c" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV644Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNC+0YLQutGA0YvRgtC+0LxkAgMPZBYIAgIPZBYEAgEPFgIeA3NyYwUPLi4vaW1nL2xvZ28ucG5nZAIFDxYCHgRocmVmBQ4uLi8/bGFuZz1ydS1SVWQCBA8WAh4HVmlzaWJsZWdkAgYPFgIfA2hkAgcPZBYIZg8WAh8DaGQCAQ8WAh8DaGQCAg8WAh8DaGQCBQ8WAh8DaGRkh+VufKjqIFHVaHxr7RFBP6LroX8=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAWEsUFXX7agiV5K724vYa+jlIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/inNESvEK3jItUfbO6hlbBs9Sddt" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:false,&quot;Phrases&quot;:[{&quot;translateID&quot;:910855,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;на открытом воздухе&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;露天で&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ろてんで&quot;,&quot;transliteration&quot;:&quot;rotende&quot;},{&quot;translateID&quot;:910759,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;поставленная на открытом месте&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;露座の大仏&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ろざのだいぶつ&quot;,&quot;transliteration&quot;:&quot;rozanodaibutsu&quot;},{&quot;translateID&quot;:473439,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;на открытом воздухе&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;戸外で&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こがいで&quot;,&quot;transliteration&quot;:&quot;kogaide&quot;},{&quot;translateID&quot;:910154,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Федеральный комитет по операциям на открытом рынке ФРС США&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;連邦公開市場委員会&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;れんぽうこうかいいちばいいんかい&quot;,&quot;transliteration&quot;:&quot;renpoukoukaiichibaiinkai&quot;},{&quot;translateID&quot;:348193,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;на открытом воздухе&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;屋外&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おくがい&quot;,&quot;transliteration&quot;:&quot;okugai&quot;},{&quot;translateID&quot;:879621,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;чайная церемония на открытом воздухе&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;野点&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;のだて&quot;,&quot;transliteration&quot;:&quot;nodate&quot;},{&quot;translateID&quot;:348139,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ловля рыбы в открытом море&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;沖釣り&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おきづり&quot;,&quot;transliteration&quot;:&quot;okiduri&quot;},{&quot;translateID&quot;:481829,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Комитет по операциям на открытом рынке&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;公開市場委員会&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうかいしじょういいんかい&quot;,&quot;transliteration&quot;:&quot;koukaishijouiinkai&quot;},{&quot;translateID&quot;:40504,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;на открытом воздухе&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;アウトドア&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あうとどあ&quot;,&quot;transliteration&quot;:&quot;autodoa&quot;},{&quot;translateID&quot;:481759,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;в открытом море&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;公海上&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうかいじょう&quot;,&quot;transliteration&quot;:&quot;koukaijou&quot;},{&quot;translateID&quot;:910877,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ванна на открытом воздухе&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;露天風呂&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ろてんぶろ&quot;,&quot;transliteration&quot;:&quot;rotenburo&quot;},{&quot;translateID&quot;:879352,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;концерт на открытом воздухе&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;野外コンサート&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;やがいこんさーと&quot;,&quot;transliteration&quot;:&quot;yagaikonsa:to&quot;},{&quot;translateID&quot;:348138,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;лов рыбы в открытом море&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;沖釣り&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おきづり&quot;,&quot;transliteration&quot;:&quot;okiduri&quot;},{&quot;translateID&quot;:718664,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;жарить на открытом огне&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;直かに焼く&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちょくかにやく&quot;,&quot;transliteration&quot;:&quot;chokukaniyaku&quot;},{&quot;translateID&quot;:348090,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;белые волны в открытом море&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;沖つ白波&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おきつしらなみ&quot;,&quot;transliteration&quot;:&quot;okitsushiranami&quot;},{&quot;translateID&quot;:785119,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;в открытом виде&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;剥き出しの&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;むきだしの&quot;,&quot;transliteration&quot;:&quot;mukidashino&quot;},{&quot;translateID&quot;:348085,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;в открытом море напротив&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;沖&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おき&quot;,&quot;transliteration&quot;:&quot;oki&quot;},{&quot;translateID&quot;:785108,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;дарить вещь в открытом виде&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;剥き出しで物を贈る&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;むきだしでものをおくる&quot;,&quot;transliteration&quot;:&quot;mukidashidemono o okuru&quot;},{&quot;translateID&quot;:772505,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;находящееся на открытом воздухе&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;濡れ仏&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぬれぼとけ&quot;,&quot;transliteration&quot;:&quot;nurebotoke&quot;},{&quot;translateID&quot;:83622,&quot;translationStatus&quot;:0,&quot;themeID&quot;:8,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;インターネット&quot;,&quot;word&quot;:&quot;Информация об открытом чате&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;オープンチャット用プロフィール&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おーぷんちゃっとようぷろふぃーる&quot;,&quot;transliteration&quot;:&quot;o:punchattoyoupurofi:ru&quot;},{&quot;translateID&quot;:88575,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;напряжение в открытом состоянии&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;オン電圧&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おんでんあつ&quot;,&quot;transliteration&quot;:&quot;ondenatsu&quot;},{&quot;translateID&quot;:88576,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;ток в открытом состоянии&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;オン電流&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おんでんりゅう&quot;,&quot;transliteration&quot;:&quot;ondenryuu&quot;},{&quot;translateID&quot;:879361,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;театр на открытом воздухе&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;野外劇場&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;やがいげきじょう&quot;,&quot;transliteration&quot;:&quot;yagaigekijou&quot;},{&quot;translateID&quot;:655649,&quot;translationStatus&quot;:0,&quot;themeID&quot;:44,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;航空宇宙&quot;,&quot;word&quot;:&quot;работа в открытом космосе&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;船外活動&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せんがいかつどう&quot;,&quot;transliteration&quot;:&quot;sengaikatsudou&quot;},{&quot;translateID&quot;:248227,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;испытание в открытом водоёме&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;プロペラ単独試験&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぷろぺらたんどくしけん&quot;,&quot;transliteration&quot;:&quot;puroperatandokushiken&quot;},{&quot;translateID&quot;:372396,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;измельчение в открытом цикле&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;開回路粉砕&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かいかいろふんさい&quot;,&quot;transliteration&quot;:&quot;kaikairofunsai&quot;},{&quot;translateID&quot;:624374,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;уклон свободной поверхности в открытом русле&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;水力こう配線&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;すいりょくこうはいせん&quot;,&quot;transliteration&quot;:&quot;suiryokukouhaisen&quot;},{&quot;translateID&quot;:372397,&quot;translationStatus&quot;:0,&quot;themeID&quot;:49,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;石油・ガス&quot;,&quot;word&quot;:&quot;дробление в открытом цикле&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;開回路粉砕&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かいかいろふんさい&quot;,&quot;transliteration&quot;:&quot;kaikairofunsai&quot;},{&quot;translateID&quot;:372398,&quot;translationStatus&quot;:0,&quot;themeID&quot;:49,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;石油・ガス&quot;,&quot;word&quot;:&quot;измельчение в открытом цикле&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;開回路粉砕&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かいかいろふんさい&quot;,&quot;transliteration&quot;:&quot;kaikairofunsai&quot;},{&quot;translateID&quot;:373225,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;взрыв в открытом объёме&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;開放爆発&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かいほうばくはつ&quot;,&quot;transliteration&quot;:&quot;kaihoubakuhatsu&quot;},{&quot;translateID&quot;:440916,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;сушка на открытом воздухе&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;空気乾燥&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;くうきかんそう&quot;,&quot;transliteration&quot;:&quot;kuukikansou&quot;},{&quot;translateID&quot;:373229,&quot;translationStatus&quot;:0,&quot;themeID&quot;:82,&quot;groupName&quot;:&quot;物理&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;аэродинамическая труба с открытом рабочей частью&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;開放噴流風胴&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かいほうふんりゅうふうどう&quot;,&quot;transliteration&quot;:&quot;kaihoufunryuufuudou&quot;},{&quot;translateID&quot;:348210,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;испытания на открытом воздухе&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;屋外試験&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おくがいしけん&quot;,&quot;transliteration&quot;:&quot;okugaishiken&quot;},{&quot;translateID&quot;:196597,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;испытание в открытом пласте&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ドリルステムテスト&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;どりるすてむてすと&quot;,&quot;transliteration&quot;:&quot;dorirusutemutesuto&quot;},{&quot;translateID&quot;:899327,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;располагаемое давление в водопроводе при полностью открытом кране&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;流れ圧力&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ながれあつりょく&quot;,&quot;transliteration&quot;:&quot;nagareatsuryoku&quot;},{&quot;translateID&quot;:550638,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;высыхающая на открытом воздухе политура&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;自然乾燥ラッカー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しぜんかんそうらっかー&quot;,&quot;transliteration&quot;:&quot;shizenkansourakka:&quot;},{&quot;translateID&quot;:372544,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;при открытом&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;開口状態&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かいこうじょうたい&quot;,&quot;transliteration&quot;:&quot;kaikoujoutai&quot;},{&quot;translateID&quot;:372762,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;операция на открытом сердце&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;開心術&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かいしんじゅつ&quot;,&quot;transliteration&quot;:&quot;kaishinjutsu&quot;},{&quot;translateID&quot;:372543,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;в открытом состоянии&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;開口状態&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かいこうじょうたい&quot;,&quot;transliteration&quot;:&quot;kaikoujoutai&quot;},{&quot;translateID&quot;:372528,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;фиксирующее ч.-л. в открытом состоянии&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;開口固定薬&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かいこうこていやく&quot;,&quot;transliteration&quot;:&quot;kaikoukoteiyaku&quot;},{&quot;translateID&quot;:606798,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;операция на открытом сердце&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;心臓切開手術&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しんぞうせっかいしゅじゅつ&quot;,&quot;transliteration&quot;:&quot;shinzousekkaishujutsu&quot;},{&quot;translateID&quot;:838393,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;среднее время нахождения в открытом состоянии&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;平均開口時間&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;へいきんかいこうじかん&quot;,&quot;transliteration&quot;:&quot;heikinkaikoujikan&quot;},{&quot;translateID&quot;:83519,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;фиксирующее что-либо в открытом состоянии&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;オープナー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おーぷなー&quot;,&quot;transliteration&quot;:&quot;o:puna:&quot;},{&quot;translateID&quot;:826715,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;сушка на открытом воздухе&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;風乾&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふうかん&quot;,&quot;transliteration&quot;:&quot;fuukan&quot;},{&quot;translateID&quot;:881183,&quot;translationStatus&quot;:0,&quot;themeID&quot;:146,&quot;groupName&quot;:&quot;地学&quot;,&quot;themeName&quot;:&quot;生態学&quot;,&quot;word&quot;:&quot;Международная конвенция о вмешательстве в открытом море в случае аварий, приводящих к загрязнению нефтью&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;油による汚染を伴う事故の場合における公海上の措置に関する国際条約&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あぶらによるおせんをともなうじこのばあいにおけるこうかいじょうのそちにかんするこくさいじょうやく&quot;,&quot;transliteration&quot;:&quot;aburaniyoruosen o tomonaujikonobaainiokerukoukaijounosochinikansurukokusaijouyaku&quot;},{&quot;translateID&quot;:910155,&quot;translationStatus&quot;:0,&quot;themeID&quot;:185,&quot;groupName&quot;:&quot;経済&quot;,&quot;themeName&quot;:&quot;金融&quot;,&quot;word&quot;:&quot;Комитет по операциям на открытом рынке Федеральной резервной системы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;連邦公開市場委員会&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;れんぽうこうかいいちばいいんかい&quot;,&quot;transliteration&quot;:&quot;renpoukoukaiichibaiinkai&quot;},{&quot;translateID&quot;:481830,&quot;translationStatus&quot;:0,&quot;themeID&quot;:185,&quot;groupName&quot;:&quot;経済&quot;,&quot;themeName&quot;:&quot;金融&quot;,&quot;word&quot;:&quot;операции на открытом рынке&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;公開市場操作&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうかいいちばそうさ&quot;,&quot;transliteration&quot;:&quot;koukaiichibasousa&quot;},{&quot;translateID&quot;:481831,&quot;translationStatus&quot;:0,&quot;themeID&quot;:188,&quot;groupName&quot;:&quot;経済&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;операции на открытом рынке&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;公開市場操作&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうかいしじょうそうさ&quot;,&quot;transliteration&quot;:&quot;koukaishijousousa&quot;},{&quot;translateID&quot;:879315,&quot;translationStatus&quot;:0,&quot;themeID&quot;:208,&quot;groupName&quot;:&quot;人文&quot;,&quot;themeName&quot;:&quot;文学&quot;,&quot;word&quot;:&quot;В открытом поле&quot;,&quot;wordnote&quot;:&quot;автор: Мацуо Басё, переводчик: Соколова-Делюсина Т.&quot;,&quot;translation&quot;:&quot;野ざらし紀行&quot;,&quot;translationnote&quot;:&quot;松尾芭蕉&quot;,&quot;reading&quot;:&quot;のざらしきこう&quot;,&quot;transliteration&quot;:&quot;nozarashikikou&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="открытом" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

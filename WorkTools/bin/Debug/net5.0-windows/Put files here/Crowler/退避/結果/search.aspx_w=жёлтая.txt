@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	жёлтая - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,жёлтая" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u0436%u0451%u043b%u0442%u0430%u044f" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV244Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNC20ZHQu9GC0LDRj2QCAw9kFggCAg9kFgQCAQ8WAh4Dc3JjBQ8uLi9pbWcvbG9nby5wbmdkAgUPFgIeBGhyZWYFDi4uLz9sYW5nPXJ1LVJVZAIEDxYCHgdWaXNpYmxlZ2QCBg8WAh8DaGQCBw9kFghmDxYCHwNoZAIBDxYCHwNoZAICDxYCHwNoZAIFDxYCHwNoZGTFfBBrfO6hgNzmLJBU7DSuEYTWag==" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAXwbbwBuHrVqZVohOGuK+CelIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/i2C0ZKVDlIBEliCcgK8eDLQRAhN" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:true,&quot;Phrases&quot;:[{&quot;translateID&quot;:100980,&quot;translationStatus&quot;:1,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Жёлтая цапля&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;カンムリサギ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かんむりさぎ&quot;,&quot;transliteration&quot;:&quot;kanmurisagi&quot;},{&quot;translateID&quot;:126382,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;жёлтая газетёнка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ごろつき新聞&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ごろつきしんぶん&quot;,&quot;transliteration&quot;:&quot;gorotsukishinbun&quot;},{&quot;translateID&quot;:238575,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;жёлтая медь&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ブラス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぶらす&quot;,&quot;transliteration&quot;:&quot;burasu&quot;},{&quot;translateID&quot;:879761,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;жёлтая овсянка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;野鵐&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;のじこ&quot;,&quot;transliteration&quot;:&quot;nojiko&quot;},{&quot;translateID&quot;:347635,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;жёлтая раса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;黄色人種&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おうしょくじんしゅ&quot;,&quot;transliteration&quot;:&quot;oushokujinshu&quot;},{&quot;translateID&quot;:180776,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Жёлтая трясогузка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ツメナガセキレイ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;つめながせきれい&quot;,&quot;transliteration&quot;:&quot;tsumenagasekirei&quot;},{&quot;translateID&quot;:879739,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;жёлтая овсянка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;野路子&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;のじこ&quot;,&quot;transliteration&quot;:&quot;nojiko&quot;},{&quot;translateID&quot;:347633,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;жёлтая пресса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;黄色新聞&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうしょくしんぶん&quot;,&quot;transliteration&quot;:&quot;koushokushinbun&quot;},{&quot;translateID&quot;:347839,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;жёлтая медь&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;黄銅&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうどう&quot;,&quot;transliteration&quot;:&quot;koudou&quot;},{&quot;translateID&quot;:117975,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Горечавка жёлтая&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ゲンチアナ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;げんちあな&quot;,&quot;transliteration&quot;:&quot;genchiana&quot;},{&quot;translateID&quot;:347440,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;жёлтая хризантема&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;黄菊&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きぎく&quot;,&quot;transliteration&quot;:&quot;kigiku&quot;},{&quot;translateID&quot;:348014,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;японская жёлтая куница&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;黄貂&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きてん&quot;,&quot;transliteration&quot;:&quot;kiten&quot;},{&quot;translateID&quot;:60074,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;жёлтая пресса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;イェロ・ペーパー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いぇろ・ぺーぱー&quot;,&quot;transliteration&quot;:&quot;iぇro・pe:pa:&quot;},{&quot;translateID&quot;:836116,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;жёлтая навозница&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;糞蠅&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;くそばえ&quot;,&quot;transliteration&quot;:&quot;kusobae&quot;},{&quot;translateID&quot;:347770,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;жёлтая птичка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;黄鳥&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうちょう&quot;,&quot;transliteration&quot;:&quot;kouchou&quot;},{&quot;translateID&quot;:191500,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Жёлтая остроносая акула&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;トガリアンコウザメ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とがりあんこうざめ&quot;,&quot;transliteration&quot;:&quot;togariankouzame&quot;},{&quot;translateID&quot;:310989,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;жёлтая пресса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;悪徳新聞&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あくとくしんぶん&quot;,&quot;transliteration&quot;:&quot;akutokushinbun&quot;},{&quot;translateID&quot;:101490,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Жёлтая древесница&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;キイロアメリカムシクイ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きいろあめりかむしくい&quot;,&quot;transliteration&quot;:&quot;kiiroamerikamushikui&quot;},{&quot;translateID&quot;:347765,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;жёлтая бабочка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;黄蝶&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きちょう&quot;,&quot;transliteration&quot;:&quot;kichou&quot;},{&quot;translateID&quot;:612260,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;жёлтая медь&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;真鍮&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しんちゅう&quot;,&quot;transliteration&quot;:&quot;shinchuu&quot;},{&quot;translateID&quot;:876957,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;японская жёлтая куница&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;木貂&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きてん&quot;,&quot;transliteration&quot;:&quot;kiten&quot;},{&quot;translateID&quot;:347422,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Жёлтая опасность&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;黄禍論&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうかろん&quot;,&quot;transliteration&quot;:&quot;koukaron&quot;},{&quot;translateID&quot;:347959,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;жёлтая листва&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;黄葉&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;もみじ&quot;,&quot;transliteration&quot;:&quot;momiji&quot;},{&quot;translateID&quot;:643706,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;жёлтая пресса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;赤新聞&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あかしんぶん&quot;,&quot;transliteration&quot;:&quot;akashinbun&quot;},{&quot;translateID&quot;:347421,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;жёлтая опасность&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;黄禍&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうか&quot;,&quot;transliteration&quot;:&quot;kouka&quot;},{&quot;translateID&quot;:347925,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;жёлтая яшма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;黄碧玉&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうへきぎょく&quot;,&quot;transliteration&quot;:&quot;kouhekigyoku&quot;},{&quot;translateID&quot;:60099,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;жёлтая пресса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;イエロープレス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いえろーぷれす&quot;,&quot;transliteration&quot;:&quot;iero:puresu&quot;},{&quot;translateID&quot;:347419,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Жёлтая река&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;黄河&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうが&quot;,&quot;transliteration&quot;:&quot;kouga&quot;},{&quot;translateID&quot;:347864,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;жёлтая лихорадка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;黄熱病&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おうねつびょう&quot;,&quot;transliteration&quot;:&quot;ounetsubyou&quot;},{&quot;translateID&quot;:544552,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;У офиса жёлтая дверь.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;事務所のドアは黄色です。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じむしょのどあはきいろです。&quot;,&quot;transliteration&quot;:&quot;jimushonodoahakiirodesu。&quot;},{&quot;translateID&quot;:60083,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Жёлтая пресса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;イエロー・ジャーナリズム&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いえろー・じゃーなりずむ&quot;,&quot;transliteration&quot;:&quot;iero:・ja:narizumu&quot;},{&quot;translateID&quot;:347412,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;жёлтая свинцовая руда&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;黄鉛鉱&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おうえんこう&quot;,&quot;transliteration&quot;:&quot;ouenkou&quot;},{&quot;translateID&quot;:347790,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;жёлтая почва&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;黄土&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おうど&quot;,&quot;transliteration&quot;:&quot;oudo&quot;},{&quot;translateID&quot;:233839,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Жёлтая длиннорылая рыба-бабочка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;フエヤッコダイ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふえやっこだい&quot;,&quot;transliteration&quot;:&quot;fueyakkodai&quot;},{&quot;translateID&quot;:60098,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;жёлтая книга&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;イエローブック&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いえろーぶっく&quot;,&quot;transliteration&quot;:&quot;iero:bukku&quot;},{&quot;translateID&quot;:347380,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;жёлтая окись ртути&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;黄ごうこう&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きごうこう&quot;,&quot;transliteration&quot;:&quot;kigoukou&quot;},{&quot;translateID&quot;:347621,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;жёлтая окись ртути&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;黄色酸化水銀&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きいろさんかすいぎん&quot;,&quot;transliteration&quot;:&quot;kiirosankasuigin&quot;},{&quot;translateID&quot;:347443,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;хромовая жёлтая&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;黄給&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ききゅう&quot;,&quot;transliteration&quot;:&quot;kikyuu&quot;},{&quot;translateID&quot;:347381,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;жёлтая окись ртути&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;黄ごうこう&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きごうこう&quot;,&quot;transliteration&quot;:&quot;kigoukou&quot;},{&quot;translateID&quot;:60092,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;щитовка жёлтая померанцевая&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;イエロースケール&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いえろーすけーる&quot;,&quot;transliteration&quot;:&quot;iero:suke:ru&quot;},{&quot;translateID&quot;:308754,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;цинковая жёлтая&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;亜鉛黄&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あえんき&quot;,&quot;transliteration&quot;:&quot;aenki&quot;},{&quot;translateID&quot;:347536,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;жёлтая кровяная соль&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;黄血塩&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おうけつえん&quot;,&quot;transliteration&quot;:&quot;ouketsuen&quot;},{&quot;translateID&quot;:347845,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;жёлтая медь&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;黄銅&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おうどう&quot;,&quot;transliteration&quot;:&quot;oudou&quot;},{&quot;translateID&quot;:347800,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;жёлтая охра&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;黄土&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おうど&quot;,&quot;transliteration&quot;:&quot;oudo&quot;},{&quot;translateID&quot;:347611,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;жёлтая атрофия печени&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;黄色肝萎縮&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おうしょくかんいしゅく&quot;,&quot;transliteration&quot;:&quot;oushokukanishuku&quot;},{&quot;translateID&quot;:347858,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;жёлтая лихорадка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;黄熱&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おうねつ&quot;,&quot;transliteration&quot;:&quot;ounetsu&quot;},{&quot;translateID&quot;:263681,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;сосна жёлтая&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ポンデローザマツ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぽんでろーざまつ&quot;,&quot;transliteration&quot;:&quot;pondero:zamatsu&quot;},{&quot;translateID&quot;:418916,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;жёлтая атрофия&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;急性黄色肝萎縮症&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きゅうせいきいろきもいしゅくしょう&quot;,&quot;transliteration&quot;:&quot;kyuuseikiirokimoishukushou&quot;},{&quot;translateID&quot;:418914,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;жёлтая атрофия&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;急性黄色萎縮&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きゅうせいきいろいしゅく&quot;,&quot;transliteration&quot;:&quot;kyuuseikiiroishuku&quot;},{&quot;translateID&quot;:347639,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;жёлтая связка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;黄色靭帯&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おうしょくじんたい&quot;,&quot;transliteration&quot;:&quot;oushokujintai&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="жёлтая" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

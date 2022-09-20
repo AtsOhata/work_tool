@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	типу - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,типу" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u0442%u0438%u043f%u0443" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAVy44Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNGC0LjQv9GDZAIDD2QWCAICD2QWBAIBDxYCHgNzcmMFDy4uL2ltZy9sb2dvLnBuZ2QCBQ8WAh4EaHJlZgUOLi4vP2xhbmc9cnUtUlVkAgQPFgIeB1Zpc2libGVnZAIGDxYCHwNoZAIHD2QWCGYPFgIfA2hkAgEPFgIfA2hkAgIPFgIfA2hkAgUPFgIfA2hkZO+HA8wWwV21YhGoTvVW0iQA5S9z" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAUNWNTi9758qTnPYU5yokoglIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/mw2CVEITm6kEPAFANIYDkSzOfcA" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:false,&quot;Phrases&quot;:[{&quot;translateID&quot;:575656,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;чтение по типу «дзюбако»&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;重箱読み&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じゅうばこよみ&quot;,&quot;transliteration&quot;:&quot;juubakoyomi&quot;},{&quot;translateID&quot;:664528,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;построенный по типу склада&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;倉作りの家&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;くらづくりのいえ&quot;,&quot;transliteration&quot;:&quot;kuradukurinoie&quot;},{&quot;translateID&quot;:459887,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Здания и сооружения по типу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;建築物&quot;,&quot;translationnote&quot;:&quot;種類別&quot;,&quot;reading&quot;:&quot;けんちくぶつ&quot;,&quot;transliteration&quot;:&quot;kenchikubutsu&quot;},{&quot;translateID&quot;:500505,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;построенные по некоему законченному типу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;合目的的な都市、ある終結イメージがあって作られた都市&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ごうもくてきてきなとし、あるしゅうけついめーじがあってつくられたとし&quot;,&quot;transliteration&quot;:&quot;goumokutekitekinatoshi、arushuuketsuime:jigaattetsukuraretatoshi&quot;},{&quot;translateID&quot;:745226,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;чтение по типу «юто»&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;湯桶読み&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ゆとうよみ&quot;,&quot;transliteration&quot;:&quot;yutouyomi&quot;},{&quot;translateID&quot;:566180,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Категории по типу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;種類別のカテゴリ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゅるいべつのかてごり&quot;,&quot;transliteration&quot;:&quot;shuruibetsunokategori&quot;},{&quot;translateID&quot;:181409,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Типу Султан&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ティープー・スルタン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てぃーぷー・するたん&quot;,&quot;transliteration&quot;:&quot;ti:pu:・surutan&quot;},{&quot;translateID&quot;:566179,&quot;translationStatus&quot;:0,&quot;themeID&quot;:8,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;インターネット&quot;,&quot;word&quot;:&quot;Показать историю по типу события&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;種類別に履歴を表示&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゅるいべつにりれきをひょうじ&quot;,&quot;transliteration&quot;:&quot;shuruibetsunirireki o hyouji&quot;},{&quot;translateID&quot;:566129,&quot;translationStatus&quot;:0,&quot;themeID&quot;:11,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;プログラミング&quot;,&quot;word&quot;:&quot;поля по типу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;種別に設定&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゅべつにせってい&quot;,&quot;transliteration&quot;:&quot;shubetsunisettei&quot;},{&quot;translateID&quot;:601342,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;группа близких по типу технологических операций&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;職務等級&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょくむとうきゅう&quot;,&quot;transliteration&quot;:&quot;shokumutoukyuu&quot;},{&quot;translateID&quot;:88358,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;управление по типу да-нет&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;オン-オフ制御&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おん-おふせいぎょ&quot;,&quot;transliteration&quot;:&quot;on-ofuseigyo&quot;},{&quot;translateID&quot;:231083,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;торможение по типу обратной связи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;フィードバック阻害&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふぃーどばっくそがい&quot;,&quot;transliteration&quot;:&quot;fi:dobakkusogai&quot;},{&quot;translateID&quot;:749943,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;полимер с мономерными звеньями, соединёнными по типу \&quot;голова к голове\&quot;&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;頭-頭結合重合体&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あたま-あたまけつごうじゅうごうたい&quot;,&quot;transliteration&quot;:&quot;atama-atamaketsugoujuugoutai&quot;},{&quot;translateID&quot;:749985,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;полимер с мономерными звеньями, соединёнными по типу \&quot;голова - хвост\&quot;&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;頭-尾結合重合体&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あたま-おけつごうじゅうごうたい&quot;,&quot;transliteration&quot;:&quot;atama-oketsugoujuugoutai&quot;},{&quot;translateID&quot;:874830,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;перелом по типу трещины трещина кости&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;毛筋割れ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けすじわれ&quot;,&quot;transliteration&quot;:&quot;kesujiware&quot;},{&quot;translateID&quot;:418948,&quot;translationStatus&quot;:0,&quot;themeID&quot;:96,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;胃腸病学&quot;,&quot;word&quot;:&quot;токсическое поражение печени, протекающее по типу острого гепатита&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;急性肝炎を伴う中毒性肝疾患&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きゅうせいかんえんをともなうちゅうどくせいきもしっかん&quot;,&quot;transliteration&quot;:&quot;kyuuseikanen o tomonauchuudokuseikimoshikkan&quot;},{&quot;translateID&quot;:863799,&quot;translationStatus&quot;:0,&quot;themeID&quot;:96,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;胃腸病学&quot;,&quot;word&quot;:&quot;токсическое поражение печени, протекающее по типу хронического лобулярного гепатита&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;慢性小葉肝炎を伴う中毒性肝疾患&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まんせいしょうようかんえんをともなうちゅうどくせいきもしっかん&quot;,&quot;transliteration&quot;:&quot;manseishouyoukanen o tomonauchuudokuseikimoshikkan&quot;},{&quot;translateID&quot;:863787,&quot;translationStatus&quot;:0,&quot;themeID&quot;:96,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;胃腸病学&quot;,&quot;word&quot;:&quot;токсическое поражение печени, протекающее по типу хронического персистирующего гепатита&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;慢性持続性肝炎を伴う中毒性肝疾患&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まんせいじぞくせいかんえんをともなうちゅうどくせいきもしっかん&quot;,&quot;transliteration&quot;:&quot;manseijizokuseikanen o tomonauchuudokuseikimoshikkan&quot;},{&quot;translateID&quot;:863715,&quot;translationStatus&quot;:0,&quot;themeID&quot;:96,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;胃腸病学&quot;,&quot;word&quot;:&quot;токсическое поражение печени, протекающего по типу хронического активного гепатита&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;慢性活動性肝炎を伴う中毒性肝疾患&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まんせいかつどうせいかんえんをともなうちゅうどくせいきもしっかん&quot;,&quot;transliteration&quot;:&quot;manseikatsudouseikanen o tomonauchuudokuseikimoshikkan&quot;},{&quot;translateID&quot;:587114,&quot;translationStatus&quot;:0,&quot;themeID&quot;:115,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;精神科&quot;,&quot;word&quot;:&quot;расстройство привязанностей в детском возрасте по расторможенному типу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;小児期の脱抑制性愛着障害&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょうにきのだつよくせいせいあいぎしょうがい&quot;,&quot;transliteration&quot;:&quot;shounikinodatsuyokuseiseiaigishougai&quot;},{&quot;translateID&quot;:598417,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;поликистоз почки по взрослому типу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;常染色体優性多発性嚢胞腎&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じょうせんしょくたいゆうせいたはつせいのうほうじん&quot;,&quot;transliteration&quot;:&quot;jousenshokutaiyuuseitahatsuseinouhoujin&quot;},{&quot;translateID&quot;:598416,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;поликистоз почки по взрослому типу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;常染色体優性多発性のう胞腎&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じょうせんしょくたいゆうせいたはつせいのうほうじん&quot;,&quot;transliteration&quot;:&quot;jousenshokutaiyuuseitahatsuseinouhoujin&quot;},{&quot;translateID&quot;:754389,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;обучение по типу инсайта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;洞察学習&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;どうさつがくしゅう&quot;,&quot;transliteration&quot;:&quot;dousatsugakushuu&quot;},{&quot;translateID&quot;:701007,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;оволосение по мужскому типу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;男性型多毛症&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;だんせいがたたもうしょう&quot;,&quot;transliteration&quot;:&quot;danseigatatamoushou&quot;},{&quot;translateID&quot;:693967,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;расстройство привязанностей по расторможенному типу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;脱抑制性愛着障害&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;だつよくせいせいあいちゃくしょうがい&quot;,&quot;transliteration&quot;:&quot;datsuyokuseiseiaichakushougai&quot;},{&quot;translateID&quot;:423554,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;воспаление с деформацией наружного отверстия мужского мочеиспускательного канала по типу рыбьей пасти&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;魚口状尿道&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さかなくちじょうにょうどう&quot;,&quot;transliteration&quot;:&quot;sakanakuchijounyoudou&quot;},{&quot;translateID&quot;:682685,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;травма мозга по типу противоудара&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;対側脳損傷&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ついがわのうそんしょう&quot;,&quot;transliteration&quot;:&quot;tsuigawanousonshou&quot;},{&quot;translateID&quot;:813484,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;макулопатия по типу \&quot;бычьего глаза\&quot;&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;標的黄斑症&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひょうてきおうはんしょう&quot;,&quot;transliteration&quot;:&quot;hyoutekiouhanshou&quot;},{&quot;translateID&quot;:598422,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;поликистоз почки по детскому типу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;常染色体劣性多発性嚢胞腎&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じょうせんしょくたいれっせいたはつせいのうほうじん&quot;,&quot;transliteration&quot;:&quot;jousenshokutairesseitahatsuseinouhoujin&quot;},{&quot;translateID&quot;:653580,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;скрытое нарушение ритма по типу бигеминии&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;潜在性二段連脈&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せんざいせいにだんれんみゃく&quot;,&quot;transliteration&quot;:&quot;senzaiseinidanrenmyaku&quot;},{&quot;translateID&quot;:598421,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;поликистоз почки по детскому типу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;常染色体劣性多発性のう胞腎&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じょうせんしょくたいれっせいたはつせいのうほうじん&quot;,&quot;transliteration&quot;:&quot;jousenshokutairesseitahatsuseinouhoujin&quot;},{&quot;translateID&quot;:701005,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;по мужскому типу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;男性型&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;だんせいがた&quot;,&quot;transliteration&quot;:&quot;danseigata&quot;},{&quot;translateID&quot;:543285,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;дыхание по типу \&quot;зубчатого колеса\&quot;&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;歯車様呼吸&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はめばようこきゅう&quot;,&quot;transliteration&quot;:&quot;hamebayoukokyuu&quot;},{&quot;translateID&quot;:714922,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;энтеростомия по типу \&quot;кишка в кишку\&quot;&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;腸腸吻合術&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちょうちょうふんごうじゅつ&quot;,&quot;transliteration&quot;:&quot;chouchoufungoujutsu&quot;},{&quot;translateID&quot;:796069,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;поздняя атрофия мозжечка по корковому типу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;晩発性皮質性小脳萎縮症&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ばんぱつせいひしつせいしょうのういしゅくしょう&quot;,&quot;transliteration&quot;:&quot;banpatsuseihishitsuseishounouishukushou&quot;},{&quot;translateID&quot;:584228,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;облысение по женскому типу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;女性型脱毛症&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じょせいがただつもうしょう&quot;,&quot;transliteration&quot;:&quot;joseigatadatsumoushou&quot;},{&quot;translateID&quot;:37543,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;передающаяся по Y-хромосомному типу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;Yリンク遺伝病&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;わいりんくいでんびょう&quot;,&quot;transliteration&quot;:&quot;wairinkuidenbyou&quot;},{&quot;translateID&quot;:584227,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;по женскому типу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;女性型&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じょせいがた&quot;,&quot;transliteration&quot;:&quot;joseigata&quot;},{&quot;translateID&quot;:568546,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;обратная связь по типу \&quot;сокращение-возбуждение\&quot;&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;収縮興奮フィードバック&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゅうしゅくこうふんふぃーどばっく&quot;,&quot;transliteration&quot;:&quot;shuushukukoufunfi:dobakku&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="типу" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

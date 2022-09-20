@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	суммы - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,суммы" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u0441%u0443%u043c%u043c%u044b" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV044Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNGB0YPQvNC80YtkAgMPZBYIAgIPZBYEAgEPFgIeA3NyYwUPLi4vaW1nL2xvZ28ucG5nZAIFDxYCHgRocmVmBQ4uLi8/bGFuZz1ydS1SVWQCBA8WAh4HVmlzaWJsZWdkAgYPFgIfA2hkAgcPZBYIZg8WAh8DaGQCAQ8WAh8DaGQCAg8WAh8DaGQCBQ8WAh8DaGRkAJBMMBNXUDdC3CBdLKPeafuexy8=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAVFIKAlerWpetmgvVmKHb4zlIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/q2SNU11FZChk6qjH2gtikstTvj1" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:false,&quot;Phrases&quot;:[{&quot;translateID&quot;:677140,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Большие суммы денег были потрачены на новый мост.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;多額のお金が新しい橋に使われた。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たがくのおかねがあたらしいはしにつかわれた。&quot;,&quot;transliteration&quot;:&quot;tagakunookanegaatarashiihashinitsukawareta。&quot;},{&quot;translateID&quot;:316810,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;подотчётные суммы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;委託金&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いたくきん&quot;,&quot;transliteration&quot;:&quot;itakukin&quot;},{&quot;translateID&quot;:888828,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;суммы по онкольным счетам&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;預金貨幣&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;よきんかへい&quot;,&quot;transliteration&quot;:&quot;yokinkahei&quot;},{&quot;translateID&quot;:888380,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;излишние суммы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;余剰金&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;よじょうきん&quot;,&quot;transliteration&quot;:&quot;yojoukin&quot;},{&quot;translateID&quot;:663361,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;противозаконный договор с одной из тяжущихся сторон об оплате судебных издержек взамен части исковой суммы в случае выигрыша дела&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;訴訟幇助&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そしょうほうじょ&quot;,&quot;transliteration&quot;:&quot;soshouhoujo&quot;},{&quot;translateID&quot;:354684,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;временная выдача суммы денег&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;仮渡し&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かりわたし&quot;,&quot;transliteration&quot;:&quot;kariwatashi&quot;},{&quot;translateID&quot;:127897,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;У меня никогда не было такой большой суммы денег.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;こんな大金は手にしたことがない。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こんなたいきんはてにしたことがない。&quot;,&quot;transliteration&quot;:&quot;konnataikinhatenishitakotoganai。&quot;},{&quot;translateID&quot;:791565,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;уплатить половину причитающейся суммы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;半金を入れる&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はんきんをいれる&quot;,&quot;transliteration&quot;:&quot;hankin o ireru&quot;},{&quot;translateID&quot;:887114,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;денежные суммы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;融資&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ゆうし&quot;,&quot;transliteration&quot;:&quot;yuushi&quot;},{&quot;translateID&quot;:864837,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;непоступившие суммы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;未収入金&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;みしゅうにゅうきん&quot;,&quot;transliteration&quot;:&quot;mishuunyuukin&quot;},{&quot;translateID&quot;:671181,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;увеличение суммы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;増額&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぞうがく&quot;,&quot;transliteration&quot;:&quot;zougaku&quot;},{&quot;translateID&quot;:635958,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;уточнение суммы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;精算&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せいさん&quot;,&quot;transliteration&quot;:&quot;seisan&quot;},{&quot;translateID&quot;:467377,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;уменьшение суммы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;減額&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;げんがく&quot;,&quot;transliteration&quot;:&quot;gengaku&quot;},{&quot;translateID&quot;:759544,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;уплата в счёт причитающейся суммы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;内金払い&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;うちきんばらい&quot;,&quot;transliteration&quot;:&quot;uchikinbarai&quot;},{&quot;translateID&quot;:422063,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;огромные суммы денег&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;巨財&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きょざい&quot;,&quot;transliteration&quot;:&quot;kyozai&quot;},{&quot;translateID&quot;:289838,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Суммы Рамануджана&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ラマヌジャンの和公式&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;らまぬじゃんのわこうしき&quot;,&quot;transliteration&quot;:&quot;ramanujannowakoushiki&quot;},{&quot;translateID&quot;:356614,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;слагаемое суммы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;加数&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かすう&quot;,&quot;transliteration&quot;:&quot;kasuu&quot;},{&quot;translateID&quot;:599321,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;формула условной суммы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;条件付き合計式&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じょうけんつきごうけいしき&quot;,&quot;transliteration&quot;:&quot;joukentsukigoukeishiki&quot;},{&quot;translateID&quot;:826207,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;часть суммы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;部分和&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぶぶんわ&quot;,&quot;transliteration&quot;:&quot;bubunwa&quot;},{&quot;translateID&quot;:130786,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;отношение суммы сигнала, шума и искажений&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;サイナド比&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さいなどひ&quot;,&quot;transliteration&quot;:&quot;sainadohi&quot;},{&quot;translateID&quot;:628095,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;Контрольные суммы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;制御合計&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せいぎょごうけい&quot;,&quot;transliteration&quot;:&quot;seigyogoukei&quot;},{&quot;translateID&quot;:592270,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;Контрольные суммы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;照合合計&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょうごうごうけい&quot;,&quot;transliteration&quot;:&quot;shougougoukei&quot;},{&quot;translateID&quot;:891136,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;скидка с суммы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;用達余裕&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ようたしよゆう&quot;,&quot;transliteration&quot;:&quot;youtashiyoyuu&quot;},{&quot;translateID&quot;:769930,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;получено в счёт причитающейся суммы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;入金登録&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にゅうきんとうろく&quot;,&quot;transliteration&quot;:&quot;nyuukintouroku&quot;},{&quot;translateID&quot;:599732,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;статистические суммы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;状態和&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じょうたいわ&quot;,&quot;transliteration&quot;:&quot;joutaiwa&quot;},{&quot;translateID&quot;:383005,&quot;translationStatus&quot;:0,&quot;themeID&quot;:50,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;金属&quot;,&quot;word&quot;:&quot;не иметь нужной суммы денег при расчёте&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;割れ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;われ&quot;,&quot;transliteration&quot;:&quot;ware&quot;},{&quot;translateID&quot;:905631,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;карта для общей суммы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;累積和管理図&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;るいせきわかんりず&quot;,&quot;transliteration&quot;:&quot;ruisekiwakanrizu&quot;},{&quot;translateID&quot;:905591,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;карта для общей суммы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;累積集計図&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;るいせきしゅうけいず&quot;,&quot;transliteration&quot;:&quot;ruisekishuukeizu&quot;},{&quot;translateID&quot;:138998,&quot;translationStatus&quot;:0,&quot;themeID&quot;:68,&quot;groupName&quot;:&quot;数学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;обозначение со знаком суммы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;シグマ記号&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しぐまきごう&quot;,&quot;transliteration&quot;:&quot;shigumakigou&quot;},{&quot;translateID&quot;:880152,&quot;translationStatus&quot;:0,&quot;themeID&quot;:177,&quot;groupName&quot;:&quot;経済&quot;,&quot;themeName&quot;:&quot;マクロ経済&quot;,&quot;word&quot;:&quot;уплата капитальной суммы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;役務&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;えきむ&quot;,&quot;transliteration&quot;:&quot;ekimu&quot;},{&quot;translateID&quot;:129701,&quot;translationStatus&quot;:0,&quot;themeID&quot;:177,&quot;groupName&quot;:&quot;経済&quot;,&quot;themeName&quot;:&quot;マクロ経済&quot;,&quot;word&quot;:&quot;уплата капитальной суммы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;サービス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さーびす&quot;,&quot;transliteration&quot;:&quot;sa:bisu&quot;},{&quot;translateID&quot;:167616,&quot;translationStatus&quot;:0,&quot;themeID&quot;:183,&quot;groupName&quot;:&quot;経済&quot;,&quot;themeName&quot;:&quot;証券&quot;,&quot;word&quot;:&quot;плата за услуги брокеров, покрываемая из общей суммы комиссионных&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ソフトダラー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そふとだらー&quot;,&quot;transliteration&quot;:&quot;sofutodara:&quot;},{&quot;translateID&quot;:891203,&quot;translationStatus&quot;:0,&quot;themeID&quot;:184,&quot;groupName&quot;:&quot;経済&quot;,&quot;themeName&quot;:&quot;会計&quot;,&quot;word&quot;:&quot;уплата капитальной суммы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;用役 &quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ようえき&quot;,&quot;transliteration&quot;:&quot;youeki&quot;},{&quot;translateID&quot;:763052,&quot;translationStatus&quot;:0,&quot;themeID&quot;:185,&quot;groupName&quot;:&quot;経済&quot;,&quot;themeName&quot;:&quot;金融&quot;,&quot;word&quot;:&quot;наращивание капиталовложений путём периодического инвестирования фиксированной суммы в долларах&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;難平&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なんひら&quot;,&quot;transliteration&quot;:&quot;nanhira&quot;},{&quot;translateID&quot;:834047,&quot;translationStatus&quot;:0,&quot;themeID&quot;:185,&quot;groupName&quot;:&quot;経済&quot;,&quot;themeName&quot;:&quot;金融&quot;,&quot;word&quot;:&quot;выделение ценных бумаг подписчику в случае, когда заявок больше суммы предложения&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;分担率&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぶんたんりつ&quot;,&quot;transliteration&quot;:&quot;buntanritsu&quot;},{&quot;translateID&quot;:575966,&quot;translationStatus&quot;:0,&quot;themeID&quot;:197,&quot;groupName&quot;:&quot;法律&quot;,&quot;themeName&quot;:&quot;著作権&quot;,&quot;word&quot;:&quot;соотношение суммы сделки и величины активов предприятия&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;重要度&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じゅうようど&quot;,&quot;transliteration&quot;:&quot;juuyoudo&quot;},{&quot;translateID&quot;:851043,&quot;translationStatus&quot;:0,&quot;themeID&quot;:197,&quot;groupName&quot;:&quot;法律&quot;,&quot;themeName&quot;:&quot;著作権&quot;,&quot;word&quot;:&quot;письменная заявка страхуемого к страхователю с требованием выплаты полной суммы потерь&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;放棄書&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほうきしょ&quot;,&quot;transliteration&quot;:&quot;houkisho&quot;},{&quot;translateID&quot;:850398,&quot;translationStatus&quot;:0,&quot;themeID&quot;:200,&quot;groupName&quot;:&quot;法律&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;уплата капитальной суммы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;奉仕&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほうし&quot;,&quot;transliteration&quot;:&quot;houshi&quot;},{&quot;translateID&quot;:467383,&quot;translationStatus&quot;:0,&quot;themeID&quot;:200,&quot;groupName&quot;:&quot;法律&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;требование уменьшения суммы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;減額請求&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;げんがくせいきゅう&quot;,&quot;transliteration&quot;:&quot;gengakuseikyuu&quot;},{&quot;translateID&quot;:670588,&quot;translationStatus&quot;:0,&quot;themeID&quot;:200,&quot;groupName&quot;:&quot;法律&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;уплата капитальной суммы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;送達&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そうたつ&quot;,&quot;transliteration&quot;:&quot;soutatsu&quot;},{&quot;translateID&quot;:424075,&quot;translationStatus&quot;:0,&quot;themeID&quot;:200,&quot;groupName&quot;:&quot;法律&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;внесение спорной суммы в депозит&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;供託&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きょうたく&quot;,&quot;transliteration&quot;:&quot;kyoutaku&quot;},{&quot;translateID&quot;:468243,&quot;translationStatus&quot;:0,&quot;themeID&quot;:200,&quot;groupName&quot;:&quot;法律&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;возмещение денежной суммы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;現金決済&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;げんきんけっさい&quot;,&quot;transliteration&quot;:&quot;genkinkessai&quot;},{&quot;translateID&quot;:479652,&quot;translationStatus&quot;:0,&quot;themeID&quot;:200,&quot;groupName&quot;:&quot;法律&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;уплата капитальной суммы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;交付&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうふ&quot;,&quot;transliteration&quot;:&quot;koufu&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="суммы" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	зуба - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,зуба" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u0437%u0443%u0431%u0430" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAVy44Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNC30YPQsdCwZAIDD2QWCAICD2QWBAIBDxYCHgNzcmMFDy4uL2ltZy9sb2dvLnBuZ2QCBQ8WAh4EaHJlZgUOLi4vP2xhbmc9cnUtUlVkAgQPFgIeB1Zpc2libGVnZAIGDxYCHwNoZAIHD2QWCGYPFgIfA2hkAgEPFgIfA2hkAgIPFgIfA2hkAgUPFgIfA2hkZLf64Jrk/f+UfevaiXySNJZ4dL0X" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAVRDSvswLfu/+Vg1Gqput5KlIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/jvOBEudT685dqjyQu1DT7diCrqf" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:true,&quot;Phrases&quot;:[{&quot;translateID&quot;:436643,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;коронка зуба&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;金冠&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きんかん&quot;,&quot;transliteration&quot;:&quot;kinkan&quot;},{&quot;translateID&quot;:174629,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Храм Зуба Будды&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ダラダー・マーリガーワ寺院&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;だらだー・まーりがーわじいん&quot;,&quot;transliteration&quot;:&quot;darada:・ma:riga:wajiin&quot;},{&quot;translateID&quot;:542763,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;корень зуба&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;歯の根&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はのね&quot;,&quot;transliteration&quot;:&quot;hanone&quot;},{&quot;translateID&quot;:45013,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;высота головки зуба&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;アデンダム&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あでんだむ&quot;,&quot;transliteration&quot;:&quot;adendamu&quot;},{&quot;translateID&quot;:790796,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Удаление зуба&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;抜歯&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ばっし&quot;,&quot;transliteration&quot;:&quot;basshi&quot;},{&quot;translateID&quot;:543788,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;поверхность зуба&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;歯面&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しめん&quot;,&quot;transliteration&quot;:&quot;shimen&quot;},{&quot;translateID&quot;:543022,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;головка зуба&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;歯冠&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しかん&quot;,&quot;transliteration&quot;:&quot;shikan&quot;},{&quot;translateID&quot;:542764,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ножка зуба&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;歯の根&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はのね&quot;,&quot;transliteration&quot;:&quot;hanone&quot;},{&quot;translateID&quot;:698377,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;боковая поверхность головки зуба ЗК&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;端末オペレーティングシステム&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たんまつおぺれーてぃんぐしすてむ&quot;,&quot;transliteration&quot;:&quot;tanmatsuopere:tingushisutemu&quot;},{&quot;translateID&quot;:296800,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;основание зуба&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ルート&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;るーと&quot;,&quot;transliteration&quot;:&quot;ru:to&quot;},{&quot;translateID&quot;:506816,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;основание зуба&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;根&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ね&quot;,&quot;transliteration&quot;:&quot;ne&quot;},{&quot;translateID&quot;:543556,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;тело зуба&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;歯体&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はたい&quot;,&quot;transliteration&quot;:&quot;hatai&quot;},{&quot;translateID&quot;:659997,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;полная высота зуба&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;全歯たけ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぜんはたけ&quot;,&quot;transliteration&quot;:&quot;zenhatake&quot;},{&quot;translateID&quot;:543461,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;высота головки зуба&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;歯先&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はさき&quot;,&quot;transliteration&quot;:&quot;hasaki&quot;},{&quot;translateID&quot;:543462,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;головка зуба&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;歯先&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はさき&quot;,&quot;transliteration&quot;:&quot;hasaki&quot;},{&quot;translateID&quot;:45014,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;высота головки зуба зубчатого колеса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;アデンダム&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あでんだむ&quot;,&quot;transliteration&quot;:&quot;adendamu&quot;},{&quot;translateID&quot;:192602,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;фаска по верху зуба&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;トップランド&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とっぷらんど&quot;,&quot;transliteration&quot;:&quot;toppurando&quot;},{&quot;translateID&quot;:543081,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;профиль зуба&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;歯形曲線&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はがたきょくせん&quot;,&quot;transliteration&quot;:&quot;hagatakyokusen&quot;},{&quot;translateID&quot;:543072,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;профиль зуба&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;歯形&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はがた&quot;,&quot;transliteration&quot;:&quot;hagata&quot;},{&quot;translateID&quot;:543073,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;форма зуба&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;歯形&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はがた&quot;,&quot;transliteration&quot;:&quot;hagata&quot;},{&quot;translateID&quot;:45015,&quot;translationStatus&quot;:0,&quot;themeID&quot;:14,&quot;groupName&quot;:&quot;車両&quot;,&quot;themeName&quot;:&quot;自動車&quot;,&quot;word&quot;:&quot;высота головки зуба&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;アデンダム&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あでんだむ&quot;,&quot;transliteration&quot;:&quot;adendamu&quot;},{&quot;translateID&quot;:543489,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;фаска при вершине зуба&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;歯先面&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はさきめん&quot;,&quot;transliteration&quot;:&quot;hasakimen&quot;},{&quot;translateID&quot;:96784,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;высота головки зуба до начального цилиндра&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;かみ合い歯末のたけ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かみあいはまつのたけ&quot;,&quot;transliteration&quot;:&quot;kamiaihamatsunotake&quot;},{&quot;translateID&quot;:106786,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;угол заострения зуба&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;くさび角&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;くさびかど&quot;,&quot;transliteration&quot;:&quot;kusabikado&quot;},{&quot;translateID&quot;:467214,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;толщина зуба по хорде&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;弦歯厚&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;げんはあつ&quot;,&quot;transliteration&quot;:&quot;genhaatsu&quot;},{&quot;translateID&quot;:543102,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;угол ножки зуба&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;歯元角&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はもとかど&quot;,&quot;transliteration&quot;:&quot;hamotokado&quot;},{&quot;translateID&quot;:542735,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;линия зуба&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;歯すじ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はすじ&quot;,&quot;transliteration&quot;:&quot;hasuji&quot;},{&quot;translateID&quot;:108361,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;приспособление для бочкообразной модификации зуба&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;クラウニング装置&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;くらうにんぐそうち&quot;,&quot;transliteration&quot;:&quot;kurauningusouchi&quot;},{&quot;translateID&quot;:543588,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;заточка поверхности нормально линии зуба&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;歯直角刃付け&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はちょっかくはつけ&quot;,&quot;transliteration&quot;:&quot;hachokkakuhatsuke&quot;},{&quot;translateID&quot;:542752,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;линия зуба&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;歯の曲線&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はのきょくせん&quot;,&quot;transliteration&quot;:&quot;hanokyokusen&quot;},{&quot;translateID&quot;:341638,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;угол поворота зубчатого колеса от полюса зацепления зуба до выхода его из зацепления&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;遠のき角&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とおのきかど&quot;,&quot;transliteration&quot;:&quot;toonokikado&quot;},{&quot;translateID&quot;:543586,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;нормальная толщина зуба&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;歯直角歯厚&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はちょっかくはあつ&quot;,&quot;transliteration&quot;:&quot;hachokkakuhaatsu&quot;},{&quot;translateID&quot;:543787,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;угол головки зуба конической шестерни&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;歯末角&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はまつかど&quot;,&quot;transliteration&quot;:&quot;hamatsukado&quot;},{&quot;translateID&quot;:401905,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;основной угол наклона линии зуба&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;基礎円筒ねじれ角&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きそえんとうねじれかど&quot;,&quot;transliteration&quot;:&quot;kisoentounejirekado&quot;},{&quot;translateID&quot;:543464,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;фаска зуба&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;歯先&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はさき&quot;,&quot;transliteration&quot;:&quot;hasaki&quot;},{&quot;translateID&quot;:543076,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;профиль зуба&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;歯形キャリパ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はがたきゃりぱ&quot;,&quot;transliteration&quot;:&quot;hagatakyaripa&quot;},{&quot;translateID&quot;:236485,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;задний угол фрезы в плоскости, нормальной линии зуба&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;フック角&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふっくかど&quot;,&quot;transliteration&quot;:&quot;fukkukado&quot;},{&quot;translateID&quot;:543463,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;вершина головки зуба&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;歯先&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はさき&quot;,&quot;transliteration&quot;:&quot;hasaki&quot;},{&quot;translateID&quot;:543082,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;погрешность профиля зуба&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;歯形誤差&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はがたごさ&quot;,&quot;transliteration&quot;:&quot;hagatagosa&quot;},{&quot;translateID&quot;:618680,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;профиль зуба&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;刃形&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はけい&quot;,&quot;transliteration&quot;:&quot;hakei&quot;},{&quot;translateID&quot;:543585,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;длина задней поверхности зуба протяжки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;歯直角歯厚&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はちょっかくはあつ&quot;,&quot;transliteration&quot;:&quot;hachokkakuhaatsu&quot;},{&quot;translateID&quot;:543765,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;боковая поверхность зуба&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;歯本の面&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はぼんのめん&quot;,&quot;transliteration&quot;:&quot;habonnomen&quot;},{&quot;translateID&quot;:782328,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;задняя поверхность зуба&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;背面&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はいめん&quot;,&quot;transliteration&quot;:&quot;haimen&quot;},{&quot;translateID&quot;:290743,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;толщина зуба&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ランド幅&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;らんどはば&quot;,&quot;transliteration&quot;:&quot;randohaba&quot;},{&quot;translateID&quot;:543583,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;толщина зуба&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;歯直角弦歯厚&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はちょっかくげんはあつ&quot;,&quot;transliteration&quot;:&quot;hachokkakugenhaatsu&quot;},{&quot;translateID&quot;:543122,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;половина угловой толщины зуба&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;歯厚半角&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はあつはんかく&quot;,&quot;transliteration&quot;:&quot;haatsuhankaku&quot;},{&quot;translateID&quot;:326051,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;высота головки зуба&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;一定弦歯高さ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いっていげんはだかさ&quot;,&quot;transliteration&quot;:&quot;itteigenhadakasa&quot;},{&quot;translateID&quot;:508490,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;левая боковая поверхность зуба шестерни&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;左歯面&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひだりはめん&quot;,&quot;transliteration&quot;:&quot;hidarihamen&quot;},{&quot;translateID&quot;:543348,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;высота зуба&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;歯丈&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はたけ&quot;,&quot;transliteration&quot;:&quot;hatake&quot;},{&quot;translateID&quot;:543119,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;толщина зуба по делительной окружности&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;歯厚&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はあつ&quot;,&quot;transliteration&quot;:&quot;haatsu&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="зуба" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

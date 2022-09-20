@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	забудь - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,забудь" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u0437%u0430%u0431%u0443%u0434%u044c" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV244Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNC30LDQsdGD0LTRjGQCAw9kFggCAg9kFgQCAQ8WAh4Dc3JjBQ8uLi9pbWcvbG9nby5wbmdkAgUPFgIeBGhyZWYFDi4uLz9sYW5nPXJ1LVJVZAIEDxYCHgdWaXNpYmxlZ2QCBg8WAh8DaGQCBw9kFghmDxYCHwNoZAIBDxYCHwNoZAICDxYCHwNoZAIFDxYCHwNoZGQiartj1fQ1zPcG+e79ikJ+E5a9cQ==" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAUiMDk6gR9Plbsvp92gfYoFlIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/iG2OObmiBCZLlEA6EhtM1x3YwjG" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:false,&quot;Phrases&quot;:[{&quot;translateID&quot;:856012,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Не забудь завтра в шесть меня забрать.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;忘れずに明日6時に迎えに来てください。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;わすれずにあした6じにむかえにきてください。&quot;,&quot;transliteration&quot;:&quot;wasurezuniashita6jinimukaenikitekudasai。&quot;},{&quot;translateID&quot;:333212,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Не забудь взять зонт на случай дождя.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;雨が降るといけないから、かさを忘れずに持って行ってね。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あめがふるといけないから、かさをわすれずにもってぎょうってね。&quot;,&quot;transliteration&quot;:&quot;amegafurutoikenaikara、kasa o wasurezunimottegyouttene。&quot;},{&quot;translateID&quot;:856011,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Не забудь забрать меня завтра в шесть.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;忘れずに明日6時に迎えに来てください。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;わすれずにあした6じにむかえにきてください。&quot;,&quot;transliteration&quot;:&quot;wasurezuniashita6jinimukaenikitekudasai。&quot;},{&quot;translateID&quot;:97014,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Не забудь взять с собою фотоаппарат.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;カメラを持っていくのを忘れないでください。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かめらをもっていくのをわすれないでください。&quot;,&quot;transliteration&quot;:&quot;kamera o motteikuno o wasurenaidekudasai。&quot;},{&quot;translateID&quot;:856010,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Пожалуйста, не забудь расписаться.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;忘れずに署名をして下さいね。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;わすれずにしょめいをしてくださいね。&quot;,&quot;transliteration&quot;:&quot;wasurezunishomei o shitekudasaine。&quot;},{&quot;translateID&quot;:577290,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Не забудь перед уходом выключить газ.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;出かける前に忘れずにガスを止めなさい。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;でかけるまえにわすれずにがすをとめなさい。&quot;,&quot;transliteration&quot;:&quot;dekakerumaeniwasurezunigasu o tomenasai。&quot;},{&quot;translateID&quot;:856007,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Не забудь вернуть книгу в библиотеку.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;忘れずにその本を図書館に返して下さい。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;わすれずにそのほんをとしょかんにかえしてください。&quot;,&quot;transliteration&quot;:&quot;wasurezunisonohon o toshokannikaeshitekudasai。&quot;},{&quot;translateID&quot;:169017,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Забудь про это.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;それを忘れる。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;それをわすれる。&quot;,&quot;transliteration&quot;:&quot;sore o wasureru。&quot;},{&quot;translateID&quot;:564527,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Не забудь наклеить марку на конверт с письмом.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;手紙に切手を貼るのを忘れるな。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てがみにきってをはるのをわすれるな。&quot;,&quot;transliteration&quot;:&quot;tegaminikitte o haruno o wasureruna。&quot;},{&quot;translateID&quot;:88874,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Не забудь свои деньги.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;お金を忘れないでください。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おかねをわすれないでください。&quot;,&quot;transliteration&quot;:&quot;okane o wasurenaidekudasai。&quot;},{&quot;translateID&quot;:122582,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Не забудь отправить это письмо.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;この手紙を忘れずに投函しなさい。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;このてがみをわすれずにとうかんしなさい。&quot;,&quot;transliteration&quot;:&quot;konotegami o wasurezunitoukanshinasai。&quot;},{&quot;translateID&quot;:406885,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Забудь про это.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;気にしないで。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きにしないで。&quot;,&quot;transliteration&quot;:&quot;kinishinaide。&quot;},{&quot;translateID&quot;:88853,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Не забудь свои деньги.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;お金が忘れないで。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おかねがわすれないで。&quot;,&quot;transliteration&quot;:&quot;okanegawasurenaide。&quot;},{&quot;translateID&quot;:132327,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Пожалуйста, забудь то, о чём мы говорили.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;さっきの話はなかったことにしてくれ。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さっきのはなしはなかったことにしてくれ。&quot;,&quot;transliteration&quot;:&quot;sakkinohanashihanakattakotonishitekure。&quot;},{&quot;translateID&quot;:856006,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Не забудь отправить это письмо.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;忘れずにこの手紙を出してください。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;わすれずにこのてがみをだしてください。&quot;,&quot;transliteration&quot;:&quot;wasurezunikonotegami o dashitekudasai。&quot;},{&quot;translateID&quot;:872459,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Пожалуйста, не забудь отправить это письмо завтра по дороге в школу.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;明日学校に行く途中でこの手紙をポストに入れるのを忘れないようにね。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あしたがっこうにいくとちゅうでこのてがみをぽすとにいれるのをわすれないようにね。&quot;,&quot;transliteration&quot;:&quot;ashitagakkouniikutochuudekonotegami o posutoniireruno o wasurenaiyounine。&quot;},{&quot;translateID&quot;:564544,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Не забудь отослать письмо.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;手紙を投函するのを忘れないように。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てがみをとうかんするのをわすれないように。&quot;,&quot;transliteration&quot;:&quot;tegami o toukansuruno o wasurenaiyouni。&quot;},{&quot;translateID&quot;:872404,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Не забудь заехать за мной завтра утром.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;明日の朝私を迎えに来るのを忘れないでね。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あしたのあさわたしをむかえにくるのをわすれないでね。&quot;,&quot;transliteration&quot;:&quot;ashitanoasawatashi o mukaenikuruno o wasurenaidene。&quot;},{&quot;translateID&quot;:374723,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Уходя, не забудь выключить всё освещение.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;外出する前に、すべてのライトを消すことを確かめなさい。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;がいしゅつするまえに、すべてのらいとをけすことをたしかめなさい。&quot;,&quot;transliteration&quot;:&quot;gaishutsusurumaeni、subetenoraito o kesukoto o tashikamenasai。&quot;},{&quot;translateID&quot;:564536,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Не забудь послать письмо.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;手紙をポストに入れるのを忘れないで。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てがみをぽすとにいれるのをわすれないで。&quot;,&quot;transliteration&quot;:&quot;tegami o posutoniireruno o wasurenaide。&quot;},{&quot;translateID&quot;:166203,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Не забудь отправить это письмо по почте&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;その手紙を出すのを忘れるな。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そのてがみをだすのをわすれるな。&quot;,&quot;transliteration&quot;:&quot;sonotegami o dasuno o wasureruna。&quot;},{&quot;translateID&quot;:282979,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Забудь об этом. Всё-таки он наш общий друг.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;やめろよ。あいつは俺たちの友達だろ。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;やめろよ。あいつはおれたちのともだちだろ。&quot;,&quot;transliteration&quot;:&quot;yameroyo。aitsuhaoretachinotomodachidaro。&quot;},{&quot;translateID&quot;:564535,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Не забудь отправить письмо.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;手紙をポストに入れるのを忘れないで。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てがみをぽすとにいれるのをわすれないで。&quot;,&quot;transliteration&quot;:&quot;tegami o posutoniireruno o wasurenaide。&quot;},{&quot;translateID&quot;:166095,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Не забудь дать мне знать, когда наступит нужное время!&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;その時になったら、必ず知らせてね！&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そのときになったら、かならずしらせてね！&quot;,&quot;transliteration&quot;:&quot;sonotokininattara、kanarazushirasetene！&quot;},{&quot;translateID&quot;:198889,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Эй, Том, забудь свои печали.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;なあ、トム、悩みごとなんか忘れちゃって。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なあ、とむ、なやみごとなんかわすれちゃって。&quot;,&quot;transliteration&quot;:&quot;naa、tomu、nayamigotonankawasurechatte。&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="забудь" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	социальное - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,социальное" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u0441%u043e%u0446%u0438%u0430%u043b%u044c%u043d%u043e%u0435" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV+44Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNGB0L7RhtC40LDQu9GM0L3QvtC1ZAIDD2QWCAICD2QWBAIBDxYCHgNzcmMFDy4uL2ltZy9sb2dvLnBuZ2QCBQ8WAh4EaHJlZgUOLi4vP2xhbmc9cnUtUlVkAgQPFgIeB1Zpc2libGVnZAIGDxYCHwNoZAIHD2QWCGYPFgIfA2hkAgEPFgIfA2hkAgIPFgIfA2hkAgUPFgIfA2hkZKxjowp1iRB3G2+NAFESo825GMAY" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAXIPmoTbzr8AD04iMyibqqQlIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/hf01Mqh8ksEn0niY583KBSQNZw0" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:false,&quot;Phrases&quot;:[{&quot;translateID&quot;:559017,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Социальное обеспечение&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;社会保障&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゃかいほしょう&quot;,&quot;transliteration&quot;:&quot;shakaihoshou&quot;},{&quot;translateID&quot;:833031,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;социальное положение&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;分際&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぶんざい&quot;,&quot;transliteration&quot;:&quot;bunzai&quot;},{&quot;translateID&quot;:559011,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;социальное страхование&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;社会保険&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゃかいほけん&quot;,&quot;transliteration&quot;:&quot;shakaihoken&quot;},{&quot;translateID&quot;:832861,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;социальное положение&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;分限&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぶんげん&quot;,&quot;transliteration&quot;:&quot;bungen&quot;},{&quot;translateID&quot;:558979,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Социальное животное&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;社会的動物&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゃかいてきどうぶつ&quot;,&quot;transliteration&quot;:&quot;shakaitekidoubutsu&quot;},{&quot;translateID&quot;:828696,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Социальное государство&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;福祉国家論&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふくしこっかろん&quot;,&quot;transliteration&quot;:&quot;fukushikokkaron&quot;},{&quot;translateID&quot;:558976,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;социальное положение&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;社会的地位&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゃかいてきちい&quot;,&quot;transliteration&quot;:&quot;shakaitekichii&quot;},{&quot;translateID&quot;:828690,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;социальное обеспечение&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;福祉&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふくし&quot;,&quot;transliteration&quot;:&quot;fukushi&quot;},{&quot;translateID&quot;:62475,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Итальянское социальное движение&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;イタリア社会運動&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いたりあしゃかいうんどう&quot;,&quot;transliteration&quot;:&quot;itariashakaiundou&quot;},{&quot;translateID&quot;:753559,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Социальное давление&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;同調圧力&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;どうちょうあつりょく&quot;,&quot;transliteration&quot;:&quot;douchouatsuryoku&quot;},{&quot;translateID&quot;:675303,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;социальное положение и место приписки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;族籍&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぞくせき&quot;,&quot;transliteration&quot;:&quot;zokuseki&quot;},{&quot;translateID&quot;:559006,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;социальное обеспечение&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;社会福祉&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゃかいふくし&quot;,&quot;transliteration&quot;:&quot;shakaifukushi&quot;},{&quot;translateID&quot;:378738,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;социальное положение&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;格式&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かくしき&quot;,&quot;transliteration&quot;:&quot;kakushiki&quot;},{&quot;translateID&quot;:558971,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Социальное доказательство&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;社会的証明&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゃかいてきしょうめい&quot;,&quot;transliteration&quot;:&quot;shakaitekishoumei&quot;},{&quot;translateID&quot;:481675,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Социальное жилье&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;公営住宅&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうえいじゅうたく&quot;,&quot;transliteration&quot;:&quot;koueijuutaku&quot;},{&quot;translateID&quot;:558864,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Социальное предпринимательство&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;社会起業家&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゃかいきぎょうか&quot;,&quot;transliteration&quot;:&quot;shakaikigyouka&quot;},{&quot;translateID&quot;:615201,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;социальное положение&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;身分&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;みぶん&quot;,&quot;transliteration&quot;:&quot;mibun&quot;},{&quot;translateID&quot;:558826,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;социальное зло&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;社会悪&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゃかいあく&quot;,&quot;transliteration&quot;:&quot;shakaiaku&quot;},{&quot;translateID&quot;:614928,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;социальное положение&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;身元&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;みもと&quot;,&quot;transliteration&quot;:&quot;mimoto&quot;},{&quot;translateID&quot;:623887,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;движение за социальное равенство&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;水平運動&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;すいへいうんどう&quot;,&quot;transliteration&quot;:&quot;suiheiundou&quot;},{&quot;translateID&quot;:614908,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;социальное положение&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;身許&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;みもと&quot;,&quot;transliteration&quot;:&quot;mimoto&quot;},{&quot;translateID&quot;:489699,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;социальное оповещение&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;更新情報&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうしんじょうほう&quot;,&quot;transliteration&quot;:&quot;koushinjouhou&quot;},{&quot;translateID&quot;:587111,&quot;translationStatus&quot;:0,&quot;themeID&quot;:115,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;精神科&quot;,&quot;word&quot;:&quot;социальное тревожное расстройство в детском возрасте&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;小児期の社交不安障害&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょうにきのしゃこうふあんしょうがい&quot;,&quot;transliteration&quot;:&quot;shounikinoshakoufuanshougai&quot;},{&quot;translateID&quot;:558926,&quot;translationStatus&quot;:0,&quot;themeID&quot;:115,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;精神科&quot;,&quot;word&quot;:&quot;социальное развитие&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;社会性の発達&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゃかいせいのはったつ&quot;,&quot;transliteration&quot;:&quot;shakaiseinohattatsu&quot;},{&quot;translateID&quot;:682532,&quot;translationStatus&quot;:0,&quot;themeID&quot;:115,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;精神科&quot;,&quot;word&quot;:&quot;социальное взаимодействие&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;対人関係&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たいじんかんけい&quot;,&quot;transliteration&quot;:&quot;taijinkankei&quot;},{&quot;translateID&quot;:164403,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;социальное патронирование&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ソーシャルケースワーク&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そーしゃるけーすわーく&quot;,&quot;transliteration&quot;:&quot;so:sharuke:suwa:ku&quot;},{&quot;translateID&quot;:559089,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;социальное тревожное расстройство&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;社交不安障害&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゃこうふあんしょうがい&quot;,&quot;transliteration&quot;:&quot;shakoufuanshougai&quot;},{&quot;translateID&quot;:818747,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;недостаточное социальное страхование и материальная поддержка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;不十分な社会保険及び社会福祉&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふじゅうぶんなしゃかいほけんおよびしゃかいふくし&quot;,&quot;transliteration&quot;:&quot;fujuubunnashakaihokenoyobishakaifukushi&quot;},{&quot;translateID&quot;:559007,&quot;translationStatus&quot;:0,&quot;themeID&quot;:200,&quot;groupName&quot;:&quot;法律&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;социальное благосостояние&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;社会福祉&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゃかいふくし&quot;,&quot;transliteration&quot;:&quot;shakaifukushi&quot;},{&quot;translateID&quot;:559019,&quot;translationStatus&quot;:0,&quot;themeID&quot;:200,&quot;groupName&quot;:&quot;法律&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;социальное обеспечение&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;社会保障&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゃかいほしょう&quot;,&quot;transliteration&quot;:&quot;shakaihoshou&quot;},{&quot;translateID&quot;:558999,&quot;translationStatus&quot;:0,&quot;themeID&quot;:200,&quot;groupName&quot;:&quot;法律&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;социальное беспокойство&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;社会不安&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゃかいふあん&quot;,&quot;transliteration&quot;:&quot;shakaifuan&quot;},{&quot;translateID&quot;:558954,&quot;translationStatus&quot;:0,&quot;themeID&quot;:200,&quot;groupName&quot;:&quot;法律&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;социальное клеймо&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;社会的楽印&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゃかいてきがくじるし&quot;,&quot;transliteration&quot;:&quot;shakaitekigakujirushi&quot;},{&quot;translateID&quot;:559026,&quot;translationStatus&quot;:0,&quot;themeID&quot;:211,&quot;groupName&quot;:&quot;人文&quot;,&quot;themeName&quot;:&quot;社会学&quot;,&quot;word&quot;:&quot;затраты на социальное обеспечение&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;社会保障費&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゃかいほしょうひ&quot;,&quot;transliteration&quot;:&quot;shakaihoshouhi&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="социальное" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

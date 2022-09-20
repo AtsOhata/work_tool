@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	множества - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,множества" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u043c%u043d%u043e%u0436%u0435%u0441%u0442%u0432%u0430" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV844Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNC80L3QvtC20LXRgdGC0LLQsGQCAw9kFggCAg9kFgQCAQ8WAh4Dc3JjBQ8uLi9pbWcvbG9nby5wbmdkAgUPFgIeBGhyZWYFDi4uLz9sYW5nPXJ1LVJVZAIEDxYCHgdWaXNpYmxlZ2QCBg8WAh8DaGQCBw9kFghmDxYCHwNoZAIBDxYCHwNoZAICDxYCHwNoZAIFDxYCHwNoZGSKZSeOp77OZjxZOR+/vPLN5/hEnA==" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAUfP0G6Wcc27efJJTD9tAuKlIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/l8v5YE9tB8pJy5Ou3c+D6WYekUl" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:false,&quot;Phrases&quot;:[{&quot;translateID&quot;:760727,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Внутренняя точка множества&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;内部&quot;,&quot;translationnote&quot;:&quot;位相空間論&quot;,&quot;reading&quot;:&quot;ないぶ&quot;,&quot;transliteration&quot;:&quot;naibu&quot;},{&quot;translateID&quot;:673801,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Мера множества&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;測度論&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そくどろん&quot;,&quot;transliteration&quot;:&quot;sokudoron&quot;},{&quot;translateID&quot;:428110,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Образование - это не только изучение множества фактов.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;教育は単に多くの事実を学ぶことにあるのではない。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きょういくはたんにおおくのじじつをまなぶことにあるのではない。&quot;,&quot;transliteration&quot;:&quot;kyouikuhatanniookunojijitsu o manabukotoniarunodehanai。&quot;},{&quot;translateID&quot;:482708,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;из-за множества служебных дел&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;公務多端のため&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうむたたんのため&quot;,&quot;transliteration&quot;:&quot;koumutatannotame&quot;},{&quot;translateID&quot;:678031,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;бланк под список множества фамилий&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;多重名前空間&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たじゅうなまえくうかん&quot;,&quot;transliteration&quot;:&quot;tajuunamaekuukan&quot;},{&quot;translateID&quot;:473308,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Изолированная точка множества&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;孤立点&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こりつてん&quot;,&quot;transliteration&quot;:&quot;koritsuten&quot;},{&quot;translateID&quot;:706556,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;выглядеть слишком толстым из-за множества зимних одежд&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;着脹れる&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きぶくれる&quot;,&quot;transliteration&quot;:&quot;kibukureru&quot;},{&quot;translateID&quot;:572085,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Задача о покрытии множества&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;集合被覆問題&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゅうごうひふくもんだい&quot;,&quot;transliteration&quot;:&quot;shuugouhifukumondai&quot;},{&quot;translateID&quot;:572027,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Разбиение множества&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;集合の分割&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゅうごうのぶんかつ&quot;,&quot;transliteration&quot;:&quot;shuugounobunkatsu&quot;},{&quot;translateID&quot;:767886,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;территория Японии состоит из бесчисленного множества больших и малых островов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;日本は大小無数の島から成り立つ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にほんはだいしょうむすうのしまからなりたつ&quot;,&quot;transliteration&quot;:&quot;nihonhadaishoumusuunoshimakaranaritatsu&quot;},{&quot;translateID&quot;:133195,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;число несущего множества&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;サポート数&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さぽーとすう&quot;,&quot;transliteration&quot;:&quot;sapo:tosuu&quot;},{&quot;translateID&quot;:133197,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;процент несущего множества&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;サポート比率&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さぽーとひりつ&quot;,&quot;transliteration&quot;:&quot;sapo:tohiritsu&quot;},{&quot;translateID&quot;:32985,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;интерфейс множества документов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;MDI&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;MDI&quot;,&quot;transliteration&quot;:&quot;MDI&quot;},{&quot;translateID&quot;:161533,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;элемент множества&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;セットメンバ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せっとめんば&quot;,&quot;transliteration&quot;:&quot;settomenba&quot;},{&quot;translateID&quot;:614295,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;тип множества&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;親子集合型&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おやこしゅうごうがた&quot;,&quot;transliteration&quot;:&quot;oyakoshuugougata&quot;},{&quot;translateID&quot;:572028,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;член множества&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;集合の要素&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゅうごうのようそ&quot;,&quot;transliteration&quot;:&quot;shuugounoyouso&quot;},{&quot;translateID&quot;:161518,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;тип множества&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;セットタイプ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せっとたいぷ&quot;,&quot;transliteration&quot;:&quot;settotaipu&quot;},{&quot;translateID&quot;:747231,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;цилиндрические множества&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;筒集合&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;つつしゅうごう&quot;,&quot;transliteration&quot;:&quot;tsutsushuugou&quot;},{&quot;translateID&quot;:357035,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;функция аддитивного множества&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;加法的集合関数&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かほうてきしゅうごうかんすう&quot;,&quot;transliteration&quot;:&quot;kahoutekishuugoukansuu&quot;},{&quot;translateID&quot;:475159,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;непересекающиеся множества&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;互いに素な集合&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たがいにもとなしゅうごう&quot;,&quot;transliteration&quot;:&quot;tagainimotonashuugou&quot;},{&quot;translateID&quot;:834746,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;отделимые множества&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;分離された集合&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぶんりされたしゅうごう&quot;,&quot;transliteration&quot;:&quot;bunrisaretashuugou&quot;},{&quot;translateID&quot;:848222,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;дополнение множества&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;補集合&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほしゅうごう&quot;,&quot;transliteration&quot;:&quot;hoshuugou&quot;},{&quot;translateID&quot;:746237,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;равные множества&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;等しい集合&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひとしいしゅうごう&quot;,&quot;transliteration&quot;:&quot;hitoshiishuugou&quot;},{&quot;translateID&quot;:388521,&quot;translationStatus&quot;:0,&quot;themeID&quot;:82,&quot;groupName&quot;:&quot;物理&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;вполне аддитивная функция множества&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;完全加法的集合関数&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かんぜんかほうてきしゅうごうかんすう&quot;,&quot;transliteration&quot;:&quot;kanzenkahoutekishuugoukansuu&quot;},{&quot;translateID&quot;:161544,&quot;translationStatus&quot;:0,&quot;themeID&quot;:82,&quot;groupName&quot;:&quot;物理&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;разбиение множества&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;セット分割&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せっとぶんかつ&quot;,&quot;transliteration&quot;:&quot;settobunkatsu&quot;},{&quot;translateID&quot;:848871,&quot;translationStatus&quot;:0,&quot;themeID&quot;:82,&quot;groupName&quot;:&quot;物理&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;дополнение множества&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;補篥合&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほしゅうごう&quot;,&quot;transliteration&quot;:&quot;hoshuugou&quot;},{&quot;translateID&quot;:888322,&quot;translationStatus&quot;:0,&quot;themeID&quot;:82,&quot;groupName&quot;:&quot;物理&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;дополнение множества&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;余集合&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;よしゅうごう&quot;,&quot;transliteration&quot;:&quot;yoshuugou&quot;},{&quot;translateID&quot;:572040,&quot;translationStatus&quot;:0,&quot;themeID&quot;:82,&quot;groupName&quot;:&quot;物理&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;функция множества&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;集合関数&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゅうごうかんすう&quot;,&quot;transliteration&quot;:&quot;shuugoukansuu&quot;},{&quot;translateID&quot;:676941,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;состоящий из множества субъединиц&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;多サブユニット&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たさぶゆにっと&quot;,&quot;transliteration&quot;:&quot;tasabuyunitto&quot;},{&quot;translateID&quot;:872895,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;состоящий из множества поворотов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;迷路性&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;めいろせい&quot;,&quot;transliteration&quot;:&quot;meirosei&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="множества" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

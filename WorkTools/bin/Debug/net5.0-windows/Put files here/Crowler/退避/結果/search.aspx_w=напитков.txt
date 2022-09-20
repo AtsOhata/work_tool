@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	напитков - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,напитков" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u043d%u0430%u043f%u0438%u0442%u043a%u043e%u0432" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV644Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNC90LDQv9C40YLQutC+0LJkAgMPZBYIAgIPZBYEAgEPFgIeA3NyYwUPLi4vaW1nL2xvZ28ucG5nZAIFDxYCHgRocmVmBQ4uLi8/bGFuZz1ydS1SVWQCBA8WAh4HVmlzaWJsZWdkAgYPFgIfA2hkAgcPZBYIZg8WAh8DaGQCAQ8WAh8DaGQCAg8WAh8DaGQCBQ8WAh8DaGRkXHfb3hQBqtabr4ltcZTcq8we3TA=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAUqaOEp+as4MsjCo0ZC+bjLlIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/ldAyJMPV0nP9t3rHCsyb4bPq/kx" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:false,&quot;Phrases&quot;:[{&quot;translateID&quot;:434262,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;в которой запрещена продажа спиртных напитков&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;禁酒国&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きんしゅこく&quot;,&quot;transliteration&quot;:&quot;kinshukoku&quot;},{&quot;translateID&quot;:434261,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;запретить потребление спиртных напитков&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;禁酒を命じる&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きんしゅをめいじる&quot;,&quot;transliteration&quot;:&quot;kinshu o meijiru&quot;},{&quot;translateID&quot;:434250,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;воздержание от спиртных напитков&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;禁酒&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きんしゅ&quot;,&quot;transliteration&quot;:&quot;kinshu&quot;},{&quot;translateID&quot;:330570,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Культура распития алкогольных напитков&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;飲酒文化&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いんしゅぶんか&quot;,&quot;transliteration&quot;:&quot;inshubunka&quot;},{&quot;translateID&quot;:53424,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;без спиртных напитков&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;アルコール抜き&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あるこーるぬき&quot;,&quot;transliteration&quot;:&quot;aruko:runuki&quot;},{&quot;translateID&quot;:434265,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;закон о запрещении продажи спиртных напитков&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;禁酒法&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きんしゅほう&quot;,&quot;transliteration&quot;:&quot;kinshuhou&quot;},{&quot;translateID&quot;:53417,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Крепость напитков&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;アルコール度数&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あるこーるどすう&quot;,&quot;transliteration&quot;:&quot;aruko:rudosuu&quot;},{&quot;translateID&quot;:434264,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;сторонник запрещения спиртных напитков&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;禁酒主義者&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きんしゅしゅぎしゃ&quot;,&quot;transliteration&quot;:&quot;kinshushugisha&quot;},{&quot;translateID&quot;:330528,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;запас напитков&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;飲み料&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;のみりょう&quot;,&quot;transliteration&quot;:&quot;nomiryou&quot;},{&quot;translateID&quot;:552007,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;автомат для продажи напитков или закусок&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;自動販売機&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じどうはんばいき&quot;,&quot;transliteration&quot;:&quot;jidouhanbaiki&quot;},{&quot;translateID&quot;:566697,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Регулирование оборота алкогольных напитков&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;酒類関連法規&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゅるいかんれんほうき&quot;,&quot;transliteration&quot;:&quot;shuruikanrenhouki&quot;},{&quot;translateID&quot;:812643,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;тысячи закусок и напитков&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;百味の飲食&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひゃくみのいんしょく&quot;,&quot;transliteration&quot;:&quot;hyakuminoinshoku&quot;},{&quot;translateID&quot;:566696,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Производители алкогольных напитков&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;酒類メーカー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゅるいめーかー&quot;,&quot;transliteration&quot;:&quot;shuruime:ka:&quot;},{&quot;translateID&quot;:53426,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;без спиртных напитков&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;アルコール抜きで&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あるこーるぬきで&quot;,&quot;transliteration&quot;:&quot;aruko:runukide&quot;},{&quot;translateID&quot;:795580,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;автомат для продажи напитков&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;販売機&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はんばいき&quot;,&quot;transliteration&quot;:&quot;hanbaiki&quot;},{&quot;translateID&quot;:697206,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;аппараты для производства газированных напитков&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;炭酸飲料製造機&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たんさんいんりょうせいぞうき&quot;,&quot;transliteration&quot;:&quot;tansaninryouseizouki&quot;},{&quot;translateID&quot;:736756,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;устройства для приготовления напитков электромеханические&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;電気式飲料調製機&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;でんきしきいんりょうちょうせいき&quot;,&quot;transliteration&quot;:&quot;denkishikiinryouchouseiki&quot;},{&quot;translateID&quot;:330661,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;аппараты для охлаждения напитков&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;飲料冷却装置&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いんりょうれいきゃくそうち&quot;,&quot;transliteration&quot;:&quot;inryoureikyakusouchi&quot;},{&quot;translateID&quot;:155625,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;соломинка для потребления холодных напитков&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ストロー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;すとろー&quot;,&quot;transliteration&quot;:&quot;sutoro:&quot;},{&quot;translateID&quot;:330658,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;красители для напитков&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;飲料用色素&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いんりょうようしきそ&quot;,&quot;transliteration&quot;:&quot;inryouyoushikiso&quot;},{&quot;translateID&quot;:555100,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;штат где разрешена продажа алкогольных напитков&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;湿潤状態&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しつじゅんじょうたい&quot;,&quot;transliteration&quot;:&quot;shitsujunjoutai&quot;},{&quot;translateID&quot;:330653,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;препараты фильтрующие для промышленного производства напитков&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;飲料製造用ろ過剤&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いんりょうせいぞうようろかざい&quot;,&quot;transliteration&quot;:&quot;inryouseizouyourokazai&quot;},{&quot;translateID&quot;:916289,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;завод безалкогольных напитков&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;壜詰プラント&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;びんづめぷらんと&quot;,&quot;transliteration&quot;:&quot;bindumepuranto&quot;},{&quot;translateID&quot;:386668,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;штат, в котором запрещена продажа спиртных напитков&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;乾燥状態&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かんそうじょうたい&quot;,&quot;transliteration&quot;:&quot;kansoujoutai&quot;},{&quot;translateID&quot;:330655,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;аппарат для охлаждения напитков&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;飲料保冷容器&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いんりょうほれいようき&quot;,&quot;transliteration&quot;:&quot;inryouhoreiyouki&quot;},{&quot;translateID&quot;:554927,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;штат где разрешена продажа алкогольных напитков&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;湿り状態&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しめりじょうたい&quot;,&quot;transliteration&quot;:&quot;shimerijoutai&quot;},{&quot;translateID&quot;:330652,&quot;translationStatus&quot;:0,&quot;themeID&quot;:220,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;軽工業&quot;,&quot;word&quot;:&quot;эссенции для изготовления напитков&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;飲料製造用エッセンス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いんりょうせいぞうようえっせんす&quot;,&quot;transliteration&quot;:&quot;inryouseizouyouessensu&quot;},{&quot;translateID&quot;:330624,&quot;translationStatus&quot;:0,&quot;themeID&quot;:220,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;軽工業&quot;,&quot;word&quot;:&quot;соломинки для дегустации напитков&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;飲物用ストロー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;のみものようすとろー&quot;,&quot;transliteration&quot;:&quot;nomimonoyousutoro:&quot;},{&quot;translateID&quot;:330659,&quot;translationStatus&quot;:0,&quot;themeID&quot;:220,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;軽工業&quot;,&quot;word&quot;:&quot;емкости термоизоляционные для напитков&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;飲料用断熱容器&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いんりょうようだんねつようき&quot;,&quot;transliteration&quot;:&quot;inryouyoudannetsuyouki&quot;},{&quot;translateID&quot;:790337,&quot;translationStatus&quot;:0,&quot;themeID&quot;:220,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;軽工業&quot;,&quot;word&quot;:&quot;таблетки для изготовления газированных напитков&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;発泡性飲料用錠剤&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はっぽうせいいんりょうようじょうざい&quot;,&quot;transliteration&quot;:&quot;happouseiinryouyoujouzai&quot;},{&quot;translateID&quot;:330654,&quot;translationStatus&quot;:0,&quot;themeID&quot;:220,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;軽工業&quot;,&quot;word&quot;:&quot;составы для изготовления напитков&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;飲料製造用調製品&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いんりょうせいぞうようちょうせいひん&quot;,&quot;transliteration&quot;:&quot;inryouseizouyouchouseihin&quot;},{&quot;translateID&quot;:330656,&quot;translationStatus&quot;:0,&quot;themeID&quot;:220,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;軽工業&quot;,&quot;word&quot;:&quot;сиропы для напитков&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;飲料用シロップ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いんりょうようしろっぷ&quot;,&quot;transliteration&quot;:&quot;inryouyoushiroppu&quot;},{&quot;translateID&quot;:813772,&quot;translationStatus&quot;:0,&quot;themeID&quot;:220,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;軽工業&quot;,&quot;word&quot;:&quot;сосуды для приготовления льда и напитков со льдом металлические&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;氷及び氷菓製造用金属製容器&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こおりおよびひょうかせいぞうようきんぞくせいようき&quot;,&quot;transliteration&quot;:&quot;koorioyobihyoukaseizouyoukinzokuseiyouki&quot;},{&quot;translateID&quot;:108536,&quot;translationStatus&quot;:0,&quot;themeID&quot;:220,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;軽工業&quot;,&quot;word&quot;:&quot;стаканы для напитков&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;グラス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぐらす&quot;,&quot;transliteration&quot;:&quot;gurasu&quot;},{&quot;translateID&quot;:603407,&quot;translationStatus&quot;:0,&quot;themeID&quot;:220,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;軽工業&quot;,&quot;word&quot;:&quot;емкости термоизоляционные для напитков&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;食品又は飲料水の保存用断熱容器&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょくひんまたはいんりょうすいのほぞんようだんねつようき&quot;,&quot;transliteration&quot;:&quot;shokuhinmatahainryousuinohozonyoudannetsuyouki&quot;},{&quot;translateID&quot;:603373,&quot;translationStatus&quot;:0,&quot;themeID&quot;:220,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;軽工業&quot;,&quot;word&quot;:&quot;консервирование пищевых продуктов и напитков&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;食品及び飲料の保存加工&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょくひんおよびいんりょうのほぞんかこう&quot;,&quot;transliteration&quot;:&quot;shokuhinoyobiinryounohozonkakou&quot;},{&quot;translateID&quot;:790338,&quot;translationStatus&quot;:0,&quot;themeID&quot;:220,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;軽工業&quot;,&quot;word&quot;:&quot;порошки для изготовления газированных напитков&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;発泡性飲料用粉末&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はっぽうせいいんりょうようふんまつ&quot;,&quot;transliteration&quot;:&quot;happouseiinryouyoufunmatsu&quot;},{&quot;translateID&quot;:636921,&quot;translationStatus&quot;:0,&quot;themeID&quot;:224,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;家庭用化学&quot;,&quot;word&quot;:&quot;вещества ароматические для напитков&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;精油からなる飲料用香料&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せいゆからなるいんりょうようこうりょう&quot;,&quot;transliteration&quot;:&quot;seiyukaranaruinryouyoukouryou&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="напитков" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

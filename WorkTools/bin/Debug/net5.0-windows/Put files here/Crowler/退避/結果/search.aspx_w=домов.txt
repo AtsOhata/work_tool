@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	домов - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,домов" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u0434%u043e%u043c%u043e%u0432" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV044Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNC00L7QvNC+0LJkAgMPZBYIAgIPZBYEAgEPFgIeA3NyYwUPLi4vaW1nL2xvZ28ucG5nZAIFDxYCHgRocmVmBQ4uLi8/bGFuZz1ydS1SVWQCBA8WAh4HVmlzaWJsZWdkAgYPFgIfA2hkAgcPZBYIZg8WAh8DaGQCAQ8WAh8DaGQCAg8WAh8DaGQCBQ8WAh8DaGRk5Tsmq4h66/4kTqJLwHg2iXQcQZA=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAWMiE4M/gHFVaedBhnOFHkzlIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/kkGbWjziNeGupng9a7puOixFvtl" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:false,&quot;Phrases&quot;:[{&quot;translateID&quot;:358708,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;жить на доходы от сдаваемых домов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;家作の上がりで暮らす&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かさくのあがりでくらす&quot;,&quot;transliteration&quot;:&quot;kasakunoagaridekurasu&quot;},{&quot;translateID&quot;:123098,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;в этой местности стоит множество домов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;この辺には家がどんどん建つ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;このへんにはいえがどんどんたつ&quot;,&quot;transliteration&quot;:&quot;konohennihaiegadondontatsu&quot;},{&quot;translateID&quot;:267485,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;Также множество домов было повреждено; многие окна были разбиты по всему городу.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;また、多くの家が損害を受けました。よく町中で窓が壊されたのです。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;また、おおくのいえがそんがいをうけました。よくまちなかでまどがこわされたのです。&quot;,&quot;transliteration&quot;:&quot;mata、ookunoiegasongai o ukemashita。yokumachinakademadogakowasaretanodesu。&quot;},{&quot;translateID&quot;:358594,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;делать обход домов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;家々を見回る&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いえいえをみまわる&quot;,&quot;transliteration&quot;:&quot;ieie o mimawaru&quot;},{&quot;translateID&quot;:521677,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;тридцать домов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;三十戸&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さんじっこ&quot;,&quot;transliteration&quot;:&quot;sanjikko&quot;},{&quot;translateID&quot;:886600,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;квартал публичных домов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;遊里&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ゆうり&quot;,&quot;transliteration&quot;:&quot;yuuri&quot;},{&quot;translateID&quot;:820129,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;агент по продаже домов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;不動産屋&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふどうさんや&quot;,&quot;transliteration&quot;:&quot;fudousanya&quot;},{&quot;translateID&quot;:348062,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;квартал публичных домов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;岡場所&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おかばしょ&quot;,&quot;transliteration&quot;:&quot;okabasho&quot;},{&quot;translateID&quot;:886466,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;квартал весёлых домов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;遊女町&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ゆうじょまち&quot;,&quot;transliteration&quot;:&quot;yuujomachi&quot;},{&quot;translateID&quot;:643725,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;район публичных домов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;赤線&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あかせん&quot;,&quot;transliteration&quot;:&quot;akasen&quot;},{&quot;translateID&quot;:863302,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;много домов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;万戸&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ばんこ&quot;,&quot;transliteration&quot;:&quot;banko&quot;},{&quot;translateID&quot;:886397,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;завсегдатай публичных домов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;遊客&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ゆうかく&quot;,&quot;transliteration&quot;:&quot;yuukaku&quot;},{&quot;translateID&quot;:714095,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;ряды домов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;町並み&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まちなみ&quot;,&quot;transliteration&quot;:&quot;machinami&quot;},{&quot;translateID&quot;:358973,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;вереница домов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;家続き&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いえつづき&quot;,&quot;transliteration&quot;:&quot;ietsuduki&quot;},{&quot;translateID&quot;:304231,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;Взрывы жилых домов в России&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ロシア高層アパート連続爆破事件&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ろしあこうそうあぱーとれんぞくばくはじけん&quot;,&quot;transliteration&quot;:&quot;roshiakousouapa:torenzokubakuhajiken&quot;},{&quot;translateID&quot;:247370,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;блок домов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ブロック&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぶろっく&quot;,&quot;transliteration&quot;:&quot;burokku&quot;},{&quot;translateID&quot;:425099,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;группа домов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;共同住宅&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きょうどうじゅうたく&quot;,&quot;transliteration&quot;:&quot;kyoudoujuutaku&quot;},{&quot;translateID&quot;:358786,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;число домов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;家数&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;やかず&quot;,&quot;transliteration&quot;:&quot;yakazu&quot;},{&quot;translateID&quot;:123111,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;в этом месте номера домов идут не по порядку&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;この辺は番地が飛んでいる&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;このへんはばんちがとんでいる&quot;,&quot;transliteration&quot;:&quot;konohenhabanchigatondeiru&quot;},{&quot;translateID&quot;:473465,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;число домов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;戸数&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こすう&quot;,&quot;transliteration&quot;:&quot;kosuu&quot;},{&quot;translateID&quot;:429090,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;квартал публичных домов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;狭斜の巷&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きょうはすのちまた&quot;,&quot;transliteration&quot;:&quot;kyouhasunochimata&quot;},{&quot;translateID&quot;:361487,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;квартал публичных домов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;花街&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かがい&quot;,&quot;transliteration&quot;:&quot;kagai&quot;},{&quot;translateID&quot;:886374,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;квартал публичных домов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;遊郭&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ゆうかく&quot;,&quot;transliteration&quot;:&quot;yuukaku&quot;},{&quot;translateID&quot;:572702,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;Нумерация домов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;住居番号&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じゅうきょばんごう&quot;,&quot;transliteration&quot;:&quot;juukyobangou&quot;},{&quot;translateID&quot;:763394,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;квартал ресторанов и чайных домов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;二業地&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にぎょうち&quot;,&quot;transliteration&quot;:&quot;nigyouchi&quot;},{&quot;translateID&quot;:359242,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;ряд домов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;家並み&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;やなみ&quot;,&quot;transliteration&quot;:&quot;yanami&quot;},{&quot;translateID&quot;:886373,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;квартал публичных домов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;遊廓&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ゆうかく&quot;,&quot;transliteration&quot;:&quot;yuukaku&quot;},{&quot;translateID&quot;:464128,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;ряд домов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;軒並み&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;のきなみ&quot;,&quot;transliteration&quot;:&quot;nokinami&quot;},{&quot;translateID&quot;:745028,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;сч.сл.для домов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;棟&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;むね&quot;,&quot;transliteration&quot;:&quot;mune&quot;},{&quot;translateID&quot;:359241,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;ряд домов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;家並み&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いえなみ&quot;,&quot;transliteration&quot;:&quot;ienami&quot;},{&quot;translateID&quot;:602109,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;квартал публичных домов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;色町&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いろまち&quot;,&quot;transliteration&quot;:&quot;iromachi&quot;},{&quot;translateID&quot;:464111,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;число домов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;軒数&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けんすう&quot;,&quot;transliteration&quot;:&quot;kensuu&quot;},{&quot;translateID&quot;:745027,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;сч.сл. для домов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;棟&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;むね&quot;,&quot;transliteration&quot;:&quot;mune&quot;},{&quot;translateID&quot;:358974,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;продолжающийся ряд домов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;家続き&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いえつづき&quot;,&quot;transliteration&quot;:&quot;ietsuduki&quot;},{&quot;translateID&quot;:601547,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;квартал публичных домов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;色街&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いろまち&quot;,&quot;transliteration&quot;:&quot;iromachi&quot;},{&quot;translateID&quot;:464110,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;количество домов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;軒数&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けんすう&quot;,&quot;transliteration&quot;:&quot;kensuu&quot;},{&quot;translateID&quot;:437446,&quot;translationStatus&quot;:0,&quot;themeID&quot;:50,&quot;groupName&quot;:&quot;Технический&quot;,&quot;themeName&quot;:&quot;Металлургия&quot;,&quot;word&quot;:&quot;номера домов несветящиеся&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;金属製家屋番号札&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きんぞくせいかおくばんごうさつ&quot;,&quot;transliteration&quot;:&quot;kinzokuseikaokubangousatsu&quot;},{&quot;translateID&quot;:572695,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;Медицинский&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;боязнь домов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;住居恐怖&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じゅうきょきょうふ&quot;,&quot;transliteration&quot;:&quot;juukyokyoufu&quot;},{&quot;translateID&quot;:609013,&quot;translationStatus&quot;:0,&quot;themeID&quot;:188,&quot;groupName&quot;:&quot;Экономический&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;число строящихся жилых домов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;新規住宅着工件数&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しんきじゅうたくちゃっこうけんすう&quot;,&quot;transliteration&quot;:&quot;shinkijuutakuchakkoukensuu&quot;},{&quot;translateID&quot;:692728,&quot;translationStatus&quot;:0,&quot;themeID&quot;:200,&quot;groupName&quot;:&quot;Юридический&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;Закон о сделках, связанных с участками для домов и зданиями&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;宅地建物取引業法&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たくちたてものとりひきぎょうほう&quot;,&quot;transliteration&quot;:&quot;takuchitatemonotorihikigyouhou&quot;},{&quot;translateID&quot;:383342,&quot;translationStatus&quot;:0,&quot;themeID&quot;:217,&quot;groupName&quot;:&quot;Социальный&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;Ассоциация банкирских домов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;割賦金融業協会&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かっぷきんゆうぎょうきょうかい&quot;,&quot;transliteration&quot;:&quot;kappukinyuugyoukyoukai&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="домов" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

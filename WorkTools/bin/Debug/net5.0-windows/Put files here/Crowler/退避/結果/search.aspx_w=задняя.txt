@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	задняя - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,задняя" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u0437%u0430%u0434%u043d%u044f%u044f" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV244Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNC30LDQtNC90Y/Rj2QCAw9kFggCAg9kFgQCAQ8WAh4Dc3JjBQ8uLi9pbWcvbG9nby5wbmdkAgUPFgIeBGhyZWYFDi4uLz9sYW5nPXJ1LVJVZAIEDxYCHgdWaXNpYmxlZ2QCBg8WAh8DaGQCBw9kFghmDxYCHwNoZAIBDxYCHwNoZAICDxYCHwNoZAIFDxYCHwNoZGRhEJ62ejIOAtQxJls+lCdW3BUykw==" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAW3ayE8K/6VdHlxAoQE4oKQlIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/uINzGTMlU8sZ/Am1SxZ2F+lI8H0" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:true,&quot;Phrases&quot;:[{&quot;translateID&quot;:354927,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;есть какая-то задняя мысль&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;何かもくろみがある&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なにかもくろみがある&quot;,&quot;transliteration&quot;:&quot;nanikamokuromigaaru&quot;},{&quot;translateID&quot;:476809,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;задняя часть&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;後部&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうぶ&quot;,&quot;transliteration&quot;:&quot;koubu&quot;},{&quot;translateID&quot;:897134,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;задняя улица&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;裏道&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;うらみち&quot;,&quot;transliteration&quot;:&quot;uramichi&quot;},{&quot;translateID&quot;:475560,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;задняя сторона&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;後ろ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;うしろ&quot;,&quot;transliteration&quot;:&quot;ushiro&quot;},{&quot;translateID&quot;:782230,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;задняя сторона&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;背中&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せなか&quot;,&quot;transliteration&quot;:&quot;senaka&quot;},{&quot;translateID&quot;:676572,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;задняя мысль&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;他意&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たい&quot;,&quot;transliteration&quot;:&quot;tai&quot;},{&quot;translateID&quot;:476751,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;задняя стенка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;後板&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;うしろいた&quot;,&quot;transliteration&quot;:&quot;ushiroita&quot;},{&quot;translateID&quot;:897103,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;задняя улица&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;裏町&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;うらまち&quot;,&quot;transliteration&quot;:&quot;uramachi&quot;},{&quot;translateID&quot;:475429,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;задняя часть&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;後&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あと&quot;,&quot;transliteration&quot;:&quot;ato&quot;},{&quot;translateID&quot;:781883,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;задняя сторона&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;背&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せ&quot;,&quot;transliteration&quot;:&quot;se&quot;},{&quot;translateID&quot;:184900,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;задняя лампа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;テール・ランプ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てーる・らんぷ&quot;,&quot;transliteration&quot;:&quot;te:ru・ranpu&quot;},{&quot;translateID&quot;:476761,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;задняя часть&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;後尾&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうび&quot;,&quot;transliteration&quot;:&quot;koubi&quot;},{&quot;translateID&quot;:897023,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;задняя сторона дома&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;裏手&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;うらて&quot;,&quot;transliteration&quot;:&quot;urate&quot;},{&quot;translateID&quot;:475428,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;задняя сторона&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;後&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あと&quot;,&quot;transliteration&quot;:&quot;ato&quot;},{&quot;translateID&quot;:724431,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;задняя часть ногтя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;爪半月&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;つめはんげつ&quot;,&quot;transliteration&quot;:&quot;tsumehangetsu&quot;},{&quot;translateID&quot;:808581,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;задняя мысль&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;非望&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひぼう&quot;,&quot;transliteration&quot;:&quot;hibou&quot;},{&quot;translateID&quot;:476696,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;задняя сторона&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;後背&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうはい&quot;,&quot;transliteration&quot;:&quot;kouhai&quot;},{&quot;translateID&quot;:897022,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;задняя сторона&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;裏手&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;うらて&quot;,&quot;transliteration&quot;:&quot;urate&quot;},{&quot;translateID&quot;:897275,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;задняя калитка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;裏木戸&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;うらきど&quot;,&quot;transliteration&quot;:&quot;urakido&quot;},{&quot;translateID&quot;:723648,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;задняя дверь&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;通用口&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;つうようぐち&quot;,&quot;transliteration&quot;:&quot;tsuuyouguchi&quot;},{&quot;translateID&quot;:291077,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;задняя стойка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;リアピラー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;りあぴらー&quot;,&quot;transliteration&quot;:&quot;riapira:&quot;},{&quot;translateID&quot;:344191,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;задняя часть дома&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;奥&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おく&quot;,&quot;transliteration&quot;:&quot;oku&quot;},{&quot;translateID&quot;:566741,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;задняя часть шеи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;首筋&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;くびすじ&quot;,&quot;transliteration&quot;:&quot;kubisuji&quot;},{&quot;translateID&quot;:897142,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;задняя дверь&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;裏背戸&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;うらせど&quot;,&quot;transliteration&quot;:&quot;urasedo&quot;},{&quot;translateID&quot;:476010,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;задняя лапа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;後肢&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あとあし&quot;,&quot;transliteration&quot;:&quot;atoashi&quot;},{&quot;translateID&quot;:291071,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;задняя дверь&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;リアドア&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;りあどあ&quot;,&quot;transliteration&quot;:&quot;riadoa&quot;},{&quot;translateID&quot;:841878,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;задняя мысль&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;別意&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;べつい&quot;,&quot;transliteration&quot;:&quot;betsui&quot;},{&quot;translateID&quot;:477084,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Задняя большеберцовая мышца&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;後脛骨筋&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ごけいこつすじ&quot;,&quot;transliteration&quot;:&quot;gokeikotsusuji&quot;},{&quot;translateID&quot;:897140,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Задняя Япония&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;裏日本&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;うらにほん&quot;,&quot;transliteration&quot;:&quot;uranihon&quot;},{&quot;translateID&quot;:475517,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;задняя рессора&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;後ばね&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ごばね&quot;,&quot;transliteration&quot;:&quot;gobane&quot;},{&quot;translateID&quot;:782322,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;задняя сторона&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;背面&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はいめん&quot;,&quot;transliteration&quot;:&quot;haimen&quot;},{&quot;translateID&quot;:291059,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;задняя дверь&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;リアゲート&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;りあげーと&quot;,&quot;transliteration&quot;:&quot;riage:to&quot;},{&quot;translateID&quot;:476322,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;задняя нога&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;後足&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あとあし&quot;,&quot;transliteration&quot;:&quot;atoashi&quot;},{&quot;translateID&quot;:896975,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;задняя крышка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;裏蓋&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;うらふた&quot;,&quot;transliteration&quot;:&quot;urafuta&quot;},{&quot;translateID&quot;:897164,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;задняя сторона обложки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;裏表紙&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;うらびょうし&quot;,&quot;transliteration&quot;:&quot;urabyoushi&quot;},{&quot;translateID&quot;:351301,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Нижняя задняя зубчатая мышца&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;下後鋸筋&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;したごのこぎりすじ&quot;,&quot;transliteration&quot;:&quot;shitagonokogirisuji&quot;},{&quot;translateID&quot;:291058,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;задняя дверь&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;リアゲータ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;りあげーた&quot;,&quot;transliteration&quot;:&quot;riage:ta&quot;},{&quot;translateID&quot;:476321,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;задняя лапа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;後足&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あとあし&quot;,&quot;transliteration&quot;:&quot;atoashi&quot;},{&quot;translateID&quot;:896970,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;задняя ограда&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;裏囲い&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;うらがこい&quot;,&quot;transliteration&quot;:&quot;uragakoi&quot;},{&quot;translateID&quot;:897159,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;передняя и задняя стороны&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;裏表&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;うらおもて&quot;,&quot;transliteration&quot;:&quot;uraomote&quot;},{&quot;translateID&quot;:476044,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Задняя лестничная мышца&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;後斜角筋&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ごしゃかくきん&quot;,&quot;transliteration&quot;:&quot;goshakakukin&quot;},{&quot;translateID&quot;:291010,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;задняя четверть&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;リアクオーター&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;りあくおーたー&quot;,&quot;transliteration&quot;:&quot;riakuo:ta:&quot;},{&quot;translateID&quot;:344225,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;задняя комната&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;奥まった部屋&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おくまったへや&quot;,&quot;transliteration&quot;:&quot;okumattaheya&quot;},{&quot;translateID&quot;:477108,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;задняя часть шеи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;後頸部&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうけいぶ&quot;,&quot;transliteration&quot;:&quot;koukeibu&quot;},{&quot;translateID&quot;:435643,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;задняя часть шеи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;襟肩&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;えりかた&quot;,&quot;transliteration&quot;:&quot;erikata&quot;},{&quot;translateID&quot;:476033,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;задняя ось&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;後軸&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ごじく&quot;,&quot;transliteration&quot;:&quot;gojiku&quot;},{&quot;translateID&quot;:642316,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;задняя сторона&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;脊&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せ&quot;,&quot;transliteration&quot;:&quot;se&quot;},{&quot;translateID&quot;:344220,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;задняя часть дома очень просторна&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;奥は中々広い&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おくはなかなかひろい&quot;,&quot;transliteration&quot;:&quot;okuhanakanakahiroi&quot;},{&quot;translateID&quot;:595603,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Верхняя задняя зубчатая мышца&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;上後鋸筋&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かみごのこぎりすじ&quot;,&quot;transliteration&quot;:&quot;kamigonokogirisuji&quot;},{&quot;translateID&quot;:897150,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;задняя стенка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;裏板&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;うらいた&quot;,&quot;transliteration&quot;:&quot;uraita&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="задняя" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

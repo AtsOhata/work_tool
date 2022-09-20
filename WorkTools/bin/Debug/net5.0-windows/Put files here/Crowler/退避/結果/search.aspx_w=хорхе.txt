@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	хорхе - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,хорхе" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u0445%u043e%u0440%u0445%u0435" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV044Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNGF0L7RgNGF0LVkAgMPZBYIAgIPZBYEAgEPFgIeA3NyYwUPLi4vaW1nL2xvZ28ucG5nZAIFDxYCHgRocmVmBQ4uLi8/bGFuZz1ydS1SVWQCBA8WAh4HVmlzaWJsZWdkAgYPFgIfA2hkAgcPZBYIZg8WAh8DaGQCAQ8WAh8DaGQCAg8WAh8DaGQCBQ8WAh8DaGRkQNqAA5og6pK00Y15SI5RQSQ2xpA=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAWTVuMFgLzZgsDtkwgY6aCalIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/rf31btZqBo5MgUn+aqqNI6GcxDb" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:false,&quot;Phrases&quot;:[{&quot;translateID&quot;:262850,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Солис, Хорхе&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ホルヘ・ソリス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほるへ・そりす&quot;,&quot;transliteration&quot;:&quot;horuhe・sorisu&quot;},{&quot;translateID&quot;:262860,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Видела, Хорхе Рафаэль&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ホルヘ・ラファエル・ビデラ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほるへ・らふぁえる・びでら&quot;,&quot;transliteration&quot;:&quot;horuhe・rafaeru・bidera&quot;},{&quot;translateID&quot;:262849,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Кампос, Хорхе&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ホルヘ・カンポス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほるへ・かんぽす&quot;,&quot;transliteration&quot;:&quot;horuhe・kanposu&quot;},{&quot;translateID&quot;:262859,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Мартинес, Хорхе Андрес&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ホルヘ・マルティネス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほるへ・まるてぃねす&quot;,&quot;transliteration&quot;:&quot;horuhe・marutinesu&quot;},{&quot;translateID&quot;:262848,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Гарбахоса, Хорхе&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ホルヘ・ガルバホサ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほるへ・がるばほさ&quot;,&quot;transliteration&quot;:&quot;horuhe・garubahosa&quot;},{&quot;translateID&quot;:262858,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Ольгин, Хорхе&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ホルヘ・マリオ・オルギン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほるへ・まりお・おるぎん&quot;,&quot;transliteration&quot;:&quot;horuhe・mario・orugin&quot;},{&quot;translateID&quot;:262847,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Гарсиа, Хорхе&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ホルヘ・ガルシア&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほるへ・がるしあ&quot;,&quot;transliteration&quot;:&quot;horuhe・garushia&quot;},{&quot;translateID&quot;:262857,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Болет, Хорхе&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ホルヘ・ボレット&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほるへ・ぼれっと&quot;,&quot;transliteration&quot;:&quot;horuhe・boretto&quot;},{&quot;translateID&quot;:146024,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Робледо, Хорхе&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ジョージ・ロブレド&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じょーじ・ろぶれど&quot;,&quot;transliteration&quot;:&quot;jo:ji・roburedo&quot;},{&quot;translateID&quot;:262852,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Дрекслер, Хорхе&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ホルヘ・ドレクスレル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほるへ・どれくすれる&quot;,&quot;transliteration&quot;:&quot;horuhe・dorekusureru&quot;},{&quot;translateID&quot;:262862,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Борхес, Хорхе Луис&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ホルヘ・ルイス・ボルヘス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほるへ・るいす・ぼるへす&quot;,&quot;transliteration&quot;:&quot;horuhe・ruisu・boruhesu&quot;},{&quot;translateID&quot;:79823,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Гонсалес, Хорхе&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;エル・ヒガンテ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;える・ひがんて&quot;,&quot;transliteration&quot;:&quot;eru・higante&quot;},{&quot;translateID&quot;:262851,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Да Сильва, Хорхе&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ホルヘ・ダ・シルバ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほるへ・だ・しるば&quot;,&quot;transliteration&quot;:&quot;horuhe・da・shiruba&quot;},{&quot;translateID&quot;:262861,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Ларрионда, Хорхе&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ホルヘ・ラリオンダ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほるへ・らりおんだ&quot;,&quot;transliteration&quot;:&quot;horuhe・rarionda&quot;},{&quot;translateID&quot;:262846,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Кастро, Хорхе Фернандо&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ホルヘ・カストロ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほるへ・かすとろ&quot;,&quot;transliteration&quot;:&quot;horuhe・kasutoro&quot;},{&quot;translateID&quot;:262856,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Бурручага, Хорхе&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ホルヘ・ブルチャガ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほるへ・ぶるちゃが&quot;,&quot;transliteration&quot;:&quot;horuhe・buruchaga&quot;},{&quot;translateID&quot;:262845,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Убико, Хорхе&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ホルヘ・ウビコ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほるへ・うびこ&quot;,&quot;transliteration&quot;:&quot;horuhe・ubiko&quot;},{&quot;translateID&quot;:262855,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Фусиле, Хорхе&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ホルヘ・フシーレ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほるへ・ふしーれ&quot;,&quot;transliteration&quot;:&quot;horuhe・fushi:re&quot;},{&quot;translateID&quot;:262844,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Арсе, Хорхе&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ホルヘ・アルセ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほるへ・あるせ&quot;,&quot;transliteration&quot;:&quot;horuhe・aruse&quot;},{&quot;translateID&quot;:262854,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Вальдано, Хорхе&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ホルヘ・バルダーノ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほるへ・ばるだーの&quot;,&quot;transliteration&quot;:&quot;horuhe・baruda:no&quot;},{&quot;translateID&quot;:262865,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Лоренсо, Хорхе&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ホルヘ・ロレンソ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほるへ・ろれんそ&quot;,&quot;transliteration&quot;:&quot;horuhe・rorenso&quot;},{&quot;translateID&quot;:147068,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Донн, Хорхе&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ジョルジュ・ドン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じょるじゅ・どん&quot;,&quot;transliteration&quot;:&quot;joruju・don&quot;},{&quot;translateID&quot;:262853,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Ареко, Хорхе Пачеко&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ホルヘ・パチェコ・アレコ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほるへ・ぱちぇこ・あれこ&quot;,&quot;transliteration&quot;:&quot;horuhe・pacheko・areko&quot;},{&quot;translateID&quot;:262864,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Лопес, Хорхе&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ホルヘ・ロペス・モンターニャ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほるへ・ろぺす・もんたーにゃ&quot;,&quot;transliteration&quot;:&quot;horuhe・ropesu・monta:nya&quot;},{&quot;translateID&quot;:109061,&quot;translationStatus&quot;:0,&quot;themeID&quot;:216,&quot;groupName&quot;:&quot;人文&quot;,&quot;themeName&quot;:&quot;スポーツ&quot;,&quot;word&quot;:&quot;Хорхе Вильстерманн&quot;,&quot;wordnote&quot;:&quot;футбольный клуб&quot;,&quot;translation&quot;:&quot;クラブ・ホルヘ・ウィルステルマン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;くらぶ・ほるへ・うぃるすてるまん&quot;,&quot;transliteration&quot;:&quot;kurabu・horuhe・uぃrusuteruman&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="хорхе" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

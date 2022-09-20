@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	храма - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,храма" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u0445%u0440%u0430%u043c%u0430" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV044Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNGF0YDQsNC80LBkAgMPZBYIAgIPZBYEAgEPFgIeA3NyYwUPLi4vaW1nL2xvZ28ucG5nZAIFDxYCHgRocmVmBQ4uLi8/bGFuZz1ydS1SVWQCBA8WAh4HVmlzaWJsZWdkAgYPFgIfA2hkAgcPZBYIZg8WAh8DaGQCAQ8WAh8DaGQCAg8WAh8DaGQCBQ8WAh8DaGRk0aD+CNmL/RoqjBZALpVXCy/6/kQ=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAU78Nvx7oBgHmGjQnv/GkUulIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/kSWqo/pq3XSBow5XfbpmW3POP90" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:true,&quot;Phrases&quot;:[{&quot;translateID&quot;:545010,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;внутри храма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;寺中&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じちゅう&quot;,&quot;transliteration&quot;:&quot;jichuu&quot;},{&quot;translateID&quot;:523606,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ворота храма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;山門&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さんもん&quot;,&quot;transliteration&quot;:&quot;sanmon&quot;},{&quot;translateID&quot;:814393,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;главный вход на территорию храма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;表参道&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おもてさんどう&quot;,&quot;transliteration&quot;:&quot;omotesandou&quot;},{&quot;translateID&quot;:473355,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;жилое помещение храма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;庫裏&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;くり&quot;,&quot;transliteration&quot;:&quot;kuri&quot;},{&quot;translateID&quot;:632525,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;главное здание храма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;正殿&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せいでん&quot;,&quot;transliteration&quot;:&quot;seiden&quot;},{&quot;translateID&quot;:544994,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;посещение храма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;寺参り&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てらまいり&quot;,&quot;transliteration&quot;:&quot;teramairi&quot;},{&quot;translateID&quot;:523001,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;посещение храма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;参堂&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さんどう&quot;,&quot;transliteration&quot;:&quot;sandou&quot;},{&quot;translateID&quot;:612353,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;территория храма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;神域&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しんいき&quot;,&quot;transliteration&quot;:&quot;shiniki&quot;},{&quot;translateID&quot;:418263,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;хранитель храма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;宮守り&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;みやもり&quot;,&quot;transliteration&quot;:&quot;miyamori&quot;},{&quot;translateID&quot;:862947,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;местное отделение храма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;末社&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まっしゃ&quot;,&quot;transliteration&quot;:&quot;massha&quot;},{&quot;translateID&quot;:839973,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;отпускаемая на содержание храма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;弊帛&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;へいはく&quot;,&quot;transliteration&quot;:&quot;heihaku&quot;},{&quot;translateID&quot;:89529,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;стократный обход храма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;お百度参&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おひゃくどまいり&quot;,&quot;transliteration&quot;:&quot;ohyakudomairi&quot;},{&quot;translateID&quot;:559173,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;канцелярия храма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;社務所&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゃむしょ&quot;,&quot;transliteration&quot;:&quot;shamusho&quot;},{&quot;translateID&quot;:418236,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;территория храма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;宮居&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;みやい&quot;,&quot;transliteration&quot;:&quot;miyai&quot;},{&quot;translateID&quot;:862945,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;местное отделение храма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;末寺&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まつじ&quot;,&quot;transliteration&quot;:&quot;matsuji&quot;},{&quot;translateID&quot;:451024,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;посещение храма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;詣で&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;もうで&quot;,&quot;transliteration&quot;:&quot;moude&quot;},{&quot;translateID&quot;:89528,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;стократный обход храма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;お百度&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おひゃくど&quot;,&quot;transliteration&quot;:&quot;ohyakudo&quot;},{&quot;translateID&quot;:559172,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;дела синтоистского храма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;社務&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゃむ&quot;,&quot;transliteration&quot;:&quot;shamu&quot;},{&quot;translateID&quot;:418234,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;двор храма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;宮居&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;みやい&quot;,&quot;transliteration&quot;:&quot;miyai&quot;},{&quot;translateID&quot;:860570,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;главное здание храма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;本堂&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほんどう&quot;,&quot;transliteration&quot;:&quot;hondou&quot;},{&quot;translateID&quot;:830864,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;посещение храма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;仏参&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぶっさん&quot;,&quot;transliteration&quot;:&quot;bussan&quot;},{&quot;translateID&quot;:545018,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;канцелярия управления делами храма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;寺務所&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じむしょ&quot;,&quot;transliteration&quot;:&quot;jimusho&quot;},{&quot;translateID&quot;:759963,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;внутренняя часть храма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;内陣&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ないじん&quot;,&quot;transliteration&quot;:&quot;naijin&quot;},{&quot;translateID&quot;:351511,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;выходить из храма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;下山する&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;げざんする&quot;,&quot;transliteration&quot;:&quot;gezansuru&quot;},{&quot;translateID&quot;:582071,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;первое посещение храма в новом году&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;初詣&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はつもうで&quot;,&quot;transliteration&quot;:&quot;hatsumoude&quot;},{&quot;translateID&quot;:872021,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;бог-страж храма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;明王&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;みょうおう&quot;,&quot;transliteration&quot;:&quot;myouou&quot;},{&quot;translateID&quot;:669377,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;украшение храма и статуй&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;荘厳&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょうげん&quot;,&quot;transliteration&quot;:&quot;shougen&quot;},{&quot;translateID&quot;:545014,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;внутри храма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;寺内&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じない&quot;,&quot;transliteration&quot;:&quot;jinai&quot;},{&quot;translateID&quot;:718479,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ворота синтоистского храма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;鳥居&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とりい&quot;,&quot;transliteration&quot;:&quot;torii&quot;},{&quot;translateID&quot;:351508,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;выход из храма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;下山&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;げさん&quot;,&quot;transliteration&quot;:&quot;gesan&quot;},{&quot;translateID&quot;:473358,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;жилое помещение храма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;庫裡&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;くり&quot;,&quot;transliteration&quot;:&quot;kuri&quot;},{&quot;translateID&quot;:822771,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;сбор пожертвований на постройку буддийского храма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;普請&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふしん&quot;,&quot;transliteration&quot;:&quot;fushin&quot;},{&quot;translateID&quot;:387698,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;сбор пожертвований на постройку храма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;勧化&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;すすむか&quot;,&quot;transliteration&quot;:&quot;susumuka&quot;},{&quot;translateID&quot;:88994,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;посещение храма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;お参り&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おまいり&quot;,&quot;transliteration&quot;:&quot;omairi&quot;},{&quot;translateID&quot;:559158,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;на территории синтоистского храма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;社内&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゃない&quot;,&quot;transliteration&quot;:&quot;shanai&quot;},{&quot;translateID&quot;:315646,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;посещение храма в Исз&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;伊勢参道&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いせさんどう&quot;,&quot;transliteration&quot;:&quot;isesandou&quot;},{&quot;translateID&quot;:860378,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;главная святыня храма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;本尊&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほんぞん&quot;,&quot;transliteration&quot;:&quot;honzon&quot;},{&quot;translateID&quot;:907584,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;территория храма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;霊地&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;れいち&quot;,&quot;transliteration&quot;:&quot;reichi&quot;},{&quot;translateID&quot;:88828,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;первое посещение новорождённым ребенком синтоистского храма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;お宮参り&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おみやまいり&quot;,&quot;transliteration&quot;:&quot;omiyamairi&quot;},{&quot;translateID&quot;:559152,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;главное здание храма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;社殿&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゃでん&quot;,&quot;transliteration&quot;:&quot;shaden&quot;},{&quot;translateID&quot;:763283,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ворота храма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;二王門&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;におうもん&quot;,&quot;transliteration&quot;:&quot;nioumon&quot;},{&quot;translateID&quot;:582087,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;посещение храма в дни Нового года&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;初参り&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はつまいり&quot;,&quot;transliteration&quot;:&quot;hatsumairi&quot;},{&quot;translateID&quot;:907532,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;территория храма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;霊域&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;れいいき&quot;,&quot;transliteration&quot;:&quot;reiiki&quot;},{&quot;translateID&quot;:709773,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;главное здание храма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中堂&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅうどう&quot;,&quot;transliteration&quot;:&quot;chuudou&quot;},{&quot;translateID&quot;:690720,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;главные ворота на территории буддийского храма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;大門&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;だいもん&quot;,&quot;transliteration&quot;:&quot;daimon&quot;},{&quot;translateID&quot;:713629,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;утреннее посещение храма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;朝参り&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あさまいり&quot;,&quot;transliteration&quot;:&quot;asamairi&quot;},{&quot;translateID&quot;:582074,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;посещение храма в дни Нового года&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;初詣で&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はつもうで&quot;,&quot;transliteration&quot;:&quot;hatsumoude&quot;},{&quot;translateID&quot;:907247,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;благодарственное посещение храма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;礼参り&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;れいまいり&quot;,&quot;transliteration&quot;:&quot;reimairi&quot;},{&quot;translateID&quot;:545019,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ворота храма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;寺門&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じもん&quot;,&quot;transliteration&quot;:&quot;jimon&quot;},{&quot;translateID&quot;:687856,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;главный настоятель храма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;大宮司&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;だいぐうじ&quot;,&quot;transliteration&quot;:&quot;daiguuji&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="храма" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

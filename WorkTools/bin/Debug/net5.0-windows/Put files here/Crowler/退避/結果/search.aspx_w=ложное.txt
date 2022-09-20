@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	ложное - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,ложное" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u043b%u043e%u0436%u043d%u043e%u0435" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV244Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNC70L7QttC90L7QtWQCAw9kFggCAg9kFgQCAQ8WAh4Dc3JjBQ8uLi9pbWcvbG9nby5wbmdkAgUPFgIeBGhyZWYFDi4uLz9sYW5nPXJ1LVJVZAIEDxYCHgdWaXNpYmxlZ2QCBg8WAh8DaGQCBw9kFghmDxYCHwNoZAIBDxYCHwNoZAICDxYCHwNoZAIFDxYCHwNoZGTnDP1/XnY9plRExS61fVFmrwdSDw==" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAVeL2c2B/Vl5doiz+Ngcr/SlIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/pcY4kRydywWmStmUymh3sFW6qSt" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:true,&quot;Phrases&quot;:[{&quot;translateID&quot;:422881,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ложное сообщение&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;虚報&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きょほう&quot;,&quot;transliteration&quot;:&quot;kyohou&quot;},{&quot;translateID&quot;:926022,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ложное обвинение&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;誣告罪&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぶこくざい&quot;,&quot;transliteration&quot;:&quot;bukokuzai&quot;},{&quot;translateID&quot;:422656,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;давать ложное показание&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;虚偽の申し立てをする&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きょぎのもうしたてをする&quot;,&quot;transliteration&quot;:&quot;kyoginomoushitate o suru&quot;},{&quot;translateID&quot;:916580,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ложное обвинение&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;寃罪&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;えんざい&quot;,&quot;transliteration&quot;:&quot;enzai&quot;},{&quot;translateID&quot;:926016,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ложное обвинение&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;誣告&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぶこく&quot;,&quot;transliteration&quot;:&quot;bukoku&quot;},{&quot;translateID&quot;:422654,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ложное показание&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;虚偽の申し立て&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きょぎのもうしたて&quot;,&quot;transliteration&quot;:&quot;kyoginomoushitate&quot;},{&quot;translateID&quot;:914973,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ложное обвинение&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;冤罪&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;えんざい&quot;,&quot;transliteration&quot;:&quot;enzai&quot;},{&quot;translateID&quot;:926013,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ложное обвинение&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;誣言&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しいごと&quot;,&quot;transliteration&quot;:&quot;shiigoto&quot;},{&quot;translateID&quot;:422653,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ложное заявление&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;虚偽の申し立て&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きょぎのもうしたて&quot;,&quot;transliteration&quot;:&quot;kyoginomoushitate&quot;},{&quot;translateID&quot;:914695,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ложное отступление&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;佯退&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ようたい&quot;,&quot;transliteration&quot;:&quot;youtai&quot;},{&quot;translateID&quot;:926012,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ложное обвинение&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;誣言&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふげん&quot;,&quot;transliteration&quot;:&quot;fugen&quot;},{&quot;translateID&quot;:107320,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Ложное искушение&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;グッド・シェパード&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぐっど・しぇぱーど&quot;,&quot;transliteration&quot;:&quot;guddo・shepa:do&quot;},{&quot;translateID&quot;:412948,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ложное показание&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;偽証&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぎしょう&quot;,&quot;transliteration&quot;:&quot;gishou&quot;},{&quot;translateID&quot;:892479,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ложное отступление&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;陽退&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ようたい&quot;,&quot;transliteration&quot;:&quot;youtai&quot;},{&quot;translateID&quot;:926225,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ложное обвинение&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;讒言&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ざんげん&quot;,&quot;transliteration&quot;:&quot;zangen&quot;},{&quot;translateID&quot;:422840,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ложное сообщение&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;虚説&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きょせつ&quot;,&quot;transliteration&quot;:&quot;kyosetsu&quot;},{&quot;translateID&quot;:412944,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ложное имя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;偽称&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぎしょう&quot;,&quot;transliteration&quot;:&quot;gishou&quot;},{&quot;translateID&quot;:271284,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Ложное движение&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;まわり道&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まわりみち&quot;,&quot;transliteration&quot;:&quot;mawarimichi&quot;},{&quot;translateID&quot;:926023,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;возвести ложное обвинение&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;誣告罪を犯す&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぶこくざいをおかす&quot;,&quot;transliteration&quot;:&quot;bukokuzai o okasu&quot;},{&quot;translateID&quot;:422772,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ложное сообщение&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;虚構説&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きょこうせつ&quot;,&quot;transliteration&quot;:&quot;kyokousetsu&quot;},{&quot;translateID&quot;:772483,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ложное обвинение&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;濡れ衣&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぬれぎぬ&quot;,&quot;transliteration&quot;:&quot;nureginu&quot;},{&quot;translateID&quot;:874639,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ложное показание&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;妄証&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;みだりしょう&quot;,&quot;transliteration&quot;:&quot;midarishou&quot;},{&quot;translateID&quot;:468935,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ложное обвинение&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;言い掛かり&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いいがかり&quot;,&quot;transliteration&quot;:&quot;iigakari&quot;},{&quot;translateID&quot;:413372,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ложное сообщение&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;偽報&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぎほう&quot;,&quot;transliteration&quot;:&quot;gihou&quot;},{&quot;translateID&quot;:874638,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ложное показание&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;妄証&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぼうしょう&quot;,&quot;transliteration&quot;:&quot;boushou&quot;},{&quot;translateID&quot;:432418,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ложное учение&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;曲学&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きょくがく&quot;,&quot;transliteration&quot;:&quot;kyokugaku&quot;},{&quot;translateID&quot;:413181,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ложное показание под присягой&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;偽誓&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぎせい&quot;,&quot;transliteration&quot;:&quot;gisei&quot;},{&quot;translateID&quot;:812676,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ложное сообщение&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;謬伝&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;びゅうでん&quot;,&quot;transliteration&quot;:&quot;byuuden&quot;},{&quot;translateID&quot;:926233,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ложное обвинение&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;讒訴&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ざんそ&quot;,&quot;transliteration&quot;:&quot;zanso&quot;},{&quot;translateID&quot;:412877,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ложное утверждение&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;偽言&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぎげん&quot;,&quot;transliteration&quot;:&quot;gigen&quot;},{&quot;translateID&quot;:479194,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ложное напластование&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;交斜層&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうしゃそう&quot;,&quot;transliteration&quot;:&quot;koushasou&quot;},{&quot;translateID&quot;:926231,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ложное обвинение&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;讒口&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ざんこう&quot;,&quot;transliteration&quot;:&quot;zankou&quot;},{&quot;translateID&quot;:517827,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ложное имя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;作り名&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;つくりな&quot;,&quot;transliteration&quot;:&quot;tsukurina&quot;},{&quot;translateID&quot;:478059,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;ложное срабатывание&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;誤検知&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ごけんち&quot;,&quot;transliteration&quot;:&quot;gokenchi&quot;},{&quot;translateID&quot;:414015,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;ложное сообщение&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;擬似通報&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぎじつうほう&quot;,&quot;transliteration&quot;:&quot;gijitsuuhou&quot;},{&quot;translateID&quot;:413323,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;ложное годовое кольцо&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;偽年輪&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にせねんりん&quot;,&quot;transliteration&quot;:&quot;nisenenrin&quot;},{&quot;translateID&quot;:413229,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;ложное отражение&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;偽像&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にせぞう&quot;,&quot;transliteration&quot;:&quot;nisezou&quot;},{&quot;translateID&quot;:118807,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;ложное изображение&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ゴースト像&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ごーすとぞう&quot;,&quot;transliteration&quot;:&quot;go:sutozou&quot;},{&quot;translateID&quot;:318857,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;ложное схватывание цементного раствора&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;異常凝結&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いじょうぎょうけつ&quot;,&quot;transliteration&quot;:&quot;ijougyouketsu&quot;},{&quot;translateID&quot;:672410,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ложное солнце&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;側幻日&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そばげんじつ&quot;,&quot;transliteration&quot;:&quot;sobagenjitsu&quot;},{&quot;translateID&quot;:442586,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ложное совпадение&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;偶発同時計数&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぐうはつどうじけいすう&quot;,&quot;transliteration&quot;:&quot;guuhatsudoujikeisuu&quot;},{&quot;translateID&quot;:467139,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ложное солнце&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;幻日&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;げんじつ&quot;,&quot;transliteration&quot;:&quot;genjitsu&quot;},{&quot;translateID&quot;:870051,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ложное распознавание сигнала&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;無病誤診&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;むびょうごしん&quot;,&quot;transliteration&quot;:&quot;mubyougoshin&quot;},{&quot;translateID&quot;:413312,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ложное солнце&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;偽日&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にせひ&quot;,&quot;transliteration&quot;:&quot;nisehi&quot;},{&quot;translateID&quot;:467140,&quot;translationStatus&quot;:0,&quot;themeID&quot;:82,&quot;groupName&quot;:&quot;物理&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ложное солнце&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;幻日&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;げんじつ&quot;,&quot;transliteration&quot;:&quot;genjitsu&quot;},{&quot;translateID&quot;:413230,&quot;translationStatus&quot;:0,&quot;themeID&quot;:82,&quot;groupName&quot;:&quot;物理&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ложное изображение&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;偽像&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にせぞう&quot;,&quot;transliteration&quot;:&quot;nisezou&quot;},{&quot;translateID&quot;:354622,&quot;translationStatus&quot;:0,&quot;themeID&quot;:82,&quot;groupName&quot;:&quot;物理&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ложное изображение&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;仮像&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かぞう&quot;,&quot;transliteration&quot;:&quot;kazou&quot;},{&quot;translateID&quot;:442480,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ложное совпадение&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;偶然の同時&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぐうぜんのどうじ&quot;,&quot;transliteration&quot;:&quot;guuzennodouji&quot;},{&quot;translateID&quot;:419344,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ложное схватывание&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;急速硬化&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きゅうそくこうか&quot;,&quot;transliteration&quot;:&quot;kyuusokukouka&quot;},{&quot;translateID&quot;:442483,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ложное совпадение&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;偶然の同時計数&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぐうぜんのどうじけいすう&quot;,&quot;transliteration&quot;:&quot;guuzennodoujikeisuu&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="ложное" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

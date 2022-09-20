@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	жак - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,жак" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u0436%u0430%u043a" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAVw44Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNC20LDQumQCAw9kFggCAg9kFgQCAQ8WAh4Dc3JjBQ8uLi9pbWcvbG9nby5wbmdkAgUPFgIeBGhyZWYFDi4uLz9sYW5nPXJ1LVJVZAIEDxYCHgdWaXNpYmxlZ2QCBg8WAh8DaGQCBw9kFghmDxYCHwNoZAIBDxYCHwNoZAICDxYCHwNoZAIFDxYCHwNoZGQm4z2FZs0sMU+3pn5tH3UTuNCgSw==" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAWzlYvOAnGBvGKI80HxnxKolIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/rUdo+zfalQnJ52vWiC+LbOUhSUV" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:true,&quot;Phrases&quot;:[{&quot;translateID&quot;:142298,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Верт, Жак де&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ジャケス・デ・ヴェルト&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じゃけす・で・ヴぇると&quot;,&quot;transliteration&quot;:&quot;jakesu・de・vuぇruto&quot;},{&quot;translateID&quot;:142576,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Эрбран, Жак&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ジャック・エルブラン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じゃっく・えるぶらん&quot;,&quot;transliteration&quot;:&quot;jakku・eruburan&quot;},{&quot;translateID&quot;:142588,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Кюри, Жак&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ジャック・キュリー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じゃっく・きゅりー&quot;,&quot;transliteration&quot;:&quot;jakku・kyuri:&quot;},{&quot;translateID&quot;:142613,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Шамбоньер, Жак&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ジャック・シャンピオン・ド・シャンボニエール&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じゃっく・しゃんぴおん・ど・しゃんぼにえーる&quot;,&quot;transliteration&quot;:&quot;jakku・shanpion・do・shanbonie:ru&quot;},{&quot;translateID&quot;:142634,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Вокансон, Жак де&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ジャック・ド・ヴォーカンソン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じゃっく・ど・ヴぉーかんそん&quot;,&quot;transliteration&quot;:&quot;jakku・do・vo:kanson&quot;},{&quot;translateID&quot;:142658,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Фейдер, Жак&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ジャック・フェデー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じゃっく・ふぇでー&quot;,&quot;transliteration&quot;:&quot;jakku・fede:&quot;},{&quot;translateID&quot;:142675,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Массю, Жак&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ジャック・マシュ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じゃっく・ましゅ&quot;,&quot;transliteration&quot;:&quot;jakku・mashu&quot;},{&quot;translateID&quot;:142687,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Ле Гофф, Жак&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ジャック・ル・ゴフ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じゃっく・る・ごふ&quot;,&quot;transliteration&quot;:&quot;jakku・ru・gofu&quot;},{&quot;translateID&quot;:223454,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Камбронн, Пьер Жак Этьен&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ピエール・カンブロンヌ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぴえーる・かんぶろんぬ&quot;,&quot;transliteration&quot;:&quot;pie:ru・kanburonnu&quot;},{&quot;translateID&quot;:142573,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Вильнёв, Жак&quot;,&quot;wordnote&quot;:&quot;старший&quot;,&quot;translation&quot;:&quot;ジャック・ヴィルヌーヴSr.&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じゃっく・ヴぃるぬーヴSr.&quot;,&quot;transliteration&quot;:&quot;jakku・virunu:vuSr.&quot;},{&quot;translateID&quot;:142587,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Калло, Жак&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ジャック・カロ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じゃっく・かろ&quot;,&quot;transliteration&quot;:&quot;jakku・karo&quot;},{&quot;translateID&quot;:142612,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Шарль, Жак Александр Сезар&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ジャック・シャルル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じゃっく・しゃるる&quot;,&quot;transliteration&quot;:&quot;jakku・sharuru&quot;},{&quot;translateID&quot;:142632,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Деррида, Жак&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ジャック・デリダ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じゃっく・でりだ&quot;,&quot;transliteration&quot;:&quot;jakku・derida&quot;},{&quot;translateID&quot;:142657,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Феврье, Жак&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ジャック・フェヴリエ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じゃっく・ふぇヴりえ&quot;,&quot;transliteration&quot;:&quot;jakku・fevurie&quot;},{&quot;translateID&quot;:142674,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Макдональд, Жак&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ジャック・マクドナル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じゃっく・まくどなる&quot;,&quot;transliteration&quot;:&quot;jakku・makudonaru&quot;},{&quot;translateID&quot;:142686,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Риветт, Жак&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ジャック・リヴェット&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じゃっく・りヴぇっと&quot;,&quot;transliteration&quot;:&quot;jakku・rivuぇtto&quot;},{&quot;translateID&quot;:124692,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Коллен де Планси, Жак Огюст Симон&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;コラン・ド・プランシー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こらん・ど・ぷらんしー&quot;,&quot;transliteration&quot;:&quot;koran・do・puranshi:&quot;},{&quot;translateID&quot;:58281,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Гарнерен, Андре Жак&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;アンドレ・ジャック・ガルヌラン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あんどれ・じゃっく・がるぬらん&quot;,&quot;transliteration&quot;:&quot;andore・jakku・garunuran&quot;},{&quot;translateID&quot;:142572,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Вильнёв, Жак&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ジャック・ヴィルヌーヴ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じゃっく・ヴぃるぬーヴ&quot;,&quot;transliteration&quot;:&quot;jakku・virunu:vu&quot;},{&quot;translateID&quot;:142586,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Картье, Жак&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ジャック・カルティエ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じゃっく・かるてぃえ&quot;,&quot;transliteration&quot;:&quot;jakku・karutie&quot;},{&quot;translateID&quot;:142611,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Шабан-Дельмас, Жак&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ジャック・シャバン・デルマ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じゃっく・しゃばん・でるま&quot;,&quot;transliteration&quot;:&quot;jakku・shaban・deruma&quot;},{&quot;translateID&quot;:142631,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Тюрго, Анн Робер Жак&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ジャック・テュルゴー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じゃっく・てゅるごー&quot;,&quot;transliteration&quot;:&quot;jakku・teゅrugo:&quot;},{&quot;translateID&quot;:142655,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Пикар, Жак&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ジャック・ピカール&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じゃっく・ぴかーる&quot;,&quot;transliteration&quot;:&quot;jakku・pika:ru&quot;},{&quot;translateID&quot;:142672,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Майоль, Жак&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ジャック・マイヨール&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じゃっく・まいよーる&quot;,&quot;transliteration&quot;:&quot;jakku・maiyo:ru&quot;},{&quot;translateID&quot;:142685,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Рансьер, Жак&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ジャック・ランシエール&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じゃっく・らんしえーる&quot;,&quot;transliteration&quot;:&quot;jakku・ranshie:ru&quot;},{&quot;translateID&quot;:282671,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Спекс, Жак&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ヤックス・スペックス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;やっくす・すぺっくす&quot;,&quot;transliteration&quot;:&quot;yakkusu・supekkusu&quot;},{&quot;translateID&quot;:57326,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Габриэль, Анж Жак&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;アンジュ・ジャック・ガブリエル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あんじゅ・じゃっく・がぶりえる&quot;,&quot;transliteration&quot;:&quot;anju・jakku・gaburieru&quot;},{&quot;translateID&quot;:142568,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Ибер, Жак&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ジャック・イベール&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じゃっく・いべーる&quot;,&quot;transliteration&quot;:&quot;jakku・ibe:ru&quot;},{&quot;translateID&quot;:142585,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Кателино, Жак&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ジャック・カトリノー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じゃっく・かとりのー&quot;,&quot;transliteration&quot;:&quot;jakku・katorino:&quot;},{&quot;translateID&quot;:142610,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Шастанье, Жак&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ジャック・シャスタニエ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じゃっく・しゃすたにえ&quot;,&quot;transliteration&quot;:&quot;jakku・shasutanie&quot;},{&quot;translateID&quot;:142630,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Тибо, Жак&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ジャック・ティボー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じゃっく・てぃぼー&quot;,&quot;transliteration&quot;:&quot;jakku・tibo:&quot;},{&quot;translateID&quot;:142652,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Бабинэ, Жак&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ジャック・バビネ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じゃっく・ばびね&quot;,&quot;transliteration&quot;:&quot;jakku・babine&quot;},{&quot;translateID&quot;:142669,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Перрен, Жак&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ジャック・ペラン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じゃっく・ぺらん&quot;,&quot;transliteration&quot;:&quot;jakku・peran&quot;},{&quot;translateID&quot;:142684,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Ланг, Жак&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ジャック・ラング&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じゃっく・らんぐ&quot;,&quot;transliteration&quot;:&quot;jakku・rangu&quot;},{&quot;translateID&quot;:143676,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Камбасерес, Жан Жак Режи де&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ジャン・ジャック・レジ・ド・カンバセレス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じゃん・じゃっく・れじ・ど・かんばせれす&quot;,&quot;transliteration&quot;:&quot;jan・jakku・reji・do・kanbaseresu&quot;},{&quot;translateID&quot;:147061,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Дантон, Жорж Жак&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ジョルジュ・ダントン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じょるじゅ・だんとん&quot;,&quot;transliteration&quot;:&quot;joruju・danton&quot;},{&quot;translateID&quot;:142555,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Адамар, Жак&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ジャック・アダマール&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じゃっく・あだまーる&quot;,&quot;transliteration&quot;:&quot;jakku・adama:ru&quot;},{&quot;translateID&quot;:142578,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Озанам, Жак&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ジャック・オザナン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じゃっく・おざなん&quot;,&quot;transliteration&quot;:&quot;jakku・ozanan&quot;},{&quot;translateID&quot;:142592,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Гребе, Жак&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ジャック・クレベール&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じゃっく・くれべーる&quot;,&quot;transliteration&quot;:&quot;jakku・kurebe:ru&quot;},{&quot;translateID&quot;:142619,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Зон, Жак&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ジャック・ズーン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じゃっく・ずーん&quot;,&quot;transliteration&quot;:&quot;jakku・zu:n&quot;},{&quot;translateID&quot;:142636,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Моле, Жак де&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ジャック・ド・モレー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じゃっく・ど・もれー&quot;,&quot;transliteration&quot;:&quot;jakku・do・more:&quot;},{&quot;translateID&quot;:142662,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Блондель, Жак Франсуа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ジャック・フランソワ・ブロンデル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じゃっく・ふらんそわ・ぶろんでる&quot;,&quot;transliteration&quot;:&quot;jakku・furansowa・buronderu&quot;},{&quot;translateID&quot;:142677,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Маркетт, Жак&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ジャック・マルケット&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じゃっく・まるけっと&quot;,&quot;transliteration&quot;:&quot;jakku・maruketto&quot;},{&quot;translateID&quot;:142690,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Лусье, Жак&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ジャック・ルーシェ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じゃっく・るーしぇ&quot;,&quot;transliteration&quot;:&quot;jakku・ru:she&quot;},{&quot;translateID&quot;:146497,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Жоффр, Жозеф Жак Сезер&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ジョゼフ・ジョフル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じょぜふ・じょふる&quot;,&quot;transliteration&quot;:&quot;jozefu・jofuru&quot;},{&quot;translateID&quot;:142355,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Маральди, Жак Филипп&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ジャコーモ・フィリッポ・マラルディ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じゃこーも・ふぃりっぽ・まらるでぃ&quot;,&quot;transliteration&quot;:&quot;jako:mo・firippo・mararudi&quot;},{&quot;translateID&quot;:142577,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Одиар, Жак&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ジャック・オーディアール&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じゃっく・おーでぃあーる&quot;,&quot;transliteration&quot;:&quot;jakku・o:dia:ru&quot;},{&quot;translateID&quot;:142590,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Кёр, Жак&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ジャック・クール&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じゃっく・くーる&quot;,&quot;transliteration&quot;:&quot;jakku・ku:ru&quot;},{&quot;translateID&quot;:142618,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Ширак, Жак&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ジャック・シラク&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じゃっく・しらく&quot;,&quot;transliteration&quot;:&quot;jakku・shiraku&quot;},{&quot;translateID&quot;:142635,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Жак Савойский&quot;,&quot;wordnote&quot;:&quot;герцог де Немур&quot;,&quot;translation&quot;:&quot;ジャック・ド・サヴォワ・ヌムール&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じゃっく・ど・さヴぉわ・ぬむーる&quot;,&quot;transliteration&quot;:&quot;jakku・do・savowa・numu:ru&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="жак" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	ядро - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,ядро" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u044f%u0434%u0440%u043e" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAVy44Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNGP0LTRgNC+ZAIDD2QWCAICD2QWBAIBDxYCHgNzcmMFDy4uL2ltZy9sb2dvLnBuZ2QCBQ8WAh4EaHJlZgUOLi4vP2xhbmc9cnUtUlVkAgQPFgIeB1Zpc2libGVnZAIGDxYCHwNoZAIHD2QWCGYPFgIfA2hkAgEPFgIfA2hkAgIPFgIfA2hkAgUPFgIfA2hkZHPZI8CE93Ubd+N1LaHNVA7QQ2Zb" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAXuzQPBiRSqKnkXrRJu4+iwlIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/hLqjF/xkwMajSRrIfW4ABl5BaHi" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[{&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;words&quot;:[{&quot;translateID&quot;:118179,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;ядро&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;コア&quot;,&quot;reading&quot;:&quot;こあ&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;koa&quot;},{&quot;translateID&quot;:378846,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;ядро&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;核&quot;,&quot;reading&quot;:&quot;かく&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;kaku&quot;},{&quot;translateID&quot;:379117,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;ядро&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;核子&quot;,&quot;reading&quot;:&quot;かくし&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;kakushi&quot;},{&quot;translateID&quot;:379229,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;ядро&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;核心&quot;,&quot;reading&quot;:&quot;かくしん&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;kakushin&quot;},{&quot;translateID&quot;:586444,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;ядро&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;小核&quot;,&quot;reading&quot;:&quot;しょうかく&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;shoukaku&quot;},{&quot;translateID&quot;:699268,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;ядро&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;弾&quot;,&quot;reading&quot;:&quot;たま&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;tama&quot;},{&quot;translateID&quot;:707229,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;ядро&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中核&quot;,&quot;reading&quot;:&quot;ちゅうかく&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;chuukaku&quot;},{&quot;translateID&quot;:707242,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;ядро&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中核体&quot;,&quot;reading&quot;:&quot;ちゅうかくたい&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;chuukakutai&quot;},{&quot;translateID&quot;:707932,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;ядро&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中堅&quot;,&quot;reading&quot;:&quot;ちゅうけん&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;chuuken&quot;},{&quot;translateID&quot;:708609,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;ядро&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中心&quot;,&quot;reading&quot;:&quot;ちゅうしん&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;chuushin&quot;},{&quot;translateID&quot;:710379,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;ядро&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;仲核&quot;,&quot;reading&quot;:&quot;ちゅうかく&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;chuukaku&quot;},{&quot;translateID&quot;:854184,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;ядро&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;砲丸&quot;,&quot;reading&quot;:&quot;ほうがん&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;hougan&quot;},{&quot;translateID&quot;:506878,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;ядро&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;根幹&quot;,&quot;reading&quot;:&quot;こんかん&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;konkan&quot;},{&quot;translateID&quot;:515708,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;ядро&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;細胞核&quot;,&quot;reading&quot;:&quot;さいぼうかく&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;saiboukaku&quot;},{&quot;translateID&quot;:605477,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;ядро&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;心&quot;,&quot;reading&quot;:&quot;しん&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;shin&quot;},{&quot;translateID&quot;:613949,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;ядро&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;芯&quot;,&quot;reading&quot;:&quot;しん&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;shin&quot;},{&quot;translateID&quot;:399229,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;ядро&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;眼目&quot;,&quot;reading&quot;:&quot;がんもく&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;ganmoku&quot;},{&quot;translateID&quot;:465759,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;ядро&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;原子核&quot;,&quot;reading&quot;:&quot;げんしかく&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;genshikaku&quot;},{&quot;translateID&quot;:502981,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;ядро&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;穀粒&quot;,&quot;reading&quot;:&quot;こくりゅう&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;kokuryuu&quot;},{&quot;translateID&quot;:33677,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;Ядро&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;Nucleus&quot;,&quot;reading&quot;:&quot;Nucleus&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;Nucleus&quot;},{&quot;translateID&quot;:90385,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;ядро&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;カーネル&quot;,&quot;reading&quot;:&quot;かーねる&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;ka:neru&quot;}]},{&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;words&quot;:[{&quot;translateID&quot;:90387,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;ядро&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;カーネル&quot;,&quot;reading&quot;:&quot;かーねる&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;ka:neru&quot;},{&quot;translateID&quot;:80842,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;ядро&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;エンジン&quot;,&quot;reading&quot;:&quot;えんじん&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;enjin&quot;},{&quot;translateID&quot;:202561,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;ядро&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ニュークリアス&quot;,&quot;reading&quot;:&quot;にゅーくりあす&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;nyu:kuriasu&quot;},{&quot;translateID&quot;:208974,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;ядро&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ハードコア&quot;,&quot;reading&quot;:&quot;はーどこあ&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;ha:dokoa&quot;},{&quot;translateID&quot;:598449,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;ядро&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;常駐制御プログラム&quot;,&quot;reading&quot;:&quot;じょうちゅうせいぎょぷろぐらむ&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;jouchuuseigyopuroguramu&quot;}]},{&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;words&quot;:[{&quot;translateID&quot;:118185,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;ядро&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;コア&quot;,&quot;reading&quot;:&quot;こあ&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;koa&quot;},{&quot;translateID&quot;:605479,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;ядро&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;心&quot;,&quot;reading&quot;:&quot;しん&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;shin&quot;}]},{&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;印刷工業&quot;,&quot;words&quot;:[{&quot;translateID&quot;:388095,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;ядро&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;巻心&quot;,&quot;reading&quot;:&quot;まきしん&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;makishin&quot;}]},{&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;航空宇宙&quot;,&quot;words&quot;:[{&quot;translateID&quot;:708652,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;ядро&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中心核&quot;,&quot;reading&quot;:&quot;ちゅうしんかく&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;chuushinkaku&quot;}]},{&quot;groupName&quot;:&quot;物理&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;words&quot;:[{&quot;translateID&quot;:708889,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;ядро&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中心部分&quot;,&quot;reading&quot;:&quot;ちゅうしんぶぶん&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;chuushinbubun&quot;},{&quot;translateID&quot;:378872,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;ядро&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;核&quot;,&quot;reading&quot;:&quot;かく&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;kaku&quot;}]},{&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;words&quot;:[{&quot;translateID&quot;:118194,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;ядро&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;コア&quot;,&quot;reading&quot;:&quot;こあ&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;koa&quot;},{&quot;translateID&quot;:605484,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;ядро&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;心&quot;,&quot;reading&quot;:&quot;こころ&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;kokoro&quot;}]},{&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;words&quot;:[{&quot;translateID&quot;:613954,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;ядро&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;芯&quot;,&quot;reading&quot;:&quot;しん&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;shin&quot;},{&quot;translateID&quot;:379235,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;ядро&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;核心&quot;,&quot;reading&quot;:&quot;かくしん&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;kakushin&quot;},{&quot;translateID&quot;:502983,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;ядро&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;穀粒&quot;,&quot;reading&quot;:&quot;こくりゅう&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;kokuryuu&quot;},{&quot;translateID&quot;:465760,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;ядро&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;原子核&quot;,&quot;reading&quot;:&quot;げんしかく&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;genshikaku&quot;}]}],&quot;topPhrases&quot;:[{&quot;translateID&quot;:465764,&quot;translationStatus&quot;:0,&quot;themeID&quot;:0,&quot;groupName&quot;:null,&quot;themeName&quot;:null,&quot;word&quot;:&quot;атомное ядро&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;原子核&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;げんしかく&quot;,&quot;transliteration&quot;:&quot;genshikaku&quot;},{&quot;translateID&quot;:442142,&quot;translationStatus&quot;:0,&quot;themeID&quot;:0,&quot;groupName&quot;:null,&quot;themeName&quot;:null,&quot;word&quot;:&quot;пушечное ядро&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;空発&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;くうはつ&quot;,&quot;transliteration&quot;:&quot;kuuhatsu&quot;},{&quot;translateID&quot;:378864,&quot;translationStatus&quot;:0,&quot;themeID&quot;:0,&quot;groupName&quot;:null,&quot;themeName&quot;:null,&quot;word&quot;:&quot;ядро атома&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;核&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かく&quot;,&quot;transliteration&quot;:&quot;kaku&quot;},{&quot;translateID&quot;:118182,&quot;translationStatus&quot;:0,&quot;themeID&quot;:0,&quot;groupName&quot;:null,&quot;themeName&quot;:null,&quot;word&quot;:&quot;ядро Земли&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;コア&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こあ&quot;,&quot;transliteration&quot;:&quot;koa&quot;},{&quot;translateID&quot;:707234,&quot;translationStatus&quot;:0,&quot;themeID&quot;:0,&quot;groupName&quot;:null,&quot;themeName&quot;:null,&quot;word&quot;:&quot;центральное ядро&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中核&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅうかく&quot;,&quot;transliteration&quot;:&quot;chuukaku&quot;},{&quot;translateID&quot;:702229,&quot;translationStatus&quot;:0,&quot;themeID&quot;:0,&quot;groupName&quot;:null,&quot;themeName&quot;:null,&quot;word&quot;:&quot;земное ядро&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;地核&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちかく&quot;,&quot;transliteration&quot;:&quot;chikaku&quot;},{&quot;translateID&quot;:378865,&quot;translationStatus&quot;:0,&quot;themeID&quot;:0,&quot;groupName&quot;:null,&quot;themeName&quot;:null,&quot;word&quot;:&quot;ядро клетки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;核&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かく&quot;,&quot;transliteration&quot;:&quot;kaku&quot;},{&quot;translateID&quot;:759408,&quot;translationStatus&quot;:0,&quot;themeID&quot;:0,&quot;groupName&quot;:null,&quot;themeName&quot;:null,&quot;word&quot;:&quot;внутреннее ядро&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;内核&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ないかく&quot;,&quot;transliteration&quot;:&quot;naikaku&quot;},{&quot;translateID&quot;:515706,&quot;translationStatus&quot;:0,&quot;themeID&quot;:0,&quot;groupName&quot;:null,&quot;themeName&quot;:null,&quot;word&quot;:&quot;клеточное ядро&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;細胞核&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さいぼうかく&quot;,&quot;transliteration&quot;:&quot;saiboukaku&quot;},{&quot;translateID&quot;:314056,&quot;translationStatus&quot;:0,&quot;themeID&quot;:0,&quot;groupName&quot;:null,&quot;themeName&quot;:null,&quot;word&quot;:&quot;стабильное ядро&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;安定原子核&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あんていげんしかく&quot;,&quot;transliteration&quot;:&quot;anteigenshikaku&quot;}],&quot;phrasesGroups&quot;:[{&quot;id&quot;:1,&quot;gid&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;count&quot;:27},{&quot;id&quot;:7,&quot;gid&quot;:2,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;count&quot;:11},{&quot;id&quot;:13,&quot;gid&quot;:2,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;count&quot;:7},{&quot;id&quot;:9,&quot;gid&quot;:2,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;count&quot;:2},{&quot;id&quot;:53,&quot;gid&quot;:5,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;count&quot;:21},{&quot;id&quot;:47,&quot;gid&quot;:5,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;count&quot;:5},{&quot;id&quot;:82,&quot;gid&quot;:7,&quot;groupName&quot;:&quot;物理&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;count&quot;:54},{&quot;id&quot;:92,&quot;gid&quot;:8,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;count&quot;:10},{&quot;id&quot;:125,&quot;gid&quot;:9,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;外科&quot;,&quot;count&quot;:9},{&quot;id&quot;:129,&quot;gid&quot;:9,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;count&quot;:519},{&quot;id&quot;:113,&quot;gid&quot;:9,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;寄生虫学&quot;,&quot;count&quot;:1},{&quot;id&quot;:175,&quot;gid&quot;:12,&quot;groupName&quot;:&quot;地学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;count&quot;:4},{&quot;id&quot;:166,&quot;gid&quot;:12,&quot;groupName&quot;:&quot;地学&quot;,&quot;themeName&quot;:&quot;地質学&quot;,&quot;count&quot;:1}],&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:false,&quot;Phrases&quot;:null}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="ядро" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

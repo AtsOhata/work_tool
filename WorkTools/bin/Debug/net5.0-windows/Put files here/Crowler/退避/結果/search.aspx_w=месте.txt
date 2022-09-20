@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	месте - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,месте" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u043c%u0435%u0441%u0442%u0435" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV044Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNC80LXRgdGC0LVkAgMPZBYIAgIPZBYEAgEPFgIeA3NyYwUPLi4vaW1nL2xvZ28ucG5nZAIFDxYCHgRocmVmBQ4uLi8/bGFuZz1ydS1SVWQCBA8WAh4HVmlzaWJsZWdkAgYPFgIfA2hkAgcPZBYIZg8WAh8DaGQCAQ8WAh8DaGQCAg8WAh8DaGQCBQ8WAh8DaGRkoKKHn2G2Im2cfGgBb9iWXF0ApIE=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAWA33WhomhDR9e7kWEqArbglIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/vIpYlCw1gA1gIcm9jKtPgruPTZV" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:true,&quot;Phrases&quot;:[{&quot;translateID&quot;:910759,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;поставленная на открытом месте&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;露座の大仏&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ろざのだいぶつ&quot;,&quot;transliteration&quot;:&quot;rozanodaibutsu&quot;},{&quot;translateID&quot;:674440,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;топтание на месте&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;足踏み&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あしぶみ&quot;,&quot;transliteration&quot;:&quot;ashibumi&quot;},{&quot;translateID&quot;:168453,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;на втором месте после этого&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;それに次いで&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;それについで&quot;,&quot;transliteration&quot;:&quot;sorenitsuide&quot;},{&quot;translateID&quot;:279688,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;На твоём месте я бы сразу пошёл домой.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;もし私が君だったらすぐ帰宅するだろう。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;もしわたしがきみだったらすぐきたくするだろう。&quot;,&quot;transliteration&quot;:&quot;moshiwatashigakimidattarasugukitakusurudarou。&quot;},{&quot;translateID&quot;:535614,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;я живу в тихом месте&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;私の家の近辺は静かです&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;わたしのいえのきんぺんはしずかです&quot;,&quot;transliteration&quot;:&quot;watashinoienokinpenhashizukadesu&quot;},{&quot;translateID&quot;:676513,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;где-нибудь в другом месте&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;他に&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほかに&quot;,&quot;transliteration&quot;:&quot;hokani&quot;},{&quot;translateID&quot;:481797,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;в публичном месте&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;公開の席で&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうかいのせきで&quot;,&quot;transliteration&quot;:&quot;koukainosekide&quot;},{&quot;translateID&quot;:123111,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;в этом месте номера домов идут не по порядку&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;この辺は番地が飛んでいる&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;このへんはばんちがとんでいる&quot;,&quot;transliteration&quot;:&quot;konohenhabanchigatondeiru&quot;},{&quot;translateID&quot;:651810,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;В этом месте река внезапно сужалась.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;川幅はこの地点で急に狭まっています。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かわはばはこのちてんできゅうにせばまっています。&quot;,&quot;transliteration&quot;:&quot;kawahabahakonochitendekyuunisebamatteimasu。&quot;},{&quot;translateID&quot;:468586,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;захватить на месте преступления&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;現場を押える&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;げんばをおさえる&quot;,&quot;transliteration&quot;:&quot;genba o osaeru&quot;},{&quot;translateID&quot;:748395,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;стоять на месте&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;踏み止まる&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふみとどまる&quot;,&quot;transliteration&quot;:&quot;fumitodomaru&quot;},{&quot;translateID&quot;:745937,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;в этом месте&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;当所に&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とうしょに&quot;,&quot;transliteration&quot;:&quot;toushoni&quot;},{&quot;translateID&quot;:674244,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;меры для удержания на месте&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;足止め策&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あしどめさく&quot;,&quot;transliteration&quot;:&quot;ashidomesaku&quot;},{&quot;translateID&quot;:771685,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;в любом месте по желанию&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;任意の場所に&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にんいのばしょに&quot;,&quot;transliteration&quot;:&quot;nininobashoni&quot;},{&quot;translateID&quot;:279686,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;На твоём месте я бы принял его предложение.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;もし私があなたなら、彼の申し出を受けるでしょうに。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;もしわたしがあなたなら、かれのもうしでをうけるでしょうに。&quot;,&quot;transliteration&quot;:&quot;moshiwatashigaanatanara、karenomoushide o ukerudeshouni。&quot;},{&quot;translateID&quot;:535392,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Я бы на вашем месте купил вот тот.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;私ならそれを買います。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;わたしならそれをかいます。&quot;,&quot;transliteration&quot;:&quot;watashinarasore o kaimasu。&quot;},{&quot;translateID&quot;:631230,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;в общественном месте&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;晴れの場所で&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はれのばしょで&quot;,&quot;transliteration&quot;:&quot;harenobashode&quot;},{&quot;translateID&quot;:436495,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;деньги не лежат на месте&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;金は天下の回り物&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きんはてんかのまわりぶつ&quot;,&quot;transliteration&quot;:&quot;kinhatenkanomawaributsu&quot;},{&quot;translateID&quot;:729718,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;нужный человек на нужном месте&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;適材適所&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てきざいてきしょ&quot;,&quot;transliteration&quot;:&quot;tekizaitekisho&quot;},{&quot;translateID&quot;:505512,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;в этом месте&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;此処&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ここ&quot;,&quot;transliteration&quot;:&quot;koko&quot;},{&quot;translateID&quot;:468311,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;на месте преступления&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;現行犯で&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;げんこうはんで&quot;,&quot;transliteration&quot;:&quot;genkouhande&quot;},{&quot;translateID&quot;:640586,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;на месте&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;席上&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せきじょう&quot;,&quot;transliteration&quot;:&quot;sekijou&quot;},{&quot;translateID&quot;:185091,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;поместить на видном месте&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;でかでかと書き立てる&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;でかでかとかきたてる&quot;,&quot;transliteration&quot;:&quot;dekadekatokakitateru&quot;},{&quot;translateID&quot;:674241,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;удерживать на месте&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;足止め&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あしどめ&quot;,&quot;transliteration&quot;:&quot;ashidome&quot;},{&quot;translateID&quot;:732724,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;купля-продажа с вручением их на месте&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;店頭売買&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てんとうばいばい&quot;,&quot;transliteration&quot;:&quot;tentoubaibai&quot;},{&quot;translateID&quot;:279685,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;На твоём месте я бы не стал этого делать.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;もし私があなただったらそれをしないでしょう。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;もしわたしがあなただったらそれをしないでしょう。&quot;,&quot;transliteration&quot;:&quot;moshiwatashigaanatadattarasore o shinaideshou。&quot;},{&quot;translateID&quot;:535041,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Мы ждали на месте происшествия, пока не подъехала полиция.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;私たちは、警察官が来るまで事故現場で待ちました。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;わたしたちは、けいさつかんがくるまでじこげんばでまちました。&quot;,&quot;transliteration&quot;:&quot;watashitachiha、keisatsukangakurumadejikogenbademachimashita。&quot;},{&quot;translateID&quot;:444414,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;у тебя глаза на мокром месте&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;君は泣き虫だ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きみはなきむしだ&quot;,&quot;transliteration&quot;:&quot;kimihanakimushida&quot;},{&quot;translateID&quot;:433686,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Курение на рабочем месте запрещено.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;勤務中の喫煙は禁止されている。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きんむちゅうのきつえんはきんしされている。&quot;,&quot;transliteration&quot;:&quot;kinmuchuunokitsuenhakinshisareteiru。&quot;},{&quot;translateID&quot;:727784,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;цены на сельскохозяйственные продукты на месте&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;庭先相場&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にわさきそうば&quot;,&quot;transliteration&quot;:&quot;niwasakisouba&quot;},{&quot;translateID&quot;:325036,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;в одном месте&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;一緒に&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いっしょに&quot;,&quot;transliteration&quot;:&quot;isshoni&quot;},{&quot;translateID&quot;:468211,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;контора на месте работ&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;現業所&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;げんぎょうしょ&quot;,&quot;transliteration&quot;:&quot;gengyousho&quot;},{&quot;translateID&quot;:639492,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;оставаться на месте&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;静止する&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せいしする&quot;,&quot;transliteration&quot;:&quot;seishisuru&quot;},{&quot;translateID&quot;:185090,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;на видном месте&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;でかでかと&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;でかでかと&quot;,&quot;transliteration&quot;:&quot;dekadekato&quot;},{&quot;translateID&quot;:673080,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;продажа на месте&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;即売&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そくばい&quot;,&quot;transliteration&quot;:&quot;sokubai&quot;},{&quot;translateID&quot;:675603,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;у женщин глаза на мокром месте&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;袖の干ぬのは女の身&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そでのひぬのはおんなのみ&quot;,&quot;transliteration&quot;:&quot;sodenohinunohaonnanomi&quot;},{&quot;translateID&quot;:279514,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;На твоём месте я бы такого не делал.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;もし、君が僕ならそんなことはしないだろう。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;もし、きみがぼくならそんなことはしないだろう。&quot;,&quot;transliteration&quot;:&quot;moshi、kimigabokunarasonnakotohashinaidarou。&quot;},{&quot;translateID&quot;:534915,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;На её месте я бы ещё не сдавался.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;私が彼女の立場なら、まだあきらめにだろう。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;わたしがかのじょのたちばなら、まだあきらめにだろう。&quot;,&quot;transliteration&quot;:&quot;watashigakanojonotachibanara、madaakiramenidarou。&quot;},{&quot;translateID&quot;:314844,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;держать в тёмном месте&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;暗所に置く&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あんところにおく&quot;,&quot;transliteration&quot;:&quot;antokoronioku&quot;},{&quot;translateID&quot;:403550,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;сообщение о месте временного проживания&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;寄留届け&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きりゅうとどけ&quot;,&quot;transliteration&quot;:&quot;kiryuutodoke&quot;},{&quot;translateID&quot;:727193,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;закрепляться на определенном месте&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;定着する&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ていちゃくする&quot;,&quot;transliteration&quot;:&quot;teichakusuru&quot;},{&quot;translateID&quot;:325002,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;в одном месте&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;一所に&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひとところに&quot;,&quot;transliteration&quot;:&quot;hitotokoroni&quot;},{&quot;translateID&quot;:468209,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;работа на месте&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;現業&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;げんぎょう&quot;,&quot;transliteration&quot;:&quot;gengyou&quot;},{&quot;translateID&quot;:605902,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;у сердце не на месте&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;心許なく思う&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こころもとなくおもう&quot;,&quot;transliteration&quot;:&quot;kokoromotonakuomou&quot;},{&quot;translateID&quot;:373673,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;где-нибудь в другом месте&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;外に&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そとに&quot;,&quot;transliteration&quot;:&quot;sotoni&quot;},{&quot;translateID&quot;:672927,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;на месте&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;即刻&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そっこく&quot;,&quot;transliteration&quot;:&quot;sokkoku&quot;},{&quot;translateID&quot;:674446,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;топтаться на месте&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;足踏みする&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あしぶみする&quot;,&quot;transliteration&quot;:&quot;ashibumisuru&quot;},{&quot;translateID&quot;:582337,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;в любом месте&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;所かまわず&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ところかまわず&quot;,&quot;transliteration&quot;:&quot;tokorokamawazu&quot;},{&quot;translateID&quot;:279690,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;На твоём месте я бы этого не делал.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;もし私が君なら、そんなことはしないだろうに。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;もしわたしがきみなら、そんなことはしないだろうに。&quot;,&quot;transliteration&quot;:&quot;moshiwatashigakiminara、sonnakotohashinaidarouni。&quot;},{&quot;translateID&quot;:625284,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;в любое время и в любом месте&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;随時随所&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ずいじずいしょ&quot;,&quot;transliteration&quot;:&quot;zuijizuisho&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="месте" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

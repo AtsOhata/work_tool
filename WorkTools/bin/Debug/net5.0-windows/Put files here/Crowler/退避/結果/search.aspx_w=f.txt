@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	f - ロシア語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,f" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=f" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAVr44Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLGZkAgMPZBYIAgIPZBYEAgEPFgIeA3NyYwUPLi4vaW1nL2xvZ28ucG5nZAIFDxYCHgRocmVmBQ4uLi8/bGFuZz1ydS1SVWQCBA8WAh4HVmlzaWJsZWdkAgYPFgIfA2hkAgcPZBYIZg8WAh8DaGQCAQ8WAh8DaGQCAg8WAh8DaGQCBQ8WAh8DaGRk7oU/HINYUMlmJ/9h07J1yIX3MNA=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAVdErZV9zCNBYAC+2vV/ueVlIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/l/85pZbuA5ydhLCjzTwxrZT+NAt" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ja-ru&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:true,&quot;Phrases&quot;:[{&quot;translateID&quot;:28369,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;An Exceptionally Simple Theory of Everything&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;Исключительно простая теория всего&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;An Exceptionally Simple Theory of Everything&quot;,&quot;transliteration&quot;:&quot;An Exceptionally Simple Theory of Everything&quot;},{&quot;translateID&quot;:29152,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;CAF&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;Африканская конфедерация футбола&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;CAF&quot;,&quot;transliteration&quot;:&quot;CAF&quot;},{&quot;translateID&quot;:28942,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;BNSF鉄道&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;BNSF Railway&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;BNSFてつどう&quot;,&quot;transliteration&quot;:&quot;BNSFtetsudou&quot;},{&quot;translateID&quot;:29383,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;CFアトラスの選手&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;Игроки ФК «Атлас»&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;CFあとらすのせんしゅ&quot;,&quot;transliteration&quot;:&quot;CFatorasunosenshu&quot;},{&quot;translateID&quot;:29887,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;DF-15&quot;,&quot;wordnote&quot;:&quot;ミサイル&quot;,&quot;translation&quot;:&quot;Дунфэн-15&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;DF-15&quot;,&quot;transliteration&quot;:&quot;DF-15&quot;},{&quot;translateID&quot;:29539,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;CONCACAFジャイアンツカップ&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;Кубок Гигантов КОНКАКАФ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;CONCACAFじゃいあんつかっぷ&quot;,&quot;transliteration&quot;:&quot;CONCACAFjaiantsukappu&quot;},{&quot;translateID&quot;:30296,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;EHF&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;Квч&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;EHF&quot;,&quot;transliteration&quot;:&quot;EHF&quot;},{&quot;translateID&quot;:30501,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;F1コンストラクターの一覧&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;Список конструкторов Формулы-1&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;F1こんすとらくたーのいちらん&quot;,&quot;transliteration&quot;:&quot;F1konsutorakuta:noichiran&quot;},{&quot;translateID&quot;:30511,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;F1レギュレーション&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;Спортивный регламент Формулы-1&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;F1れぎゅれーしょん&quot;,&quot;transliteration&quot;:&quot;F1regyure:shon&quot;},{&quot;translateID&quot;:30484,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;F.A.E.ソナタ&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;Соната F-A-E&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;F.A.E.そなた&quot;,&quot;transliteration&quot;:&quot;F.A.E.sonata&quot;},{&quot;translateID&quot;:30524,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;F-34 76mm戦車砲&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;76-мм танковая пушка образца 1940 года&quot;,&quot;translationnote&quot;:&quot;Ф-34&quot;,&quot;reading&quot;:&quot;F-34 76mmせんしゃほう&quot;,&quot;transliteration&quot;:&quot;F-34 76mmsenshahou&quot;},{&quot;translateID&quot;:30560,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;FAプレミアリーグ2001-2002&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;Чемпионат Англии по футболу 2001/2002&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;FAぷれみありーぐ2001-2002&quot;,&quot;transliteration&quot;:&quot;FApuremiari:gu2001-2002&quot;},{&quot;translateID&quot;:30545,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Fascism sidebar&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;Фашизм&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;Fascism sidebar&quot;,&quot;transliteration&quot;:&quot;Fascism sidebar&quot;},{&quot;translateID&quot;:30582,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;FCアーラウの選手&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;Игроки ФК «Аарау»&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;FCあーらうのせんしゅ&quot;,&quot;transliteration&quot;:&quot;FCa:raunosenshu&quot;},{&quot;translateID&quot;:30604,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;FCインゴルシュタット04&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;Ингольштадт 04&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;FCいんごるしゅたっと04&quot;,&quot;transliteration&quot;:&quot;FCingorushutatto04&quot;},{&quot;translateID&quot;:30634,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;FCクバン・クラスノダールのメンバー&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;Состав ФК Кубань&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;FCくばん・くらすのだーるのめんばー&quot;,&quot;transliteration&quot;:&quot;FCkuban・kurasunoda:runomenba:&quot;},{&quot;translateID&quot;:30654,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;FCシオンの選手&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;Игроки ФК «Сьон»&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;FCしおんのせんしゅ&quot;,&quot;transliteration&quot;:&quot;FCshionnosenshu&quot;},{&quot;translateID&quot;:30683,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;FCダラス・スタジアム&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;Пицца-Хат-Парк&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;FCだらす・すたじあむ&quot;,&quot;transliteration&quot;:&quot;FCdarasu・sutajiamu&quot;},{&quot;translateID&quot;:30701,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;FCディフェルダンジュ03&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;Дифферданж 03&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;FCでぃふぇるだんじゅ03&quot;,&quot;transliteration&quot;:&quot;FCdiferudanju03&quot;},{&quot;translateID&quot;:30725,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;FCハカの選手&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;Игроки ФК «Хака»&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;FCはかのせんしゅ&quot;,&quot;transliteration&quot;:&quot;FChakanosenshu&quot;},{&quot;translateID&quot;:30748,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;FCファドゥーツの選手&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;Игроки ФК «Вадуц»&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;FCふぁどぅーつのせんしゅ&quot;,&quot;transliteration&quot;:&quot;FCfadoぅ:tsunosenshu&quot;},{&quot;translateID&quot;:30769,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;FCマルティーグの選手&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;Игроки ФК «Мартиг»&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;FCまるてぃーぐのせんしゅ&quot;,&quot;transliteration&quot;:&quot;FCmaruti:gunosenshu&quot;},{&quot;translateID&quot;:30789,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;FCルーアンの選手&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;Игроки ФК «Руан»&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;FCるーあんのせんしゅ&quot;,&quot;transliteration&quot;:&quot;FCru:annosenshu&quot;},{&quot;translateID&quot;:30811,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;FCロリアンの選手&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;Игроки ФК «Лорьян»&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;FCろりあんのせんしゅ&quot;,&quot;transliteration&quot;:&quot;FCroriannosenshu&quot;},{&quot;translateID&quot;:30829,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Featured article&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;Избранная статья&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;Featured article&quot;,&quot;transliteration&quot;:&quot;Featured article&quot;},{&quot;translateID&quot;:30854,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;FidoNet&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;Фидонет&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;FidoNet&quot;,&quot;transliteration&quot;:&quot;FidoNet&quot;},{&quot;translateID&quot;:30864,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;FIFA100&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ФИФА 100&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;FIFA100&quot;,&quot;transliteration&quot;:&quot;FIFA100&quot;},{&quot;translateID&quot;:30874,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;FIFAクラブ世界選手権2000&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;Клубный чемпионат мира по футболу 2000&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;FIFAくらぶせかいせんしゅけん2000&quot;,&quot;transliteration&quot;:&quot;FIFAkurabusekaisenshuken2000&quot;},{&quot;translateID&quot;:30884,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;FIFAコンフェデレーションズカップ1997サウジアラビア代表&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;Саудовская Аравия на КК 1997&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;FIFAこんふぇでれーしょんずかっぷ1997さうじあらびあだいひょう&quot;,&quot;transliteration&quot;:&quot;FIFAkonfedere:shonzukappu1997saujiarabiadaihyou&quot;},{&quot;translateID&quot;:30894,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;FIFAコンフェデレーションズカップ1999ニュージーランド代表&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;Новая Зеландия на КК 1999&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;FIFAこんふぇでれーしょんずかっぷ1999にゅーじーらんどだいひょう&quot;,&quot;transliteration&quot;:&quot;FIFAkonfedere:shonzukappu1999nyu:ji:randodaihyou&quot;},{&quot;translateID&quot;:30904,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;FIFAコンフェデレーションズカップ2001メキシコ代表&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;Мексика на КК 2001&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;FIFAこんふぇでれーしょんずかっぷ2001めきしこだいひょう&quot;,&quot;transliteration&quot;:&quot;FIFAkonfedere:shonzukappu2001mekishikodaihyou&quot;},{&quot;translateID&quot;:30914,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;FIFAコンフェデレーションズカップ2003フランス代表&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;Франция на КК 2003&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;FIFAこんふぇでれーしょんずかっぷ2003ふらんすだいひょう&quot;,&quot;transliteration&quot;:&quot;FIFAkonfedere:shonzukappu2003furansudaihyou&quot;},{&quot;translateID&quot;:30924,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;FIFAコンフェデレーションズカップ2009&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;Кубок конфедераций 2009&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;FIFAこんふぇでれーしょんずかっぷ2009&quot;,&quot;transliteration&quot;:&quot;FIFAkonfedere:shonzukappu2009&quot;},{&quot;translateID&quot;:30934,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;FIFAコンフェデレーションズカップ2017&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;Кубок конфедераций 2017&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;FIFAこんふぇでれーしょんずかっぷ2017&quot;,&quot;transliteration&quot;:&quot;FIFAkonfedere:shonzukappu2017&quot;},{&quot;translateID&quot;:30944,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;FIFAワールドカップ&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;Чемпионат мира по футболу&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;FIFAわーるどかっぷ&quot;,&quot;transliteration&quot;:&quot;FIFAwa:rudokappu&quot;},{&quot;translateID&quot;:30955,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;FIFA最優秀選手賞&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;Игрок года ФИФА&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;FIFAさいゆうしゅうせんしゅしょう&quot;,&quot;transliteration&quot;:&quot;FIFAsaiyuushuusenshushou&quot;},{&quot;translateID&quot;:30971,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;FIPRESCI&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;Международная федерация кинопрессы&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;FIPRESCI&quot;,&quot;transliteration&quot;:&quot;FIPRESCI&quot;},{&quot;translateID&quot;:30994,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;FKジャルギリス・ビリニュスの選手&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;Игроки ФК «Жальгирис»&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;FKじゃるぎりす・びりにゅすのせんしゅ&quot;,&quot;transliteration&quot;:&quot;FKjarugirisu・birinyusunosenshu&quot;},{&quot;translateID&quot;:31026,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;FKリンの選手&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;Игроки ФК «Люн»&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;FKりんのせんしゅ&quot;,&quot;transliteration&quot;:&quot;FKrinnosenshu&quot;},{&quot;translateID&quot;:31043,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;FM TOWNS マーティー&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;FM Towns Marty&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;FM TOWNS まーてぃー&quot;,&quot;transliteration&quot;:&quot;FM TOWNS ma:ti:&quot;},{&quot;translateID&quot;:31057,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;FN ブローニングM1900&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;Browning M1900&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;FN ぶろーにんぐM1900&quot;,&quot;transliteration&quot;:&quot;FN buro:ninguM1900&quot;},{&quot;translateID&quot;:31070,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;FORTRAN&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;Фортран&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;FORTRAN&quot;,&quot;transliteration&quot;:&quot;FORTRAN&quot;},{&quot;translateID&quot;:31088,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;FPU&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;Математический сопроцессор&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;FPU&quot;,&quot;transliteration&quot;:&quot;FPU&quot;},{&quot;translateID&quot;:31132,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;FUTURE&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;Будущее&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;FUTURE&quot;,&quot;transliteration&quot;:&quot;FUTURE&quot;},{&quot;translateID&quot;:31142,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;FWA年間最優秀選手賞&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;Футболист года по версии Ассоциации футбольных журналистов&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;FWAねんかんさいゆうしゅうせんしゅしょう&quot;,&quot;transliteration&quot;:&quot;FWAnenkansaiyuushuusenshushou&quot;},{&quot;translateID&quot;:31189,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;F値&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;Число диафрагмы&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;Fち&quot;,&quot;transliteration&quot;:&quot;Fchi&quot;},{&quot;translateID&quot;:31502,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Hawaii Five-0&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;Гавайи 5.0&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;Hawaii Five-0&quot;,&quot;transliteration&quot;:&quot;Hawaii Five-0&quot;},{&quot;translateID&quot;:31745,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;IAAFダイヤモンドリーグ&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;Бриллиантовая лига ИААФ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;IAAFだいやもんどりーぐ&quot;,&quot;transliteration&quot;:&quot;IAAFdaiyamondori:gu&quot;},{&quot;translateID&quot;:31874,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;If文&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;Условная инструкция&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;Ifぶん&quot;,&quot;transliteration&quot;:&quot;Ifbun&quot;},{&quot;translateID&quot;:32278,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Jupiter spacecraft&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;Исследование Юпитера АМС&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;Jupiter spacecraft&quot;,&quot;transliteration&quot;:&quot;Jupiter spacecraft&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="f" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

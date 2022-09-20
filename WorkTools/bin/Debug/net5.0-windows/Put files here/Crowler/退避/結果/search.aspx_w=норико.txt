@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	норико - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,норико" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u043d%u043e%u0440%u0438%u043a%u043e" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV244Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNC90L7RgNC40LrQvmQCAw9kFggCAg9kFgQCAQ8WAh4Dc3JjBQ8uLi9pbWcvbG9nby5wbmdkAgUPFgIeBGhyZWYFDi4uLz9sYW5nPXJ1LVJVZAIEDxYCHgdWaXNpYmxlZ2QCBg8WAh8DaGQCBw9kFghmDxYCHwNoZAIBDxYCHwNoZAICDxYCHwNoZAIFDxYCHwNoZGQIXGQMo9CmFMIrxhfC0sWKndqCaQ==" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAWstNsA8rF/nbT9ew+8USRalIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/qKkTNcIQqehb+40uGTxepotRvaq" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:true,&quot;Phrases&quot;:[{&quot;translateID&quot;:766715,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Хидака, Норико&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;日高のり子&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひだかのりこ&quot;,&quot;transliteration&quot;:&quot;hidakanoriko&quot;},{&quot;translateID&quot;:590357,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Мацуэда, Норико&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;松枝賀子&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まつえがこ&quot;,&quot;transliteration&quot;:&quot;matsuegako&quot;},{&quot;translateID&quot;:1054764,&quot;translationStatus&quot;:0,&quot;themeID&quot;:5,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;人名&quot;,&quot;word&quot;:&quot;Сако Норико&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;佐光 紀子&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さこう のりこ&quot;,&quot;transliteration&quot;:&quot;sakou noriko&quot;},{&quot;translateID&quot;:1058542,&quot;translationStatus&quot;:0,&quot;themeID&quot;:5,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;人名&quot;,&quot;word&quot;:&quot;Охара Норико&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;小原 乃梨子&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おはら のりこ&quot;,&quot;transliteration&quot;:&quot;ohara noriko&quot;},{&quot;translateID&quot;:1060653,&quot;translationStatus&quot;:0,&quot;themeID&quot;:5,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;人名&quot;,&quot;word&quot;:&quot;Араи Норико&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;新井 史子&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あらい のりこ&quot;,&quot;transliteration&quot;:&quot;arai noriko&quot;},{&quot;translateID&quot;:1063779,&quot;translationStatus&quot;:0,&quot;themeID&quot;:5,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;人名&quot;,&quot;word&quot;:&quot;Идзумимото Норико&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;泉本 のり子&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いずみもと のりこ&quot;,&quot;transliteration&quot;:&quot;izumimoto noriko&quot;},{&quot;translateID&quot;:1067018,&quot;translationStatus&quot;:0,&quot;themeID&quot;:5,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;人名&quot;,&quot;word&quot;:&quot;Накамура Норико&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中村 紀子&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なかむら のりこ&quot;,&quot;transliteration&quot;:&quot;nakamura noriko&quot;},{&quot;translateID&quot;:1071898,&quot;translationStatus&quot;:0,&quot;themeID&quot;:5,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;人名&quot;,&quot;word&quot;:&quot;Хама Норико&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;浜 矩子&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はま のりこ&quot;,&quot;transliteration&quot;:&quot;hama noriko&quot;},{&quot;translateID&quot;:1046520,&quot;translationStatus&quot;:0,&quot;themeID&quot;:5,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;人名&quot;,&quot;word&quot;:&quot;Андо Норико&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;安藤 則子&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あんどう のりこ&quot;,&quot;transliteration&quot;:&quot;andou noriko&quot;},{&quot;translateID&quot;:1049886,&quot;translationStatus&quot;:0,&quot;themeID&quot;:5,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;人名&quot;,&quot;word&quot;:&quot;Кисида Норико&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;岸田 則子&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きしだ のりこ&quot;,&quot;transliteration&quot;:&quot;kishida noriko&quot;},{&quot;translateID&quot;:1054858,&quot;translationStatus&quot;:0,&quot;themeID&quot;:5,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;人名&quot;,&quot;word&quot;:&quot;Сасаки Норико&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;佐々木 典子&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ささき のりこ&quot;,&quot;transliteration&quot;:&quot;sasaki noriko&quot;},{&quot;translateID&quot;:1058629,&quot;translationStatus&quot;:0,&quot;themeID&quot;:5,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;人名&quot;,&quot;word&quot;:&quot;Кояма Норико&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;小山 乃里子&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こやま のりこ&quot;,&quot;transliteration&quot;:&quot;koyama noriko&quot;},{&quot;translateID&quot;:1060715,&quot;translationStatus&quot;:0,&quot;themeID&quot;:5,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;人名&quot;,&quot;word&quot;:&quot;Ниикура Норико&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;新倉 範子&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にいくら のりこ&quot;,&quot;transliteration&quot;:&quot;niikura noriko&quot;},{&quot;translateID&quot;:1063907,&quot;translationStatus&quot;:0,&quot;themeID&quot;:5,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;人名&quot;,&quot;word&quot;:&quot;Ятакэ Норико&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;箭竹 律子&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;やたけ のりこ&quot;,&quot;transliteration&quot;:&quot;yatake noriko&quot;},{&quot;translateID&quot;:1067631,&quot;translationStatus&quot;:0,&quot;themeID&quot;:5,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;人名&quot;,&quot;word&quot;:&quot;Иномата Норико&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;猪野又 紀子&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いのまた のりこ&quot;,&quot;transliteration&quot;:&quot;inomata noriko&quot;},{&quot;translateID&quot;:1071911,&quot;translationStatus&quot;:0,&quot;themeID&quot;:5,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;人名&quot;,&quot;word&quot;:&quot;Хамагути Норико&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;浜口 典子&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はまぐち のりこ&quot;,&quot;transliteration&quot;:&quot;hamaguchi noriko&quot;},{&quot;translateID&quot;:1047464,&quot;translationStatus&quot;:0,&quot;themeID&quot;:5,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;人名&quot;,&quot;word&quot;:&quot;Инада Норико&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;稲田 法子&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いなだ のりこ&quot;,&quot;transliteration&quot;:&quot;inada noriko&quot;},{&quot;translateID&quot;:1049947,&quot;translationStatus&quot;:0,&quot;themeID&quot;:5,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;人名&quot;,&quot;word&quot;:&quot;Ивасита Норико&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;岩下 宣子&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いわした のりこ&quot;,&quot;transliteration&quot;:&quot;iwashita noriko&quot;},{&quot;translateID&quot;:1054575,&quot;translationStatus&quot;:0,&quot;themeID&quot;:5,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;人名&quot;,&quot;word&quot;:&quot;Иманиси Норико&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;今西 乃子&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いまにし のりこ&quot;,&quot;transliteration&quot;:&quot;imanishi noriko&quot;},{&quot;translateID&quot;:1058482,&quot;translationStatus&quot;:0,&quot;themeID&quot;:5,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;人名&quot;,&quot;word&quot;:&quot;Кокубо Норико&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;小久保 徳子&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こくぼ のりこ&quot;,&quot;transliteration&quot;:&quot;kokubo noriko&quot;},{&quot;translateID&quot;:1060490,&quot;translationStatus&quot;:0,&quot;themeID&quot;:5,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;人名&quot;,&quot;word&quot;:&quot;Сирота Норико&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;城田 憲子&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しろた のりこ&quot;,&quot;transliteration&quot;:&quot;shirota noriko&quot;},{&quot;translateID&quot;:1063663,&quot;translationStatus&quot;:0,&quot;themeID&quot;:5,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;人名&quot;,&quot;word&quot;:&quot;Сэнгоку Норико&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;千石 規子&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せんごく のりこ&quot;,&quot;transliteration&quot;:&quot;sengoku noriko&quot;},{&quot;translateID&quot;:1066731,&quot;translationStatus&quot;:0,&quot;themeID&quot;:5,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;人名&quot;,&quot;word&quot;:&quot;Накагоси Норико&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中越 典子&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なかごし のりこ&quot;,&quot;transliteration&quot;:&quot;nakagoshi noriko&quot;},{&quot;translateID&quot;:1070478,&quot;translationStatus&quot;:0,&quot;themeID&quot;:5,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;人名&quot;,&quot;word&quot;:&quot;Нарасаки Норико&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;楢崎 教子&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ならさき のりこ&quot;,&quot;transliteration&quot;:&quot;narasaki noriko&quot;},{&quot;translateID&quot;:1046099,&quot;translationStatus&quot;:0,&quot;themeID&quot;:5,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;人名&quot;,&quot;word&quot;:&quot;Анно Норико&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;阿武 教子&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あんの のりこ&quot;,&quot;transliteration&quot;:&quot;anno noriko&quot;},{&quot;translateID&quot;:1049562,&quot;translationStatus&quot;:0,&quot;themeID&quot;:5,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;人名&quot;,&quot;word&quot;:&quot;Кадзивара Норико&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;梶原 紀子&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かじわら のりこ&quot;,&quot;transliteration&quot;:&quot;kajiwara noriko&quot;},{&quot;translateID&quot;:1053788,&quot;translationStatus&quot;:0,&quot;themeID&quot;:5,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;人名&quot;,&quot;word&quot;:&quot;Такахаси Норико&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;高橋 典子&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たかはし のりこ&quot;,&quot;transliteration&quot;:&quot;takahashi noriko&quot;},{&quot;translateID&quot;:1058220,&quot;translationStatus&quot;:0,&quot;themeID&quot;:5,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;人名&quot;,&quot;word&quot;:&quot;Сигэяма Норико&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;重山 規子&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しげやま のりこ&quot;,&quot;transliteration&quot;:&quot;shigeyama noriko&quot;},{&quot;translateID&quot;:1060450,&quot;translationStatus&quot;:0,&quot;themeID&quot;:5,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;人名&quot;,&quot;word&quot;:&quot;Уэоро Норико&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;上苙 則子&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;うえおろ のりこ&quot;,&quot;transliteration&quot;:&quot;ueoro noriko&quot;},{&quot;translateID&quot;:1063550,&quot;translationStatus&quot;:0,&quot;themeID&quot;:5,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;人名&quot;,&quot;word&quot;:&quot;Акацука Норико&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;赤塚 祝子&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あかつか のりこ&quot;,&quot;transliteration&quot;:&quot;akatsuka noriko&quot;},{&quot;translateID&quot;:1066509,&quot;translationStatus&quot;:0,&quot;themeID&quot;:5,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;人名&quot;,&quot;word&quot;:&quot;Такэсита Норико&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;竹下 典子&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たけした のりこ&quot;,&quot;transliteration&quot;:&quot;takeshita noriko&quot;},{&quot;translateID&quot;:1069949,&quot;translationStatus&quot;:0,&quot;themeID&quot;:5,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;人名&quot;,&quot;word&quot;:&quot;Фудзита Норико&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;藤田 憲子&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふじた のりこ&quot;,&quot;transliteration&quot;:&quot;fujita noriko&quot;},{&quot;translateID&quot;:1075416,&quot;translationStatus&quot;:0,&quot;themeID&quot;:5,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;人名&quot;,&quot;word&quot;:&quot;Модорикава Норико&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;緑川 のりこ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;もどりかわ のりこ&quot;,&quot;transliteration&quot;:&quot;modorikawa noriko&quot;},{&quot;translateID&quot;:1049479,&quot;translationStatus&quot;:0,&quot;themeID&quot;:5,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;人名&quot;,&quot;word&quot;:&quot;Сунами Норико&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;角南 範子&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;すなみ のりこ&quot;,&quot;transliteration&quot;:&quot;sunami noriko&quot;},{&quot;translateID&quot;:1053442,&quot;translationStatus&quot;:0,&quot;themeID&quot;:5,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;人名&quot;,&quot;word&quot;:&quot;Араи Норико&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;荒井 のり子&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あらい のりこ&quot;,&quot;transliteration&quot;:&quot;arai noriko&quot;},{&quot;translateID&quot;:1058199,&quot;translationStatus&quot;:0,&quot;themeID&quot;:5,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;人名&quot;,&quot;word&quot;:&quot;Сибуя Норико&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;渋谷 典子&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しぶや のりこ&quot;,&quot;transliteration&quot;:&quot;shibuya noriko&quot;},{&quot;translateID&quot;:1060332,&quot;translationStatus&quot;:0,&quot;themeID&quot;:5,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;人名&quot;,&quot;word&quot;:&quot;Уэмура Норико&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;上村 典子&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;うえむら のりこ&quot;,&quot;transliteration&quot;:&quot;uemura noriko&quot;},{&quot;translateID&quot;:1063418,&quot;translationStatus&quot;:0,&quot;themeID&quot;:5,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;人名&quot;,&quot;word&quot;:&quot;Исиватари Норико&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;石渡 のり子&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いしわたり のりこ&quot;,&quot;transliteration&quot;:&quot;ishiwatari noriko&quot;},{&quot;translateID&quot;:1066494,&quot;translationStatus&quot;:0,&quot;themeID&quot;:5,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;人名&quot;,&quot;word&quot;:&quot;Цуики Норико&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;築城 則子&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ついき のりこ&quot;,&quot;transliteration&quot;:&quot;tsuiki noriko&quot;},{&quot;translateID&quot;:1069699,&quot;translationStatus&quot;:0,&quot;themeID&quot;:5,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;人名&quot;,&quot;word&quot;:&quot;Фудзии Норико&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;藤井 典子&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふじい のりこ&quot;,&quot;transliteration&quot;:&quot;fujii noriko&quot;},{&quot;translateID&quot;:1075275,&quot;translationStatus&quot;:0,&quot;themeID&quot;:5,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;人名&quot;,&quot;word&quot;:&quot;Татикава Норико&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;立河 宜子&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たちかわ のりこ&quot;,&quot;transliteration&quot;:&quot;tachikawa noriko&quot;},{&quot;translateID&quot;:1048850,&quot;translationStatus&quot;:0,&quot;themeID&quot;:5,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;人名&quot;,&quot;word&quot;:&quot;Окэмото Норико&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;桶本 乃梨子&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おけもと のりこ&quot;,&quot;transliteration&quot;:&quot;okemoto noriko&quot;},{&quot;translateID&quot;:1052133,&quot;translationStatus&quot;:0,&quot;themeID&quot;:5,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;人名&quot;,&quot;word&quot;:&quot;Курубэ Норико&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;訓覇 法子&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;くるべ のりこ&quot;,&quot;transliteration&quot;:&quot;kurube noriko&quot;},{&quot;translateID&quot;:1053309,&quot;translationStatus&quot;:0,&quot;themeID&quot;:5,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;人名&quot;,&quot;word&quot;:&quot;Эгава Норико&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;江川 述子&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;えがわ のりこ&quot;,&quot;transliteration&quot;:&quot;egawa noriko&quot;},{&quot;translateID&quot;:1057938,&quot;translationStatus&quot;:0,&quot;themeID&quot;:5,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;人名&quot;,&quot;word&quot;:&quot;Сакаи Норико&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;酒井 法子&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さかい のりこ&quot;,&quot;transliteration&quot;:&quot;sakai noriko&quot;},{&quot;translateID&quot;:1060133,&quot;translationStatus&quot;:0,&quot;themeID&quot;:5,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;人名&quot;,&quot;word&quot;:&quot;Мацумото Норико&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;松本 典子&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まつもと のりこ&quot;,&quot;transliteration&quot;:&quot;matsumoto noriko&quot;},{&quot;translateID&quot;:1063417,&quot;translationStatus&quot;:0,&quot;themeID&quot;:5,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;人名&quot;,&quot;word&quot;:&quot;Исивата Норико&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;石渡 のり子&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いしわた のりこ&quot;,&quot;transliteration&quot;:&quot;ishiwata noriko&quot;},{&quot;translateID&quot;:1066258,&quot;translationStatus&quot;:0,&quot;themeID&quot;:5,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;人名&quot;,&quot;word&quot;:&quot;Авая Норико&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;淡谷 のり子&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あわや のりこ&quot;,&quot;transliteration&quot;:&quot;awaya noriko&quot;},{&quot;translateID&quot;:1069650,&quot;translationStatus&quot;:0,&quot;themeID&quot;:5,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;人名&quot;,&quot;word&quot;:&quot;Фудзии Норико&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;藤井 教子&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふじい のりこ&quot;,&quot;transliteration&quot;:&quot;fujii noriko&quot;},{&quot;translateID&quot;:1074118,&quot;translationStatus&quot;:0,&quot;themeID&quot;:5,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;人名&quot;,&quot;word&quot;:&quot;Кимото Норико&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;木元 教子&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きもと のりこ&quot;,&quot;transliteration&quot;:&quot;kimoto noriko&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="норико" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

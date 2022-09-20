@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	руках - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,руках" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u0440%u0443%u043a%u0430%u0445" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV044Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNGA0YPQutCw0YVkAgMPZBYIAgIPZBYEAgEPFgIeA3NyYwUPLi4vaW1nL2xvZ28ucG5nZAIFDxYCHgRocmVmBQ4uLi8/bGFuZz1ydS1SVWQCBA8WAh4HVmlzaWJsZWdkAgYPFgIfA2hkAgcPZBYIZg8WAh8DaGQCAQ8WAh8DaGQCAg8WAh8DaGQCBQ8WAh8DaGRkJAbSbQ0mmzQYmESQNL/ISIhXPYY=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAUaxFgBwAPzRjLRRWFb08KrlIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/q+5xfvdY74H9U4KfSiQ1uQNhtYO" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:true,&quot;Phrases&quot;:[{&quot;translateID&quot;:665502,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;держать в своих руках&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;操る&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あやつる&quot;,&quot;transliteration&quot;:&quot;ayatsuru&quot;},{&quot;translateID&quot;:464404,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;держать в своих руках проход&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;険を扼する&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けんをやくする&quot;,&quot;transliteration&quot;:&quot;ken o yakusuru&quot;},{&quot;translateID&quot;:165357,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Девочка держит в руках куклу.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;そのちっちゃな女の子は手に人形を持っている。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そのちっちゃなおんなのこはてににんぎょうをもっている。&quot;,&quot;transliteration&quot;:&quot;sonochicchanaonnanokohateniningyou o motteiru。&quot;},{&quot;translateID&quot;:742742,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;стойка на руках&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;倒立&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とうりつ&quot;,&quot;transliteration&quot;:&quot;touritsu&quot;},{&quot;translateID&quot;:728131,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;держать в руках&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;提げる&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひっさげる&quot;,&quot;transliteration&quot;:&quot;hissageru&quot;},{&quot;translateID&quot;:564190,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;в руках&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;手許&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てもと&quot;,&quot;transliteration&quot;:&quot;temoto&quot;},{&quot;translateID&quot;:545316,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;держать в руках&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;持つ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;もつ&quot;,&quot;transliteration&quot;:&quot;motsu&quot;},{&quot;translateID&quot;:416431,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ходить на руках&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;逆立ちして歩く&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さかだちしてあるく&quot;,&quot;transliteration&quot;:&quot;sakadachishitearuku&quot;},{&quot;translateID&quot;:345289,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;держать крепко в руках&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;押さえ付ける&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おさえつける&quot;,&quot;transliteration&quot;:&quot;osaetsukeru&quot;},{&quot;translateID&quot;:47970,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;этот магазин сейчас в руках наследника прежнего хозяина&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;あの店は代が替わった&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あのみせはだいがかわった&quot;,&quot;transliteration&quot;:&quot;anomisehadaigakawatta&quot;},{&quot;translateID&quot;:536217,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;У меня на руках нет больших денег.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;私はあまりお金を持ち合わせていない。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;わたしはあまりおかねをもちあわせていない。&quot;,&quot;transliteration&quot;:&quot;watashihaamariokane o mochiawaseteinai。&quot;},{&quot;translateID&quot;:728128,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;держать в руках&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;提&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひさげ&quot;,&quot;transliteration&quot;:&quot;hisage&quot;},{&quot;translateID&quot;:563971,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;вертеть в руках&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;手慰みにする&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てなぐさみにする&quot;,&quot;transliteration&quot;:&quot;tenagusaminisuru&quot;},{&quot;translateID&quot;:545259,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;держать в руках&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;持ち切る&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;もちきる&quot;,&quot;transliteration&quot;:&quot;mochikiru&quot;},{&quot;translateID&quot;:416428,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;стойка на руках вниз головой&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;逆立ち&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さかだち&quot;,&quot;transliteration&quot;:&quot;sakadachi&quot;},{&quot;translateID&quot;:345259,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;держать крепко в руках&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;押え付ける&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おさえつける&quot;,&quot;transliteration&quot;:&quot;osaetsukeru&quot;},{&quot;translateID&quot;:47804,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;это он держит в своих руках руководство политикой&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;あの人が政界の黒幕だ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あのひとがせいかいのくろまくだ&quot;,&quot;transliteration&quot;:&quot;anohitogaseikainokuromakuda&quot;},{&quot;translateID&quot;:534686,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;держать в своих руках жизнь&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;死命を制する&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しめいをせいする&quot;,&quot;transliteration&quot;:&quot;shimei o seisuru&quot;},{&quot;translateID&quot;:565668,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;держать в руках&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;手裏に掌握する&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てうらにしょうあくする&quot;,&quot;transliteration&quot;:&quot;teuranishouakusuru&quot;},{&quot;translateID&quot;:563813,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;вещи в руках&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;手に持つ手荷物&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てにもつてにもつ&quot;,&quot;transliteration&quot;:&quot;tenimotsutenimotsu&quot;},{&quot;translateID&quot;:545258,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;всё держать в руках&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;持ち切る&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;もちきる&quot;,&quot;transliteration&quot;:&quot;mochikiru&quot;},{&quot;translateID&quot;:416427,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;стойка на руках&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;逆立ち&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さかだち&quot;,&quot;transliteration&quot;:&quot;sakadachi&quot;},{&quot;translateID&quot;:892793,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;держать крепко в руках&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;抑え付ける&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おさえつける&quot;,&quot;transliteration&quot;:&quot;osaetsukeru&quot;},{&quot;translateID&quot;:508304,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;держать в своих руках&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;左右する&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さゆうする&quot;,&quot;transliteration&quot;:&quot;sayuusuru&quot;},{&quot;translateID&quot;:534534,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;судьба человека в руках провидения&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;死生命あり&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しせいめいあり&quot;,&quot;transliteration&quot;:&quot;shiseimeiari&quot;},{&quot;translateID&quot;:565226,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;быть в руках&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;手中にする&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゅちゅうにする&quot;,&quot;transliteration&quot;:&quot;shuchuunisuru&quot;},{&quot;translateID&quot;:563809,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;держать в руках&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;手にする&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てにする&quot;,&quot;transliteration&quot;:&quot;tenisuru&quot;},{&quot;translateID&quot;:545220,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;карты на руках&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;持ち札&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;もちふだ&quot;,&quot;transliteration&quot;:&quot;mochifuda&quot;},{&quot;translateID&quot;:550502,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;держать себя в руках&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;自制する&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じせいする&quot;,&quot;transliteration&quot;:&quot;jiseisuru&quot;},{&quot;translateID&quot;:665896,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;команда университета Васэда всё время удерживала инициативу в своих руках&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;早稲田は終始優勢であった&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;わせだはしゅうしゆうせいであった&quot;,&quot;transliteration&quot;:&quot;wasedahashuushiyuuseideatta&quot;},{&quot;translateID&quot;:589761,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;в руках&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;掌中に&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょうちゅうに&quot;,&quot;transliteration&quot;:&quot;shouchuuni&quot;},{&quot;translateID&quot;:597918,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;удерживать в своих руках крепость&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;城を支える&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しろをささえる&quot;,&quot;transliteration&quot;:&quot;shiro o sasaeru&quot;},{&quot;translateID&quot;:837788,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;держать в руках военную власть&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;兵権を握る&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;へいけんをにぎる&quot;,&quot;transliteration&quot;:&quot;heiken o nigiru&quot;},{&quot;translateID&quot;:728461,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;держать в руках&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;締め括る&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しめくくる&quot;,&quot;transliteration&quot;:&quot;shimekukuru&quot;},{&quot;translateID&quot;:564487,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;карты на руках&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;手札&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てふだ&quot;,&quot;transliteration&quot;:&quot;tefuda&quot;},{&quot;translateID&quot;:850759,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;держать в руках&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;抱える&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かかえる&quot;,&quot;transliteration&quot;:&quot;kakaeru&quot;},{&quot;translateID&quot;:140020,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;крепко держать в руках&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;しっかり持っている&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しっかりもっている&quot;,&quot;transliteration&quot;:&quot;shikkarimotteiru&quot;},{&quot;translateID&quot;:665737,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;держащее в своих руках все нити&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;操縦士&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そうじゅうし&quot;,&quot;transliteration&quot;:&quot;soujuushi&quot;},{&quot;translateID&quot;:589733,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;держать в своих руках&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;掌握する&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょうあくする&quot;,&quot;transliteration&quot;:&quot;shouakusuru&quot;},{&quot;translateID&quot;:492720,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;держать в руках конец верёвки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;綱の片端を持つ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;つなのかたはしをもつ&quot;,&quot;transliteration&quot;:&quot;tsunanokatahashi o motsu&quot;},{&quot;translateID&quot;:742743,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;стоять на руках&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;倒立する&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とうりつする&quot;,&quot;transliteration&quot;:&quot;touritsusuru&quot;},{&quot;translateID&quot;:728132,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;держать в руках&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;提げる&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さげる&quot;,&quot;transliteration&quot;:&quot;sageru&quot;},{&quot;translateID&quot;:564381,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;грязь на руках&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;手垢&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てあか&quot;,&quot;transliteration&quot;:&quot;teaka&quot;},{&quot;translateID&quot;:747766,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;держать в своих руках&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;統御する&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とうぎょする&quot;,&quot;transliteration&quot;:&quot;tougyosuru&quot;},{&quot;translateID&quot;:905155,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;в чужих руках ломоть велик&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;隣りの芝生は青い&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;となり&quot;,&quot;transliteration&quot;:&quot;tonari&quot;},{&quot;translateID&quot;:800746,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;В его руках была большая коробка.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;彼は両手に大きな箱を抱えていた。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かれはりょうてにおおきなはこをかかえていた。&quot;,&quot;transliteration&quot;:&quot;kareharyouteniookinahako o kakaeteita。&quot;},{&quot;translateID&quot;:608,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;больше чем пальцев на обеих руках&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;10市に余る&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;10しにあまる&quot;,&quot;transliteration&quot;:&quot;10shiniamaru&quot;},{&quot;translateID&quot;:911288,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;вертеть в руках&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;弄る&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まさぐる&quot;,&quot;transliteration&quot;:&quot;masaguru&quot;},{&quot;translateID&quot;:565225,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;в руках&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;手中に&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゅちゅうに&quot;,&quot;transliteration&quot;:&quot;shuchuuni&quot;},{&quot;translateID&quot;:215655,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;держать в руках бразды правления&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;バトンを揮う&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ばとんをふるう&quot;,&quot;transliteration&quot;:&quot;baton o furuu&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="руках" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

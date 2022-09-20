@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	скажи - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,скажи" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u0441%u043a%u0430%u0436%u0438" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV044Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNGB0LrQsNC20LhkAgMPZBYIAgIPZBYEAgEPFgIeA3NyYwUPLi4vaW1nL2xvZ28ucG5nZAIFDxYCHgRocmVmBQ4uLi8/bGFuZz1ydS1SVWQCBA8WAh4HVmlzaWJsZWdkAgYPFgIfA2hkAgcPZBYIZg8WAh8DaGQCAQ8WAh8DaGQCAg8WAh8DaGQCBQ8WAh8DaGRkmeTmR+96Sh5msEw5zEPAzznRwd8=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAWPZdEedwETOf0mahanuEpZlIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/lq3huJEfMH4OMwgQQrbKf3bStT1" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:false,&quot;Phrases&quot;:[{&quot;translateID&quot;:355379,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Скажи мне, что делать.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;何をしたらいいか言って下さい。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なにをしたらいいかいってください。&quot;,&quot;transliteration&quot;:&quot;nani o shitaraiikaittekudasai。&quot;},{&quot;translateID&quot;:88715,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Скажи мне это, пожалуйста.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;お願い、私に話して。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おねがい、わたしにはなして。&quot;,&quot;transliteration&quot;:&quot;onegai、watashinihanashite。&quot;},{&quot;translateID&quot;:46382,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Скажи мне, как тебя зовут.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;あなたの名前を教えてください。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あなたのなまえをおしえてください。&quot;,&quot;transliteration&quot;:&quot;anatanonamae o oshietekudasai。&quot;},{&quot;translateID&quot;:355019,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Скажи мне, чего ты хочешь.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;何が欲しいか言ってごらん。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なにがほしいかいってごらん。&quot;,&quot;transliteration&quot;:&quot;nanigahoshiikaittegoran。&quot;},{&quot;translateID&quot;:88714,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Пожалуйста, скажи мне.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;お願い、私に話して。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おねがい、わたしにはなして。&quot;,&quot;transliteration&quot;:&quot;onegai、watashinihanashite。&quot;},{&quot;translateID&quot;:882834,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Соберись с духом и скажи правду.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;勇気を奮い起こして本当のことを言いなさい。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ゆうきをふるいおこしてほんとうのことをいいなさい。&quot;,&quot;transliteration&quot;:&quot;yuuki o furuiokoshitehontounokoto o iinasai。&quot;},{&quot;translateID&quot;:354949,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Скажи мне, что случилось.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;何が起きたのか話して下さい。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なにがおきたのかはなしてください。&quot;,&quot;transliteration&quot;:&quot;nanigaokitanokahanashitekudasai。&quot;},{&quot;translateID&quot;:860555,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Скажи мне правду.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;本当のことを教えて。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほんとうのことをおしえて。&quot;,&quot;transliteration&quot;:&quot;hontounokoto o oshiete。&quot;},{&quot;translateID&quot;:337052,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Скажи это по-английски.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;英語でそれを言ってごらん。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;えいごでそれをいってごらん。&quot;,&quot;transliteration&quot;:&quot;eigodesore o ittegoran。&quot;},{&quot;translateID&quot;:279673,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Если придёт Кёсукэ, скажи ему, что меня нет. Я не хочу больше его видеть.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;もし恭介が訪ねてきても、私は家にいないって言ってよ。もうあいつの顔なんか見たくないの。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;もしきょうすけがたずねてきても、わたしはいえにいないっていってよ。もうあいつのかおなんかみたくないの。&quot;,&quot;transliteration&quot;:&quot;moshikyousukegatazunetekitemo、watashihaieniinaitteitteyo。mouaitsunokaonankamitakunaino。&quot;},{&quot;translateID&quot;:859110,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Скажи мне правду.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;僕に真相を話してくれ。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぼくにしんそうをはなしてくれ。&quot;,&quot;transliteration&quot;:&quot;bokunishinsou o hanashitekure。&quot;},{&quot;translateID&quot;:168993,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Скажи это другими словами.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;それを他の言葉に言い換えなさい。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;それをほかのことばにいいかえなさい。&quot;,&quot;transliteration&quot;:&quot;sore o hokanokotobaniiikaenasai。&quot;},{&quot;translateID&quot;:492861,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Скажи мне, о чём ты думаешь.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;考えていることを私に話してごらん。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かんがえていることをわたしにはなしてごらん。&quot;,&quot;transliteration&quot;:&quot;kangaeteirukoto o watashinihanashitegoran。&quot;},{&quot;translateID&quot;:191866,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Скажи мне, где будет проводиться встреча.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;どこで会が開かれるか教えてください。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;どこでかいがひらかれるかおしえてください。&quot;,&quot;transliteration&quot;:&quot;dokodekaigahirakarerukaoshietekudasai。&quot;},{&quot;translateID&quot;:160383,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Скажи что-нибудь&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;セイ・エニシング&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せい・えにしんぐ&quot;,&quot;transliteration&quot;:&quot;sei・enishingu&quot;},{&quot;translateID&quot;:72403,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Не лги! Скажи правду!&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;うそをつくな、正直であれ。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;うそをつくな、しょうじきであれ。&quot;,&quot;transliteration&quot;:&quot;uso o tsukuna、shoujikideare。&quot;},{&quot;translateID&quot;:190563,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Пожалуйста, скажи мне своё мнение.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;どうぞ君の意見を言って下さい。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;どうぞきみのいけんをいってください。&quot;,&quot;transliteration&quot;:&quot;douzokiminoiken o ittekudasai。&quot;},{&quot;translateID&quot;:89470,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Пожалуйста, скажи ей, чтобы она мне перезвонила.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;お電話して下さいと、お伝えいただけますか。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おでんわしてくださいと、おつたえいただけますか。&quot;,&quot;transliteration&quot;:&quot;odenwashitekudasaito、otsutaeitadakemasuka。&quot;},{&quot;translateID&quot;:47865,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Скажи мне, что он за человек.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;あの人はどんな人物か教えて下さい？&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あのひとはどんなじんぶつかおしえてください？&quot;,&quot;transliteration&quot;:&quot;anohitohadonnajinbutsukaoshietekudasai？&quot;},{&quot;translateID&quot;:876973,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Помолчи, или скажи что-нибудь важное.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;黙っていなさい。さもなくば何か聞く価値のあることを言いなさい。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;だまっていなさい。さもなくばなにかきくかちのあることをいいなさい。&quot;,&quot;transliteration&quot;:&quot;damatteinasai。samonakubananikakikukachinoarukoto o iinasai。&quot;},{&quot;translateID&quot;:505954,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Кто бы сейчас ни звонил, скажи что меня нет.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;今誰から電話があっても、私は留守だと伝えて下さい。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いまだれからでんわがあっても、わたしはるすだとつたえてください。&quot;,&quot;transliteration&quot;:&quot;imadarekaradenwagaattemo、watashiharusudatotsutaetekudasai。&quot;},{&quot;translateID&quot;:801356,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Скажи мне, где она живёт.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;彼女がどこに住んでいるかを教えてください。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かのじょがどこにすんでいるかをおしえてください。&quot;,&quot;transliteration&quot;:&quot;kanojogadokonisundeiruka o oshietekudasai。&quot;},{&quot;translateID&quot;:616455,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Скажи мне, кто твой друг, и я скажу, кто ты.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;人は関わる友によってその人柄が分かる。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひとはかかわるともによってそのひとがらがわかる。&quot;,&quot;transliteration&quot;:&quot;hitohakakawarutomoniyottesonohitogaragawakaru。&quot;},{&quot;translateID&quot;:193207,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Скажи ясно&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;とはっきり言いなさい&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とはっきりいいなさい&quot;,&quot;transliteration&quot;:&quot;tohakkiriiinasai&quot;},{&quot;translateID&quot;:796805,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Скажи мне, когда он вернётся.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;彼が帰ってきたらすぐに私に知らせてくれ。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かれがかえってきたらすぐにわたしにしらせてくれ。&quot;,&quot;transliteration&quot;:&quot;karegakaettekitarasuguniwatashinishirasetekure。&quot;},{&quot;translateID&quot;:535502,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Пожалуйста, скажи мне своё имя.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;私に君の名前を教えてください。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;わたしにきみのなまえをおしえてください。&quot;,&quot;transliteration&quot;:&quot;watashinikiminonamae o oshietekudasai。&quot;},{&quot;translateID&quot;:191904,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Пожалуйста, скажи мне, где ты будешь жить.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;どこに住むつもりなのか教えてください。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;どこにすむつもりなのかおしえてください。&quot;,&quot;transliteration&quot;:&quot;dokonisumutsumorinanokaoshietekudasai。&quot;},{&quot;translateID&quot;:62825,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Скажи когда мне остановится.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;いつやめたらよいか言って下さい。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いつやめたらよいかいってください。&quot;,&quot;transliteration&quot;:&quot;itsuyametarayoikaittekudasai。&quot;},{&quot;translateID&quot;:492862,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Скажи мне, что у тебя на уме.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;考えていることを私に話してごらん。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かんがえていることをわたしにはなしてごらん。&quot;,&quot;transliteration&quot;:&quot;kangaeteirukoto o watashinihanashitegoran。&quot;},{&quot;translateID&quot;:191901,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Скажи ему, куда ему следует идти.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;どこに行ったらよいか彼に聞きなさい。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;どこにいったらよいかかれにききなさい。&quot;,&quot;transliteration&quot;:&quot;dokoniittarayoikakarenikikinasai。&quot;},{&quot;translateID&quot;:166602,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Скажи мне, как пишется это слово.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;その単語をどうつづるか私に教えてください。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そのたんごをどうつづるかわたしにおしえてください。&quot;,&quot;transliteration&quot;:&quot;sonotango o doutsudurukawatashinioshietekudasai。&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="скажи" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

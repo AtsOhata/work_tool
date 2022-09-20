@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	японское - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,японское" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u044f%u043f%u043e%u043d%u0441%u043a%u043e%u0435" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV644Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNGP0L/QvtC90YHQutC+0LVkAgMPZBYIAgIPZBYEAgEPFgIeA3NyYwUPLi4vaW1nL2xvZ28ucG5nZAIFDxYCHgRocmVmBQ4uLi8/bGFuZz1ydS1SVWQCBA8WAh4HVmlzaWJsZWdkAgYPFgIfA2hkAgcPZBYIZg8WAh8DaGQCAQ8WAh8DaGQCAg8WAh8DaGQCBQ8WAh8DaGRk4H+wX3d4oRWhDITZltkfkXJN+Pw=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAXtqR0S368tb9OOrTo8S3UllIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/jpy8KTHoVgosrfoMyCLOh3ETCPC" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:true,&quot;Phrases&quot;:[{&quot;translateID&quot;:913459,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;японское блюдо&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;和食&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;わしょく&quot;,&quot;transliteration&quot;:&quot;washoku&quot;},{&quot;translateID&quot;:928925,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;сенецио японское&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;槖吾&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;つわぶき&quot;,&quot;transliteration&quot;:&quot;tsuwabuki&quot;},{&quot;translateID&quot;:762899,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;трудное японское чтение иероглифа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;難訓&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なんくん&quot;,&quot;transliteration&quot;:&quot;nankun&quot;},{&quot;translateID&quot;:768291,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Японское стандартное время&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;日本標準時&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にほんひょうじゅんじ&quot;,&quot;transliteration&quot;:&quot;nihonhyoujunji&quot;},{&quot;translateID&quot;:913394,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;японское чтение иероглифа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;和訓&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;わくん&quot;,&quot;transliteration&quot;:&quot;wakun&quot;},{&quot;translateID&quot;:822706,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;японское поэтическое искусство&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;敷島の道&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しきしまのみち&quot;,&quot;transliteration&quot;:&quot;shikishimanomichi&quot;},{&quot;translateID&quot;:871041,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Японское имя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;名字&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;みょうじ&quot;,&quot;transliteration&quot;:&quot;myouji&quot;},{&quot;translateID&quot;:768204,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;японское производство&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;日本製&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にほんせい&quot;,&quot;transliteration&quot;:&quot;nihonsei&quot;},{&quot;translateID&quot;:913234,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;японское имя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;倭名&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;わみょう&quot;,&quot;transliteration&quot;:&quot;wamyou&quot;},{&quot;translateID&quot;:633843,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;японское искусство аранжировки цветов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;生花&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いけばな&quot;,&quot;transliteration&quot;:&quot;ikebana&quot;},{&quot;translateID&quot;:627507,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Японское внутреннее море&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;瀬戸内海&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せとないかい&quot;,&quot;transliteration&quot;:&quot;setonaikai&quot;},{&quot;translateID&quot;:768190,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Японское правительство приняло важное решение.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;日本政府は重要な決定を行った。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にほんせいふはじゅうようなけっていをおこなった。&quot;,&quot;transliteration&quot;:&quot;nihonseifuhajuuyounakettei o okonatta。&quot;},{&quot;translateID&quot;:759376,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Внутреннее Японское море&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;内海&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;うちうみ&quot;,&quot;transliteration&quot;:&quot;uchiumi&quot;},{&quot;translateID&quot;:633542,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;японское искусство аранжировки цветов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;生け花&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いけばな&quot;,&quot;transliteration&quot;:&quot;ikebana&quot;},{&quot;translateID&quot;:627506,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Внутреннее Японское море&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;瀬戸内海&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せとないかい&quot;,&quot;transliteration&quot;:&quot;setonaikai&quot;},{&quot;translateID&quot;:768022,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Японское письмо&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;日本語の表記体系&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にほんごのひょうきたいけい&quot;,&quot;transliteration&quot;:&quot;nihongonohyoukitaikei&quot;},{&quot;translateID&quot;:444714,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;японское чтение иероглифов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;訓読み&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;くんよみ&quot;,&quot;transliteration&quot;:&quot;kunyomi&quot;},{&quot;translateID&quot;:913575,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;японское имя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;和名&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;わみょう&quot;,&quot;transliteration&quot;:&quot;wamyou&quot;},{&quot;translateID&quot;:924879,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;японское весло&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;艫&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ろ&quot;,&quot;transliteration&quot;:&quot;ro&quot;},{&quot;translateID&quot;:767628,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Японское летоисчисление&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;日本の元号&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にほんのげんごう&quot;,&quot;transliteration&quot;:&quot;nihonnogengou&quot;},{&quot;translateID&quot;:491445,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;японское летоисчисление&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;皇紀&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうき&quot;,&quot;transliteration&quot;:&quot;kouki&quot;},{&quot;translateID&quot;:444713,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;японское чтение иероглифа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;訓読み&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;くんよみ&quot;,&quot;transliteration&quot;:&quot;kunyomi&quot;},{&quot;translateID&quot;:913479,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;японское производство&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;和製&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;わせい&quot;,&quot;transliteration&quot;:&quot;wasei&quot;},{&quot;translateID&quot;:924875,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;японское весло&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;艪&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ろ&quot;,&quot;transliteration&quot;:&quot;ro&quot;},{&quot;translateID&quot;:767506,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Ты пробовал японское пиво?&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;日本のビールはありますか。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にほんのびーるはありますか。&quot;,&quot;transliteration&quot;:&quot;nihonnobi:ruhaarimasuka。&quot;},{&quot;translateID&quot;:768334,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;японское блюдо&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;日本料理&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にほんりょうり&quot;,&quot;transliteration&quot;:&quot;nihonryouri&quot;},{&quot;translateID&quot;:757584,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;японское чтение иероглифов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;読み&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;よみ&quot;,&quot;transliteration&quot;:&quot;yomi&quot;},{&quot;translateID&quot;:555228,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;японское лаковое дерево&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;漆の木&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;うるしのき&quot;,&quot;transliteration&quot;:&quot;urushinoki&quot;},{&quot;translateID&quot;:627505,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Внутреннее Японское море&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;瀬戸内海&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せと&quot;,&quot;transliteration&quot;:&quot;seto&quot;},{&quot;translateID&quot;:768007,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;японское географическое название&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;日本呼びの地名&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にほんよびのちめい&quot;,&quot;transliteration&quot;:&quot;nihonyobinochimei&quot;},{&quot;translateID&quot;:910436,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;японское весло&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;櫓&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ろ&quot;,&quot;transliteration&quot;:&quot;ro&quot;},{&quot;translateID&quot;:544910,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;японское чтение иероглифа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;字訓&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じくん&quot;,&quot;transliteration&quot;:&quot;jikun&quot;},{&quot;translateID&quot;:498622,&quot;translationStatus&quot;:1,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Японское экономическое чудо&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;高度経済成長&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうどけいざいせいちょう&quot;,&quot;transliteration&quot;:&quot;koudokeizaiseichou&quot;},{&quot;translateID&quot;:627502,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;мост через Японское внутреннее море&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;瀬戸大橋&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せとおおはし&quot;,&quot;transliteration&quot;:&quot;setooohashi&quot;},{&quot;translateID&quot;:99650,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Японское карри&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;カレーライス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かれーらいす&quot;,&quot;transliteration&quot;:&quot;kare:raisu&quot;},{&quot;translateID&quot;:780218,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;японское банановое дерево&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;芭蕉&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ばしょう&quot;,&quot;transliteration&quot;:&quot;bashou&quot;},{&quot;translateID&quot;:855067,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;японское письмо&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;邦文&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほうぶん&quot;,&quot;transliteration&quot;:&quot;houbun&quot;},{&quot;translateID&quot;:354761,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;японское письмо&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;仮名交じり文&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かなまじりぶん&quot;,&quot;transliteration&quot;:&quot;kanamajiribun&quot;},{&quot;translateID&quot;:360134,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Кабуки - древнее японское искусство.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;歌舞伎は古くからの日本の芸術だ。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かぶきはふるくからのにほんのげいじゅつだ。&quot;,&quot;transliteration&quot;:&quot;kabukihafurukukaranonihonnogeijutsuda。&quot;},{&quot;translateID&quot;:767946,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Японское море&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;日本海&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にほんかい&quot;,&quot;transliteration&quot;:&quot;nihonkai&quot;},{&quot;translateID&quot;:641427,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;сенецио японское&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;石蕗&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;つわぶき&quot;,&quot;transliteration&quot;:&quot;tsuwabuki&quot;},{&quot;translateID&quot;:855043,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;японское кино&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;邦画&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほうが&quot;,&quot;transliteration&quot;:&quot;houga&quot;},{&quot;translateID&quot;:913576,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;японское имя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;和名&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;わめい&quot;,&quot;transliteration&quot;:&quot;wamei&quot;},{&quot;translateID&quot;:332569,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Японское агентство аэрокосмических исследований&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;宇宙航空研究開発機構&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;うちゅうこうくうけんきゅうかいはつきこう&quot;,&quot;transliteration&quot;:&quot;uchuukoukuukenkyuukaihatsukikou&quot;},{&quot;translateID&quot;:767687,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Японское общество&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;日本の社会&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にほんのしゃかい&quot;,&quot;transliteration&quot;:&quot;nihonnoshakai&quot;},{&quot;translateID&quot;:491446,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;японское летосчисление&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;皇紀&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうき&quot;,&quot;transliteration&quot;:&quot;kouki&quot;},{&quot;translateID&quot;:768292,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;Японское поясное время&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;日本標準時&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にほんひょうじゅんじ&quot;,&quot;transliteration&quot;:&quot;nihonhyoujunji&quot;},{&quot;translateID&quot;:768108,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Японское общество по масс-спектрометрии&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;日本質量分析学会&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にほんしつりょうぶんせきがっかい&quot;,&quot;transliteration&quot;:&quot;nihonshitsuryoubunsekigakkai&quot;},{&quot;translateID&quot;:768290,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Японское общество эстетической пластической хирургии&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;日本美容外科学会&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にほんびようげかがっかい&quot;,&quot;transliteration&quot;:&quot;nihonbiyougekagakkai&quot;},{&quot;translateID&quot;:767970,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Японское офтальмологическое общество&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;日本眼科学会&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にほんがんかがっかい&quot;,&quot;transliteration&quot;:&quot;nihongankagakkai&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="японское" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

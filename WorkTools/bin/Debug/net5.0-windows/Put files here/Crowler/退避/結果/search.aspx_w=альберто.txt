@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	альберто - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,альберто" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u0430%u043b%u044c%u0431%u0435%u0440%u0442%u043e" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV644Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNCw0LvRjNCx0LXRgNGC0L5kAgMPZBYIAgIPZBYEAgEPFgIeA3NyYwUPLi4vaW1nL2xvZ28ucG5nZAIFDxYCHgRocmVmBQ4uLi8/bGFuZz1ydS1SVWQCBA8WAh4HVmlzaWJsZWdkAgYPFgIfA2hkAgcPZBYIZg8WAh8DaGQCAQ8WAh8DaGQCAg8WAh8DaGQCBQ8WAh8DaGRks+Bp321FyV+BHbVxhIswZBQcgU0=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAV6otMxeqVhfXQpX6M3+osSlIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/saVms9uKLkHhDIyYbcKWYiM9GM7" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:false,&quot;Phrases&quot;:[{&quot;translateID&quot;:55002,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Гранадо, Альберто&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;アルベルト・グラナード&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あるべると・ぐらなーど&quot;,&quot;transliteration&quot;:&quot;aruberuto・gurana:do&quot;},{&quot;translateID&quot;:55018,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Джилардино, Альберто&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;アルベルト・ジラルディーノ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あるべると・じらるでぃーの&quot;,&quot;transliteration&quot;:&quot;aruberuto・jirarudi:no&quot;},{&quot;translateID&quot;:55032,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Коста, Альберто&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;アルベルト・ファクンド・コスタ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あるべると・ふぁくんど・こすた&quot;,&quot;transliteration&quot;:&quot;aruberuto・fakundo・kosuta&quot;},{&quot;translateID&quot;:173577,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Пассарелла, Даниэль Альберто&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ダニエル・パサレラ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;だにえる・ぱされら&quot;,&quot;transliteration&quot;:&quot;danieru・pasarera&quot;},{&quot;translateID&quot;:54999,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Гарсия Аспе, Альберто&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;アルベルト・ガルシア・アスペ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あるべると・がるしあ・あすぺ&quot;,&quot;transliteration&quot;:&quot;aruberuto・garushia・asupe&quot;},{&quot;translateID&quot;:55014,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Джакометти, Альберто&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;アルベルト・ジャコメッティ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あるべると・じゃこめってぃ&quot;,&quot;transliteration&quot;:&quot;aruberuto・jakometteぃ&quot;},{&quot;translateID&quot;:55031,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Хинастера, Альберто&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;アルベルト・ヒナステラ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あるべると・ひなすてら&quot;,&quot;transliteration&quot;:&quot;aruberuto・hinasutera&quot;},{&quot;translateID&quot;:230642,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Скьяффино, Хуан Альберто&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;フアン・アルベルト・スキアフィーノ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふあん・あるべると・すきあふぃーの&quot;,&quot;transliteration&quot;:&quot;fuan・aruberuto・sukiafi:no&quot;},{&quot;translateID&quot;:54996,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Эреде, Альберто&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;アルベルト・エレーデ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あるべると・えれーで&quot;,&quot;transliteration&quot;:&quot;aruberuto・ere:de&quot;},{&quot;translateID&quot;:55012,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Сантос-Дюмон, Альберто&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;アルベルト・サントス・デュモン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あるべると・さんとす・でゅもん&quot;,&quot;transliteration&quot;:&quot;aruberuto・santosu・deゅmon&quot;},{&quot;translateID&quot;:55030,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Палоски, Альберто&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;アルベルト・パロスキ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あるべると・ぱろすき&quot;,&quot;transliteration&quot;:&quot;aruberuto・parosuki&quot;},{&quot;translateID&quot;:55050,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Фильмы Альберто Латтуада&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;アルベルト・ラットゥアーダの監督映画&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あるべると・らっとぅあーだのかんとくえいが&quot;,&quot;transliteration&quot;:&quot;aruberuto・rattoぅa:danokantokueiga&quot;},{&quot;translateID&quot;:54995,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Ундиано Мальенко, Альберто&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;アルベルト・ウンディアーノ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あるべると・うんでぃあーの&quot;,&quot;transliteration&quot;:&quot;aruberuto・undia:no&quot;},{&quot;translateID&quot;:55011,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Сапатер, Альберто&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;アルベルト・サパテル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あるべると・さぱてる&quot;,&quot;transliteration&quot;:&quot;aruberuto・sapateru&quot;},{&quot;translateID&quot;:55028,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Байо, Альберто&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;アルベルト・バーヨ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あるべると・ばーよ&quot;,&quot;transliteration&quot;:&quot;aruberuto・ba:yo&quot;},{&quot;translateID&quot;:55049,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Латтуада, Альберто&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;アルベルト・ラットゥアーダ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あるべると・らっとぅあーだ&quot;,&quot;transliteration&quot;:&quot;aruberuto・rattoぅa:da&quot;},{&quot;translateID&quot;:54253,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Гонсалес, Альберто&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;アルバート・ゴンザレス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あるばーと・ごんざれす&quot;,&quot;transliteration&quot;:&quot;aruba:to・gonzaresu&quot;},{&quot;translateID&quot;:55006,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Кова, Альберто&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;アルベルト・コバ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あるべると・こば&quot;,&quot;transliteration&quot;:&quot;aruberuto・koba&quot;},{&quot;translateID&quot;:55021,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Сорди, Альберто&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;アルベルト・ソルディ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あるべると・そるでぃ&quot;,&quot;transliteration&quot;:&quot;aruberuto・sorudi&quot;},{&quot;translateID&quot;:55038,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Фухимори, Альберто&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;アルベルト・フジモリ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あるべると・ふじもり&quot;,&quot;transliteration&quot;:&quot;aruberuto・fujimori&quot;},{&quot;translateID&quot;:209173,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Усай, Бернардо Альберто&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;バーナード・ウッセイ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ばーなーど・うっせい&quot;,&quot;transliteration&quot;:&quot;ba:na:do・ussei&quot;},{&quot;translateID&quot;:269876,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Сантана, Марио Альберто&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;マリオ・サンターナ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まりお・さんたーな&quot;,&quot;transliteration&quot;:&quot;mario・santa:na&quot;},{&quot;translateID&quot;:55004,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Герреро, Альберто&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;アルベルト・ゲレーロ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あるべると・げれーろ&quot;,&quot;transliteration&quot;:&quot;aruberuto・gere:ro&quot;},{&quot;translateID&quot;:55019,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Спенсер, Альберто&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;アルベルト・スペンサー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あるべると・すぺんさー&quot;,&quot;transliteration&quot;:&quot;aruberuto・supensa:&quot;},{&quot;translateID&quot;:55034,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Хуанторена, Альберто&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;アルベルト・ファントレナ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あるべると・ふぁんとれな&quot;,&quot;transliteration&quot;:&quot;aruberuto・fantorena&quot;},{&quot;translateID&quot;:145396,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Чиссано, Жоакин Альберто&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ジョアキン・アルベルト・シサノ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じょあきん・あるべると・しさの&quot;,&quot;transliteration&quot;:&quot;joakin・aruberuto・shisano&quot;},{&quot;translateID&quot;:54994,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Иглесиас, Альберто&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;アルベルト・イグレシアス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あるべると・いぐれしあす&quot;,&quot;transliteration&quot;:&quot;aruberuto・igureshiasu&quot;},{&quot;translateID&quot;:55010,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Дзаккерони, Альберто&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;アルベルト・ザッケローニ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あるべると・ざっけろーに&quot;,&quot;transliteration&quot;:&quot;aruberuto・zakkero:ni&quot;},{&quot;translateID&quot;:55026,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Томба, Альберто&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;アルベルト・トンバ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あるべると・とんば&quot;,&quot;transliteration&quot;:&quot;aruberuto・tonba&quot;},{&quot;translateID&quot;:55047,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Моравиа, Альберто&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;アルベルト・モラヴィア&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あるべると・もらヴぃあ&quot;,&quot;transliteration&quot;:&quot;aruberuto・moravia&quot;},{&quot;translateID&quot;:54993,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Аскари, Альберто&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;アルベルト・アスカリ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あるべると・あすかり&quot;,&quot;transliteration&quot;:&quot;aruberuto・asukari&quot;},{&quot;translateID&quot;:55009,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Контадор, Альберто&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;アルベルト・コンタドール&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あるべると・こんたどーる&quot;,&quot;transliteration&quot;:&quot;aruberuto・kontado:ru&quot;},{&quot;translateID&quot;:55025,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Дель Рио, Альберто&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;アルベルト・デル・リオ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あるべると・でる・りお&quot;,&quot;transliteration&quot;:&quot;aruberuto・deru・rio&quot;},{&quot;translateID&quot;:55046,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Малезани, Альберто&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;アルベルト・マレザーニ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あるべると・まれざーに&quot;,&quot;transliteration&quot;:&quot;aruberuto・mareza:ni&quot;},{&quot;translateID&quot;:259484,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Мухика Кордано, Хосе Альберто&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ホセ・ムヒカ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほせ・むひか&quot;,&quot;transliteration&quot;:&quot;hose・muhika&quot;},{&quot;translateID&quot;:54992,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Акоста, Альберто Федерико&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;アルベルト・アコスタ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あるべると・あこすた&quot;,&quot;transliteration&quot;:&quot;aruberuto・akosuta&quot;},{&quot;translateID&quot;:55008,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Коломбо, Альберто&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;アルベルト・コロンボ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あるべると・ころんぼ&quot;,&quot;transliteration&quot;:&quot;aruberuto・koronbo&quot;},{&quot;translateID&quot;:55023,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Тарантини, Альберто&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;アルベルト・タランティーニ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あるべると・たらんてぃーに&quot;,&quot;transliteration&quot;:&quot;aruberuto・taranti:ni&quot;},{&quot;translateID&quot;:55044,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Ботия, Альберто&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;アルベルト・ボティア&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あるべると・ぼてぃあ&quot;,&quot;transliteration&quot;:&quot;aruberuto・botia&quot;},{&quot;translateID&quot;:296413,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Перес, Луис Альберто&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ルイス・アルベルト・ペレス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;るいす・あるべると・ぺれす&quot;,&quot;transliteration&quot;:&quot;ruisu・aruberuto・peresu&quot;},{&quot;translateID&quot;:54991,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Аквилани, Альберто&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;アルベルト・アクィラーニ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あるべると・あくぃらーに&quot;,&quot;transliteration&quot;:&quot;aruberuto・akuぃra:ni&quot;},{&quot;translateID&quot;:55007,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Корда, Альберто&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;アルベルト・コルダ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あるべると・こるだ&quot;,&quot;transliteration&quot;:&quot;aruberuto・koruda&quot;},{&quot;translateID&quot;:55022,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Альберто да Джуссано&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;アルベルト・ダ・ジュッサーノ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あるべると・だ・じゅっさーの&quot;,&quot;transliteration&quot;:&quot;aruberuto・da・jussa:no&quot;},{&quot;translateID&quot;:55039,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Бурри, Альберто&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;アルベルト・ブッリ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あるべると・ぶっり&quot;,&quot;transliteration&quot;:&quot;aruberuto・burri&quot;},{&quot;translateID&quot;:296412,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Суарес, Луис Альберто&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ルイス・アルベルト・スアレス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;るいす・あるべると・すあれす&quot;,&quot;transliteration&quot;:&quot;ruisu・aruberuto・suaresu&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="альберто" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

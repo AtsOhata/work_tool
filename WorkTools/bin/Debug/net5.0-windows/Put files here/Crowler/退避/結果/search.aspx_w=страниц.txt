@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	страниц - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,страниц" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u0441%u0442%u0440%u0430%u043d%u0438%u0446" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV444Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNGB0YLRgNCw0L3QuNGGZAIDD2QWCAICD2QWBAIBDxYCHgNzcmMFDy4uL2ltZy9sb2dvLnBuZ2QCBQ8WAh4EaHJlZgUOLi4vP2xhbmc9cnUtUlVkAgQPFgIeB1Zpc2libGVnZAIGDxYCHwNoZAIHD2QWCGYPFgIfA2hkAgEPFgIfA2hkAgIPFgIfA2hkAgUPFgIfA2hkZDsRFgpVxdhNL8c6kAVO5vb0agBP" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAUsRDxjGGtEUJj8GRHw7jk/lIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/mjzG4wLnS3wlzTd8BEyuYx5i291" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:true,&quot;Phrases&quot;:[{&quot;translateID&quot;:862279,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;число страниц&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;枚数&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まいすう&quot;,&quot;transliteration&quot;:&quot;maisuu&quot;},{&quot;translateID&quot;:249492,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Подкачка страниц&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ページング方式&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぺーじんぐほうしき&quot;,&quot;transliteration&quot;:&quot;pe:jinguhoushiki&quot;},{&quot;translateID&quot;:249435,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Повелитель страниц&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ページマスター&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぺーじますたー&quot;,&quot;transliteration&quot;:&quot;pe:jimasuta:&quot;},{&quot;translateID&quot;:765052,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;книга в 2000 страниц&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;二千ページの大冊&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;2000ぺーじのたいさつ&quot;,&quot;transliteration&quot;:&quot;2000pe:jinotaisatsu&quot;},{&quot;translateID&quot;:800615,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Он взял за правило читать по десять страниц в день.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;彼は毎日かならず十ページ読む事にしていた。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かれはまいにちかならず10ぺーじよむことにしていた。&quot;,&quot;transliteration&quot;:&quot;karehamainichikanarazu10pe:jiyomukotonishiteita。&quot;},{&quot;translateID&quot;:712593,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;количество страниц&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;丁数&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちょうすう&quot;,&quot;transliteration&quot;:&quot;chousuu&quot;},{&quot;translateID&quot;:123158,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;в этой книге недостаёт двух страниц&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;この本には落丁が二頁ある&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;このほんにはらくちょうが2ぺーじある&quot;,&quot;transliteration&quot;:&quot;konohonniharakuchouga2pe:jiaru&quot;},{&quot;translateID&quot;:142866,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Механизм теневых страниц&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;シャドウページング&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゃどうぺーじんぐ&quot;,&quot;transliteration&quot;:&quot;shadoupe:jingu&quot;},{&quot;translateID&quot;:122170,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Эта машина может печатать 60 страниц в минуту.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;この機械は1分間に60ページ印刷できる。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;このきかいは1ぷんかんに60ぺーじいんさつできる。&quot;,&quot;transliteration&quot;:&quot;konokikaiha1punkanni60pe:jiinsatsudekiru。&quot;},{&quot;translateID&quot;:166992,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;в этой книге мне осталось прочесть только десять страниц&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;その本は十頁残っているだけだ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そのほんは10ぺーじのこっているだけだ&quot;,&quot;transliteration&quot;:&quot;sonohonha10pe:jinokotteirudakeda&quot;},{&quot;translateID&quot;:6795,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Перевод нескольких страниц на английском занял у меня больше двух часов.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;2、3ページの英語を訳すのに2時間以上もかかりました。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;2、3ぺーじのえいごをやくすのに2じかんいじょうもかかりました。&quot;,&quot;transliteration&quot;:&quot;2、3pe:jinoeigo o yakusunoni2jikanijoumokakarimashita。&quot;},{&quot;translateID&quot;:841455,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;количество страниц&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;頁数&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぺえじすう&quot;,&quot;transliteration&quot;:&quot;peejisuu&quot;},{&quot;translateID&quot;:539317,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;число страниц&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;紙数&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しすう&quot;,&quot;transliteration&quot;:&quot;shisuu&quot;},{&quot;translateID&quot;:712665,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;нумерация страниц&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;丁付け&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちょうづけ&quot;,&quot;transliteration&quot;:&quot;chouduke&quot;},{&quot;translateID&quot;:548889,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;загибать углы страниц&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;耳を折る&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;みみをおる&quot;,&quot;transliteration&quot;:&quot;mimi o oru&quot;},{&quot;translateID&quot;:712597,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;число страниц&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;丁数&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちょうすう&quot;,&quot;transliteration&quot;:&quot;chousuu&quot;},{&quot;translateID&quot;:237906,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;программа для просмотра Интернет страниц&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ブラウザ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぶらうざ&quot;,&quot;transliteration&quot;:&quot;burauza&quot;},{&quot;translateID&quot;:528120,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;очередь доступных страниц&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;使用可能ページ待ち行列&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しようかのうぺーじまちぎょうれつ&quot;,&quot;transliteration&quot;:&quot;shiyoukanoupe:jimachigyouretsu&quot;},{&quot;translateID&quot;:249531,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;рекламация страниц&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ページ取戻し&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぺーじとりもどし&quot;,&quot;transliteration&quot;:&quot;pe:jitorimodoshi&quot;},{&quot;translateID&quot;:249411,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;глубина просмотра страниц&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ページの深さ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぺーじのふかさ&quot;,&quot;transliteration&quot;:&quot;pe:jinofukasa&quot;},{&quot;translateID&quot;:267150,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;коллекция главных страниц&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;マスタ ページ ギャラリー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ますたぺーじぎゃらりー&quot;,&quot;transliteration&quot;:&quot;masutape:jigyarari:&quot;},{&quot;translateID&quot;:249509,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;динамическая область памяти с замещением страниц&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ページ可能動的領域&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぺーじかのうどうてきりょういき&quot;,&quot;transliteration&quot;:&quot;pe:jikanoudoutekiryouiki&quot;},{&quot;translateID&quot;:249533,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;кэш вывода страниц&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ページ出力キャッシュ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぺーじしゅつりょくきゃっしゅ&quot;,&quot;transliteration&quot;:&quot;pe:jishutsuryokukyasshu&quot;},{&quot;translateID&quot;:249415,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;Очистить историю посещённых страниц&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ページの表示履歴をクリア&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぺーじのひょうじりれきをくりあ&quot;,&quot;transliteration&quot;:&quot;pe:jinohyoujirireki o kuria&quot;},{&quot;translateID&quot;:267198,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;коллекция главных страниц&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;マスター ページ ギャラリー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ますたー ぺーじ ぎゃらりー&quot;,&quot;transliteration&quot;:&quot;masuta: pe:ji gyarari:&quot;},{&quot;translateID&quot;:249493,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;интенсивность замещения страниц&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ページング率&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぺーじんぐりつ&quot;,&quot;transliteration&quot;:&quot;pe:jinguritsu&quot;},{&quot;translateID&quot;:249547,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;алгоритм замещения страниц&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ページ置換えアルゴリズム&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぺーじおきかえあるごりずむ&quot;,&quot;transliteration&quot;:&quot;pe:jiokikaearugorizumu&quot;},{&quot;translateID&quot;:249416,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;сортировщик страниц&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ページの並べ替えアイコン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぺーじのならべかえあいこん&quot;,&quot;transliteration&quot;:&quot;pe:jinonarabekaeaikon&quot;},{&quot;translateID&quot;:391042,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;таблица страниц&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;換算表&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かんさんひょう&quot;,&quot;transliteration&quot;:&quot;kansanhyou&quot;},{&quot;translateID&quot;:249496,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;перемещение страниц&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ページ移送&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぺーじいそう&quot;,&quot;transliteration&quot;:&quot;pe:jiisou&quot;},{&quot;translateID&quot;:249572,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;интенсивность замещения страниц&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ページ率&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぺーじりつ&quot;,&quot;transliteration&quot;:&quot;pe:jiritsu&quot;},{&quot;translateID&quot;:249307,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;группа страниц&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ページ グループ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぺーじ ぐるーぷ&quot;,&quot;transliteration&quot;:&quot;pe:ji guru:pu&quot;},{&quot;translateID&quot;:41900,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;очередь активных страниц&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;アクティブページキュー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あくてぃぶぺーじきゅー&quot;,&quot;transliteration&quot;:&quot;akutibupe:jikyu:&quot;},{&quot;translateID&quot;:34251,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;язык описания страниц печатных документов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;PostScript&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;PostScript&quot;,&quot;transliteration&quot;:&quot;PostScript&quot;},{&quot;translateID&quot;:249515,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;язык описания страниц&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ページ記述言語&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぺーじきじゅつげんご&quot;,&quot;transliteration&quot;:&quot;pe:jikijutsugengo&quot;},{&quot;translateID&quot;:249475,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;алгоритм изменения страниц&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ページング・アルゴリズム&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぺーじんぐ・あるごりずむ&quot;,&quot;transliteration&quot;:&quot;pe:jingu・arugorizumu&quot;},{&quot;translateID&quot;:249342,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;откачка страниц из оперативной памяти&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ページアウト&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぺーじあうと&quot;,&quot;transliteration&quot;:&quot;pe:jiauto&quot;},{&quot;translateID&quot;:187474,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;вызов страниц по требованию&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;デマンドページング&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;でまんどぺーじんぐ&quot;,&quot;transliteration&quot;:&quot;demandope:jingu&quot;},{&quot;translateID&quot;:249524,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;рекламация страниц&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ページ再利用&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぺーじさいりよう&quot;,&quot;transliteration&quot;:&quot;pe:jisairiyou&quot;},{&quot;translateID&quot;:249403,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;разграничитель страниц&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ページの区切り&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぺーじのくぎり&quot;,&quot;transliteration&quot;:&quot;pe:jinokugiri&quot;},{&quot;translateID&quot;:249370,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;перекачка страниц&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ページスワッピング&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぺーじすわっぴんぐ&quot;,&quot;transliteration&quot;:&quot;pe:jisuwappingu&quot;},{&quot;translateID&quot;:249372,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;перекачка страниц&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ページスワップ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぺーじすわっぷ&quot;,&quot;transliteration&quot;:&quot;pe:jisuwappu&quot;},{&quot;translateID&quot;:249573,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;замещение страниц&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ページ領域表&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぺーじりょういきひょう&quot;,&quot;transliteration&quot;:&quot;pe:jiryouikihyou&quot;},{&quot;translateID&quot;:249318,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;консоль производительности страниц&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ページ パフォーマンス コンソール&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぺーじ ぱふぉーまんす こんそーる&quot;,&quot;transliteration&quot;:&quot;pe:ji pafo:mansu konso:ru&quot;},{&quot;translateID&quot;:173992,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;Панель страниц&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;タブバー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たぶばー&quot;,&quot;transliteration&quot;:&quot;tabuba:&quot;},{&quot;translateID&quot;:891749,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;вызов страниц по требованию&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;要求時ページング&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ようきゅうじぺーじんぐ&quot;,&quot;transliteration&quot;:&quot;youkyuujipe:jingu&quot;},{&quot;translateID&quot;:249391,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;таблица переадресации страниц&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ページテーブル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぺーじてーぶる&quot;,&quot;transliteration&quot;:&quot;pe:jite:buru&quot;},{&quot;translateID&quot;:249576,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;блок страниц памяти&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ページ枠&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぺーじわく&quot;,&quot;transliteration&quot;:&quot;pe:jiwaku&quot;},{&quot;translateID&quot;:249338,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;переключение страниц экранной памяти&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ページ・スワッピング&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぺーじ・すわっぴんぐ&quot;,&quot;transliteration&quot;:&quot;pe:ji・suwappingu&quot;},{&quot;translateID&quot;:174200,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;Начать без страниц&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;タブを開かずに起動する&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たぶをひらかずにきどうする&quot;,&quot;transliteration&quot;:&quot;tabu o hirakazunikidousuru&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="страниц" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

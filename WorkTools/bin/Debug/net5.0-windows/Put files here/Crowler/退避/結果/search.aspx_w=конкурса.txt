@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	конкурса - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,конкурса" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u043a%u043e%u043d%u043a%u0443%u0440%u0441%u0430" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV644Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNC60L7QvdC60YPRgNGB0LBkAgMPZBYIAgIPZBYEAgEPFgIeA3NyYwUPLi4vaW1nL2xvZ28ucG5nZAIFDxYCHgRocmVmBQ4uLi8/bGFuZz1ydS1SVWQCBA8WAh4HVmlzaWJsZWdkAgYPFgIfA2hkAgcPZBYIZg8WAh8DaGQCAQ8WAh8DaGQCAg8WAh8DaGQCBQ8WAh8DaGRkYWUI9n4YtgDUkRGPFlW/GifYqIg=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAXLrLdx2MXABqaVoAwv+K9FlIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/uN8nY4eAKyI/9bfk3zUKr+SHn2/" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:false,&quot;Phrases&quot;:[{&quot;translateID&quot;:284092,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Участники конкурса песни Евровидение 1972&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ユーロビジョン・ソング・コンテスト1972参加者&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ゆーろびじょん・そんぐ・こんてすと1972さんかしゃ&quot;,&quot;transliteration&quot;:&quot;yu:robijon・songu・kontesuto1972sankasha&quot;},{&quot;translateID&quot;:284129,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Участники конкурса песни Евровидение 1999&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ユーロビジョン・ソング・コンテスト1999参加者&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ゆーろびじょん・そんぐ・こんてすと1999さんかしゃ&quot;,&quot;transliteration&quot;:&quot;yu:robijon・songu・kontesuto1999sankasha&quot;},{&quot;translateID&quot;:284149,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Участники конкурса песни Евровидение 2009&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ユーロビジョン・ソング・コンテスト2009参加者&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ゆーろびじょん・そんぐ・こんてすと2009さんかしゃ&quot;,&quot;transliteration&quot;:&quot;yu:robijon・songu・kontesuto2009sankasha&quot;},{&quot;translateID&quot;:284089,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Участники конкурса песни Евровидение 1970&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ユーロビジョン・ソング・コンテスト1970参加者&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ゆーろびじょん・そんぐ・こんてすと1970さんかしゃ&quot;,&quot;transliteration&quot;:&quot;yu:robijon・songu・kontesuto1970sankasha&quot;},{&quot;translateID&quot;:284127,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Участники конкурса песни Евровидение 1998&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ユーロビジョン・ソング・コンテスト1998参加者&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ゆーろびじょん・そんぐ・こんてすと1998さんかしゃ&quot;,&quot;transliteration&quot;:&quot;yu:robijon・songu・kontesuto1998sankasha&quot;},{&quot;translateID&quot;:284147,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Участники конкурса песни Евровидение 2008&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ユーロビジョン・ソング・コンテスト2008参加者&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ゆーろびじょん・そんぐ・こんてすと2008さんかしゃ&quot;,&quot;transliteration&quot;:&quot;yu:robijon・songu・kontesuto2008sankasha&quot;},{&quot;translateID&quot;:848916,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;объявление конкурса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;募集&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぼしゅう&quot;,&quot;transliteration&quot;:&quot;boshuu&quot;},{&quot;translateID&quot;:284084,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Участники конкурса песни Евровидение 1966&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ユーロビジョン・ソング・コンテスト1966参加者&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ゆーろびじょん・そんぐ・こんてすと1966さんかしゃ&quot;,&quot;transliteration&quot;:&quot;yu:robijon・songu・kontesuto1966sankasha&quot;},{&quot;translateID&quot;:284125,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Участники конкурса песни Евровидение 1997&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ユーロビジョン・ソング・コンテスト1997参加者&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ゆーろびじょん・そんぐ・こんてすと1997さんかしゃ&quot;,&quot;transliteration&quot;:&quot;yu:robijon・songu・kontesuto1997sankasha&quot;},{&quot;translateID&quot;:284145,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Участники конкурса песни Евровидение 2007&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ユーロビジョン・ソング・コンテスト2007参加者&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ゆーろびじょん・そんぐ・こんてすと2007さんかしゃ&quot;,&quot;transliteration&quot;:&quot;yu:robijon・songu・kontesuto2007sankasha&quot;},{&quot;translateID&quot;:808856,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;вне конкурса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;飛び入りで&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とびいりで&quot;,&quot;transliteration&quot;:&quot;tobiiride&quot;},{&quot;translateID&quot;:284082,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Участники конкурса песни Евровидение 1965&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ユーロビジョン・ソング・コンテスト1965参加者&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ゆーろびじょん・そんぐ・こんてすと1965さんかしゃ&quot;,&quot;transliteration&quot;:&quot;yu:robijon・songu・kontesuto1965sankasha&quot;},{&quot;translateID&quot;:284122,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Участники конкурса песни Евровидение 1995&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ユーロビジョン・ソング・コンテスト1995参加者&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ゆーろびじょん・そんぐ・こんてすと1995さんかしゃ&quot;,&quot;transliteration&quot;:&quot;yu:robijon・songu・kontesuto1995sankasha&quot;},{&quot;translateID&quot;:284143,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Участники конкурса песни Евровидение 2006&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ユーロビジョン・ソング・コンテスト2006参加者&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ゆーろびじょん・そんぐ・こんてすと2006さんかしゃ&quot;,&quot;transliteration&quot;:&quot;yu:robijon・songu・kontesuto2006sankasha&quot;},{&quot;translateID&quot;:770329,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;победитель конкурса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;入賞者&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にゅうしょうしゃ&quot;,&quot;transliteration&quot;:&quot;nyuushousha&quot;},{&quot;translateID&quot;:460142,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;лауреат конкурса с премией&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;懸賞当選者&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けんしょうとうせんしゃ&quot;,&quot;transliteration&quot;:&quot;kenshoutousensha&quot;},{&quot;translateID&quot;:284102,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Участники конкурса песни Евровидение 1980&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ユーロビジョン・ソング・コンテスト1980参加者&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ゆーろびじょん・そんぐ・こんてすと1980さんかしゃ&quot;,&quot;transliteration&quot;:&quot;yu:robijon・songu・kontesuto1980sankasha&quot;},{&quot;translateID&quot;:284133,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Участники конкурса песни Евровидение 2001&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ユーロビジョン・ソング・コンテスト2001参加者&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ゆーろびじょん・そんぐ・こんてすと2001さんかしゃ&quot;,&quot;transliteration&quot;:&quot;yu:robijon・songu・kontesuto2001sankasha&quot;},{&quot;translateID&quot;:284153,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Участники конкурса песни Евровидение 2011&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ユーロビジョン・ソング・コンテスト2011参加者&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ゆーろびじょん・そんぐ・こんてすと2011さんかしゃ&quot;,&quot;transliteration&quot;:&quot;yu:robijon・songu・kontesuto2011sankasha&quot;},{&quot;translateID&quot;:460139,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;тема конкурса на премию&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;懸賞課題&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けんしょうかだい&quot;,&quot;transliteration&quot;:&quot;kenshoukadai&quot;},{&quot;translateID&quot;:284095,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Участники конкурса песни Евровидение 1974&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ユーロビジョン・ソング・コンテスト1974参加者&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ゆーろびじょん・そんぐ・こんてすと1974さんかしゃ&quot;,&quot;transliteration&quot;:&quot;yu:robijon・songu・kontesuto1974sankasha&quot;},{&quot;translateID&quot;:284131,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Участники конкурса песни Евровидение 2000&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ユーロビジョン・ソング・コンテスト2000参加者&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ゆーろびじょん・そんぐ・こんてすと2000さんかしゃ&quot;,&quot;transliteration&quot;:&quot;yu:robijon・songu・kontesuto2000sankasha&quot;},{&quot;translateID&quot;:284151,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Участники конкурса песни Евровидение 2010&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ユーロビジョン・ソング・コンテスト2010参加者&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ゆーろびじょん・そんぐ・こんてすと2010さんかしゃ&quot;,&quot;transliteration&quot;:&quot;yu:robijon・songu・kontesuto2010sankasha&quot;},{&quot;translateID&quot;:284079,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Участники конкурса песни Евровидение 1963&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ユーロビジョン・ソング・コンテスト1963参加者&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ゆーろびじょん・そんぐ・こんてすと1963さんかしゃ&quot;,&quot;transliteration&quot;:&quot;yu:robijon・songu・kontesuto1963sankasha&quot;},{&quot;translateID&quot;:284120,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Участники конкурса песни Евровидение 1994&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ユーロビジョン・ソング・コンテスト1994参加者&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ゆーろびじょん・そんぐ・こんてすと1994さんかしゃ&quot;,&quot;transliteration&quot;:&quot;yu:robijon・songu・kontesuto1994sankasha&quot;},{&quot;translateID&quot;:284141,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Участники конкурса песни Евровидение 2005&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ユーロビジョン・ソング・コンテスト2005参加者&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ゆーろびじょん・そんぐ・こんてすと2005さんかしゃ&quot;,&quot;transliteration&quot;:&quot;yu:robijon・songu・kontesuto2005sankasha&quot;},{&quot;translateID&quot;:284159,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Победители конкурса песни Евровидение&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ユーロビジョン・ソング・コンテスト優勝者&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ゆーろびじょん・そんぐ・こんてすとゆうしょうしゃ&quot;,&quot;transliteration&quot;:&quot;yu:robijon・songu・kontesutoyuushousha&quot;},{&quot;translateID&quot;:284077,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Участники конкурса песни Евровидение 1962&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ユーロビジョン・ソング・コンテスト1962参加者&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ゆーろびじょん・そんぐ・こんてすと1962さんかしゃ&quot;,&quot;transliteration&quot;:&quot;yu:robijon・songu・kontesuto1962sankasha&quot;},{&quot;translateID&quot;:284118,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Участники конкурса песни Евровидение 1993&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ユーロビジョン・ソング・コンテスト1993参加者&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ゆーろびじょん・そんぐ・こんてすと1993さんかしゃ&quot;,&quot;transliteration&quot;:&quot;yu:robijon・songu・kontesuto1993sankasha&quot;},{&quot;translateID&quot;:284139,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Участники конкурса песни Евровидение 2004&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ユーロビジョン・ソング・コンテスト2004参加者&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ゆーろびじょん・そんぐ・こんてすと2004さんかしゃ&quot;,&quot;transliteration&quot;:&quot;yu:robijon・songu・kontesuto2004sankasha&quot;},{&quot;translateID&quot;:284158,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Участники конкурса песни Евровидение&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ユーロビジョン・ソング・コンテスト参加者&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ゆーろびじょん・そんぐ・こんてすとさんかしゃ&quot;,&quot;transliteration&quot;:&quot;yu:robijon・songu・kontesutosankasha&quot;},{&quot;translateID&quot;:272494,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Участницы конкурса Мисс Вселенная&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ミス・ユニバース出場者&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;みす・ゆにばーすしゅつじょうしゃ&quot;,&quot;transliteration&quot;:&quot;misu・yuniba:sushutsujousha&quot;},{&quot;translateID&quot;:284115,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Участники конкурса песни Евровидение 1991&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ユーロビジョン・ソング・コンテスト1991参加者&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ゆーろびじょん・そんぐ・こんてすと1991さんかしゃ&quot;,&quot;transliteration&quot;:&quot;yu:robijon・songu・kontesuto1991sankasha&quot;},{&quot;translateID&quot;:284137,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Участники конкурса песни Евровидение 2003&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ユーロビジョン・ソング・コンテスト2003参加者&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ゆーろびじょん・そんぐ・こんてすと2003さんかしゃ&quot;,&quot;transliteration&quot;:&quot;yu:robijon・songu・kontesuto2003sankasha&quot;},{&quot;translateID&quot;:284157,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Победители конкурса песни Евровидение&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ユーロビジョン・ソング・コンテストの優勝者一覧&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ゆーろびじょん・そんぐ・こんてすとのゆうしょうしゃいちらん&quot;,&quot;transliteration&quot;:&quot;yu:robijon・songu・kontesutonoyuushoushaichiran&quot;},{&quot;translateID&quot;:437736,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;лауреат конкурса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;金牌受領者&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きんぱいじゅりょうしゃ&quot;,&quot;transliteration&quot;:&quot;kinpaijuryousha&quot;},{&quot;translateID&quot;:284113,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Участники конкурса песни Евровидение 1990&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ユーロビジョン・ソング・コンテスト1990参加者&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ゆーろびじょん・そんぐ・こんてすと1990さんかしゃ&quot;,&quot;transliteration&quot;:&quot;yu:robijon・songu・kontesuto1990sankasha&quot;},{&quot;translateID&quot;:284135,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Участники конкурса песни Евровидение 2002&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ユーロビジョン・ソング・コンテスト2002参加者&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ゆーろびじょん・そんぐ・こんてすと2002さんかしゃ&quot;,&quot;transliteration&quot;:&quot;yu:robijon・songu・kontesuto2002sankasha&quot;},{&quot;translateID&quot;:284155,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Участники конкурса песни Евровидение 2012&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ユーロビジョン・ソング・コンテスト2012参加者&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ゆーろびじょん・そんぐ・こんてすと2012さんかしゃ&quot;,&quot;transliteration&quot;:&quot;yu:robijon・songu・kontesuto2012sankasha&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="конкурса" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

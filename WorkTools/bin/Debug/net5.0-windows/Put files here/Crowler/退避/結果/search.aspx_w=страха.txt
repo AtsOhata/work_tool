@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	страха - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,страха" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u0441%u0442%u0440%u0430%u0445%u0430" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV244Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNGB0YLRgNCw0YXQsGQCAw9kFggCAg9kFgQCAQ8WAh4Dc3JjBQ8uLi9pbWcvbG9nby5wbmdkAgUPFgIeBGhyZWYFDi4uLz9sYW5nPXJ1LVJVZAIEDxYCHgdWaXNpYmxlZ2QCBg8WAh8DaGQCBw9kFghmDxYCHwNoZAIBDxYCHwNoZAICDxYCHwNoZAIFDxYCHwNoZGT5PFREwG+36c8O6ghBKpBnNR95Vg==" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAVyHIl39PmuyLm+Br8oxBOZlIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/hAT/wX+XYOF3+QZWvTqwQztEv7r" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:true,&quot;Phrases&quot;:[{&quot;translateID&quot;:427768,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;без признака страха&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;恐れる様子もなく&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おそれるようすもなく&quot;,&quot;transliteration&quot;:&quot;osoreruyousumonaku&quot;},{&quot;translateID&quot;:316889,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;источник страха&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;威し種&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おどしぐさ&quot;,&quot;transliteration&quot;:&quot;odoshigusa&quot;},{&quot;translateID&quot;:318089,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;съёжиться от страха&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;畏縮&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いしゅく&quot;,&quot;transliteration&quot;:&quot;ishuku&quot;},{&quot;translateID&quot;:427767,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;без признаков страха&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;恐れる様子もない&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おそれるようすもない&quot;,&quot;transliteration&quot;:&quot;osoreruyousumonai&quot;},{&quot;translateID&quot;:538254,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Я не выхожу наружу из-за страха подхватить простуду.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;私は風邪をひかないように外出しなかった。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;わたしはかぜをひかないようにがいしゅつしなかった。&quot;,&quot;transliteration&quot;:&quot;watashihakaze o hikanaiyounigaishutsushinakatta。&quot;},{&quot;translateID&quot;:318068,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;дрожать от страха&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;畏れ戦く&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おそれおののく&quot;,&quot;transliteration&quot;:&quot;osoreononoku&quot;},{&quot;translateID&quot;:85032,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;замирая от страха&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;おっかなびっくりで&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おっかなびっくりで&quot;,&quot;transliteration&quot;:&quot;okkanabikkuride&quot;},{&quot;translateID&quot;:921939,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;съёживаться от страха&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;竦み上がる&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;すくみあがる&quot;,&quot;transliteration&quot;:&quot;sukumiagaru&quot;},{&quot;translateID&quot;:536511,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Я поспешил из-за страха опоздать на автобус.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;私はそのバスに遅れないように急いだ。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;わたしはそのばすにおくれないようにいそいだ。&quot;,&quot;transliteration&quot;:&quot;watashihasonobasuniokurenaiyouniisoida。&quot;},{&quot;translateID&quot;:215909,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Комната страха&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;パニック・ルーム&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぱにっく・るーむ&quot;,&quot;transliteration&quot;:&quot;panikku・ru:mu&quot;},{&quot;translateID&quot;:85030,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;замирая от страха&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;おっかなびっくり&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おっかなびっくり&quot;,&quot;transliteration&quot;:&quot;okkanabikkuri&quot;},{&quot;translateID&quot;:652082,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;дрожа от страха&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;戦々兢々として&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せんせんきょうきょうとして&quot;,&quot;transliteration&quot;:&quot;sensenkyoukyoutoshite&quot;},{&quot;translateID&quot;:430898,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;обомлеть от страха&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;仰っとする&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あおぐっとする&quot;,&quot;transliteration&quot;:&quot;aoguttosuru&quot;},{&quot;translateID&quot;:584099,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Глаза страха&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;女子高生サバイバル・ドライブ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じょしこうせいさばいばる・どらいぶ&quot;,&quot;transliteration&quot;:&quot;joshikouseisabaibaru・doraibu&quot;},{&quot;translateID&quot;:126715,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;дрожать от страха&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;こわがって震える&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こわがってふるえる&quot;,&quot;transliteration&quot;:&quot;kowagattefurueru&quot;},{&quot;translateID&quot;:237605,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Ночь страха 2&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;フライトナイト2/バンパイヤの逆襲&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふらいとないと2/ばんぱいやのぎゃくしゅう&quot;,&quot;transliteration&quot;:&quot;furaitonaito2/banpaiyanogyakushuu&quot;},{&quot;translateID&quot;:427774,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;дрожать от страха&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;恐れ戦く&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おそれおののく&quot;,&quot;transliteration&quot;:&quot;osoreononoku&quot;},{&quot;translateID&quot;:917229,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;дрожать от страха&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;慄然する&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;りつぜんする&quot;,&quot;transliteration&quot;:&quot;ritsuzensuru&quot;},{&quot;translateID&quot;:822568,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;вздрогнуть от страха&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;怖じ気立つ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おじけだつ&quot;,&quot;transliteration&quot;:&quot;ojikedatsu&quot;},{&quot;translateID&quot;:394075,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;похолодеть от страха&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;肝を冷やす&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きもをひやす&quot;,&quot;transliteration&quot;:&quot;kimo o hiyasu&quot;},{&quot;translateID&quot;:427771,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;без признаков страха&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;恐れ気もなく&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おそれきもなく&quot;,&quot;transliteration&quot;:&quot;osorekimonaku&quot;},{&quot;translateID&quot;:461641,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Он дрожит от страха уже от вида собаки.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;犬の姿を見ただけで彼はこわがる。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いぬのすがたをみただけでかれはこわがる。&quot;,&quot;transliteration&quot;:&quot;inunosugata o mitadakedekarehakowagaru。&quot;},{&quot;translateID&quot;:822547,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;кричать от страха&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;怖がって叫ぶ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こわがってさけぶ&quot;,&quot;transliteration&quot;:&quot;kowagattesakebu&quot;},{&quot;translateID&quot;:652081,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;дрожать от страха&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;戦々恐々としている&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せんせんきょうきょうとしている&quot;,&quot;transliteration&quot;:&quot;sensenkyoukyoutoshiteiru&quot;},{&quot;translateID&quot;:430895,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;обомлев от страха&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;仰っとして&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あおぐっとして&quot;,&quot;transliteration&quot;:&quot;aoguttoshite&quot;},{&quot;translateID&quot;:474240,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;трястись от страха&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;虎の尾を踏む心地である&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とらのおをふむここちである&quot;,&quot;transliteration&quot;:&quot;toranoo o fumukokochidearu&quot;},{&quot;translateID&quot;:224017,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;дрожа от страха&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;びくびくもので&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;びくびくもので&quot;,&quot;transliteration&quot;:&quot;bikubikumonode&quot;},{&quot;translateID&quot;:652080,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;дрожа от страха&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;戦々恐々として&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せんせんきょうきょうとして&quot;,&quot;transliteration&quot;:&quot;sensenkyoukyoutoshite&quot;},{&quot;translateID&quot;:430734,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;от страха&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;驚いて&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おどろいて&quot;,&quot;transliteration&quot;:&quot;odoroite&quot;},{&quot;translateID&quot;:473225,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Каждый одинокий человек одинок из-за страха перед окружающими.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;孤独な人は、他人を恐れるから一人なのだ。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こどくなひとは、たにんをおそれるからひとりなのだ。&quot;,&quot;transliteration&quot;:&quot;kodokunahitoha、tanin o osorerukarahitorinanoda。&quot;},{&quot;translateID&quot;:224013,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;трепетать от страха&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;びくびくする&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;びくびくする&quot;,&quot;transliteration&quot;:&quot;bikubikusuru&quot;},{&quot;translateID&quot;:414224,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;у страха глаза велики&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;疑心暗鬼を生ず&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぎしんあんきをなまず&quot;,&quot;transliteration&quot;:&quot;gishinanki o namazu&quot;},{&quot;translateID&quot;:427945,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;чувство страха&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;恐怖心&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きょうふしん&quot;,&quot;transliteration&quot;:&quot;kyoufushin&quot;},{&quot;translateID&quot;:711392,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Меня трясёт от страха при мысле об уколе.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;注射のことを考えると怖くて震えてしまう。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅうしゃのことをかんがえるとこわくてふるえてしまう。&quot;,&quot;transliteration&quot;:&quot;chuushanokoto o kangaerutokowakutefurueteshimau。&quot;},{&quot;translateID&quot;:224010,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;замирать от страха&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;びくびくする&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;びくびくする&quot;,&quot;transliteration&quot;:&quot;bikubikusuru&quot;},{&quot;translateID&quot;:239724,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Планета страха&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;プラネット・テラー in グラインドハウス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぷらねっと・てらー in ぐらいんどはうす&quot;,&quot;transliteration&quot;:&quot;puranetto・tera: in guraindohausu&quot;},{&quot;translateID&quot;:427907,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;От страха он потерял дар речи.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;恐怖で彼は口がきけなかった。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きょうふでかれはくちがきけなかった。&quot;,&quot;transliteration&quot;:&quot;kyoufudekarehakuchigakikenakatta。&quot;},{&quot;translateID&quot;:917232,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;дрожа от страха&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;慄然として&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;りつぜんとして&quot;,&quot;transliteration&quot;:&quot;ritsuzentoshite&quot;},{&quot;translateID&quot;:224009,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;дрожать от страха&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;びくびくする&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;びくびくする&quot;,&quot;transliteration&quot;:&quot;bikubikusuru&quot;},{&quot;translateID&quot;:817104,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;невроз страха&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;不安神経症&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふあんしんけいしょう&quot;,&quot;transliteration&quot;:&quot;fuanshinkeishou&quot;},{&quot;translateID&quot;:817199,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;приступ страха&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;不安発作&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふあんほっさ&quot;,&quot;transliteration&quot;:&quot;fuanhossa&quot;},{&quot;translateID&quot;:867498,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;полное отсутствие страха&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;無恐症&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;むきょうしょう&quot;,&quot;transliteration&quot;:&quot;mukyoushou&quot;},{&quot;translateID&quot;:817102,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;невроз страха&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;不安神経症&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふあんしんけいしょう&quot;,&quot;transliteration&quot;:&quot;fuanshinkeishou&quot;},{&quot;translateID&quot;:427947,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;отсутствие чувства страха&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;恐怖心欠如&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きょうふしんけつじょ&quot;,&quot;transliteration&quot;:&quot;kyoufushinketsujo&quot;},{&quot;translateID&quot;:427927,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;полное отсутствие страха&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;恐怖欠如症&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きょうふけつじょしょう&quot;,&quot;transliteration&quot;:&quot;kyoufuketsujoshou&quot;},{&quot;translateID&quot;:427937,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;патологическая боязнь появления навязчивого страха&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;恐怖症恐怖&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きょうふしょうきょうふ&quot;,&quot;transliteration&quot;:&quot;kyoufushoukyoufu&quot;},{&quot;translateID&quot;:116092,&quot;translationStatus&quot;:0,&quot;themeID&quot;:215,&quot;groupName&quot;:&quot;人文&quot;,&quot;themeName&quot;:&quot;映画&quot;,&quot;word&quot;:&quot;Мыс страха&quot;,&quot;wordnote&quot;:&quot;фильм, 1991&quot;,&quot;translation&quot;:&quot;ケープ・フィアー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けーぷ・ふぃあー&quot;,&quot;transliteration&quot;:&quot;ke:pu・fia:&quot;},{&quot;translateID&quot;:169459,&quot;translationStatus&quot;:0,&quot;themeID&quot;:215,&quot;groupName&quot;:&quot;人文&quot;,&quot;themeName&quot;:&quot;映画&quot;,&quot;word&quot;:&quot;Поезд страха&quot;,&quot;wordnote&quot;:&quot;фильм, 1972&quot;,&quot;translation&quot;:&quot;ゾンビ特急地獄行き&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぞんびとっきゅうじごくいき&quot;,&quot;transliteration&quot;:&quot;zonbitokkyuujigokuiki&quot;},{&quot;translateID&quot;:258459,&quot;translationStatus&quot;:0,&quot;themeID&quot;:215,&quot;groupName&quot;:&quot;人文&quot;,&quot;themeName&quot;:&quot;映画&quot;,&quot;word&quot;:&quot;Власть страха&quot;,&quot;wordnote&quot;:&quot;фильм, 1999&quot;,&quot;translation&quot;:&quot;ボーン・コレクター&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぼーん・これくたー&quot;,&quot;transliteration&quot;:&quot;bo:n・korekuta:&quot;},{&quot;translateID&quot;:237604,&quot;translationStatus&quot;:0,&quot;themeID&quot;:215,&quot;groupName&quot;:&quot;人文&quot;,&quot;themeName&quot;:&quot;映画&quot;,&quot;word&quot;:&quot;Ночь страха&quot;,&quot;wordnote&quot;:&quot;фильм, 2011&quot;,&quot;translation&quot;:&quot;フライトナイト/恐怖の夜&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふらいとないと/きょうふのよる&quot;,&quot;transliteration&quot;:&quot;furaitonaito/kyoufunoyoru&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="страха" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

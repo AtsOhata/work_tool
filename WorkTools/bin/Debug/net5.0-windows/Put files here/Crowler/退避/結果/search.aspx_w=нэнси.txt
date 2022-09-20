@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	нэнси - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,нэнси" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u043d%u044d%u043d%u0441%u0438" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV044Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNC90Y3QvdGB0LhkAgMPZBYIAgIPZBYEAgEPFgIeA3NyYwUPLi4vaW1nL2xvZ28ucG5nZAIFDxYCHgRocmVmBQ4uLi8/bGFuZz1ydS1SVWQCBA8WAh4HVmlzaWJsZWdkAgYPFgIfA2hkAgcPZBYIZg8WAh8DaGQCAQ8WAh8DaGQCAg8WAh8DaGQCBQ8WAh8DaGRkn71qulAUQC0M35KiA20C9Qe9ZW8=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAUwmvu+0ek4A2nPAnbqZb5dlIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/kB5RsZV5L/FT2dZlZy6Tp55lFhI" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:false,&quot;Phrases&quot;:[{&quot;translateID&quot;:200741,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Синатра, Нэнси&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ナンシー・シナトラ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なんしー・しなとら&quot;,&quot;transliteration&quot;:&quot;nanshi:・shinatora&quot;},{&quot;translateID&quot;:200751,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Лангат, Нэнси&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ナンシー・ランガット&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なんしー・らんがっと&quot;,&quot;transliteration&quot;:&quot;nanshi:・rangatto&quot;},{&quot;translateID&quot;:200763,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Нэнси боится собак.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ナンシーは犬が怖い。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なんしーはいぬがこわい。&quot;,&quot;transliteration&quot;:&quot;nanshi:hainugakowai。&quot;},{&quot;translateID&quot;:200740,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Керриган, Нэнси&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ナンシー・ケリガン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なんしー・けりがん&quot;,&quot;transliteration&quot;:&quot;nanshi:・kerigan&quot;},{&quot;translateID&quot;:200750,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Нэнси Мейерс&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ナンシー・マイヤーズ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なんしー・まいやーず&quot;,&quot;transliteration&quot;:&quot;nanshi:・maiya:zu&quot;},{&quot;translateID&quot;:200762,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Нэнси была удивлена, что Боб занял первое место в конкурсе.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ナンシーはボブがコンテストで1等をとったことに驚いた。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なんしーはぼぶがこんてすとで1とうをとったことにおどろいた。&quot;,&quot;transliteration&quot;:&quot;nanshi:habobugakontesutode1tou o tottakotoniodoroita。&quot;},{&quot;translateID&quot;:200739,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Кресс, Нэнси&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ナンシー・クレス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なんしー・くれす&quot;,&quot;transliteration&quot;:&quot;nanshi:・kuresu&quot;},{&quot;translateID&quot;:200749,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Пелоси, Нэнси&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ナンシー・ペロシ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なんしー・ぺろし&quot;,&quot;transliteration&quot;:&quot;nanshi:・peroshi&quot;},{&quot;translateID&quot;:200761,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;У Нэнси есть фортепиано.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ナンシーはピアノを持っています。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なんしーはぴあのをもっています。&quot;,&quot;transliteration&quot;:&quot;nanshi:hapiano o motteimasu。&quot;},{&quot;translateID&quot;:200738,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Картрайт, Нэнси&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ナンシー・カートライト&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なんしー・かーとらいと&quot;,&quot;transliteration&quot;:&quot;nanshi:・ka:toraito&quot;},{&quot;translateID&quot;:200748,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Нэнси Пелози&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ナンシー・ペロシ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なんしー・ぺろし&quot;,&quot;transliteration&quot;:&quot;nanshi:・peroshi&quot;},{&quot;translateID&quot;:200760,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Нэнси редко улыбается.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ナンシーはなかなか笑顔を見せない。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なんしーはなかなかえがおをみせない。&quot;,&quot;transliteration&quot;:&quot;nanshi:hanakanakaegao o misenai。&quot;},{&quot;translateID&quot;:878475,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Проблема в том, что Нэнси не ходит на встречи в клубе.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;問題はナンシーがクラブの会議に出席しないことである。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;もんだいはなんしーがくらぶのかいぎにしゅっせきしないことである。&quot;,&quot;transliteration&quot;:&quot;mondaihananshi:gakurabunokaiginishussekishinaikotodearu。&quot;},{&quot;translateID&quot;:200743,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Спанджен, Нэнси&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ナンシー・スパンゲン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なんしー・すぱんげん&quot;,&quot;transliteration&quot;:&quot;nanshi:・supangen&quot;},{&quot;translateID&quot;:200753,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Похоже, Нэнси не хватает искренности.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ナンシーには誠実さが欠けているようだ。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なんしーにはせいじつさがかけているようだ。&quot;,&quot;transliteration&quot;:&quot;nanshi:nihaseijitsusagakaketeiruyouda。&quot;},{&quot;translateID&quot;:200765,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Нэнси похожа на мою сестру.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ナンシーは私の姉に似ている。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なんしーはわたしのあねににている。&quot;,&quot;transliteration&quot;:&quot;nanshi:hawatashinoaneniniteiru。&quot;},{&quot;translateID&quot;:588972,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Нэнси Дрю&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;少女探偵ナンシー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょうじょたんていなんしー&quot;,&quot;transliteration&quot;:&quot;shoujotanteinanshi:&quot;},{&quot;translateID&quot;:200742,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Стокей, Нэнси&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ナンシー・ストーキー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なんしー・すとーきー&quot;,&quot;transliteration&quot;:&quot;nanshi:・suto:ki:&quot;},{&quot;translateID&quot;:200752,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Рейган, Нэнси&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ナンシー・レーガン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なんしー・れーがん&quot;,&quot;transliteration&quot;:&quot;nanshi:・re:gan&quot;},{&quot;translateID&quot;:200764,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Нэнси выглядит как моя сестра.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ナンシーは私の姉に似ている。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なんしーはわたしのあねににている。&quot;,&quot;transliteration&quot;:&quot;nanshi:hawatashinoaneniniteiru。&quot;},{&quot;translateID&quot;:200737,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Аллен, Нэнси&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ナンシー・アレン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なんしー・あれん&quot;,&quot;transliteration&quot;:&quot;nanshi:・aren&quot;},{&quot;translateID&quot;:200747,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Бенуа, Нэнси&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ナンシー・ベノワ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なんしー・べのわ&quot;,&quot;transliteration&quot;:&quot;nanshi:・benowa&quot;},{&quot;translateID&quot;:200759,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;У Нэнси был живой и милый нрав.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ナンシーはとても陽気でかわいらしい性格だ。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なんしーはとてもようきでかわいらしいせいかくだ。&quot;,&quot;transliteration&quot;:&quot;nanshi:hatotemoyoukidekawairashiiseikakuda。&quot;},{&quot;translateID&quot;:200769,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Нэнси - умелая медсестра.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ナンシーは有能な看護婦です。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なんしーはゆうのうなかんごふです。&quot;,&quot;transliteration&quot;:&quot;nanshi:hayuunounakangofudesu。&quot;},{&quot;translateID&quot;:200736,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Аджрам, Нэнси&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ナンシー・アジュラム&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なんしー・あじゅらむ&quot;,&quot;transliteration&quot;:&quot;nanshi:・ajuramu&quot;},{&quot;translateID&quot;:200746,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Хьюстон, Нэнси&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ナンシー・ヒューストン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なんしー・ひゅーすとん&quot;,&quot;transliteration&quot;:&quot;nanshi:・hyu:suton&quot;},{&quot;translateID&quot;:200758,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Нэнси выглядит такой усталой.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ナンシーはとても疲れているように見える。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なんしーはとてもつかれているようにみえる。&quot;,&quot;transliteration&quot;:&quot;nanshi:hatotemotsukareteiruyounimieru。&quot;},{&quot;translateID&quot;:200768,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Нэнси сложила локти на колени.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ナンシーは膝の上に両肘をついた。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なんしーはひざのうえにりょうひじをついた。&quot;,&quot;transliteration&quot;:&quot;nanshi:hahizanoueniryouhiji o tsuita。&quot;},{&quot;translateID&quot;:200735,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Андреасен, Нэнси Кувер&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ナンシー・C・アンドレアセン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なんしー・C・あんどれあせん&quot;,&quot;transliteration&quot;:&quot;nanshi:・C・andoreasen&quot;},{&quot;translateID&quot;:200745,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Пикард, Нэнси&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ナンシー・ピカード&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なんしー・ぴかーど&quot;,&quot;transliteration&quot;:&quot;nanshi:・pika:do&quot;},{&quot;translateID&quot;:200757,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Нэнси не играет в теннис.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ナンシーはテニスをしません。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なんしーはてにすをしません。&quot;,&quot;transliteration&quot;:&quot;nanshi:hatenisu o shimasen。&quot;},{&quot;translateID&quot;:200767,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;По пути Нэнси сделала некоторые покупки.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ナンシーは途中で買い物をした。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なんしーはとちゅうでかいものをした。&quot;,&quot;transliteration&quot;:&quot;nanshi:hatochuudekaimono o shita。&quot;},{&quot;translateID&quot;:190525,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Как у меня может получиться пригласить Нэнси на свидание?&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;どうすれば、ナンシーとデートすることに成功できるでしょうか。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;どうすれば、なんしーとでーとすることにせいこうできるでしょうか。&quot;,&quot;transliteration&quot;:&quot;dousureba、nanshi:tode:tosurukotoniseikoudekirudeshouka。&quot;},{&quot;translateID&quot;:200744,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Трэвис, Нэнси&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ナンシー・トラヴィス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なんしー・とらヴぃす&quot;,&quot;transliteration&quot;:&quot;nanshi:・toravisu&quot;},{&quot;translateID&quot;:200756,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Нэнси сказала мне о пожаре.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ナンシーはその火事の様子を私に話した。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なんしーはそのかじのようすをわたしにはなした。&quot;,&quot;transliteration&quot;:&quot;nanshi:hasonokajinoyousu o watashinihanashita。&quot;},{&quot;translateID&quot;:200766,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Нэнси уже пять лет как в хороший отношениях с моей сестрой.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ナンシーは私の妹と5年以上も仲良しだ。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なんしーはわたしのいもうとと5ねんいじょうもなかよしだ。&quot;,&quot;transliteration&quot;:&quot;nanshi:hawatashinoimoutoto5nenijoumonakayoshida。&quot;},{&quot;translateID&quot;:140271,&quot;translationStatus&quot;:0,&quot;themeID&quot;:215,&quot;groupName&quot;:&quot;人文&quot;,&quot;themeName&quot;:&quot;映画&quot;,&quot;word&quot;:&quot;Сид и Нэнси&quot;,&quot;wordnote&quot;:&quot;фильм&quot;,&quot;translation&quot;:&quot;シド・アンド・ナンシー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しど・あんど・なんしー&quot;,&quot;transliteration&quot;:&quot;shido・ando・nanshi:&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="нэнси" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

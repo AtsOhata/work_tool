@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	пакетов - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,пакетов" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u043f%u0430%u043a%u0435%u0442%u043e%u0432" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV444Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNC/0LDQutC10YLQvtCyZAIDD2QWCAICD2QWBAIBDxYCHgNzcmMFDy4uL2ltZy9sb2dvLnBuZ2QCBQ8WAh4EaHJlZgUOLi4vP2xhbmc9cnUtUlVkAgQPFgIeB1Zpc2libGVnZAIGDxYCHwNoZAIHD2QWCGYPFgIfA2hkAgEPFgIfA2hkAgIPFgIfA2hkAgUPFgIfA2hkZFTGoGsNoCW+Q4RtMWu6oP5wtE/G" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAUN1hoAiFUnbnowHcGTQNcelIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/kA4S1QOjM/n6VIAQ5yflhl39Ij1" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:false,&quot;Phrases&quot;:[{&quot;translateID&quot;:214585,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Диаграмма пакетов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;パッケージ図&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぱっけーじず&quot;,&quot;transliteration&quot;:&quot;pakke:jizu&quot;},{&quot;translateID&quot;:212544,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Коммутация пакетов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;パケット通信&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぱけっとつうしん&quot;,&quot;transliteration&quot;:&quot;pakettotsuushin&quot;},{&quot;translateID&quot;:208794,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;модуль сборки/разборки пакетов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;パード&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぱーど&quot;,&quot;transliteration&quot;:&quot;pa:do&quot;},{&quot;translateID&quot;:69671,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;размер группы сетевых пакетов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ウィンドウ・サイズ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;うぃんどう・さいず&quot;,&quot;transliteration&quot;:&quot;uぃndou・saizu&quot;},{&quot;translateID&quot;:212497,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;драйвер пакетов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;パケットドライバ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぱけっとどらいば&quot;,&quot;transliteration&quot;:&quot;pakettodoraiba&quot;},{&quot;translateID&quot;:95021,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;без буферизации пакетов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;カットスルー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かっとするー&quot;,&quot;transliteration&quot;:&quot;kattosuru:&quot;},{&quot;translateID&quot;:214582,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;мастер настройки пакетов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;パッケージ構成ウィザード&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぱっけーじこうせいうぃざーど&quot;,&quot;transliteration&quot;:&quot;pakke:jikouseiuぃza:do&quot;},{&quot;translateID&quot;:331812,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;формирование пакетов данных&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;隠蔽&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いんぺい&quot;,&quot;transliteration&quot;:&quot;inpei&quot;},{&quot;translateID&quot;:246134,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;лавина широковещательных пакетов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ブロードキャストストーム&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぶろーどきゃすとすとーむ&quot;,&quot;transliteration&quot;:&quot;buro:dokyasutosuto:mu&quot;},{&quot;translateID&quot;:214561,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;индексатор ресурсов пакетов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;パッケージ リソース インデクサー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぱっけーじ りそーす いんでくさー&quot;,&quot;transliteration&quot;:&quot;pakke:ji riso:su indekusa:&quot;},{&quot;translateID&quot;:270637,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;сеть, где разрешена передача многоадресных пакетов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;マルチキャストが有効なネットワーク&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まるちきゃすとがゆうこうなねっとわーく&quot;,&quot;transliteration&quot;:&quot;maruchikyasutogayuukounanettowa:ku&quot;},{&quot;translateID&quot;:205322,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;оболочка для перечачи потоковых пакетов по сети&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ネットワーク ストリーマ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ねっとわーくすとりーま&quot;,&quot;transliteration&quot;:&quot;nettowa:kusutori:ma&quot;},{&quot;translateID&quot;:214560,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;диспетчер пакетов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;パッケージ マネージャー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぱっけーじ まねーじゃー&quot;,&quot;transliteration&quot;:&quot;pakke:ji mane:ja:&quot;},{&quot;translateID&quot;:212541,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;модуль сборки/разборки пакетов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;パケット組立て/分解&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぱけっとくみたて/ぶんかい&quot;,&quot;transliteration&quot;:&quot;pakettokumitate/bunkai&quot;},{&quot;translateID&quot;:205321,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;оболочка для передачи потоковых пакетов по сети&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ネットワーク ストリーマ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ねっとわーく すとりーま&quot;,&quot;transliteration&quot;:&quot;nettowa:ku sutori:ma&quot;},{&quot;translateID&quot;:214559,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;диспетчер пакетов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;パッケージ マネージャ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぱっけーじまねーじゃ&quot;,&quot;transliteration&quot;:&quot;pakke:jimane:ja&quot;},{&quot;translateID&quot;:212529,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;коммутация пакетов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;パケット交換&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぱけっとこうかん&quot;,&quot;transliteration&quot;:&quot;pakettokoukan&quot;},{&quot;translateID&quot;:32963,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;базовая сеть с многоадресным распространением пакетов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;MBONE&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;MBONE&quot;,&quot;transliteration&quot;:&quot;MBONE&quot;},{&quot;translateID&quot;:212554,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;сеть с коммутацией пакетов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;パケット網&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぱけっともう&quot;,&quot;transliteration&quot;:&quot;pakettomou&quot;},{&quot;translateID&quot;:212520,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;уровень пакетов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;パケットレベル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぱけっとれべる&quot;,&quot;transliteration&quot;:&quot;pakettoreberu&quot;},{&quot;translateID&quot;:155867,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;анализатор сетевых пакетов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;スニファー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;すにふぁー&quot;,&quot;transliteration&quot;:&quot;sunifa:&quot;},{&quot;translateID&quot;:212546,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;связь с коммутацией пакетов сообщений&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;パケット通信&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぱけっとつうしん&quot;,&quot;transliteration&quot;:&quot;pakettotsuushin&quot;},{&quot;translateID&quot;:212512,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;работа с коммутацией пакетов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;パケットモード操作&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぱけっともーどそうさ&quot;,&quot;transliteration&quot;:&quot;pakettomo:dosousa&quot;},{&quot;translateID&quot;:155866,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;анализатор сетевых пакетов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;スニファ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;すにふぁ&quot;,&quot;transliteration&quot;:&quot;sunifa&quot;},{&quot;translateID&quot;:482172,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;сеть передачи данных общего пользования с коммутацией пакетов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;公衆パケット交換網&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうしゅうぱけっとこうかんもう&quot;,&quot;transliteration&quot;:&quot;koushuupakettokoukanmou&quot;},{&quot;translateID&quot;:212503,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;фильтрация пакетов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;パケットフィルタリング&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぱけっとふぃるたりんぐ&quot;,&quot;transliteration&quot;:&quot;pakettofirutaringu&quot;},{&quot;translateID&quot;:510867,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;переформирование пакетов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;再パケット化&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さいぱけっとか&quot;,&quot;transliteration&quot;:&quot;saipakettoka&quot;},{&quot;translateID&quot;:214767,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;группа пакетов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;バッチ グループ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ばっち ぐるーぷ&quot;,&quot;transliteration&quot;:&quot;bacchi guru:pu&quot;},{&quot;translateID&quot;:212498,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;конфиденциальность пакетов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;パケットのプライバシー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぱけっとのぷらいばしー&quot;,&quot;transliteration&quot;:&quot;pakettonopuraibashi:&quot;},{&quot;translateID&quot;:96272,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;формирование пакетов данных&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;カプセル封じ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かぷせるふうじ&quot;,&quot;transliteration&quot;:&quot;kapuserufuuji&quot;},{&quot;translateID&quot;:657811,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;этикетка для запечатывания пакетов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;前書きラベル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まえがきらべる&quot;,&quot;transliteration&quot;:&quot;maegakiraberu&quot;},{&quot;translateID&quot;:229777,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;этикетка для запечатывания пакетов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ファイル見出しラベル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふぁいるみだしらべる&quot;,&quot;transliteration&quot;:&quot;fairumidashiraberu&quot;},{&quot;translateID&quot;:229794,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;этикетка для запечатывания пакетов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ファイル始めラベル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふぁいるはじめらべる&quot;,&quot;transliteration&quot;:&quot;fairuhajimeraberu&quot;},{&quot;translateID&quot;:212542,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;сборщик-разборщик пакетов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;パケット組立て/分解装置&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぱけっとくみたて/ぶんかいそうち&quot;,&quot;transliteration&quot;:&quot;pakettokumitate/bunkaisouchi&quot;},{&quot;translateID&quot;:212532,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;сеть с коммутацией пакетов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;パケット交換網&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぱけっとこうかんもう&quot;,&quot;transliteration&quot;:&quot;pakettokoukanmou&quot;},{&quot;translateID&quot;:463364,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;этикетка для запечатывания пакетов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;見出しラベル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;みだしらべる&quot;,&quot;transliteration&quot;:&quot;midashiraberu&quot;},{&quot;translateID&quot;:463354,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;этикетка для запечатывания пакетов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;見出しコード&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;みだしこーど&quot;,&quot;transliteration&quot;:&quot;midashiko:do&quot;},{&quot;translateID&quot;:826467,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;лента для запечатывания пакетов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;封緘テープ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふうかんてーぷ&quot;,&quot;transliteration&quot;:&quot;fuukante:pu&quot;},{&quot;translateID&quot;:637779,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;машина для изготовления пакетов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;製袋機&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せいぶくろき&quot;,&quot;transliteration&quot;:&quot;seibukuroki&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="пакетов" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

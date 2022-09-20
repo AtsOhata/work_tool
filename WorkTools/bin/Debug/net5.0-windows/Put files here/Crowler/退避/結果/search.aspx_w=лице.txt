@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	лице - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,лице" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u043b%u0438%u0446%u0435" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAVy44Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNC70LjRhtC1ZAIDD2QWCAICD2QWBAIBDxYCHgNzcmMFDy4uL2ltZy9sb2dvLnBuZ2QCBQ8WAh4EaHJlZgUOLi4vP2xhbmc9cnUtUlVkAgQPFgIeB1Zpc2libGVnZAIGDxYCHwNoZAIHD2QWCGYPFgIfA2hkAgEPFgIfA2hkAgIPFgIfA2hkAgUPFgIfA2hkZLp7wRouFxNBz/caqrwZp7bxcF2h" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAWKPZgcIhd7T9oftX3kEqralIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/nWfkrV4gcUfytrTKJQqsImKXDmn" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:false,&quot;Phrases&quot;:[{&quot;translateID&quot;:601512,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;меняться в лице&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;色を変える&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いろをかえる&quot;,&quot;transliteration&quot;:&quot;iro o kaeru&quot;},{&quot;translateID&quot;:455979,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ни кровинки на лице&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;血の気のない&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちのけのない&quot;,&quot;transliteration&quot;:&quot;chinokenonai&quot;},{&quot;translateID&quot;:132325,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;У него была странная ухмылка на лице в какой-то момент. Как ты думаешь, что за ней скрывается?&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;さっきからあの人一人でにやにやして。怪しい。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さっきからあのひとひとりでにやにやして。あやしい。&quot;,&quot;transliteration&quot;:&quot;sakkikaraanohitohitorideniyaniyashite。ayashii。&quot;},{&quot;translateID&quot;:243090,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;С унынием в лице&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ブルー・イン・ザ・フェイス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぶるー・いん・ざ・ふぇいす&quot;,&quot;transliteration&quot;:&quot;buru:・in・za・feisu&quot;},{&quot;translateID&quot;:713907,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;краска на лице&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;潮紅&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちょうこう&quot;,&quot;transliteration&quot;:&quot;choukou&quot;},{&quot;translateID&quot;:877547,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;измениться в лице&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;目色を変える&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;めいろをかえる&quot;,&quot;transliteration&quot;:&quot;meiro o kaeru&quot;},{&quot;translateID&quot;:168548,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;это отчётливо написано на его лице&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;それはその顔にありありと書いてある&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;それはそのかおにありありとかいてある&quot;,&quot;transliteration&quot;:&quot;sorehasonokaoniariaritokaitearu&quot;},{&quot;translateID&quot;:875042,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;На его лице особенно выделялись кустистые брови.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;毛深いまゆ毛が彼の顔の特徴だった。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けぶかいまゆげがかれのかおのとくちょうだった。&quot;,&quot;transliteration&quot;:&quot;kebukaimayugegakarenokaonotokuchoudatta。&quot;},{&quot;translateID&quot;:457763,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;изменившись в лице&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;血相変えて&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けっそうかえて&quot;,&quot;transliteration&quot;:&quot;kessoukaete&quot;},{&quot;translateID&quot;:360938,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;краска на лице&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;火照り&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほてり&quot;,&quot;transliteration&quot;:&quot;hoteri&quot;},{&quot;translateID&quot;:457762,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;меняться в лице&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;血相を変える&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けっそうをかえる&quot;,&quot;transliteration&quot;:&quot;kessou o kaeru&quot;},{&quot;translateID&quot;:101103,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ни кровинки в лице не осталось&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;が失せていた&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;がうせていた&quot;,&quot;transliteration&quot;:&quot;gauseteita&quot;},{&quot;translateID&quot;:821506,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;искусственная мушка на лице&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;付け黒子&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;つけぼくろ&quot;,&quot;transliteration&quot;:&quot;tsukebokuro&quot;},{&quot;translateID&quot;:799359,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;можно прочесть на его лице&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;彼は思うことを何でも色に出す&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かれはおもうことをなんでもいろにだす&quot;,&quot;transliteration&quot;:&quot;karehaomoukoto o nandemoironidasu&quot;},{&quot;translateID&quot;:874342,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;фурункул на лице&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;面疔&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;めんちょう&quot;,&quot;transliteration&quot;:&quot;menchou&quot;},{&quot;translateID&quot;:798388,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;у него в лице ещё сохранилось что-то дётское&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;彼はどこか幼顔が残っている&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かれはどこかおさながおがのこっている&quot;,&quot;transliteration&quot;:&quot;karehadokokaosanagaoganokotteiru&quot;},{&quot;translateID&quot;:400147,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Сидение на лице&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;顔面騎乗&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;がんめんきじょう&quot;,&quot;transliteration&quot;:&quot;ganmenkijou&quot;},{&quot;translateID&quot;:797963,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;На его лице читается радость.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;彼はうれしそうな顔をしている。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かれはうれしそうなかおをしている。&quot;,&quot;transliteration&quot;:&quot;karehaureshisounakao o shiteiru。&quot;},{&quot;translateID&quot;:400092,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;измениться в лице&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;顔色を変える&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かおいろをかえる&quot;,&quot;transliteration&quot;:&quot;kaoiro o kaeru&quot;},{&quot;translateID&quot;:797270,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;На его лице отразились страх и тревога.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;彼の顔には恐怖と不安が浮かんでいた。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かれのかおにはきょうふとふあんがうかんでいた。&quot;,&quot;transliteration&quot;:&quot;karenokaonihakyoufutofuangaukandeita。&quot;},{&quot;translateID&quot;:400090,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;измениться в лице&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;顔色が失う&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かおいろがうしなう&quot;,&quot;transliteration&quot;:&quot;kaoirogaushinau&quot;},{&quot;translateID&quot;:400167,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;косметическая операция на лице&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;顔面形成手術&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;がんめんけいせいしゅじゅつ&quot;,&quot;transliteration&quot;:&quot;ganmenkeiseishujutsu&quot;},{&quot;translateID&quot;:400168,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;пластическая операция на лице&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;顔面形成術&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;がんめんけいせいじゅつ&quot;,&quot;transliteration&quot;:&quot;ganmenkeiseijutsu&quot;},{&quot;translateID&quot;:400201,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;царапина на лице&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;顔面擦過傷&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;がんめんさっかしょう&quot;,&quot;transliteration&quot;:&quot;ganmensakkashou&quot;},{&quot;translateID&quot;:400127,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;бородавка на лице&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;顔面いぼ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;がんめんいぼ&quot;,&quot;transliteration&quot;:&quot;ganmenibo&quot;},{&quot;translateID&quot;:921315,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;преждевременное появление морщин на лице&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;皺皮症&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゅうひしょう&quot;,&quot;transliteration&quot;:&quot;shuuhishou&quot;},{&quot;translateID&quot;:400129,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;угри на лице&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;顔面ざ瘡&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;がんめんざそう&quot;,&quot;transliteration&quot;:&quot;ganmenzasou&quot;},{&quot;translateID&quot;:400130,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;чирей на лице&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;顔面せつ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;がんめんせつ&quot;,&quot;transliteration&quot;:&quot;ganmensetsu&quot;},{&quot;translateID&quot;:400136,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;карбункул на лице&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;顔面よう&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;がんめんよう&quot;,&quot;transliteration&quot;:&quot;ganmenyou&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="лице" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

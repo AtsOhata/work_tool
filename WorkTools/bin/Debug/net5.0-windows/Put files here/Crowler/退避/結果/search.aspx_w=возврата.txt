@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	возврата - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,возврата" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u0432%u043e%u0437%u0432%u0440%u0430%u0442%u0430" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV644Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNCy0L7Qt9Cy0YDQsNGC0LBkAgMPZBYIAgIPZBYEAgEPFgIeA3NyYwUPLi4vaW1nL2xvZ28ucG5nZAIFDxYCHgRocmVmBQ4uLi8/bGFuZz1ydS1SVWQCBA8WAh4HVmlzaWJsZWdkAgYPFgIfA2hkAgcPZBYIZg8WAh8DaGQCAQ8WAh8DaGQCAg8WAh8DaGQCBQ8WAh8DaGRkzj/jegSuVmGaT7B3w3Su8b9AwMI=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAV3mhRK2oSR4GVwwlFBbwfwlIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/rGWepnoQ8hseB5ruP5kmIjBzMUQ" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:true,&quot;Phrases&quot;:[{&quot;translateID&quot;:406378,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;откуда нет возврата&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;帰らぬ旅に出る&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かえらぬたびにでる&quot;,&quot;transliteration&quot;:&quot;kaeranutabinideru&quot;},{&quot;translateID&quot;:476390,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;знак возврата&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;後退文字&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうたいもじ&quot;,&quot;transliteration&quot;:&quot;koutaimoji&quot;},{&quot;translateID&quot;:845226,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;выплачивать в порядке возврата&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;返還する&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;へんかんする&quot;,&quot;transliteration&quot;:&quot;henkansuru&quot;},{&quot;translateID&quot;:34670,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Атака возврата в библиотеку&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;Return-to-libc攻撃&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;Return-to-libcこうげき&quot;,&quot;transliteration&quot;:&quot;Return-to-libckougeki&quot;},{&quot;translateID&quot;:806504,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;без возврата к нулю с инверсией&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;非ゼロ復帰記録&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひぜろふっききろく&quot;,&quot;transliteration&quot;:&quot;hizerofukkikiroku&quot;},{&quot;translateID&quot;:268920,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;гарантия возврата денег&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;マネーバックギャランティ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まねーばっくぎゃらんてぃ&quot;,&quot;transliteration&quot;:&quot;mane:bakkugyaranti&quot;},{&quot;translateID&quot;:878254,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;команда возврата&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;戻り命令&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;もどりめいれい&quot;,&quot;transliteration&quot;:&quot;modorimeirei&quot;},{&quot;translateID&quot;:176795,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;политика возврата&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;チェックイン ポリシー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちぇっくいん ぽりしー&quot;,&quot;transliteration&quot;:&quot;chekkuin porishi:&quot;},{&quot;translateID&quot;:878227,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;значение возврата&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;戻りコード&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;もどりこーど&quot;,&quot;transliteration&quot;:&quot;modoriko:do&quot;},{&quot;translateID&quot;:292763,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;код возврата&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;リターン コード&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;りたーん こーど&quot;,&quot;transliteration&quot;:&quot;rita:n ko:do&quot;},{&quot;translateID&quot;:34672,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;оператор возврата&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;RETURN文&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;RETURNぶん&quot;,&quot;transliteration&quot;:&quot;RETURNbun&quot;},{&quot;translateID&quot;:33653,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;без возврата к нулю с инверсией&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;NRZ-1&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;NRZ-1&quot;,&quot;transliteration&quot;:&quot;NRZ-1&quot;},{&quot;translateID&quot;:141037,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;знак или символ возврата к прежней последовательности&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;シフトイン文字&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しふといんもじ&quot;,&quot;transliteration&quot;:&quot;shifutoinmoji&quot;},{&quot;translateID&quot;:828200,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;знак или символ возврата каретки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;復帰文字&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふっきもじ&quot;,&quot;transliteration&quot;:&quot;fukkimoji&quot;},{&quot;translateID&quot;:632776,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;восстановление без возврата&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;正方向回復&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せいほうこうかいふく&quot;,&quot;transliteration&quot;:&quot;seihoukoukaifuku&quot;},{&quot;translateID&quot;:828186,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;механизм возврата&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;復帰機構&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふっききこう&quot;,&quot;transliteration&quot;:&quot;fukkikikou&quot;},{&quot;translateID&quot;:235483,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;восстановление без возврата&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;フォワードリカバリ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふぉわーどりかばり&quot;,&quot;transliteration&quot;:&quot;fowa:dorikabari&quot;},{&quot;translateID&quot;:828174,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;значение возврата&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;復帰コード&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふっきこーど&quot;,&quot;transliteration&quot;:&quot;fukkiko:do&quot;},{&quot;translateID&quot;:476391,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;символ возврата на позицию&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;後退文字&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうたいもじ&quot;,&quot;transliteration&quot;:&quot;koutaimoji&quot;},{&quot;translateID&quot;:806508,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;инвертированное кодирование без возврата к нулю&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;非ゼロ復帰記録&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひぜろふっききろく&quot;,&quot;transliteration&quot;:&quot;hizerofukkikiroku&quot;},{&quot;translateID&quot;:878228,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;код возврата&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;戻りコード&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;もどりこーど&quot;,&quot;transliteration&quot;:&quot;modoriko:do&quot;},{&quot;translateID&quot;:33654,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;инвертированное кодирование без возврата к нулю&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;NRZI方式&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;NRZIほうしき&quot;,&quot;transliteration&quot;:&quot;NRZIhoushiki&quot;},{&quot;translateID&quot;:878229,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;регистр кода возврата&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;戻りコード・レジスター&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;もどりこーど・れじすたー&quot;,&quot;transliteration&quot;:&quot;modoriko:do・rejisuta:&quot;},{&quot;translateID&quot;:806501,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;инвертированное кодирование без возврата к нулю&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;非ゼロ復帰1変化記録方式&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひぜろふっき1へんかきろくほうしき&quot;,&quot;transliteration&quot;:&quot;hizerofukki1henkakirokuhoushiki&quot;},{&quot;translateID&quot;:368580,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;процедура возврата&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;回復手順&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かいふくてじゅん&quot;,&quot;transliteration&quot;:&quot;kaifukutejun&quot;},{&quot;translateID&quot;:479402,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;знак возврата на одну позицию&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;交代文字&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうたいもじ&quot;,&quot;transliteration&quot;:&quot;koutaimoji&quot;},{&quot;translateID&quot;:828201,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;символ возврата каретки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;復帰文字&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふっきもじ&quot;,&quot;transliteration&quot;:&quot;fukkimoji&quot;},{&quot;translateID&quot;:469799,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;реле с коэффициентом возврата&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;限界継電器&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;げんかいけいでんき&quot;,&quot;transliteration&quot;:&quot;genkaikeidenki&quot;},{&quot;translateID&quot;:292771,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;код возврата&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;リターンコード&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;りたーんこーど&quot;,&quot;transliteration&quot;:&quot;rita:nko:do&quot;},{&quot;translateID&quot;:828192,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;время возврата&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;復帰時間&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふっきじかん&quot;,&quot;transliteration&quot;:&quot;fukkijikan&quot;},{&quot;translateID&quot;:907487,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;устройство возврата к нулю&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;零点復帰装置&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;れいてんふっきそうち&quot;,&quot;transliteration&quot;:&quot;reitenfukkisouchi&quot;},{&quot;translateID&quot;:689459,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;цепь возврата через землю&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;大地帰還回路&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;だいちきかんかいろ&quot;,&quot;transliteration&quot;:&quot;daichikikankairo&quot;},{&quot;translateID&quot;:828243,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;ключ возврата&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;復旧電けん&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふっきゅうでんけん&quot;,&quot;transliteration&quot;:&quot;fukkyuudenken&quot;},{&quot;translateID&quot;:469885,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;реле с коэффициентом возврата&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;限界値継電器&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;げんかいちけいでんき&quot;,&quot;transliteration&quot;:&quot;genkaichikeidenki&quot;},{&quot;translateID&quot;:292620,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;время возврата в исходное состояние&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;リセット時間&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;りせっとじかん&quot;,&quot;transliteration&quot;:&quot;risettojikan&quot;},{&quot;translateID&quot;:828176,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;регистр кода возврата&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;復帰コードレジスタ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふっきこーどれじすた&quot;,&quot;transliteration&quot;:&quot;fukkiko:dorejisuta&quot;},{&quot;translateID&quot;:416359,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;указатель возврата&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;逆方向ポインター&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぎゃくほうこうぽいんたー&quot;,&quot;transliteration&quot;:&quot;gyakuhoukoupointa:&quot;},{&quot;translateID&quot;:449647,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;время возврата реле&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;継電器解放時間&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けいでんきかいほうじかん&quot;,&quot;transliteration&quot;:&quot;keidenkikaihoujikan&quot;},{&quot;translateID&quot;:292618,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;режим возврата&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;リセットモード&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;りせっともーど&quot;,&quot;transliteration&quot;:&quot;risettomo:do&quot;},{&quot;translateID&quot;:828175,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;код возврата&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;復帰コード&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふっきこーど&quot;,&quot;transliteration&quot;:&quot;fukkiko:do&quot;},{&quot;translateID&quot;:292609,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;время возврата&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;リセットタイム&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;りせっとたいむ&quot;,&quot;transliteration&quot;:&quot;risettotaimu&quot;},{&quot;translateID&quot;:828194,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;механизм возврата&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;復帰装置&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふっきそうち&quot;,&quot;transliteration&quot;:&quot;fukkisouchi&quot;},{&quot;translateID&quot;:435989,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;реле с коэффициентом возврата&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;近差継電器&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちかしさけいでんき&quot;,&quot;transliteration&quot;:&quot;chikashisakeidenki&quot;},{&quot;translateID&quot;:650440,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;точка возврата или заострения кривой&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;先点&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さきてん&quot;,&quot;transliteration&quot;:&quot;sakiten&quot;},{&quot;translateID&quot;:828238,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;время возврата в нормальное положение&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;復旧時間&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふっきゅうじかん&quot;,&quot;transliteration&quot;:&quot;fukkyuujikan&quot;},{&quot;translateID&quot;:828188,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;реле возврата схемы в исходное положение&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;復帰継電器&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふっきけいでんき&quot;,&quot;transliteration&quot;:&quot;fukkikeidenki&quot;},{&quot;translateID&quot;:511949,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;коэффициент возврата тепла&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;再熱係数&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さいねつけいすう&quot;,&quot;transliteration&quot;:&quot;sainetsukeisuu&quot;},{&quot;translateID&quot;:292626,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;скорость возврата&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;リセット率&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;りせっとりつ&quot;,&quot;transliteration&quot;:&quot;risettoritsu&quot;},{&quot;translateID&quot;:313563,&quot;translationStatus&quot;:0,&quot;themeID&quot;:44,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;航空宇宙&quot;,&quot;word&quot;:&quot;рубеж возврата&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;安全引返し点&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あんぜんひきかえしてん&quot;,&quot;transliteration&quot;:&quot;anzenhikikaeshiten&quot;},{&quot;translateID&quot;:511950,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;коэффициент возврата тепла&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;再熱係数&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さいねつけいすう&quot;,&quot;transliteration&quot;:&quot;sainetsukeisuu&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="возврата" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

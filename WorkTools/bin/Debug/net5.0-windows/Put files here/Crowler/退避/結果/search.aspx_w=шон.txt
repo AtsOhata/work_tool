@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	шон - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,шон" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u0448%u043e%u043d" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAVw44Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNGI0L7QvWQCAw9kFggCAg9kFgQCAQ8WAh4Dc3JjBQ8uLi9pbWcvbG9nby5wbmdkAgUPFgIeBGhyZWYFDi4uLz9sYW5nPXJ1LVJVZAIEDxYCHgdWaXNpYmxlZ2QCBg8WAh8DaGQCBw9kFghmDxYCHwNoZAIBDxYCHwNoZAICDxYCHwNoZAIFDxYCHwNoZGTdv4ORysCPYjzfwWm7xaNbtugrRw==" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAW5fHbMxdmEnQICr14Z8d3ZlIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/iFZ5QpaGbCMTJ8FEWw1QGybex20" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:false,&quot;Phrases&quot;:[{&quot;translateID&quot;:146263,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Кроуфорд, Шон&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ショーン・クロフォード&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょーん・くろふぉーど&quot;,&quot;transliteration&quot;:&quot;sho:n・kurofo:do&quot;},{&quot;translateID&quot;:146278,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Донован, Шон&quot;,&quot;wordnote&quot;:&quot;министр&quot;,&quot;translation&quot;:&quot;ショーン・ドノバン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょーん・どのばん&quot;,&quot;transliteration&quot;:&quot;sho:n・donoban&quot;},{&quot;translateID&quot;:146292,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Уайт, Шон&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ショーン・ホワイト&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょーん・ほわいと&quot;,&quot;transliteration&quot;:&quot;sho:n・howaito&quot;},{&quot;translateID&quot;:146317,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Шон действительно очень похож на Коннера!&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ショーンはコナーに激似なんだぜ。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょーんはこなーにげきになんだぜ。&quot;,&quot;transliteration&quot;:&quot;sho:nhakona:nigekininandaze。&quot;},{&quot;translateID&quot;:146262,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Шон Кингстон&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ショーン・キングストン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょーん・きんぐすとん&quot;,&quot;transliteration&quot;:&quot;sho:n・kingusuton&quot;},{&quot;translateID&quot;:146277,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Тоуб, Шон&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ショーン・トーブ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょーん・とーぶ&quot;,&quot;transliteration&quot;:&quot;sho:n・to:bu&quot;},{&quot;translateID&quot;:146291,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Шон Пол&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ショーン・ポール&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょーん・ぽーる&quot;,&quot;transliteration&quot;:&quot;sho:n・po:ru&quot;},{&quot;translateID&quot;:146303,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Робертс, Шон&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ショーン・ロバーツ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょーん・ろばーつ&quot;,&quot;transliteration&quot;:&quot;sho:n・roba:tsu&quot;},{&quot;translateID&quot;:146260,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Карлоу, Шон&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ショーン・カーロー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょーん・かーろー&quot;,&quot;transliteration&quot;:&quot;sho:n・ka:ro:&quot;},{&quot;translateID&quot;:146276,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Сойер, Шон&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ショーン・ソーヤー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょーん・そーやー&quot;,&quot;transliteration&quot;:&quot;sho:n・so:ya:&quot;},{&quot;translateID&quot;:146290,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Пенн, Шон&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ショーン・ペン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょーん・ぺん&quot;,&quot;transliteration&quot;:&quot;sho:n・pen&quot;},{&quot;translateID&quot;:146302,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Леннон, Шон&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ショーン・レノン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょーん・れのん&quot;,&quot;transliteration&quot;:&quot;sho:n・renon&quot;},{&quot;translateID&quot;:146259,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Зомби по имени Шон&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ショーン・オブ・ザ・デッド&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょーん・おぶ・ざ・でっど&quot;,&quot;transliteration&quot;:&quot;sho:n・obu・za・deddo&quot;},{&quot;translateID&quot;:146275,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Сент-Леджер, Шон&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ショーン・セントレジャー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょーん・せんとれじゃー&quot;,&quot;transliteration&quot;:&quot;sho:n・sentoreja:&quot;},{&quot;translateID&quot;:146288,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Хейс, Шон&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ショーン・ヘイズ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょーん・へいず&quot;,&quot;transliteration&quot;:&quot;sho:n・heizu&quot;},{&quot;translateID&quot;:146300,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Леви, Шон&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ショーン・レヴィ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょーん・れヴぃ&quot;,&quot;transliteration&quot;:&quot;sho:n・revi&quot;},{&quot;translateID&quot;:638157,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Династия Тай Шон&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;西山朝&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にしやまちょう&quot;,&quot;transliteration&quot;:&quot;nishiyamachou&quot;},{&quot;translateID&quot;:146266,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Кемп, Шон&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ショーン・ケンプ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょーん・けんぷ&quot;,&quot;transliteration&quot;:&quot;sho:n・kenpu&quot;},{&quot;translateID&quot;:146280,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Пайфром, Шон&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ショーン・パイフロム&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょーん・ぱいふろむ&quot;,&quot;transliteration&quot;:&quot;sho:n・paifuromu&quot;},{&quot;translateID&quot;:146295,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Макбрайд, Шон&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ショーン・マクブライド&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょーん・まくぶらいど&quot;,&quot;transliteration&quot;:&quot;sho:n・makuburaido&quot;},{&quot;translateID&quot;:175247,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Данг Тхай Шон&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ダン・タイ・ソン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;だん・たい・そん&quot;,&quot;transliteration&quot;:&quot;dan・tai・son&quot;},{&quot;translateID&quot;:201109,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Нил Шон&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ニール・ショーン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にーる・しょーん&quot;,&quot;transliteration&quot;:&quot;ni:ru・sho:n&quot;},{&quot;translateID&quot;:146265,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Келли, Шон&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ショーン・ケリー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょーん・けりー&quot;,&quot;transliteration&quot;:&quot;sho:n・keri:&quot;},{&quot;translateID&quot;:146279,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Паркер, Шон&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ショーン・パーカー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょーん・ぱーかー&quot;,&quot;transliteration&quot;:&quot;sho:n・pa:ka:&quot;},{&quot;translateID&quot;:146294,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Шон Майклз&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ショーン・マイケルズ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょーん・まいけるず&quot;,&quot;transliteration&quot;:&quot;sho:n・maikeruzu&quot;},{&quot;translateID&quot;:305494,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Леонард, Роберт Шон&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ロバート・ショーン・レナード&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ろばーと・しょーん・れなーど&quot;,&quot;transliteration&quot;:&quot;roba:to・sho:n・rena:do&quot;},{&quot;translateID&quot;:146253,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Уэйанс, Шон&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ショーン・ウェイアンズ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょーん・うぇいあんず&quot;,&quot;transliteration&quot;:&quot;sho:n・uぇianzu&quot;},{&quot;translateID&quot;:146270,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Колвин, Шон&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ショーン・コルヴィン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょーん・こるヴぃん&quot;,&quot;transliteration&quot;:&quot;sho:n・koruvin&quot;},{&quot;translateID&quot;:146285,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Фэннинг, Шон&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ショーン・ファニング&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょーん・ふぁにんぐ&quot;,&quot;transliteration&quot;:&quot;sho:n・faningu&quot;},{&quot;translateID&quot;:146299,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Райт-Филлипс, Шон&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ショーン・ライト・フィリップス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょーん・らいと・ふぃりっぷす&quot;,&quot;transliteration&quot;:&quot;sho:n・raito・firippusu&quot;},{&quot;translateID&quot;:146252,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Скотт, Шон Уильям&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ショーン・ウィリアム・スコット&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょーん・うぃりあむ・すこっと&quot;,&quot;transliteration&quot;:&quot;sho:n・uぃriamu・sukotto&quot;},{&quot;translateID&quot;:146269,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Коумз, Шон&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ショーン・コムズ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょーん・こむず&quot;,&quot;transliteration&quot;:&quot;sho:n・komuzu&quot;},{&quot;translateID&quot;:146284,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Бин, Шон&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ショーン・ビーン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょーん・びーん&quot;,&quot;transliteration&quot;:&quot;sho:n・bi:n&quot;},{&quot;translateID&quot;:146298,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Янг, Шон&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ショーン・ヤング&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょーん・やんぐ&quot;,&quot;transliteration&quot;:&quot;sho:n・yangu&quot;},{&quot;translateID&quot;:146251,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Астин, Шон&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ショーン・アスティン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょーん・あすてぃん&quot;,&quot;transliteration&quot;:&quot;sho:n・asutin&quot;},{&quot;translateID&quot;:146268,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Комбс, Шон&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ショーン・コムズ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょーん・こむず&quot;,&quot;transliteration&quot;:&quot;sho:n・komuzu&quot;},{&quot;translateID&quot;:146283,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Флэнери, Шон Патрик&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ショーン・パトリック・フラナリー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょーん・ぱとりっく・ふらなりー&quot;,&quot;transliteration&quot;:&quot;sho:n・patorikku・furanari:&quot;},{&quot;translateID&quot;:146297,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Малони, Шон&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ショーン・マロニー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょーん・まろにー&quot;,&quot;transliteration&quot;:&quot;sho:n・maroni:&quot;},{&quot;translateID&quot;:146250,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Каннингем, Шон Секстон&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ショーン・S・カニンガム&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょーん・S・かにんがむ&quot;,&quot;transliteration&quot;:&quot;sho:n・S・kaningamu&quot;},{&quot;translateID&quot;:146267,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Коннери, Шон&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ショーン・コネリー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょーん・こねりー&quot;,&quot;transliteration&quot;:&quot;sho:n・koneri:&quot;},{&quot;translateID&quot;:146282,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Хэтоси, Шон&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ショーン・ハトシー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょーん・はとしー&quot;,&quot;transliteration&quot;:&quot;sho:n・hatoshi:&quot;},{&quot;translateID&quot;:146296,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Мэрион, Шон&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ショーン・マリオン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょーん・まりおん&quot;,&quot;transliteration&quot;:&quot;sho:n・marion&quot;},{&quot;translateID&quot;:225462,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Барашек Шон&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ひつじのショーン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひつじのしょーん&quot;,&quot;transliteration&quot;:&quot;hitsujinosho:n&quot;},{&quot;translateID&quot;:146293,&quot;translationStatus&quot;:0,&quot;themeID&quot;:216,&quot;groupName&quot;:&quot;人文&quot;,&quot;themeName&quot;:&quot;スポーツ&quot;,&quot;word&quot;:&quot;Мёрфи, Шон&quot;,&quot;wordnote&quot;:&quot;футболист&quot;,&quot;translation&quot;:&quot;ショーン・マーフィー&quot;,&quot;translationnote&quot;:&quot;オーストラリアのサッカー選手&quot;,&quot;reading&quot;:&quot;しょーん・まーふぃー&quot;,&quot;transliteration&quot;:&quot;sho:n・ma:fi:&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="шон" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

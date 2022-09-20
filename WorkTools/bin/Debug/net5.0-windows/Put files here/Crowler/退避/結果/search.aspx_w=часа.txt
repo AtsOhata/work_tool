@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	часа - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,часа" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u0447%u0430%u0441%u0430" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAVy44Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNGH0LDRgdCwZAIDD2QWCAICD2QWBAIBDxYCHgNzcmMFDy4uL2ltZy9sb2dvLnBuZ2QCBQ8WAh4EaHJlZgUOLi4vP2xhbmc9cnUtUlVkAgQPFgIeB1Zpc2libGVnZAIGDxYCHwNoZAIHD2QWCGYPFgIfA2hkAgEPFgIfA2hkAgIPFgIfA2hkAgUPFgIfA2hkZATI/tIo+9r7XtRFmkF08j/OByTQ" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAX3u68eWunym2yPgGE4ysN1lIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/n5R36gk+dXPVrCM0S8bdqJpf+bQ" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:false,&quot;Phrases&quot;:[{&quot;translateID&quot;:463527,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ухаживать до последнего часа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;見送る&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;みおくる&quot;,&quot;transliteration&quot;:&quot;miokuru&quot;},{&quot;translateID&quot;:102055,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;точно в три часа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;きちんと三時に&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きちんとさんじに&quot;,&quot;transliteration&quot;:&quot;kichintosanjini&quot;},{&quot;translateID&quot;:213268,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Займёт два часа добраться туда на автобусе.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;バスでそこまで2時間かかります。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ばすでそこまで2じかんかかります。&quot;,&quot;transliteration&quot;:&quot;basudesokomade2jikankakarimasu。&quot;},{&quot;translateID&quot;:11652,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Ты должен был выйти на пол часа раньше.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;30分早く出発すればよかったのに。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;30ぷんはやくしゅっぱつすればよかったのに。&quot;,&quot;transliteration&quot;:&quot;30punhayakushuppatsusurebayokattanoni。&quot;},{&quot;translateID&quot;:752694,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;в три часа того же дня&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;同三時に&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;どうさんじに&quot;,&quot;transliteration&quot;:&quot;dousanjini&quot;},{&quot;translateID&quot;:631952,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;точно в три часа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;正三時に&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せいさんじに&quot;,&quot;transliteration&quot;:&quot;seisanjini&quot;},{&quot;translateID&quot;:11651,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Вам следовало начать полтора часа назад.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;30分前に出発すれば良かったのに。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;30ぷんまえにしゅっぱつすればよかったのに。&quot;,&quot;transliteration&quot;:&quot;30punmaenishuppatsusurebayokattanoni。&quot;},{&quot;translateID&quot;:296113,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;24 часа Ле-Мана&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ル・マン24時間レース&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;る・まん24じかんれーす&quot;,&quot;transliteration&quot;:&quot;ru・man24jikanre:su&quot;},{&quot;translateID&quot;:519087,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;вчера вечером два часа не было света&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;昨夜電灯が二時間も停電した&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さくやでんとうが2じかんもていでんした&quot;,&quot;transliteration&quot;:&quot;sakuyadentouga2jikanmoteidenshita&quot;},{&quot;translateID&quot;:582674,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;требуемое время - 3 часа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;所要時間三時間&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょようじかん3じかん&quot;,&quot;transliteration&quot;:&quot;shoyoujikan3jikan&quot;},{&quot;translateID&quot;:296112,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Гонки 24 часа Ле-Мана&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ル・マン24時間のレースレポート&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;る・まん24じかんのれーすれぽーと&quot;,&quot;transliteration&quot;:&quot;ru・man24jikannore:surepo:to&quot;},{&quot;translateID&quot;:519018,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Вчера я три часа разговаривала с моим парнем. Мы не виделись целую неделю.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;昨日彼氏と三時間も電話で話しちゃった。だってもう一週間も会ってないんだよ。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きのうかれしと3じかんもでんわではなしちゃった。だってもういっしゅうかんもあってないんだよ。&quot;,&quot;transliteration&quot;:&quot;kinoukareshito3jikanmodenwadehanashichatta。dattemouisshuukanmoattenaindayo。&quot;},{&quot;translateID&quot;:203022,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;От Нью-Йорка до Бостона четыре часа на машине.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ニューヨークからボストンまで車で4時間です。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にゅーよーくからぼすとんまでくるまで4じかんです。&quot;,&quot;transliteration&quot;:&quot;nyu:yo:kukarabosutonmadekurumade4jikandesu。&quot;},{&quot;translateID&quot;:801756,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Она два часа тебя ждала.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;彼女はあなたのことを2時間待っていた。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かのじょはあなたのことを2じかんまっていた。&quot;,&quot;transliteration&quot;:&quot;kanojohaanatanokoto o 2jikanmatteita。&quot;},{&quot;translateID&quot;:324334,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;менее часа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;一時間以内&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いちじかんいない&quot;,&quot;transliteration&quot;:&quot;ichijikaninai&quot;},{&quot;translateID&quot;:538721,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Мы учим английский три часа в неделю.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;私達は週3時間英語を習います。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;わたしたちはしゅう3じかんえいごをならいます。&quot;,&quot;transliteration&quot;:&quot;watashitachihashuu3jikaneigo o naraimasu。&quot;},{&quot;translateID&quot;:763750,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;по два часа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;二時間宛て&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;2じかんあて&quot;,&quot;transliteration&quot;:&quot;2jikanate&quot;},{&quot;translateID&quot;:798270,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Он пришёл домой через три часа после этого.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;彼はそれから3時間後に帰宅した。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かれはそれから3じかんごにきたくした。&quot;,&quot;transliteration&quot;:&quot;karehasorekara3jikangonikitakushita。&quot;},{&quot;translateID&quot;:324257,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;два часа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;一時&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いっとき&quot;,&quot;transliteration&quot;:&quot;ittoki&quot;},{&quot;translateID&quot;:534860,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Моя мать уже два часа как готовила ужин, когда я пришел домой.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;私が帰ったとき、母は2時間夕食の料理をしていた。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;わたしがかえったとき、ははは2じかんゆうしょくのりょうりをしていた。&quot;,&quot;transliteration&quot;:&quot;watashigakaettatoki、hahaha2jikanyuushokunoryouri o shiteita。&quot;},{&quot;translateID&quot;:529561,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;двадцать четыре часа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;四六時中&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しろくじちゅう&quot;,&quot;transliteration&quot;:&quot;shirokujichuu&quot;},{&quot;translateID&quot;:122031,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;этот фильм идёт два часа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;この映画の映写時間は二時間です&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;このえいがのえいしゃじかんは2じかんです&quot;,&quot;transliteration&quot;:&quot;konoeiganoeishajikanha2jikandesu&quot;},{&quot;translateID&quot;:859264,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Я занимаюсь английским в среднем два часа в день.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;僕は平均して、日に2時間英語を勉強する。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぼくはへいきんして、ひに2じかんえいごをべんきょうする。&quot;,&quot;transliteration&quot;:&quot;bokuhaheikinshite、hini2jikaneigo o benkyousuru。&quot;},{&quot;translateID&quot;:529136,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;четыре часа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;四時&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;よじ&quot;,&quot;transliteration&quot;:&quot;yoji&quot;},{&quot;translateID&quot;:521525,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;три часа пять минут&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;三時五分&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さんじごぶ&quot;,&quot;transliteration&quot;:&quot;sanjigobu&quot;},{&quot;translateID&quot;:859233,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Прошлой ночью я два часа смотрел телевизор.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;僕は昨夜2時間テレビを見ていた。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぼくはさくや2じかんてれびをみていた。&quot;,&quot;transliteration&quot;:&quot;bokuhasakuya2jikanterebi o miteita。&quot;},{&quot;translateID&quot;:880394,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;До которого часа открыта ваша аптека?&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;薬局は何時まで開いていますか。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;やっきょくはなんじまでひらいていますか。&quot;,&quot;transliteration&quot;:&quot;yakkyokuhananjimadehiraiteimasuka。&quot;},{&quot;translateID&quot;:521524,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;я прождал три часа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;三時間待ったが彼はとうとう来なかった&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;3じかんまったがかれはとうとうこなかった&quot;,&quot;transliteration&quot;:&quot;3jikanmattagakarehatoutoukonakatta&quot;},{&quot;translateID&quot;:324338,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;более часа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;一時間余&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いちじかんよ&quot;,&quot;transliteration&quot;:&quot;ichijikanyo&quot;},{&quot;translateID&quot;:546731,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;больше часа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;時余&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じよ&quot;,&quot;transliteration&quot;:&quot;jiyo&quot;},{&quot;translateID&quot;:182568,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;24 часа Дайтоны&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;デイトナ24時間レース&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;でいとな24じかんれーす&quot;,&quot;transliteration&quot;:&quot;deitona24jikanre:su&quot;},{&quot;translateID&quot;:324337,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;полтора часа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;一時間半&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いちじかんはん&quot;,&quot;transliteration&quot;:&quot;ichijikanhan&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="часа" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

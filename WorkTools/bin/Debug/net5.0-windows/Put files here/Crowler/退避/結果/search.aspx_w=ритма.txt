@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	ритма - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,ритма" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u0440%u0438%u0442%u043c%u0430" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV044Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNGA0LjRgtC80LBkAgMPZBYIAgIPZBYEAgEPFgIeA3NyYwUPLi4vaW1nL2xvZ28ucG5nZAIFDxYCHgRocmVmBQ4uLi8/bGFuZz1ydS1SVWQCBA8WAh4HVmlzaWJsZWdkAgYPFgIfA2hkAgcPZBYIZg8WAh8DaGQCAQ8WAh8DaGQCAg8WAh8DaGQCBQ8WAh8DaGRk2RqW3qEDoc1v+y5tyTIHx22xqH4=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAVprsnkgT/XCZd5rOEOxjiclIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/oPCOei5jwLDNLUhY5XXFYR4mM3b" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:true,&quot;Phrases&quot;:[{&quot;translateID&quot;:546483,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;нарушение суточного ритма организма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;時差ぼけ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じさぼけ&quot;,&quot;transliteration&quot;:&quot;jisaboke&quot;},{&quot;translateID&quot;:819139,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;расстройство ритма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;不整脈&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふせいみゃく&quot;,&quot;transliteration&quot;:&quot;fuseimyaku&quot;},{&quot;translateID&quot;:754370,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Водитель ритма сердца&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;洞結節&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほらけっせつ&quot;,&quot;transliteration&quot;:&quot;horakessetsu&quot;},{&quot;translateID&quot;:844154,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;изменение ритма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;変拍子&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;へんびょうし&quot;,&quot;transliteration&quot;:&quot;henbyoushi&quot;},{&quot;translateID&quot;:606619,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;водитель ритма сердца&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;心臓ペースメーカー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しんぞうぺーすめーかー&quot;,&quot;transliteration&quot;:&quot;shinzoupe:sume:ka:&quot;},{&quot;translateID&quot;:607385,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;изменчивость сердечного ритма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;心拍変動性&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しんぱくへんどうせい&quot;,&quot;transliteration&quot;:&quot;shinpakuhendousei&quot;},{&quot;translateID&quot;:249680,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;дисфункция водителя ритма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ぺースメーカー機能不全&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぺーすめーかーきのうふぜん&quot;,&quot;transliteration&quot;:&quot;pe:sume:ka:kinoufuzen&quot;},{&quot;translateID&quot;:653580,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;скрытое нарушение ритма по типу бигеминии&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;潜在性二段連脈&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せんざいせいにだんれんみゃく&quot;,&quot;transliteration&quot;:&quot;senzaiseinidanrenmyaku&quot;},{&quot;translateID&quot;:684802,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;вариабельность сердечного ритма плода&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;胎児心拍基線微動変動&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たいじしんぱくきせんびどへんどう&quot;,&quot;transliteration&quot;:&quot;taijishinpakukisenbidohendou&quot;},{&quot;translateID&quot;:606620,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;установка и регулировка искусственного водителя ритма сердца&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;心臓ペースメーカーの調整及び管理&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しんぞうぺーすめーかーのちょうせいおよびかんり&quot;,&quot;transliteration&quot;:&quot;shinzoupe:sume:ka:nochouseioyobikanri&quot;},{&quot;translateID&quot;:609372,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;нарушение ритма сердца у новорожденных&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;新生児心調律障害&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しんせいじしんちょうりつしょうがい&quot;,&quot;transliteration&quot;:&quot;shinseijishinchouritsushougai&quot;},{&quot;translateID&quot;:249682,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;клетка-водитель ритма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ペースメーカー細胞&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぺーすめーかーさいぼう&quot;,&quot;transliteration&quot;:&quot;pe:sume:ka:saibou&quot;},{&quot;translateID&quot;:318727,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;эктопический водитель ритма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;異所性歩調取り&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いしょせいほちょうとり&quot;,&quot;transliteration&quot;:&quot;ishoseihochoutori&quot;},{&quot;translateID&quot;:363031,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;искусственное ускорение сердечного ритма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;過駆動刺激&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かくどうしげき&quot;,&quot;transliteration&quot;:&quot;kakudoushigeki&quot;},{&quot;translateID&quot;:607383,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;вариабельность сердечного ритма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;心拍変動&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しんぱくへんどう&quot;,&quot;transliteration&quot;:&quot;shinpakuhendou&quot;},{&quot;translateID&quot;:249672,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;водитель ритма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ぺースメーカー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぺーすめーかー&quot;,&quot;transliteration&quot;:&quot;pe:sume:ka:&quot;},{&quot;translateID&quot;:848500,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;вспомогательный водитель ритма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;補助的心房調律&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほじょてきしんぼうちょうりつ&quot;,&quot;transliteration&quot;:&quot;hojotekishinbouchouritsu&quot;},{&quot;translateID&quot;:376630,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;система суточного ритма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;概日系&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;がいにっけい&quot;,&quot;transliteration&quot;:&quot;gainikkei&quot;},{&quot;translateID&quot;:607384,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;вариабельность сердечного ритма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;心拍変動性&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しんぱくへんどうせい&quot;,&quot;transliteration&quot;:&quot;shinpakuhendousei&quot;},{&quot;translateID&quot;:249673,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;искусственный водитель ритма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ぺースメーカー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぺーすめーかー&quot;,&quot;transliteration&quot;:&quot;pe:sume:ka:&quot;},{&quot;translateID&quot;:617141,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;искусственный водитель ритма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;人工ペースメーカ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じんこうぺーすめーか&quot;,&quot;transliteration&quot;:&quot;jinkoupe:sume:ka&quot;},{&quot;translateID&quot;:418158,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;изменение ритма сердца при вдыхании раздражающих веществ&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;吸入性心臓反射&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きゅうにゅうせいしんぞうはんしゃ&quot;,&quot;transliteration&quot;:&quot;kyuunyuuseishinzouhansha&quot;},{&quot;translateID&quot;:607335,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;аномалия сердечного ритма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;心拍の異常&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しんぱくのいじょう&quot;,&quot;transliteration&quot;:&quot;shinpakunoijou&quot;},{&quot;translateID&quot;:249669,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;водитель ритма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ペースメーカー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぺーすめーかー&quot;,&quot;transliteration&quot;:&quot;pe:sume:ka:&quot;},{&quot;translateID&quot;:847913,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;клетка-водитель ритма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;歩調取り細胞&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほちょうどりさいぼう&quot;,&quot;transliteration&quot;:&quot;hochoudorisaibou&quot;},{&quot;translateID&quot;:819142,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;нарушение сердечного ритма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;不整脈&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふせいみゃく&quot;,&quot;transliteration&quot;:&quot;fuseimyaku&quot;},{&quot;translateID&quot;:607363,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;вариабельность сердечного ритма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;心拍数変動性&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しんぱくすうへんどうせい&quot;,&quot;transliteration&quot;:&quot;shinpakusuuhendousei&quot;},{&quot;translateID&quot;:249670,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;водитель ритма сердца&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ペースメーカー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぺーすめーかー&quot;,&quot;transliteration&quot;:&quot;pe:sume:ka:&quot;},{&quot;translateID&quot;:847914,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;потенциал водителя ритма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;歩調取り電位&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほちょうとりでんい&quot;,&quot;transliteration&quot;:&quot;hochoutorideni&quot;},{&quot;translateID&quot;:89995,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;водитель ритма сердца&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;カーディアックペースメーカ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かーでぃあっくぺーすめーか&quot;,&quot;transliteration&quot;:&quot;ka:diakkupe:sume:ka&quot;},{&quot;translateID&quot;:607334,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;отклонения от нормы сердечного ритма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;心拍の異常&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しんぱくのいじょう&quot;,&quot;transliteration&quot;:&quot;shinpakunoijou&quot;},{&quot;translateID&quot;:249666,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;водитель ритма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ぺースメーカ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぺーすめーか&quot;,&quot;transliteration&quot;:&quot;pe:sume:ka&quot;},{&quot;translateID&quot;:847911,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;водитель ритма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;歩調取り&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほちょうとり&quot;,&quot;transliteration&quot;:&quot;hochoutori&quot;},{&quot;translateID&quot;:605629,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;водитель ритма сердца&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;心ペースメーカー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こころぺーすめーかー&quot;,&quot;transliteration&quot;:&quot;kokorope:sume:ka:&quot;},{&quot;translateID&quot;:736844,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;искусственный водитель ритма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;電気心臓ペースメーカ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;でんきしんぞうぺーすめーか&quot;,&quot;transliteration&quot;:&quot;denkishinzoupe:sume:ka&quot;},{&quot;translateID&quot;:606998,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;нарушение ритма сердца&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;心調律障害&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しんちょうりつしょうがい&quot;,&quot;transliteration&quot;:&quot;shinchouritsushougai&quot;},{&quot;translateID&quot;:606615,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;водитель ритма сердца&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;心臓ペースメーカ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しんぞうぺーすめーか&quot;,&quot;transliteration&quot;:&quot;shinzoupe:sume:ka&quot;},{&quot;translateID&quot;:753523,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;затягивание ритма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;同調&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;どうちょう&quot;,&quot;transliteration&quot;:&quot;douchou&quot;},{&quot;translateID&quot;:605628,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;водитель ритма сердца&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;心ペースメーカ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こころぺーすめーか&quot;,&quot;transliteration&quot;:&quot;kokorope:sume:ka&quot;},{&quot;translateID&quot;:681095,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;наружный водитель ритма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;体外ペースメーカ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たいがいぺーすめーか&quot;,&quot;transliteration&quot;:&quot;taigaipe:sume:ka&quot;},{&quot;translateID&quot;:606919,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;стимуляция сердечного ритма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;心促進&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しんそくしん&quot;,&quot;transliteration&quot;:&quot;shinsokushin&quot;},{&quot;translateID&quot;:606602,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;электрическая альтернация ритма сердца&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;心臓の電気的交代&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しんぞうのでんきてきこうたい&quot;,&quot;transliteration&quot;:&quot;shinzounodenkitekikoutai&quot;},{&quot;translateID&quot;:249685,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;синдром водителя ритма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ペースメーカ症候群&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぺーすめーかしょうこうぐん&quot;,&quot;transliteration&quot;:&quot;pe:sume:kashoukougun&quot;},{&quot;translateID&quot;:897975,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;нарушение ритма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;律動異常&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;りつどういじょう&quot;,&quot;transliteration&quot;:&quot;ritsudouijou&quot;},{&quot;translateID&quot;:292566,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;нарушение ритма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;リズム障害&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;りずむしょうがい&quot;,&quot;transliteration&quot;:&quot;rizumushougai&quot;},{&quot;translateID&quot;:606834,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;электронный водитель сердечного ритма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;心臓電子器具&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しんぞうでんしきぐ&quot;,&quot;transliteration&quot;:&quot;shinzoudenshikigu&quot;},{&quot;translateID&quot;:609373,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;нарушения ритма сердца у новорожденного&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;新生児心調律障害&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しんせいじしんちょうりつしょうがい&quot;,&quot;transliteration&quot;:&quot;shinseijishinchouritsushougai&quot;},{&quot;translateID&quot;:249683,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;потенциал водителя ритма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ペースメーカー電位&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぺーすめーかーでんい&quot;,&quot;transliteration&quot;:&quot;pe:sume:ka:deni&quot;},{&quot;translateID&quot;:319982,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;блуждающий водитель ритма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;移動性ぺースメーカ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いどうせいぺーすめーか&quot;,&quot;transliteration&quot;:&quot;idouseipe:sume:ka&quot;},{&quot;translateID&quot;:767180,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;действие по регулированию суточного ритма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;日内リズム調節作用&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にちないりずむちょうせつさよう&quot;,&quot;transliteration&quot;:&quot;nichinairizumuchousetsusayou&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="ритма" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

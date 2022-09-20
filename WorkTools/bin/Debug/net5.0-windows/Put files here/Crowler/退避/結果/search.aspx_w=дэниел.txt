@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	дэниел - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,дэниел" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u0434%u044d%u043d%u0438%u0435%u043b" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV244Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNC00Y3QvdC40LXQu2QCAw9kFggCAg9kFgQCAQ8WAh4Dc3JjBQ8uLi9pbWcvbG9nby5wbmdkAgUPFgIeBGhyZWYFDi4uLz9sYW5nPXJ1LVJVZAIEDxYCHgdWaXNpYmxlZ2QCBg8WAh8DaGQCBw9kFghmDxYCHwNoZAIBDxYCHwNoZAICDxYCHwNoZAIFDxYCHwNoZGTIuGv/mDHNew1QUWvaOYdESgOxYw==" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAW+p/lWbLrabtBTfTWmCX0/lIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/p7O3LNzGTFOMjaK3LFTp3eqrvdZ" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:false,&quot;Phrases&quot;:[{&quot;translateID&quot;:173516,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Вулфолл, Дэниел&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ダニエル・ウールフォール&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;だにえる・うーるふぉーる&quot;,&quot;transliteration&quot;:&quot;danieru・u:rufo:ru&quot;},{&quot;translateID&quot;:173551,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Стерн, Дэниел&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ダニエル・スターン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;だにえる・すたーん&quot;,&quot;transliteration&quot;:&quot;danieru・suta:n&quot;},{&quot;translateID&quot;:173574,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Бернем, Дэниел Хадсон&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ダニエル・バーナム&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;だにえる・ばーなむ&quot;,&quot;transliteration&quot;:&quot;danieru・ba:namu&quot;},{&quot;translateID&quot;:173612,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Мэннинг, Дэниел&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ダニエル・マニング&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;だにえる・まにんぐ&quot;,&quot;transliteration&quot;:&quot;danieru・maningu&quot;},{&quot;translateID&quot;:173515,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Уильямс, Дэниел&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ダニエル・ウィリアムズ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;だにえる・うぃりあむず&quot;,&quot;transliteration&quot;:&quot;danieru・uぃriamuzu&quot;},{&quot;translateID&quot;:173550,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Джонстон, Дэниел&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ダニエル・ジョンストン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;だにえる・じょんすとん&quot;,&quot;transliteration&quot;:&quot;danieru・jonsuton&quot;},{&quot;translateID&quot;:173573,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Хардинг, Дэниел&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ダニエル・ハーディング&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;だにえる・はーでぃんぐ&quot;,&quot;transliteration&quot;:&quot;danieru・ha:dingu&quot;},{&quot;translateID&quot;:173611,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Макфадден, Дэниел&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ダニエル・マクファデン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;だにえる・まくふぁでん&quot;,&quot;transliteration&quot;:&quot;danieru・makufaden&quot;},{&quot;translateID&quot;:173513,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Иноуи, Дэниел&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ダニエル・イノウエ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;だにえる・いのうえ&quot;,&quot;transliteration&quot;:&quot;danieru・inoue&quot;},{&quot;translateID&quot;:173541,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Аджей, Дэниел Кофи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ダニエル・コフィ・アギエイ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;だにえる・こふぃ・あぎえい&quot;,&quot;transliteration&quot;:&quot;danieru・kofi・agiei&quot;},{&quot;translateID&quot;:173568,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Томпкинс, Дэниел&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ダニエル・トンプキンズ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;だにえる・とんぷきんず&quot;,&quot;transliteration&quot;:&quot;danieru・tonpukinzu&quot;},{&quot;translateID&quot;:173606,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Болдуин, Дэниел&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ダニエル・ボールドウィン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;だにえる・ぼーるどうぃん&quot;,&quot;transliteration&quot;:&quot;danieru・bo:rudouぃn&quot;},{&quot;translateID&quot;:173508,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Амокачи, Дэниел&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ダニエル・アモカチ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;だにえる・あもかち&quot;,&quot;transliteration&quot;:&quot;danieru・amokachi&quot;},{&quot;translateID&quot;:173537,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Келли, Дэниел&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ダニエル・ケリー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;だにえる・けりー&quot;,&quot;transliteration&quot;:&quot;danieru・keri:&quot;},{&quot;translateID&quot;:173566,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Деннет, Дэниел&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ダニエル・デネット&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;だにえる・でねっと&quot;,&quot;transliteration&quot;:&quot;danieru・denetto&quot;},{&quot;translateID&quot;:173601,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Белл, Дэниел&quot;,&quot;wordnote&quot;:&quot;социолог&quot;,&quot;translation&quot;:&quot;ダニエル・ベル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;だにえる・べる&quot;,&quot;transliteration&quot;:&quot;danieru・beru&quot;},{&quot;translateID&quot;:34521,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Р. Дэниел Оливо&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;R・ダニール・オリヴォー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;R・だにーる・おりヴぉー&quot;,&quot;transliteration&quot;:&quot;R・dani:ru・orivo:&quot;},{&quot;translateID&quot;:173523,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Кирквуд, Дэниел&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ダニエル・カークウッド&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;だにえる・かーくうっど&quot;,&quot;transliteration&quot;:&quot;danieru・ka:kuuddo&quot;},{&quot;translateID&quot;:173558,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Таммет, Дэниел&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ダニエル・タメット&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;だにえる・ためっと&quot;,&quot;transliteration&quot;:&quot;danieru・tametto&quot;},{&quot;translateID&quot;:173585,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Хэндлер, Дэниел&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ダニエル・ハンドラー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;だにえる・はんどらー&quot;,&quot;transliteration&quot;:&quot;danieru・handora:&quot;},{&quot;translateID&quot;:237468,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Дэниел Брайан&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ブライアン・ダニエルソン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぶらいあん・だにえるそん&quot;,&quot;transliteration&quot;:&quot;buraian・danieruson&quot;},{&quot;translateID&quot;:173517,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Уэбстер, Дэниел&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ダニエル・ウェブスター&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;だにえる・うぇぶすたー&quot;,&quot;transliteration&quot;:&quot;danieru・uぇbusuta:&quot;},{&quot;translateID&quot;:173552,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Старридж, Дэниел&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ダニエル・スタリッジ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;だにえる・すたりっじ&quot;,&quot;transliteration&quot;:&quot;danieru・sutarijji&quot;},{&quot;translateID&quot;:173576,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Паутер, Дэниел&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ダニエル・パウター&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;だにえる・ぱうたー&quot;,&quot;transliteration&quot;:&quot;danieru・pauta:&quot;},{&quot;translateID&quot;:173615,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Рэдклифф, Дэниел&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ダニエル・ラドクリフ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;だにえる・らどくりふ&quot;,&quot;transliteration&quot;:&quot;danieru・radokurifu&quot;},{&quot;translateID&quot;:173506,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Адаир, Дэниел&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ダニエル・アデア&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;だにえる・あであ&quot;,&quot;transliteration&quot;:&quot;danieru・adea&quot;},{&quot;translateID&quot;:173534,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Мейсон, Дэниел Грегори&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ダニエル・グレゴリー・メイソン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;だにえる・ぐれごりー・めいそん&quot;,&quot;transliteration&quot;:&quot;danieru・guregori:・meison&quot;},{&quot;translateID&quot;:173564,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Дэй-Льюис, Дэниел&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ダニエル・デイ・ルイス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;だにえる・でい・るいす&quot;,&quot;transliteration&quot;:&quot;danieru・dei・ruisu&quot;},{&quot;translateID&quot;:173600,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Хенни, Дэниел&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ダニエル・ヘニー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;だにえる・へにー&quot;,&quot;transliteration&quot;:&quot;danieru・heni:&quot;},{&quot;translateID&quot;:173503,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Тани, Дэниел Мичио&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ダニエル・M・タニ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;だにえる・M・たに&quot;,&quot;transliteration&quot;:&quot;danieru・M・tani&quot;},{&quot;translateID&quot;:173533,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Крэйг, Дэниел&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ダニエル・クレイグ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;だにえる・くれいぐ&quot;,&quot;transliteration&quot;:&quot;danieru・kureigu&quot;},{&quot;translateID&quot;:173563,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Ким, Дэниел Дэ&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ダニエル・デイ・キム&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;だにえる・でい・きむ&quot;,&quot;transliteration&quot;:&quot;danieru・dei・kimu&quot;},{&quot;translateID&quot;:173598,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Бедингфилд, Дэниел&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ダニエル・ベディングフィールド&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;だにえる・べでぃんぐふぃーるど&quot;,&quot;transliteration&quot;:&quot;danieru・bedingufi:rudo&quot;},{&quot;translateID&quot;:173502,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Акака, Дэниел&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ダニエル・K・アカカ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;だにえる・K・あかか&quot;,&quot;transliteration&quot;:&quot;danieru・K・akaka&quot;},{&quot;translateID&quot;:173529,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Гибсон, Дэниел&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ダニエル・ギブソン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;だにえる・ぎぶそん&quot;,&quot;transliteration&quot;:&quot;danieru・gibuson&quot;},{&quot;translateID&quot;:173562,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Цуи, Дэниел&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ダニエル・ツイ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;だにえる・つい&quot;,&quot;transliteration&quot;:&quot;danieru・tsui&quot;},{&quot;translateID&quot;:173596,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Бэйли, Дэниел&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ダニエル・ベイリー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;だにえる・べいりー&quot;,&quot;transliteration&quot;:&quot;danieru・beiri:&quot;},{&quot;translateID&quot;:173445,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Эльфман, Дэниел&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ダニー・エルフマン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;だにー・えるふまん&quot;,&quot;transliteration&quot;:&quot;dani:・erufuman&quot;},{&quot;translateID&quot;:173527,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Киз, Дэниел&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ダニエル・キイス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;だにえる・きいす&quot;,&quot;transliteration&quot;:&quot;danieru・kiisu&quot;},{&quot;translateID&quot;:173560,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Хьюм, Дэниел Данглас&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ダニエル・ダングラス・ホーム&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;だにえる・だんぐらす・ほーむ&quot;,&quot;transliteration&quot;:&quot;danieru・dangurasu・ho:mu&quot;},{&quot;translateID&quot;:173593,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Фрэнк, Дэниел&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ダニエル・フランク&quot;,&quot;translationnote&quot;:&quot;陸上選手&quot;,&quot;reading&quot;:&quot;だにえる・ふらんく&quot;,&quot;transliteration&quot;:&quot;danieru・furanku&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="дэниел" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

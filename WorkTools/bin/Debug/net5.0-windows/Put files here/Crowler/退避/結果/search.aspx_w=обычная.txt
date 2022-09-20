@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	обычная - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,обычная" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u043e%u0431%u044b%u0447%u043d%u0430%u044f" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV444Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNC+0LHRi9GH0L3QsNGPZAIDD2QWCAICD2QWBAIBDxYCHgNzcmMFDy4uL2ltZy9sb2dvLnBuZ2QCBQ8WAh4EaHJlZgUOLi4vP2xhbmc9cnUtUlVkAgQPFgIeB1Zpc2libGVnZAIGDxYCHwNoZAIHD2QWCGYPFgIfA2hkAgEPFgIfA2hkAgIPFgIfA2hkAgUPFgIfA2hkZFZmKI9V14t02DZ2clhL+pjGYltp" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAXPt/vkPwckHy/U0ppFI3rFlIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/tWWsUfE8bzaR38L2gfUlk1/00oz" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:true,&quot;Phrases&quot;:[{&quot;translateID&quot;:47916,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Эта гадалка - обычная лгунья.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;あの占い師はうそつき同然だ。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あのうらないしはうそつきどうぜんだ。&quot;,&quot;transliteration&quot;:&quot;anouranaishihausotsukidouzenda。&quot;},{&quot;translateID&quot;:100394,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Обычная ванделлия&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;カンディル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かんでぃる&quot;,&quot;transliteration&quot;:&quot;kandiru&quot;},{&quot;translateID&quot;:840135,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;обычная ширина&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;並み幅&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なみはば&quot;,&quot;transliteration&quot;:&quot;namihaba&quot;},{&quot;translateID&quot;:822925,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;обычная корреспонденция&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;普通郵便&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふつうゆうびん&quot;,&quot;transliteration&quot;:&quot;futsuuyuubin&quot;},{&quot;translateID&quot;:390699,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;обычная практика&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;慣行&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かんこう&quot;,&quot;transliteration&quot;:&quot;kankou&quot;},{&quot;translateID&quot;:488253,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;обычная практика&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;恒例&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうれい&quot;,&quot;transliteration&quot;:&quot;kourei&quot;},{&quot;translateID&quot;:637185,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Встретить молодёжь, незнакомую с Библией - это вполне обычная ситауация для нашего времени.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;聖書を知らない若者に出会うことは、今ではごく普通のことだ。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せいしょをしらないわかものにであうことは、いまではごくふつうのことだ。&quot;,&quot;transliteration&quot;:&quot;seisho o shiranaiwakamononideaukotoha、imadehagokufutsuunokotoda。&quot;},{&quot;translateID&quot;:838139,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;обычная температура&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;平温&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;へいおん&quot;,&quot;transliteration&quot;:&quot;heion&quot;},{&quot;translateID&quot;:822918,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;обычная почта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;普通便&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふつうびん&quot;,&quot;transliteration&quot;:&quot;futsuubin&quot;},{&quot;translateID&quot;:822840,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;обычная длина&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;普通の長さ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふつうのながさ&quot;,&quot;transliteration&quot;:&quot;futsuunonagasa&quot;},{&quot;translateID&quot;:631466,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;обычная цена&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;正価&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せいか&quot;,&quot;transliteration&quot;:&quot;seika&quot;},{&quot;translateID&quot;:860962,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;обычная книга&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;凡書&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぼんしょ&quot;,&quot;transliteration&quot;:&quot;bonsho&quot;},{&quot;translateID&quot;:387991,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ясколка обычная&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;巻耳草&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;みみなぐさ&quot;,&quot;transliteration&quot;:&quot;miminagusa&quot;},{&quot;translateID&quot;:390705,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;обычная деловая практика&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;慣行取引&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かんこう&quot;,&quot;transliteration&quot;:&quot;kankou&quot;},{&quot;translateID&quot;:62792,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Моя обычная официантка не станет со мной ничего делать.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;いつものウェイトレスは私をまったく無視していた。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いつものうぇいとれすはわたしをまったくむししていた。&quot;,&quot;transliteration&quot;:&quot;itsumonouぇitoresuhawatashi o mattakumushishiteita。&quot;},{&quot;translateID&quot;:285611,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;обычная ошибка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;よく見られる誤り&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;よくみられるあやまり&quot;,&quot;transliteration&quot;:&quot;yokumirareruayamari&quot;},{&quot;translateID&quot;:402602,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;обычная проверка подлинности&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;基本認証&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きほんにんしょう&quot;,&quot;transliteration&quot;:&quot;kihonninshou&quot;},{&quot;translateID&quot;:833838,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;обычная дробь&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;分数&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぶんすう&quot;,&quot;transliteration&quot;:&quot;bunsuu&quot;},{&quot;translateID&quot;:723056,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;обычная архивация&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;通常バックアップ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;つうじょうばっくあっぷ&quot;,&quot;transliteration&quot;:&quot;tsuujoubakkuappu&quot;},{&quot;translateID&quot;:40566,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;обычная функция&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;アウトライン機能&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あうとらいんきのう&quot;,&quot;transliteration&quot;:&quot;autorainkinou&quot;},{&quot;translateID&quot;:128787,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;обычная оперативная память&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;コンベンショナル・メモリ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こんべんしょなる・めもり&quot;,&quot;transliteration&quot;:&quot;konbenshonaru・memori&quot;},{&quot;translateID&quot;:128788,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;обычная память&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;コンベンショナルメモリ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こんべんしょなるめもり&quot;,&quot;transliteration&quot;:&quot;konbenshonarumemori&quot;},{&quot;translateID&quot;:206531,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;обычная проводка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ノーマルエントリ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;のーまるえんとり&quot;,&quot;transliteration&quot;:&quot;no:maruentori&quot;},{&quot;translateID&quot;:451750,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;обычная вода&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;軽水&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けいすい&quot;,&quot;transliteration&quot;:&quot;keisui&quot;},{&quot;translateID&quot;:286952,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;обычная вода&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ライト・ウォータ消火剤&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;らいと・うぉーたしょうかざい&quot;,&quot;transliteration&quot;:&quot;raito・uぉ:tashoukazai&quot;},{&quot;translateID&quot;:632215,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;обычная проводка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;正常入口&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せいじょういりぐち&quot;,&quot;transliteration&quot;:&quot;seijouiriguchi&quot;},{&quot;translateID&quot;:822913,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;обычная термообработка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;普通熱処理&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふつうねつしょり&quot;,&quot;transliteration&quot;:&quot;futsuunetsushori&quot;},{&quot;translateID&quot;:822880,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;обычная сталь&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;普通鋼&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふつうはがね&quot;,&quot;transliteration&quot;:&quot;futsuuhagane&quot;},{&quot;translateID&quot;:726434,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;обычная позиция&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;定位&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ていい&quot;,&quot;transliteration&quot;:&quot;teii&quot;},{&quot;translateID&quot;:401585,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;обычная производительность&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;基準出力&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きじゅんしゅつりょく&quot;,&quot;transliteration&quot;:&quot;kijunshutsuryoku&quot;},{&quot;translateID&quot;:813265,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;обычная ставка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;標準定格出力&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひょうじゅんていかくしゅつりょく&quot;,&quot;transliteration&quot;:&quot;hyoujunteikakushutsuryoku&quot;},{&quot;translateID&quot;:813150,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;обычная практика&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;標準実施法&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひょうじゅんじっしほう&quot;,&quot;transliteration&quot;:&quot;hyoujunjisshihou&quot;},{&quot;translateID&quot;:556709,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;обычная практика&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;実施基準&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じっしきじゅん&quot;,&quot;transliteration&quot;:&quot;jisshikijun&quot;},{&quot;translateID&quot;:695483,&quot;translationStatus&quot;:0,&quot;themeID&quot;:116,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;放射線医学&quot;,&quot;word&quot;:&quot;обычная рентгенография&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;単純X 線撮影&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たんじゅんえっくすせんさつえい&quot;,&quot;transliteration&quot;:&quot;tanjunekkususensatsuei&quot;},{&quot;translateID&quot;:822892,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;обычная еда&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;普通食&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふつうしょく&quot;,&quot;transliteration&quot;:&quot;futsuushoku&quot;},{&quot;translateID&quot;:723066,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;обычная интерстециальная пневмония&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;通常型間質性肺炎&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;つうじょうがたかんしつせいはいえん&quot;,&quot;transliteration&quot;:&quot;tsuujougatakanshitsuseihaien&quot;},{&quot;translateID&quot;:291589,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;обычная интерстициальная пневмония по классификации Либова&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;リーボウの通常型間質性肺炎&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;りーぼうのつうじょうがたかんしつせいはいえん&quot;,&quot;transliteration&quot;:&quot;ri:bounotsuujougatakanshitsuseihaien&quot;},{&quot;translateID&quot;:822891,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;обычная диета&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;普通食&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふつうしょく&quot;,&quot;transliteration&quot;:&quot;futsuushoku&quot;},{&quot;translateID&quot;:598582,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;обычная дозировка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;常用量&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じょうようりょう&quot;,&quot;transliteration&quot;:&quot;jouyouryou&quot;},{&quot;translateID&quot;:598351,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;обычная диета&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;常食&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じょうしょく&quot;,&quot;transliteration&quot;:&quot;joushoku&quot;},{&quot;translateID&quot;:598581,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;обычная доза&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;常用量&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じょうようりょう&quot;,&quot;transliteration&quot;:&quot;jouyouryou&quot;},{&quot;translateID&quot;:598180,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;обычная температура&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;常温&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じょうおん&quot;,&quot;transliteration&quot;:&quot;jouon&quot;},{&quot;translateID&quot;:573930,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;обычная липидопонижающая терапия&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;従来の脂質低下療法&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じゅうらいのししつていかりょうほう&quot;,&quot;transliteration&quot;:&quot;juurainoshishitsuteikaryouhou&quot;},{&quot;translateID&quot;:726964,&quot;translationStatus&quot;:0,&quot;themeID&quot;:177,&quot;groupName&quot;:&quot;経済&quot;,&quot;themeName&quot;:&quot;マクロ経済&quot;,&quot;word&quot;:&quot;обычная работа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;定常業務 &quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ていじょうぎょうむ &quot;,&quot;transliteration&quot;:&quot;teijougyoumu &quot;},{&quot;translateID&quot;:726793,&quot;translationStatus&quot;:0,&quot;themeID&quot;:177,&quot;groupName&quot;:&quot;経済&quot;,&quot;themeName&quot;:&quot;マクロ経済&quot;,&quot;word&quot;:&quot;обычная работа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;定型作業&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ていけいさぎょう&quot;,&quot;transliteration&quot;:&quot;teikeisagyou&quot;},{&quot;translateID&quot;:449022,&quot;translationStatus&quot;:0,&quot;themeID&quot;:184,&quot;groupName&quot;:&quot;経済&quot;,&quot;themeName&quot;:&quot;会計&quot;,&quot;word&quot;:&quot;обычная прибыль&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;経常利益&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けいじょうりえき&quot;,&quot;transliteration&quot;:&quot;keijourieki&quot;},{&quot;translateID&quot;:822888,&quot;translationStatus&quot;:0,&quot;themeID&quot;:185,&quot;groupName&quot;:&quot;経済&quot;,&quot;themeName&quot;:&quot;金融&quot;,&quot;word&quot;:&quot;обычная облигация, не конвертируемая в акцию&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;普通社債&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふつうしゃさい&quot;,&quot;transliteration&quot;:&quot;futsuushasai&quot;},{&quot;translateID&quot;:822863,&quot;translationStatus&quot;:0,&quot;themeID&quot;:185,&quot;groupName&quot;:&quot;経済&quot;,&quot;themeName&quot;:&quot;金融&quot;,&quot;word&quot;:&quot;обычная акция&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;普通株式 ordinary share&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふつうかぶしき ordinary share&quot;,&quot;transliteration&quot;:&quot;futsuukabushiki ordinary share&quot;},{&quot;translateID&quot;:559098,&quot;translationStatus&quot;:0,&quot;themeID&quot;:185,&quot;groupName&quot;:&quot;経済&quot;,&quot;themeName&quot;:&quot;金融&quot;,&quot;word&quot;:&quot;обычная облигация, не конвертируемая в акцию&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;社債&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゃさい&quot;,&quot;transliteration&quot;:&quot;shasai&quot;},{&quot;translateID&quot;:542398,&quot;translationStatus&quot;:0,&quot;themeID&quot;:185,&quot;groupName&quot;:&quot;経済&quot;,&quot;themeName&quot;:&quot;金融&quot;,&quot;word&quot;:&quot;обычная акция&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;資本金&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しほんきん&quot;,&quot;transliteration&quot;:&quot;shihonkin&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="обычная" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

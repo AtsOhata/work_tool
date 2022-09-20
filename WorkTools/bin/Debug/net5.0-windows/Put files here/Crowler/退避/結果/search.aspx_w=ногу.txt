@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	ногу - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,ногу" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u043d%u043e%u0433%u0443" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAVy44Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNC90L7Qs9GDZAIDD2QWCAICD2QWBAIBDxYCHgNzcmMFDy4uL2ltZy9sb2dvLnBuZ2QCBQ8WAh4EaHJlZgUOLi4vP2xhbmc9cnUtUlVkAgQPFgIeB1Zpc2libGVnZAIGDxYCHwNoZAIHD2QWCGYPFgIfA2hkAgEPFgIfA2hkAgIPFgIfA2hkAgUPFgIfA2hkZCkwWUwWL/w7CxEmvKZbIxG+QwWC" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAU2etc1iIBGx5YKjUgKYOJAlIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/jCLyUDYtfH97FI+gmTBJBdL9vgc" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:true,&quot;Phrases&quot;:[{&quot;translateID&quot;:926394,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;живущий на широкую ногу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;贅沢な人&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぜいたくなひと&quot;,&quot;transliteration&quot;:&quot;zeitakunahito&quot;},{&quot;translateID&quot;:847905,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;взять ногу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;歩調を正す&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほちょうをただす&quot;,&quot;transliteration&quot;:&quot;hochou o tadasu&quot;},{&quot;translateID&quot;:537285,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Я сломал ногу в автоаварии.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;私は交通事故で足を折った。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;わたしはこうつうじこであしをおった。&quot;,&quot;transliteration&quot;:&quot;watashihakoutsuujikodeashi o otta。&quot;},{&quot;translateID&quot;:673962,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;вывихнуть ногу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;足の筋を違える&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あしのすじをたがえる&quot;,&quot;transliteration&quot;:&quot;ashinosuji o tagaeru&quot;},{&quot;translateID&quot;:258242,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;В её правую ногу ударился мяч.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ボールが彼女の右足に当たった。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぼーるがかのじょのみぎあしにあたった。&quot;,&quot;transliteration&quot;:&quot;bo:rugakanojonomigiashiniatatta。&quot;},{&quot;translateID&quot;:847904,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;в ногу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;歩調を整えて&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほちょうをととのえて&quot;,&quot;transliteration&quot;:&quot;hochou o totonoete&quot;},{&quot;translateID&quot;:779400,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;жить на широкую ногу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;派手な生活をする&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はでなせいかつをする&quot;,&quot;transliteration&quot;:&quot;hadenaseikatsu o suru&quot;},{&quot;translateID&quot;:673948,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;в ногу вонзилась иголка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;足に針が立った&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あしにはりがたった&quot;,&quot;transliteration&quot;:&quot;ashiniharigatatta&quot;},{&quot;translateID&quot;:894982,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ходьба не в ногу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;乱歩行進&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;らんぽこうしん&quot;,&quot;transliteration&quot;:&quot;ranpokoushin&quot;},{&quot;translateID&quot;:847901,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;не в ногу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;歩調なく&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほちょうなく&quot;,&quot;transliteration&quot;:&quot;hochounaku&quot;},{&quot;translateID&quot;:662186,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;на голую ногу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;素足で&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;すあしで&quot;,&quot;transliteration&quot;:&quot;suashide&quot;},{&quot;translateID&quot;:738905,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Кто-то наступил мне на ногу в поезде.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;電車の中で誰かに足を踏まれた。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;でんしゃのなかでだれかにあしをふまれた。&quot;,&quot;transliteration&quot;:&quot;denshanonakadedarekaniashi o fumareta。&quot;},{&quot;translateID&quot;:821441,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;укусить за ногу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;付く&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;つく&quot;,&quot;transliteration&quot;:&quot;tsuku&quot;},{&quot;translateID&quot;:844721,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;хромой на одну ногу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;片跛&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かたちんば&quot;,&quot;transliteration&quot;:&quot;katachinba&quot;},{&quot;translateID&quot;:662185,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;на босу ногу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;素足で&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;すあしで&quot;,&quot;transliteration&quot;:&quot;suashide&quot;},{&quot;translateID&quot;:688413,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;на широкую ногу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;大仕掛けで&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おおじかけで&quot;,&quot;transliteration&quot;:&quot;oojikakede&quot;},{&quot;translateID&quot;:484883,&quot;translationStatus&quot;:1,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;дать пинок в ногу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;向脛を蹴る&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;むかいはぎをける&quot;,&quot;transliteration&quot;:&quot;mukaihagi o keru&quot;},{&quot;translateID&quot;:748357,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;подвернуть ногу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;踏み違える&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふみたがえる&quot;,&quot;transliteration&quot;:&quot;fumitagaeru&quot;},{&quot;translateID&quot;:847908,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;шагать в ногу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;歩調を定める&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほちょうをさだめる&quot;,&quot;transliteration&quot;:&quot;hochou o sadameru&quot;},{&quot;translateID&quot;:571673,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;споткнувшись вывихнуть ногу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;蹴違える&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けちがえる&quot;,&quot;transliteration&quot;:&quot;kechigaeru&quot;},{&quot;translateID&quot;:674124,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;куда поставить ногу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;足掛け&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あしかけ&quot;,&quot;transliteration&quot;:&quot;ashikake&quot;},{&quot;translateID&quot;:414392,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;иметь искусственную ногу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;義足をつけている&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぎそくをつけている&quot;,&quot;transliteration&quot;:&quot;gisoku o tsuketeiru&quot;},{&quot;translateID&quot;:926402,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;жить на широкую ногу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;贅沢をする&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぜいたくをする&quot;,&quot;transliteration&quot;:&quot;zeitaku o suru&quot;},{&quot;translateID&quot;:847906,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;идти в ногу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;歩調を正す&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほちょうをただす&quot;,&quot;transliteration&quot;:&quot;hochou o tadasu&quot;},{&quot;translateID&quot;:537286,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Я сломал ногу в ДТП.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;私は交通事故で足を折った。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;わたしはこうつうじこであしをおった。&quot;,&quot;transliteration&quot;:&quot;watashihakoutsuujikodeashi o otta。&quot;},{&quot;translateID&quot;:674077,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;идти в ногу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;足を揃える&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あしをそろえる&quot;,&quot;transliteration&quot;:&quot;ashi o soroeru&quot;},{&quot;translateID&quot;:763195,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;переминаться с ноги на ногу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;二の足を踏む&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にのあし&quot;,&quot;transliteration&quot;:&quot;ninoashi&quot;},{&quot;translateID&quot;:844640,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;выставить ногу на шаг вперёд&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;片方の足を一歩踏み出す&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かたほうのあしを1ぽふみだす&quot;,&quot;transliteration&quot;:&quot;katahounoashi o 1pofumidasu&quot;},{&quot;translateID&quot;:443342,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;я натёр себе ногу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;靴擦れが出来た&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;くつずれができた&quot;,&quot;transliteration&quot;:&quot;kutsuzuregadekita&quot;},{&quot;translateID&quot;:687771,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;на широкую ногу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;大規模に&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;だいきぼに&quot;,&quot;transliteration&quot;:&quot;daikiboni&quot;},{&quot;translateID&quot;:626770,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;идти в ногу с веком&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;世と推し移る&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;よとおしうつる&quot;,&quot;transliteration&quot;:&quot;yotooshiutsuru&quot;},{&quot;translateID&quot;:749231,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;вставить ногу в стремя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;鐙を踏む&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あぶみをふむ&quot;,&quot;transliteration&quot;:&quot;abumi o fumu&quot;},{&quot;translateID&quot;:800208,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Он умышленно наступил мне на ногу в поезде.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;彼は電車の中で、態と私の足を踏みました。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かれはでんしゃのなかで、わざとわたしのあしをふみました。&quot;,&quot;transliteration&quot;:&quot;karehadenshanonakade、wazatowatashinoashi o fumimashita。&quot;},{&quot;translateID&quot;:546614,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;идти в ногу со временем&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;時代の先端を行く&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じだいのせんたんをいく&quot;,&quot;transliteration&quot;:&quot;jidainosentan o iku&quot;},{&quot;translateID&quot;:674551,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;куда поставить ногу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;足溜り&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あしだまり&quot;,&quot;transliteration&quot;:&quot;ashidamari&quot;},{&quot;translateID&quot;:626769,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;идти в ногу с веком&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;世と共に進む&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;よとともにすすむ&quot;,&quot;transliteration&quot;:&quot;yototomonisusumu&quot;},{&quot;translateID&quot;:749230,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;вынуть ногу из стремени&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;鐙を外す&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あぶみをはずす&quot;,&quot;transliteration&quot;:&quot;abumi o hazusu&quot;},{&quot;translateID&quot;:797695,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Он повредил свою левую ногу в несчастном случае.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;彼は、その事故で左足を怪我した。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かれは、そのじこでひだりあしをけがした。&quot;,&quot;transliteration&quot;:&quot;kareha、sonojikodehidariashi o kegashita。&quot;},{&quot;translateID&quot;:546563,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;будем шагать в ногу с веком&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;時勢に後れないようにせよ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じせいにおくれないようにせよ&quot;,&quot;transliteration&quot;:&quot;jiseiniokurenaiyouniseyo&quot;},{&quot;translateID&quot;:674515,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;идти в ногу действовать сообща&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;足並をそろえる&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あしなみをそろえる&quot;,&quot;transliteration&quot;:&quot;ashinami o soroeru&quot;},{&quot;translateID&quot;:585516,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ставить на коммерческую ногу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;商業化する&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょうぎょうかする&quot;,&quot;transliteration&quot;:&quot;shougyoukasuru&quot;},{&quot;translateID&quot;:748432,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;поранить ногу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;踏み抜く&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふみぬく&quot;,&quot;transliteration&quot;:&quot;fuminuku&quot;},{&quot;translateID&quot;:847936,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;идти в ногу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;歩武を揃える&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほぶをそろえる&quot;,&quot;transliteration&quot;:&quot;hobu o soroeru&quot;},{&quot;translateID&quot;:571691,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;куда ставят ногу при подъёме&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;蹴上げ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けあげ&quot;,&quot;transliteration&quot;:&quot;keage&quot;},{&quot;translateID&quot;:674435,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;наступить на ногу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;足踏み&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あしぶみ&quot;,&quot;transliteration&quot;:&quot;ashibumi&quot;},{&quot;translateID&quot;:203519,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;идти в ногу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;に後れを取らないようにする&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;におくれをとらないようにする&quot;,&quot;transliteration&quot;:&quot;niokure o toranaiyounisuru&quot;},{&quot;translateID&quot;:203520,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;идти в ногу с&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;に後れを取らないようにする&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;におくれをとらないようにする&quot;,&quot;transliteration&quot;:&quot;niokure o toranaiyounisuru&quot;},{&quot;translateID&quot;:198804,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;идти в ногу с&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;と足並みをそろえる&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とあしなみをそろえる&quot;,&quot;transliteration&quot;:&quot;toashinami o soroeru&quot;},{&quot;translateID&quot;:198805,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;идти в ногу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;と足並みをそろえる&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とあしなみをそろえる&quot;,&quot;transliteration&quot;:&quot;toashinami o soroeru&quot;},{&quot;translateID&quot;:472781,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;подкова на переднюю ногу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;固定側取付板&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こていがわとりつけいた&quot;,&quot;transliteration&quot;:&quot;koteigawatoritsukeita&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="ногу" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

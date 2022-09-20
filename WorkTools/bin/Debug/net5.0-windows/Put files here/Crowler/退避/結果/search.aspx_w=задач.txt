@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	задач - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,задач" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u0437%u0430%u0434%u0430%u0447" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV044Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNC30LDQtNCw0YdkAgMPZBYIAgIPZBYEAgEPFgIeA3NyYwUPLi4vaW1nL2xvZ28ucG5nZAIFDxYCHgRocmVmBQ4uLi8/bGFuZz1ydS1SVWQCBA8WAh4HVmlzaWJsZWdkAgYPFgIfA2hkAgcPZBYIZg8WAh8DaGQCAQ8WAh8DaGQCAg8WAh8DaGQCBQ8WAh8DaGRko+GiPT7mV09B3peKqiilj3C62so=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAWn7oVVlG9tJ7uX+5Y7fp6jlIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/v7l/GJO29tgHL+yzDHaMknXlgfq" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:true,&quot;Phrases&quot;:[{&quot;translateID&quot;:36947,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Диспетчер задач Windows&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;Windows タスク マネージャー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;Windows たすく まねーじゃー&quot;,&quot;transliteration&quot;:&quot;Windows tasuku mane:ja:&quot;},{&quot;translateID&quot;:146946,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Планировщик задач&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ジョブ管理システム&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じょぶかんりしすてむ&quot;,&quot;transliteration&quot;:&quot;jobukanrishisutemu&quot;},{&quot;translateID&quot;:878503,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Решение задач&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;問題解決&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;もんだいかいけつ&quot;,&quot;transliteration&quot;:&quot;mondaikaiketsu&quot;},{&quot;translateID&quot;:172679,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;панель задач&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;タスクバー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たすくばー&quot;,&quot;transliteration&quot;:&quot;tasukuba:&quot;},{&quot;translateID&quot;:35901,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Теория решения изобретательских задач&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;TRIZ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;TRIZ&quot;,&quot;transliteration&quot;:&quot;TRIZ&quot;},{&quot;translateID&quot;:677924,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;обробляння многих задач&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;多重処理&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たじゅうしょり&quot;,&quot;transliteration&quot;:&quot;tajuushori&quot;},{&quot;translateID&quot;:782052,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;область памяти для задач с низким приоритетом&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;背景領域&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はいけいりょういき&quot;,&quot;transliteration&quot;:&quot;haikeiryouiki&quot;},{&quot;translateID&quot;:172651,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;панель задач&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;タスク バー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たすくばー&quot;,&quot;transliteration&quot;:&quot;tasukuba:&quot;},{&quot;translateID&quot;:172673,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;зависимость задач&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;タスクの依存関係&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たすくのいぞんかんけい&quot;,&quot;transliteration&quot;:&quot;tasukunoizonkankei&quot;},{&quot;translateID&quot;:729901,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;программист прикладных задач&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;適用業務プログラマ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てきようぎょうむぷろぐらま&quot;,&quot;transliteration&quot;:&quot;tekiyougyoumupurogurama&quot;},{&quot;translateID&quot;:527100,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;панель ввода задач&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;仕事入力パネル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しごとにゅうりょくぱねる&quot;,&quot;transliteration&quot;:&quot;shigotonyuuryokupaneru&quot;},{&quot;translateID&quot;:878336,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;развязывание применимых задач в режими\&quot;за- пит-відповідь\&quot;&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;問い合わせ適用業務&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;といあわせてきようぎょうむ&quot;,&quot;transliteration&quot;:&quot;toiawasetekiyougyoumu&quot;},{&quot;translateID&quot;:172684,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;диспетчер задач&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;タスクマネージャ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たすくまねーじゃ&quot;,&quot;transliteration&quot;:&quot;tasukumane:ja&quot;},{&quot;translateID&quot;:172652,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;кнопка панели задач&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;タスク バー ボタン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たすく ばー ぼたん&quot;,&quot;transliteration&quot;:&quot;tasuku ba: botan&quot;},{&quot;translateID&quot;:172719,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;область задач&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;タスク領域&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たすくりょういき&quot;,&quot;transliteration&quot;:&quot;tasukuryouiki&quot;},{&quot;translateID&quot;:109136,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;язык задач обработки графической информации&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;グラフィックス言語&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぐらふぃっくすげんご&quot;,&quot;transliteration&quot;:&quot;gurafikkusugengo&quot;},{&quot;translateID&quot;:80806,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;программные средства технических задач&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;エンジニアリング・ソフトウェア&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;えんじにありんぐ・そふとうぇあ&quot;,&quot;transliteration&quot;:&quot;enjiniaringu・sofutouぇa&quot;},{&quot;translateID&quot;:878466,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;область для расположения задач&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;問題の場所&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;もんだいのばしょ&quot;,&quot;transliteration&quot;:&quot;mondainobasho&quot;},{&quot;translateID&quot;:172687,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;список задач&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;タスク一覧&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たすくいちらん&quot;,&quot;transliteration&quot;:&quot;tasukuichiran&quot;},{&quot;translateID&quot;:172653,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;представление задач&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;タスク ビュー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たすく びゅー&quot;,&quot;transliteration&quot;:&quot;tasuku byu:&quot;},{&quot;translateID&quot;:431715,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;ЭВМ для деловых или коммерческих задач&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;業務用コンピュータ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぎょうむようこんぴゅーた&quot;,&quot;transliteration&quot;:&quot;gyoumuyoukonpyu:ta&quot;},{&quot;translateID&quot;:200159,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;средство запуска задач&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ナビ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なび&quot;,&quot;transliteration&quot;:&quot;nabi&quot;},{&quot;translateID&quot;:92945,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;настраиваемая область задач&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;カスタム作業ウィンドウ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かすたむさぎょううぃんどう&quot;,&quot;transliteration&quot;:&quot;kasutamusagyouuぃndou&quot;},{&quot;translateID&quot;:878506,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;решение задач или проблем&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;問題解決&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;もんだいかいけつ&quot;,&quot;transliteration&quot;:&quot;mondaikaiketsu&quot;},{&quot;translateID&quot;:234598,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;область памяти для задач с высоким приоритетом&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;フォアグラウンドリージョン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふぉあぐらうんどりーじょん&quot;,&quot;transliteration&quot;:&quot;foaguraundori:jon&quot;},{&quot;translateID&quot;:172697,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;диспетчер задач или заданий&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;タスク指名プログラム&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たすくしめいぷろぐらむ&quot;,&quot;transliteration&quot;:&quot;tasukushimeipuroguramu&quot;},{&quot;translateID&quot;:172654,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;форма задач&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;タスク フォーム&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たすく ふぉーむ&quot;,&quot;transliteration&quot;:&quot;tasuku fo:mu&quot;},{&quot;translateID&quot;:544505,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;компьютер для коммерческих задач&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;事務機械&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じむきかい&quot;,&quot;transliteration&quot;:&quot;jimukikai&quot;},{&quot;translateID&quot;:200910,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;решение числовых задач большого объёма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ナンバクランチング&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なんばくらんちんぐ&quot;,&quot;transliteration&quot;:&quot;nanbakuranchingu&quot;},{&quot;translateID&quot;:406908,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;область для расположения задач&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;気になる部分&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きになるぶぶん&quot;,&quot;transliteration&quot;:&quot;kininarububun&quot;},{&quot;translateID&quot;:657498,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;область памяти для задач с высоким приоритетом&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;前景領域&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぜんけいりょういき&quot;,&quot;transliteration&quot;:&quot;zenkeiryouiki&quot;},{&quot;translateID&quot;:172648,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;цепочка задач&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;タスク チェーン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たすく ちぇーん&quot;,&quot;transliteration&quot;:&quot;tasuku che:n&quot;},{&quot;translateID&quot;:172668,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;планирование задач&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;タスクスケジュール操作&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たすくすけじゅーるそうさ&quot;,&quot;transliteration&quot;:&quot;tasukusukeju:rusousa&quot;},{&quot;translateID&quot;:326791,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;универсальный решатель задач&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;一般問題解決システム&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いっぱんもんだいかいけつしすてむ&quot;,&quot;transliteration&quot;:&quot;ippanmondaikaiketsushisutemu&quot;},{&quot;translateID&quot;:768350,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;список задач на день&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;日毎の仕事リスト&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひごとのしごとりすと&quot;,&quot;transliteration&quot;:&quot;higotonoshigotorisuto&quot;},{&quot;translateID&quot;:677786,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;организация прохождения многих задач&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;多重タスク管理&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たじゅうたすくかんり&quot;,&quot;transliteration&quot;:&quot;tajuutasukukanri&quot;},{&quot;translateID&quot;:425983,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;автоматическое решение задач в режиме сотрудничества&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;協調型問題解決&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きょうちょうがたもんだいかいけつ&quot;,&quot;transliteration&quot;:&quot;kyouchougatamondaikaiketsu&quot;},{&quot;translateID&quot;:172650,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;панель задач&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;タスク バー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たすく ばー&quot;,&quot;transliteration&quot;:&quot;tasuku ba:&quot;},{&quot;translateID&quot;:172669,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;диспетчер задач или заданий&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;タスクディスパッチャ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たすくでぃすぱっちゃ&quot;,&quot;transliteration&quot;:&quot;tasukudisupaccha&quot;},{&quot;translateID&quot;:365835,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;ЭВМ для деловых или коммерческих задач&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;会計用電子計算機&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かいけいようでんしけいさんき&quot;,&quot;transliteration&quot;:&quot;kaikeiyoudenshikeisanki&quot;},{&quot;translateID&quot;:248164,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;режим решения задач пользователя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;プロブレムモード&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぷろぶれむもーど&quot;,&quot;transliteration&quot;:&quot;puroburemumo:do&quot;},{&quot;translateID&quot;:85796,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;ЭВМ для деловых или коммерческих задач&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;オフコン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おふこん&quot;,&quot;transliteration&quot;:&quot;ofukon&quot;},{&quot;translateID&quot;:549390,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;компьютер для коммерческих задач&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;自営機器&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じえいきき&quot;,&quot;transliteration&quot;:&quot;jieikiki&quot;},{&quot;translateID&quot;:172643,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;последовательность задач&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;タスク シーケンス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たすく しーけんす&quot;,&quot;transliteration&quot;:&quot;tasuku shi:kensu&quot;},{&quot;translateID&quot;:172659,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;список поиска рабочей области задач&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;タスク ワークスペース ロケーター一覧&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たすく わーくすぺーす ろけーたーいちらん&quot;,&quot;transliteration&quot;:&quot;tasuku wa:kusupe:su roke:ta:ichiran&quot;},{&quot;translateID&quot;:283658,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;мастер настраиваемых задач&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ユーザー設定タスク ウィザード&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ゆーざーせっていたすくうぃざーど&quot;,&quot;transliteration&quot;:&quot;yu:za:setteitasukuuぃza:do&quot;},{&quot;translateID&quot;:518031,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;очередь задач&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;作業項目キュー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さぎょうこうもくきゅー&quot;,&quot;transliteration&quot;:&quot;sagyoukoumokukyu:&quot;},{&quot;translateID&quot;:878563,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;область для расположения задач&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;問題領域&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;もんだいりょういき&quot;,&quot;transliteration&quot;:&quot;mondairyouiki&quot;},{&quot;translateID&quot;:270676,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;совместимое выполнение задач&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;マルチタスク操作&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まるちたすくそうさ&quot;,&quot;transliteration&quot;:&quot;maruchitasukusousa&quot;},{&quot;translateID&quot;:172710,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;очередь Задач&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;タスク待ち行列&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たすくまちぎょうれつ&quot;,&quot;transliteration&quot;:&quot;tasukumachigyouretsu&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="задач" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

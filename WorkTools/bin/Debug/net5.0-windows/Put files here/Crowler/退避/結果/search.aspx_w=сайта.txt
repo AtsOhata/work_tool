@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	сайта - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,сайта" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u0441%u0430%u0439%u0442%u0430" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV044Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNGB0LDQudGC0LBkAgMPZBYIAgIPZBYEAgEPFgIeA3NyYwUPLi4vaW1nL2xvZ28ucG5nZAIFDxYCHgRocmVmBQ4uLi8/bGFuZz1ydS1SVWQCBA8WAh4HVmlzaWJsZWdkAgYPFgIfA2hkAgcPZBYIZg8WAh8DaGQCAQ8WAh8DaGQCAg8WAh8DaGQCBQ8WAh8DaGRk5Z4E953Q8HknEhwhOYpL2SOUwcs=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAV4mp7N8YaYMp/2B1CEIGQjlIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/tWm99JSuCW/LkMOaNA4lBsu7mSv" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:false,&quot;Phrases&quot;:[{&quot;translateID&quot;:130777,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;открытие сайта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;サイト開設&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さいとかいせつ&quot;,&quot;transliteration&quot;:&quot;saitokaisetsu&quot;},{&quot;translateID&quot;:130602,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;код сайта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;サイト コード&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さいとこーど&quot;,&quot;transliteration&quot;:&quot;saitoko:do&quot;},{&quot;translateID&quot;:130617,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;сервер базы данных сайта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;サイト データベース サーバー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さいとでーたべーすさーばー&quot;,&quot;transliteration&quot;:&quot;saitode:tabe:susa:ba:&quot;},{&quot;translateID&quot;:130778,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;правила назначения сайта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;サイト割り当ての規則&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さいとわりあてのきそく&quot;,&quot;transliteration&quot;:&quot;saitowariatenokisoku&quot;},{&quot;translateID&quot;:130607,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;файл параметров сайта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;サイト コントロール ファイル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さいと こんとろーる ふぁいる&quot;,&quot;transliteration&quot;:&quot;saito kontoro:ru fairu&quot;},{&quot;translateID&quot;:130621,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;правило пути сайта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;サイト パスのルール&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さいと ぱすのるーる&quot;,&quot;transliteration&quot;:&quot;saito pasunoru:ru&quot;},{&quot;translateID&quot;:130601,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;код сайта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;サイト コード&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さいと こーど&quot;,&quot;transliteration&quot;:&quot;saito ko:do&quot;},{&quot;translateID&quot;:130616,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;сервер базы данных сайта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;サイト データベース サーバー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さいと でーたべーす さーばー&quot;,&quot;transliteration&quot;:&quot;saito de:tabe:su sa:ba:&quot;},{&quot;translateID&quot;:29514,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;Параметры cookie можно изменить для каждого сайта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;Cokkie 設定はそれぞれのサイトに適用されます&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;Cokkie せっていはそれぞれのさいとにてきようされます&quot;,&quot;transliteration&quot;:&quot;Cokkie setteihasorezorenosaitonitekiyousaremasu&quot;},{&quot;translateID&quot;:130600,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;гейт-сервер сайта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;サイト ゲート&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さいと げーと&quot;,&quot;transliteration&quot;:&quot;saito ge:to&quot;},{&quot;translateID&quot;:130614,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;роль системы сайта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;サイト システムの役割&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さいとしすてむのやくわり&quot;,&quot;transliteration&quot;:&quot;saitoshisutemunoyakuwari&quot;},{&quot;translateID&quot;:854849,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;Принимать только с посещённого сайта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;訪問したサイトからの Cookie のみ受け入れる&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほうもんしたさいとからの Cookie のみうけいれる&quot;,&quot;transliteration&quot;:&quot;houmonshitasaitokarano Cookie nomiukeireru&quot;},{&quot;translateID&quot;:130599,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;клиент сайта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;サイト クライアント&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さいと くらいあんと&quot;,&quot;transliteration&quot;:&quot;saito kuraianto&quot;},{&quot;translateID&quot;:130613,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;роль системы сайта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;サイト システムの役割&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さいと しすてむのやくわり&quot;,&quot;transliteration&quot;:&quot;saito shisutemunoyakuwari&quot;},{&quot;translateID&quot;:490142,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;база данных сайта диспетчера конфигурации&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;構成マネージャ サイト データベース&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうせいまねーじゃさいとでーたべーす&quot;,&quot;transliteration&quot;:&quot;kouseimane:jasaitode:tabe:su&quot;},{&quot;translateID&quot;:127612,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;Параметры содержимого можно изменить для каждого сайта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;コンテンツ設定はそれぞれのサイトに適用されます&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こんてんつせっていはそれぞれのさいとにてきようされます&quot;,&quot;transliteration&quot;:&quot;kontentsusetteihasorezorenosaitonitekiyousaremasu&quot;},{&quot;translateID&quot;:130612,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;система сайта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;サイト システム&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さいとしすてむ&quot;,&quot;transliteration&quot;:&quot;saitoshisutemu&quot;},{&quot;translateID&quot;:130713,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;Сообщить о проблеме сайта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;サイトの問題を報告&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さいとのもんだいをほうこく&quot;,&quot;transliteration&quot;:&quot;saitonomondai o houkoku&quot;},{&quot;translateID&quot;:65207,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;система сайта управления интернет-клиентами&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;インターネット ベースのサイト システム&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いんたーねっと べーすのさいと しすてむ&quot;,&quot;transliteration&quot;:&quot;inta:netto be:sunosaito shisutemu&quot;},{&quot;translateID&quot;:130611,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;система сайта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;サイト システム&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さいと しすてむ&quot;,&quot;transliteration&quot;:&quot;saito shisutemu&quot;},{&quot;translateID&quot;:130711,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;граница сайта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;サイトの境界&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さいとのきょうかい&quot;,&quot;transliteration&quot;:&quot;saitonokyoukai&quot;},{&quot;translateID&quot;:130784,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;анализ сайта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;サイト分析&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さいとぶんせき&quot;,&quot;transliteration&quot;:&quot;saitobunseki&quot;},{&quot;translateID&quot;:130610,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;сервер сайта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;サイト サーバー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さいとさーばー&quot;,&quot;transliteration&quot;:&quot;saitosa:ba:&quot;},{&quot;translateID&quot;:130710,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;Попросите вебмастера сайта установить разрешённые cookies&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;サイトの管理者に正しい Cookie を設定するよう求めてください。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さいとのかんりしゃにただしい Cookie をせっていするようもとめてください。&quot;,&quot;transliteration&quot;:&quot;saitonokanrishanitadashii Cookie  o setteisuruyoumotometekudasai。&quot;},{&quot;translateID&quot;:130780,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;Настройки для сайта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;サイト設定&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さいとせってい&quot;,&quot;transliteration&quot;:&quot;saitosettei&quot;},{&quot;translateID&quot;:130609,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;сервер сайта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;サイト サーバー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さいと さーばー&quot;,&quot;transliteration&quot;:&quot;saito sa:ba:&quot;},{&quot;translateID&quot;:130709,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;назначение сайта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;サイトの割り当て&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さいとのわりあて&quot;,&quot;transliteration&quot;:&quot;saitonowariate&quot;},{&quot;translateID&quot;:130779,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;ограничение сайта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;サイト制限&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さいとせいげん&quot;,&quot;transliteration&quot;:&quot;saitoseigen&quot;},{&quot;translateID&quot;:130608,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;файл параметров сайта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;サイト コントロール ファイル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さいとこんとろーるふぁいる&quot;,&quot;transliteration&quot;:&quot;saitokontoro:rufairu&quot;},{&quot;translateID&quot;:130623,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;карта сайта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;サイト マップ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さいと まっぷ&quot;,&quot;transliteration&quot;:&quot;saito mappu&quot;},{&quot;translateID&quot;:751952,&quot;translationStatus&quot;:0,&quot;themeID&quot;:8,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;インターネット&quot;,&quot;word&quot;:&quot;Закрыть все кроме с этого сайта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;同ドメイン以外のタブを閉じる&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;どうどめいんいがいのたぶをとじる&quot;,&quot;transliteration&quot;:&quot;doudomeinigainotabu o tojiru&quot;},{&quot;translateID&quot;:751951,&quot;translationStatus&quot;:0,&quot;themeID&quot;:8,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;インターネット&quot;,&quot;word&quot;:&quot;Закрыть все с этого сайта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;同ドメインのタブを閉じる&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;どうどめいんのたぶをとじる&quot;,&quot;transliteration&quot;:&quot;doudomeinnotabu o tojiru&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="сайта" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

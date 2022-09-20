@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	тим - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,тим" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u0442%u0438%u043c" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAVw44Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNGC0LjQvGQCAw9kFggCAg9kFgQCAQ8WAh4Dc3JjBQ8uLi9pbWcvbG9nby5wbmdkAgUPFgIeBGhyZWYFDi4uLz9sYW5nPXJ1LVJVZAIEDxYCHgdWaXNpYmxlZ2QCBg8WAh8DaGQCBw9kFghmDxYCHwNoZAIBDxYCHwNoZAICDxYCHwNoZAIFDxYCHwNoZGS+DqlLEHRNLDHGYDIcz78P8eZZ9A==" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAVnlaouOkfVOevYcVFGz6DElIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/jEwh+XKP/LHRJbbVCXBVLQ2KsNv" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:false,&quot;Phrases&quot;:[{&quot;translateID&quot;:182844,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Ганн, Тим&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ティム・ガン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てぃむ・がん&quot;,&quot;transliteration&quot;:&quot;timu・gan&quot;},{&quot;translateID&quot;:182855,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Клер, Тим де&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ティム・デ・クレル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てぃむ・で・くれる&quot;,&quot;transliteration&quot;:&quot;timu・de・kureru&quot;},{&quot;translateID&quot;:182868,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Хортон, Тим&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ティム・ホートン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てぃむ・ほーとん&quot;,&quot;transliteration&quot;:&quot;timu・ho:ton&quot;},{&quot;translateID&quot;:182888,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Тим - паршивая овца семьи Джонсов.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ティムはジョーンズ家の厄介者だった。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てぃむはじょーんずけのやっかいものだった。&quot;,&quot;transliteration&quot;:&quot;timuhajo:nzukenoyakkaimonodatta。&quot;},{&quot;translateID&quot;:182843,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Кан, Тим&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ティム・カン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てぃむ・かん&quot;,&quot;transliteration&quot;:&quot;timu・kan&quot;},{&quot;translateID&quot;:182854,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Данкан, Тим&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ティム・ダンカン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てぃむ・だんかん&quot;,&quot;transliteration&quot;:&quot;timu・dankan&quot;},{&quot;translateID&quot;:182867,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Хоогланд, Тим&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ティム・ホーグラント&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てぃむ・ほーぐらんと&quot;,&quot;transliteration&quot;:&quot;timu・ho:guranto&quot;},{&quot;translateID&quot;:182878,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Роббинс, Тим&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ティム・ロビンス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てぃむ・ろびんす&quot;,&quot;transliteration&quot;:&quot;timu・robinsu&quot;},{&quot;translateID&quot;:182842,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Карри, Тим&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ティム・カリー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てぃむ・かりー&quot;,&quot;transliteration&quot;:&quot;timu・kari:&quot;},{&quot;translateID&quot;:182853,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Северин, Тим&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ティム・セヴェリン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てぃむ・せヴぇりん&quot;,&quot;transliteration&quot;:&quot;timu・sevuぇrin&quot;},{&quot;translateID&quot;:182866,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Хенмен, Тим&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ティム・ヘンマン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てぃむ・へんまん&quot;,&quot;transliteration&quot;:&quot;timu・henman&quot;},{&quot;translateID&quot;:182877,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Рот, Тим&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ティム・ロス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てぃむ・ろす&quot;,&quot;transliteration&quot;:&quot;timu・rosu&quot;},{&quot;translateID&quot;:182841,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;О’Рейлли, Тим&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ティム・オライリー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てぃむ・おらいりー&quot;,&quot;transliteration&quot;:&quot;timu・orairi:&quot;},{&quot;translateID&quot;:182851,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Шёльд, Тим&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ティム・スコルド&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てぃむ・すこるど&quot;,&quot;transliteration&quot;:&quot;timu・sukorudo&quot;},{&quot;translateID&quot;:182865,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Нельсон, Тим Блейк&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ティム・ブレイク・ネルソン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てぃむ・ぶれいく・ねるそん&quot;,&quot;transliteration&quot;:&quot;timu・bureiku・neruson&quot;},{&quot;translateID&quot;:182876,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Расс, Тим&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ティム・ラス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てぃむ・らす&quot;,&quot;transliteration&quot;:&quot;timu・rasu&quot;},{&quot;translateID&quot;:182836,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Аллен, Тим&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ティム・アレン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てぃむ・あれん&quot;,&quot;transliteration&quot;:&quot;timu・aren&quot;},{&quot;translateID&quot;:182846,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Краббе, Тим&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ティム・クラベー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てぃむ・くらべー&quot;,&quot;transliteration&quot;:&quot;timu・kurabe:&quot;},{&quot;translateID&quot;:182857,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Бёртон, Тим&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ティム・バートン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てぃむ・ばーとん&quot;,&quot;transliteration&quot;:&quot;timu・ba:ton&quot;},{&quot;translateID&quot;:182871,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Боровски, Тим&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ティム・ボロウスキ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てぃむ・ぼろうすき&quot;,&quot;transliteration&quot;:&quot;timu・borousuki&quot;},{&quot;translateID&quot;:182928,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Ван Паттен, Тим&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ティモシー・ヴァン・パタン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てぃもしー・ヴぁん・ぱたん&quot;,&quot;transliteration&quot;:&quot;timoshi:・van・patan&quot;},{&quot;translateID&quot;:182835,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Армстронг, Тим&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ティム・アームストロング&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てぃむ・あーむすとろんぐ&quot;,&quot;transliteration&quot;:&quot;timu・a:musutorongu&quot;},{&quot;translateID&quot;:182845,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Кук, Тим&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ティム・クック&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てぃむ・くっく&quot;,&quot;transliteration&quot;:&quot;timu・kukku&quot;},{&quot;translateID&quot;:182856,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Хардуэй, Тим&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ティム・ハーダウェイ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てぃむ・はーだうぇい&quot;,&quot;transliteration&quot;:&quot;timu・ha:dauぇi&quot;},{&quot;translateID&quot;:182869,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Поленти, Тим&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ティム・ポーレンティー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てぃむ・ぽーれんてぃー&quot;,&quot;transliteration&quot;:&quot;timu・po:renti:&quot;},{&quot;translateID&quot;:182889,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Тим остепенился после того, как женился.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ティムは結婚してから落ち着いた。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てぃむはけっこんしてからおちついた。&quot;,&quot;transliteration&quot;:&quot;timuhakekkonshitekaraochitsuita。&quot;},{&quot;translateID&quot;:182840,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Оуэнс, Тим&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ティム・オーウェンズ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てぃむ・おーうぇんず&quot;,&quot;transliteration&quot;:&quot;timu・o:uぇnzu&quot;},{&quot;translateID&quot;:182850,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Сильвия, Тим&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ティム・シルビア&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てぃむ・しるびあ&quot;,&quot;transliteration&quot;:&quot;timu・shirubia&quot;},{&quot;translateID&quot;:182864,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Ховард, Тим&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ティム・ハワード&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てぃむ・はわーど&quot;,&quot;transliteration&quot;:&quot;timu・hawa:do&quot;},{&quot;translateID&quot;:182875,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Райс, Тим&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ティム・ライス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てぃむ・らいす&quot;,&quot;transliteration&quot;:&quot;timu・raisu&quot;},{&quot;translateID&quot;:182839,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Уизерспун, Тим&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ティム・ウィザスプーン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てぃむ・うぃざすぷーん&quot;,&quot;transliteration&quot;:&quot;timu・uぃzasupu:n&quot;},{&quot;translateID&quot;:182849,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Кэхилл, Тим&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ティム・ケーヒル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てぃむ・けーひる&quot;,&quot;transliteration&quot;:&quot;timu・ke:hiru&quot;},{&quot;translateID&quot;:182863,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Пауэрс, Тим&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ティム・パワーズ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てぃむ・ぱわーず&quot;,&quot;transliteration&quot;:&quot;timu・pawa:zu&quot;},{&quot;translateID&quot;:182874,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Монтгомери, Тим&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ティム・モンゴメリ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てぃむ・もんごめり&quot;,&quot;transliteration&quot;:&quot;timu・mongomeri&quot;},{&quot;translateID&quot;:176268,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Тим Бат&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;チーム・バースFC&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちーむ・ばーすFC&quot;,&quot;transliteration&quot;:&quot;chi:mu・ba:suFC&quot;},{&quot;translateID&quot;:182838,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Визе, Тим&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ティム・ヴィーゼ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てぃむ・ヴぃーぜ&quot;,&quot;transliteration&quot;:&quot;timu・vi:ze&quot;},{&quot;translateID&quot;:182848,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Кейн, Тим&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ティム・ケイン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てぃむ・けいん&quot;,&quot;transliteration&quot;:&quot;timu・kein&quot;},{&quot;translateID&quot;:182862,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Бакли, Тим&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ティム・バックリィ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てぃむ・ばっくりぃ&quot;,&quot;transliteration&quot;:&quot;timu・bakkuriぃ&quot;},{&quot;translateID&quot;:182873,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Майотт, Тим&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ティム・メイヨット&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てぃむ・めいよっと&quot;,&quot;transliteration&quot;:&quot;timu・meiyotto&quot;},{&quot;translateID&quot;:593084,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Тим Талер, или Проданный смех&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;笑いを売った少年&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;わらいをうったしょうねん&quot;,&quot;transliteration&quot;:&quot;warai o uttashounen&quot;},{&quot;translateID&quot;:182837,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Ингольд, Тим&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ティム・インゴルド&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てぃむ・いんごるど&quot;,&quot;transliteration&quot;:&quot;timu・ingorudo&quot;},{&quot;translateID&quot;:182847,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Крул, Тим&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ティム・クルル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てぃむ・くるる&quot;,&quot;transliteration&quot;:&quot;timu・kururu&quot;},{&quot;translateID&quot;:182861,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Бернерс-Ли, Тим&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ティム・バーナーズ・リー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てぃむ・ばーなーず・りー&quot;,&quot;transliteration&quot;:&quot;timu・ba:na:zu・ri:&quot;},{&quot;translateID&quot;:182872,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Матавж, Тим&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ティム・マタヴジュ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てぃむ・またヴじゅ&quot;,&quot;transliteration&quot;:&quot;timu・matavuju&quot;},{&quot;translateID&quot;:182929,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Вуд, Тим&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ティモシー・ウッド&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てぃもしー・うっど&quot;,&quot;transliteration&quot;:&quot;timoshi:・uddo&quot;},{&quot;translateID&quot;:182852,&quot;translationStatus&quot;:0,&quot;themeID&quot;:215,&quot;groupName&quot;:&quot;人文&quot;,&quot;themeName&quot;:&quot;映画&quot;,&quot;word&quot;:&quot;Стори, Тим&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ティム・ストーリー&quot;,&quot;translationnote&quot;:&quot;映画監督&quot;,&quot;reading&quot;:&quot;てぃむ・すとーりー&quot;,&quot;transliteration&quot;:&quot;timu・suto:ri:&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="тим" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

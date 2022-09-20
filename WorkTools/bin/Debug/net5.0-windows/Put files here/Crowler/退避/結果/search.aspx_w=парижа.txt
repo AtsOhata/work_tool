@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	парижа - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,парижа" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u043f%u0430%u0440%u0438%u0436%u0430" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV244Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNC/0LDRgNC40LbQsGQCAw9kFggCAg9kFgQCAQ8WAh4Dc3JjBQ8uLi9pbWcvbG9nby5wbmdkAgUPFgIeBGhyZWYFDi4uLz9sYW5nPXJ1LVJVZAIEDxYCHgdWaXNpYmxlZ2QCBg8WAh8DaGQCBw9kFghmDxYCHwNoZAIBDxYCHwNoZAICDxYCHwNoZAIFDxYCHwNoZGQRSwW3EDGTTRpK8CqofKqw6FOngg==" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAV3wY3Mk78W2YFOs4oyo9S9lIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/v9DqYgKAZxM6bWAPDhJkSO9ZSgA" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:true,&quot;Phrases&quot;:[{&quot;translateID&quot;:218059,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;XII округ Парижа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;パリ12区&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぱり12く&quot;,&quot;transliteration&quot;:&quot;pari12ku&quot;},{&quot;translateID&quot;:218070,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;II округ Парижа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;パリ2区&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぱり2く&quot;,&quot;transliteration&quot;:&quot;pari2ku&quot;},{&quot;translateID&quot;:218470,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Мосты Парижа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;パリの橋&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぱりのはし&quot;,&quot;transliteration&quot;:&quot;parinohashi&quot;},{&quot;translateID&quot;:218482,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Музеи Парижа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;パリの博物館&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぱりのはくぶつかん&quot;,&quot;transliteration&quot;:&quot;parinohakubutsukan&quot;},{&quot;translateID&quot;:13725,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;III округ Парижа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;3区&quot;,&quot;translationnote&quot;:&quot;パリ&quot;,&quot;reading&quot;:&quot;3く&quot;,&quot;transliteration&quot;:&quot;3ku&quot;},{&quot;translateID&quot;:218058,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;XI округ Парижа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;パリ11区&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぱり11く&quot;,&quot;transliteration&quot;:&quot;pari11ku&quot;},{&quot;translateID&quot;:218068,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;XX округ Парижа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;パリ20区&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぱり20く&quot;,&quot;transliteration&quot;:&quot;pari20ku&quot;},{&quot;translateID&quot;:218469,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Церкви Парижа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;パリの教会堂&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぱりのきょうかいどう&quot;,&quot;transliteration&quot;:&quot;parinokyoukaidou&quot;},{&quot;translateID&quot;:218481,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Улицы Парижа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;パリの道路&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぱりのどうろ&quot;,&quot;transliteration&quot;:&quot;parinodouro&quot;},{&quot;translateID&quot;:10951,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;II округ Парижа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;2区&quot;,&quot;translationnote&quot;:&quot;パリ&quot;,&quot;reading&quot;:&quot;2く&quot;,&quot;transliteration&quot;:&quot;2ku&quot;},{&quot;translateID&quot;:218057,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;X округ Парижа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;パリ10区&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぱり10く&quot;,&quot;transliteration&quot;:&quot;pari10ku&quot;},{&quot;translateID&quot;:218067,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;I округ Парижа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;パリ1区&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぱり1く&quot;,&quot;transliteration&quot;:&quot;pari1ku&quot;},{&quot;translateID&quot;:218467,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Освобождение Парижа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;パリの解放&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぱりのかいほう&quot;,&quot;transliteration&quot;:&quot;parinokaihou&quot;},{&quot;translateID&quot;:218479,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Вокзалы Парижа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;パリの鉄道駅&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぱりのてつどうえき&quot;,&quot;transliteration&quot;:&quot;parinotetsudoueki&quot;},{&quot;translateID&quot;:218608,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Мэры Парижа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;パリ市長&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぱりしちょう&quot;,&quot;transliteration&quot;:&quot;parishichou&quot;},{&quot;translateID&quot;:8746,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;XX округ Парижа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;20区&quot;,&quot;translationnote&quot;:&quot;パリ&quot;,&quot;reading&quot;:&quot;20く&quot;,&quot;transliteration&quot;:&quot;20ku&quot;},{&quot;translateID&quot;:218066,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;XIX округ Парижа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;パリ19区&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぱり19く&quot;,&quot;transliteration&quot;:&quot;pari19ku&quot;},{&quot;translateID&quot;:218077,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;IX округ Парижа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;パリ9区&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぱり9く&quot;,&quot;transliteration&quot;:&quot;pari9ku&quot;},{&quot;translateID&quot;:218478,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;География Парижа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;パリの地理&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぱりのちり&quot;,&quot;transliteration&quot;:&quot;parinochiri&quot;},{&quot;translateID&quot;:218590,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Оркестр Парижа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;パリ管弦楽団&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぱりかんげんがくだん&quot;,&quot;transliteration&quot;:&quot;parikangengakudan&quot;},{&quot;translateID&quot;:2774,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;XVI округ Парижа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;16区&quot;,&quot;translationnote&quot;:&quot;パリ&quot;,&quot;reading&quot;:&quot;16く&quot;,&quot;transliteration&quot;:&quot;16ku&quot;},{&quot;translateID&quot;:218061,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;XIV округ Парижа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;パリ14区&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぱり14く&quot;,&quot;transliteration&quot;:&quot;pari14ku&quot;},{&quot;translateID&quot;:218072,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;IV округ Парижа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;パリ4区&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぱり4く&quot;,&quot;transliteration&quot;:&quot;pari4ku&quot;},{&quot;translateID&quot;:218472,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Театры Парижа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;パリの劇場&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぱりのげきじょう&quot;,&quot;transliteration&quot;:&quot;parinogekijou&quot;},{&quot;translateID&quot;:218484,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Кладбища Парижа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;パリの墓地&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぱりのぼち&quot;,&quot;transliteration&quot;:&quot;parinobochi&quot;},{&quot;translateID&quot;:18583,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;V округ Парижа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;5区&quot;,&quot;translationnote&quot;:&quot;パリ&quot;,&quot;reading&quot;:&quot;5く&quot;,&quot;transliteration&quot;:&quot;5ku&quot;},{&quot;translateID&quot;:2431,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;XV округ Парижа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;15区&quot;,&quot;translationnote&quot;:&quot;パリ&quot;,&quot;reading&quot;:&quot;15く&quot;,&quot;transliteration&quot;:&quot;15ku&quot;},{&quot;translateID&quot;:218060,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;XIII округ Парижа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;パリ13区&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぱり13く&quot;,&quot;transliteration&quot;:&quot;pari13ku&quot;},{&quot;translateID&quot;:218071,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;III округ Парижа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;パリ3区&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぱり3く&quot;,&quot;transliteration&quot;:&quot;pari3ku&quot;},{&quot;translateID&quot;:218471,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Экономика Парижа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;パリの経済&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぱりのけいざい&quot;,&quot;transliteration&quot;:&quot;parinokeizai&quot;},{&quot;translateID&quot;:218483,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Культура Парижа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;パリの文化&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぱりのぶんか&quot;,&quot;transliteration&quot;:&quot;parinobunka&quot;},{&quot;translateID&quot;:16161,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;IV округ Парижа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;4区&quot;,&quot;translationnote&quot;:&quot;パリ&quot;,&quot;reading&quot;:&quot;4く&quot;,&quot;transliteration&quot;:&quot;4ku&quot;},{&quot;translateID&quot;:6617,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;I округ Парижа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;1区&quot;,&quot;translationnote&quot;:&quot;パリ&quot;,&quot;reading&quot;:&quot;1く&quot;,&quot;transliteration&quot;:&quot;1ku&quot;},{&quot;translateID&quot;:218065,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;XVIII округ Парижа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;パリ18区&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぱり18く&quot;,&quot;transliteration&quot;:&quot;pari18ku&quot;},{&quot;translateID&quot;:218076,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;VIII округ Парижа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;パリ8区&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぱり8く&quot;,&quot;transliteration&quot;:&quot;pari8ku&quot;},{&quot;translateID&quot;:218476,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Административное деление Парижа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;パリの行政区&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぱりのぎょうせいく&quot;,&quot;transliteration&quot;:&quot;parinogyouseiku&quot;},{&quot;translateID&quot;:218587,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Османизация Парижа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;パリ改造&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぱりかいぞう&quot;,&quot;transliteration&quot;:&quot;parikaizou&quot;},{&quot;translateID&quot;:27910,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;IX округ Парижа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;9区&quot;,&quot;translationnote&quot;:&quot;パリ&quot;,&quot;reading&quot;:&quot;9く&quot;,&quot;transliteration&quot;:&quot;9ku&quot;},{&quot;translateID&quot;:6488,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;XIX округ Парижа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;19区&quot;,&quot;translationnote&quot;:&quot;パリ&quot;,&quot;reading&quot;:&quot;19く&quot;,&quot;transliteration&quot;:&quot;19ku&quot;},{&quot;translateID&quot;:218064,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;XVII округ Парижа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;パリ17区&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぱり17く&quot;,&quot;transliteration&quot;:&quot;pari17ku&quot;},{&quot;translateID&quot;:218075,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;VII округ Парижа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;パリ7区&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぱり7く&quot;,&quot;transliteration&quot;:&quot;pari7ku&quot;},{&quot;translateID&quot;:218475,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Площади Парижа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;パリの広場&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぱりのひろば&quot;,&quot;transliteration&quot;:&quot;parinohiroba&quot;},{&quot;translateID&quot;:218565,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Из Парижа с любовью&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;パリより愛をこめて&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぱりよりあいをこめて&quot;,&quot;transliteration&quot;:&quot;pariyoriai o komete&quot;},{&quot;translateID&quot;:25562,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;VIII округ Парижа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;8区&quot;,&quot;translationnote&quot;:&quot;パリ&quot;,&quot;reading&quot;:&quot;8く&quot;,&quot;transliteration&quot;:&quot;8ku&quot;},{&quot;translateID&quot;:3730,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;XVIII округ Парижа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;18区&quot;,&quot;translationnote&quot;:&quot;パリ&quot;,&quot;reading&quot;:&quot;18く&quot;,&quot;transliteration&quot;:&quot;18ku&quot;},{&quot;translateID&quot;:218063,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;XVI округ Парижа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;パリ16区&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぱり16く&quot;,&quot;transliteration&quot;:&quot;pari16ku&quot;},{&quot;translateID&quot;:218074,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;VI округ Парижа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;パリ6区&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぱり6く&quot;,&quot;transliteration&quot;:&quot;pari6ku&quot;},{&quot;translateID&quot;:218474,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Транспорт Парижа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;パリの交通&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぱりのこうつう&quot;,&quot;transliteration&quot;:&quot;parinokoutsuu&quot;},{&quot;translateID&quot;:218512,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;До Парижа пятьдесят километров.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;パリまで50キロです。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぱりまで50きろです。&quot;,&quot;transliteration&quot;:&quot;parimade50kirodesu。&quot;},{&quot;translateID&quot;:23230,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;VII округ Парижа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;7区&quot;,&quot;translationnote&quot;:&quot;パリ&quot;,&quot;reading&quot;:&quot;7く&quot;,&quot;transliteration&quot;:&quot;7ku&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="парижа" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

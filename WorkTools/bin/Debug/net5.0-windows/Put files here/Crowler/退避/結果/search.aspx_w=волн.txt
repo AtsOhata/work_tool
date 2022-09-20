@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	волн - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,волн" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u0432%u043e%u043b%u043d" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAVy44Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNCy0L7Qu9C9ZAIDD2QWCAICD2QWBAIBDxYCHgNzcmMFDy4uL2ltZy9sb2dvLnBuZ2QCBQ8WAh4EaHJlZgUOLi4vP2xhbmc9cnUtUlVkAgQPFgIeB1Zpc2libGVnZAIGDxYCHwNoZAIHD2QWCGYPFgIfA2hkAgEPFgIfA2hkAgIPFgIfA2hkAgUPFgIfA2hkZD1uUNtSPlgz5ERN+QzeTGtfYv/R" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAUEpZeziGUBZTPj4Q5r30KrlIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/vN9wZ9F4dc5gSaqf0GiHVZECrB9" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:true,&quot;Phrases&quot;:[{&quot;translateID&quot;:779194,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;движение волн&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;波動&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はどう&quot;,&quot;transliteration&quot;:&quot;hadou&quot;},{&quot;translateID&quot;:814056,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;носимое по воле волн&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;漂流船&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひょうりゅうせん&quot;,&quot;transliteration&quot;:&quot;hyouryuusen&quot;},{&quot;translateID&quot;:778993,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;высота волн&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;波高&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はこう&quot;,&quot;transliteration&quot;:&quot;hakou&quot;},{&quot;translateID&quot;:842314,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Поляризация волн&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;偏光&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;へんこう&quot;,&quot;transliteration&quot;:&quot;henkou&quot;},{&quot;translateID&quot;:778991,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;блеск волн&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;波光&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はこう&quot;,&quot;transliteration&quot;:&quot;hakou&quot;},{&quot;translateID&quot;:827325,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;быть игрушкой ветра и волн&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;風浪にもてあそばれる&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふうろうにもてあそばれる&quot;,&quot;transliteration&quot;:&quot;fuurounimoteasobareru&quot;},{&quot;translateID&quot;:778838,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Море Волн&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;波の海&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なみのうみ&quot;,&quot;transliteration&quot;:&quot;naminoumi&quot;},{&quot;translateID&quot;:827141,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;быть игрушкой ветра и волн&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;風波に翻弄される&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふうはにほんろうされる&quot;,&quot;transliteration&quot;:&quot;fuuhanihonrousareru&quot;},{&quot;translateID&quot;:389361,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Интерференция волн&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;干渉&quot;,&quot;translationnote&quot;:&quot;物理学&quot;,&quot;reading&quot;:&quot;かんしょう&quot;,&quot;transliteration&quot;:&quot;kanshou&quot;},{&quot;translateID&quot;:779274,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;шум волн у изголовья&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;波枕&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なみまくら&quot;,&quot;transliteration&quot;:&quot;namimakura&quot;},{&quot;translateID&quot;:223128,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;узкий пучок волн&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ビーム&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;びーむ&quot;,&quot;transliteration&quot;:&quot;bi:mu&quot;},{&quot;translateID&quot;:779257,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;брызги от волн&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;波飛洙&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なみしぶき&quot;,&quot;transliteration&quot;:&quot;namishibuki&quot;},{&quot;translateID&quot;:650890,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;много волн&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;千波万波&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せんぱばんぱ&quot;,&quot;transliteration&quot;:&quot;senpabanpa&quot;},{&quot;translateID&quot;:778834,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;шум волн&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;波の音&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なみのおと&quot;,&quot;transliteration&quot;:&quot;naminooto&quot;},{&quot;translateID&quot;:919499,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;шум волн&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;濤声&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とうせい&quot;,&quot;transliteration&quot;:&quot;tousei&quot;},{&quot;translateID&quot;:778829,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;по воле волн&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;波のまにまに&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なみのまにまに&quot;,&quot;transliteration&quot;:&quot;naminomanimani&quot;},{&quot;translateID&quot;:779320,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;непрерывный ряд волн&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;波列&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はれつ&quot;,&quot;transliteration&quot;:&quot;haretsu&quot;},{&quot;translateID&quot;:778828,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;во власти волн&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;波のまにまに&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なみのまにまに&quot;,&quot;transliteration&quot;:&quot;naminomanimani&quot;},{&quot;translateID&quot;:779317,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Энергия волн океана&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;波力&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なみりょく&quot;,&quot;transliteration&quot;:&quot;namiryoku&quot;},{&quot;translateID&quot;:778826,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;изгибы волн&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;波のうね&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なみのうね&quot;,&quot;transliteration&quot;:&quot;naminoune&quot;},{&quot;translateID&quot;:779316,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Энергия волн&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;波力&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なみりょく&quot;,&quot;transliteration&quot;:&quot;namiryoku&quot;},{&quot;translateID&quot;:779168,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;мультиплексирование по длинам волн&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;波長分割多重伝送方式&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はちょうぶんかつたじゅうでんそうほうしき&quot;,&quot;transliteration&quot;:&quot;hachoubunkatsutajuudensouhoushiki&quot;},{&quot;translateID&quot;:70115,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;преобразование элементарных волн&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ウェーブレット変換&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;うぇーぶれっとへんかん&quot;,&quot;transliteration&quot;:&quot;uぇ:burettohenkan&quot;},{&quot;translateID&quot;:36852,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;мультиплексирование по длинам волн&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;WDM&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;WDM&quot;,&quot;transliteration&quot;:&quot;WDM&quot;},{&quot;translateID&quot;:159463,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;скорости поперечных волн&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ずり速度&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ずりそくど&quot;,&quot;transliteration&quot;:&quot;zurisokudo&quot;},{&quot;translateID&quot;:735126,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;измеритель скорости распространения волн&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;伝搬速度&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;でんぱんそくど&quot;,&quot;transliteration&quot;:&quot;denpansokudo&quot;},{&quot;translateID&quot;:778839,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;сложение волн&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;波の干渉&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なみのかんしょう&quot;,&quot;transliteration&quot;:&quot;naminokanshou&quot;},{&quot;translateID&quot;:279138,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;трансформатор типов волн&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;モード転換器&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;もーどてんかんき&quot;,&quot;transliteration&quot;:&quot;mo:dotenkanki&quot;},{&quot;translateID&quot;:279145,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;трансформатор типов волн&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;モード変換器&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;もーどへんかんき&quot;,&quot;transliteration&quot;:&quot;mo:dohenkanki&quot;},{&quot;translateID&quot;:558361,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;передача за счёт ионосферных волн наклонного падения&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;斜め入射送信&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ななめにゅうしゃそうしん&quot;,&quot;transliteration&quot;:&quot;nanamenyuushasoushin&quot;},{&quot;translateID&quot;:697948,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;распространение коротких волн&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;短波電波伝搬&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たんぱでんぱでんぱん&quot;,&quot;transliteration&quot;:&quot;tanpadenpadenpan&quot;},{&quot;translateID&quot;:350424,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;усилитель акустических волн&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;音波増幅器&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おんぱぞうふくき&quot;,&quot;transliteration&quot;:&quot;onpazoufukuki&quot;},{&quot;translateID&quot;:497868,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;распространение волн высокочастотного диапазона&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;高周波伝搬&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうしゅうはでんぱん&quot;,&quot;transliteration&quot;:&quot;koushuuhadenpan&quot;},{&quot;translateID&quot;:779325,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;серия сейсмических волн&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;波列&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なみれつ&quot;,&quot;transliteration&quot;:&quot;namiretsu&quot;},{&quot;translateID&quot;:489252,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;направленное распространение волн&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;拘束伝搬&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうそくでんぱん&quot;,&quot;transliteration&quot;:&quot;kousokudenpan&quot;},{&quot;translateID&quot;:699576,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;теория волн упругости в твёрдых телах&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;弾性動力学&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;だんせいどうりょくがく&quot;,&quot;transliteration&quot;:&quot;danseidouryokugaku&quot;},{&quot;translateID&quot;:779321,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;цуг волн&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;波列&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なみれつ&quot;,&quot;transliteration&quot;:&quot;namiretsu&quot;},{&quot;translateID&quot;:779238,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;распространение волн&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;波動伝搬&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はどうでんぱん&quot;,&quot;transliteration&quot;:&quot;hadoudenpan&quot;},{&quot;translateID&quot;:779234,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;скорость волн&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;波動速度&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はどうそくど&quot;,&quot;transliteration&quot;:&quot;hadousokudo&quot;},{&quot;translateID&quot;:778886,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;серия волн&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;波群&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なみぐん&quot;,&quot;transliteration&quot;:&quot;namigun&quot;},{&quot;translateID&quot;:793450,&quot;translationStatus&quot;:0,&quot;themeID&quot;:32,&quot;groupName&quot;:&quot;土木&quot;,&quot;themeName&quot;:&quot;地盤工学&quot;,&quot;word&quot;:&quot;отраженных волн метод&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;反射法地震探査&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はんしゃほうじしんたんさ&quot;,&quot;transliteration&quot;:&quot;hanshahoujishintansa&quot;},{&quot;translateID&quot;:787447,&quot;translationStatus&quot;:0,&quot;themeID&quot;:44,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;航空宇宙&quot;,&quot;word&quot;:&quot;взрывное возбуждение волн&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;爆発&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ばくはつ&quot;,&quot;transliteration&quot;:&quot;bakuhatsu&quot;},{&quot;translateID&quot;:581378,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;ветер в направлении распространения волн&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;順風&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じゅんぷう&quot;,&quot;transliteration&quot;:&quot;junpuu&quot;},{&quot;translateID&quot;:35830,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;потери при распространении волн&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;TL&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;TL&quot;,&quot;transliteration&quot;:&quot;TL&quot;},{&quot;translateID&quot;:497802,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;частота десятиметрового диапазона волн&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;高周波&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうしゅうは&quot;,&quot;transliteration&quot;:&quot;koushuuha&quot;},{&quot;translateID&quot;:349493,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;спектр звуковых волн&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;音のスペクトル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おとのすぺくとる&quot;,&quot;transliteration&quot;:&quot;otonosupekutoru&quot;},{&quot;translateID&quot;:443060,&quot;translationStatus&quot;:0,&quot;themeID&quot;:49,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;石油・ガス&quot;,&quot;word&quot;:&quot;метод преломленных волн&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;屈折法&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;くっせつほう&quot;,&quot;transliteration&quot;:&quot;kussetsuhou&quot;},{&quot;translateID&quot;:443062,&quot;translationStatus&quot;:0,&quot;themeID&quot;:50,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;金属&quot;,&quot;word&quot;:&quot;метод преломленных волн&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;屈折法&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;くっせつほう&quot;,&quot;transliteration&quot;:&quot;kussetsuhou&quot;},{&quot;translateID&quot;:779326,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ряд волн&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;波連&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なみれん&quot;,&quot;transliteration&quot;:&quot;namiren&quot;},{&quot;translateID&quot;:779167,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;таблица длин волн&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;波長表&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はちょうひょう&quot;,&quot;transliteration&quot;:&quot;hachouhyou&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="волн" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

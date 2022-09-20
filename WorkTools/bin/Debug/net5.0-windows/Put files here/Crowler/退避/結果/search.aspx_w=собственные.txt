@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	собственные - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,собственные" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u0441%u043e%u0431%u0441%u0442%u0432%u0435%u043d%u043d%u044b%u0435" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAWAAeODreOCt+OCouiqnizml6XmnKzoqp4s44Kq44Oz44Op44Kk44OzLOi+nuabuCzovp7lhbgs5ZKM6ZyyLOe/u+iosyzjg63jgrfjgqLoqp7oqLMs44Ot44K344Ki6Kqe44GnLOmcsuiosyzRgdC+0LHRgdGC0LLQtdC90L3Ri9C1ZAIDD2QWCAICD2QWBAIBDxYCHgNzcmMFDy4uL2ltZy9sb2dvLnBuZ2QCBQ8WAh4EaHJlZgUOLi4vP2xhbmc9cnUtUlVkAgQPFgIeB1Zpc2libGVnZAIGDxYCHwNoZAIHD2QWCGYPFgIfA2hkAgEPFgIfA2hkAgIPFgIfA2hkAgUPFgIfA2hkZDZRzINzUYb+9KuueVvB3IvH5O09" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAUCpxGCrKfkvf8nwssIpuRblIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/kSy4Uczv3Iatj9kLO0TXJejKxS5" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:false,&quot;Phrases&quot;:[{&quot;translateID&quot;:757526,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;живущий на собственные средства&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;独立生計者&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;どくりつせいけいしゃ&quot;,&quot;transliteration&quot;:&quot;dokuritsuseikeisha&quot;},{&quot;translateID&quot;:757412,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;становиться на собственные ноги&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;独立する&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;どくりつする&quot;,&quot;transliteration&quot;:&quot;dokuritsusuru&quot;},{&quot;translateID&quot;:717297,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;заимствовать положительное у других и преодолевать свои собственные недостатки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;長を採って短を補う&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちょうをとってたんをおぎなう&quot;,&quot;transliteration&quot;:&quot;chou o tottetan o oginau&quot;},{&quot;translateID&quot;:530602,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;даже у детей есть свои собственные желания&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;子供にもそれ相応の欲がある&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こどもにもそれそうおうのよくがある&quot;,&quot;transliteration&quot;:&quot;kodomonimosoresouounoyokugaaru&quot;},{&quot;translateID&quot;:689635,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Большинство компаний имеют свои собственные профсоюзы.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;大抵の会社には労働組合がある。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たいていのかいしゃにはろうどうくみあいがある。&quot;,&quot;transliteration&quot;:&quot;taiteinokaishaniharoudoukumiaigaaru。&quot;},{&quot;translateID&quot;:538803,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;собственные вещи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;私物&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しぶつ&quot;,&quot;transliteration&quot;:&quot;shibutsu&quot;},{&quot;translateID&quot;:565314,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;передача в собственные руки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;手渡し&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てわたし&quot;,&quot;transliteration&quot;:&quot;tewatashi&quot;},{&quot;translateID&quot;:553014,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;собственные силы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;自力&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じりき&quot;,&quot;transliteration&quot;:&quot;jiriki&quot;},{&quot;translateID&quot;:193161,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;У каждого народа есть свои собственные мифы.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;どの民族も独自の神話を持っている。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;どのみんぞくもどくじのしんわをもっている。&quot;,&quot;transliteration&quot;:&quot;donominzokumodokujinoshinwa o motteiru。&quot;},{&quot;translateID&quot;:473077,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Собственные векторы, значения и пространства&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;固有値&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こゆうち&quot;,&quot;transliteration&quot;:&quot;koyuuchi&quot;},{&quot;translateID&quot;:473087,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;задача на собственные значения&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;固有値問題&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こゆうちもんだい&quot;,&quot;transliteration&quot;:&quot;koyuuchimondai&quot;},{&quot;translateID&quot;:760915,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;собственные шумы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;内部雑音&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ないぶざつおん&quot;,&quot;transliteration&quot;:&quot;naibuzatsuon&quot;},{&quot;translateID&quot;:582589,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;собственные нужды&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;所内用&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ところないよう&quot;,&quot;transliteration&quot;:&quot;tokoronaiyou&quot;},{&quot;translateID&quot;:552735,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;собственные колебания&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;自由振動&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じゆうしんどう&quot;,&quot;transliteration&quot;:&quot;jiyuushindou&quot;},{&quot;translateID&quot;:473056,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;собственные колебания&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;固有振動&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こゆうしんどう&quot;,&quot;transliteration&quot;:&quot;koyuushindou&quot;},{&quot;translateID&quot;:154652,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;задача на собственные значения&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ステュルム-リウヴィルの問題&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;すてゅるむ-りうゔぃるのもんだい&quot;,&quot;transliteration&quot;:&quot;suteゅrumu-riuゔぃrunomondai&quot;},{&quot;translateID&quot;:473092,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;собственные подошвенные пальцевые артерии&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;固有底側趾動脈&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こゆうていそくしどうみゃく&quot;,&quot;transliteration&quot;:&quot;koyuuteisokushidoumyaku&quot;},{&quot;translateID&quot;:473091,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;собственные подошвенные пальцевые нервы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;固有底側趾神経&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こゆうていそくししんけい&quot;,&quot;transliteration&quot;:&quot;koyuuteisokushishinkei&quot;},{&quot;translateID&quot;:320721,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;собственные железы желудка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;胃底腺&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いていせん&quot;,&quot;transliteration&quot;:&quot;iteisen&quot;},{&quot;translateID&quot;:473090,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;собственные подошвенные пальцевые артерии&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;固有底側指動脈&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こゆうていそくしどうみゃく&quot;,&quot;transliteration&quot;:&quot;koyuuteisokushidoumyaku&quot;},{&quot;translateID&quot;:320456,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;собственные железы желудка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;胃酸分泌腺&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いさんぶんぴせん&quot;,&quot;transliteration&quot;:&quot;isanbunpisen&quot;},{&quot;translateID&quot;:473089,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;собственные подошвенные пальцевые нервы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;固有底側指神経&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こゆうていそくししんけい&quot;,&quot;transliteration&quot;:&quot;koyuuteisokushishinkei&quot;},{&quot;translateID&quot;:320455,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;собственные железы желудка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;胃酸分泌腺&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いさんぶんぴつせん&quot;,&quot;transliteration&quot;:&quot;isanbunpitsusen&quot;},{&quot;translateID&quot;:473044,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;собственные ладонные пальцевые артерии&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;固有掌側指動脈&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こゆうしょうそくしどうみゃく&quot;,&quot;transliteration&quot;:&quot;koyuushousokushidoumyaku&quot;},{&quot;translateID&quot;:642403,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;собственные передние пучки спинного мозга&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;脊髄の前索固有束&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せきずいのぜんさくこゆうそく&quot;,&quot;transliteration&quot;:&quot;sekizuinozensakukoyuusoku&quot;},{&quot;translateID&quot;:473043,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;собственные ладонные пальцевые нервы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;固有掌側指神経&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こゆうしょうそくししんけい&quot;,&quot;transliteration&quot;:&quot;koyuushousokushishinkei&quot;},{&quot;translateID&quot;:642401,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;собственные передние пучки спинного мозга&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;脊髄の前固有束&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せきずいのぜんこゆうそく&quot;,&quot;transliteration&quot;:&quot;sekizuinozenkoyuusoku&quot;},{&quot;translateID&quot;:657520,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;собственные передние пучки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;前固有束&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぜんこゆうそく&quot;,&quot;transliteration&quot;:&quot;zenkoyuusoku&quot;},{&quot;translateID&quot;:473115,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;собственные мышцы спины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;固有背筋&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こゆうはいきん&quot;,&quot;transliteration&quot;:&quot;koyuuhaikin&quot;},{&quot;translateID&quot;:657677,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;собственные передние пучки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;前索固有束&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぜんさくこゆうそく&quot;,&quot;transliteration&quot;:&quot;zensakukoyuusoku&quot;},{&quot;translateID&quot;:473134,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;собственные артерии улитки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;固有蝸牛動脈&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こゆうかぎゅうどうみゃく&quot;,&quot;transliteration&quot;:&quot;koyuukagyuudoumyaku&quot;},{&quot;translateID&quot;:434463,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;собственные мышечные фасции&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;筋の固有筋膜&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きんのこゆうきんまく&quot;,&quot;transliteration&quot;:&quot;kinnokoyuukinmaku&quot;},{&quot;translateID&quot;:790893,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;патологическое влечение дергать собственные волосы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;抜毛癖&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ばつもうへき&quot;,&quot;transliteration&quot;:&quot;batsumouheki&quot;},{&quot;translateID&quot;:472955,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;собственные железы желудка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;固有胃腺&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こゆういせん&quot;,&quot;transliteration&quot;:&quot;koyuuisen&quot;},{&quot;translateID&quot;:401168,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;собственные мышечные фасции&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;器官固有筋の筋膜&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きかんこゆうきんのきんまく&quot;,&quot;transliteration&quot;:&quot;kikankoyuukinnokinmaku&quot;},{&quot;translateID&quot;:559165,&quot;translationStatus&quot;:0,&quot;themeID&quot;:183,&quot;groupName&quot;:&quot;経済&quot;,&quot;themeName&quot;:&quot;証券&quot;,&quot;word&quot;:&quot;собственные выкупленные акции&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;社内株&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゃないかぶ&quot;,&quot;transliteration&quot;:&quot;shanaikabu&quot;},{&quot;translateID&quot;:436833,&quot;translationStatus&quot;:0,&quot;themeID&quot;:184,&quot;groupName&quot;:&quot;経済&quot;,&quot;themeName&quot;:&quot;会計&quot;,&quot;word&quot;:&quot;выкупленные собственные акции&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;金庫株&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きんこかぶ&quot;,&quot;transliteration&quot;:&quot;kinkokabu&quot;},{&quot;translateID&quot;:197426,&quot;translationStatus&quot;:0,&quot;themeID&quot;:184,&quot;groupName&quot;:&quot;経済&quot;,&quot;themeName&quot;:&quot;会計&quot;,&quot;word&quot;:&quot;выкупленные собственные акции&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;トレジャリー・ストック&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とれじゃりーすとっく&quot;,&quot;transliteration&quot;:&quot;torejari:sutokku&quot;},{&quot;translateID&quot;:549741,&quot;translationStatus&quot;:0,&quot;themeID&quot;:184,&quot;groupName&quot;:&quot;経済&quot;,&quot;themeName&quot;:&quot;会計&quot;,&quot;word&quot;:&quot;выкупленные собственные акции&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;自己株式&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じこかぶしき&quot;,&quot;transliteration&quot;:&quot;jikokabushiki&quot;},{&quot;translateID&quot;:559166,&quot;translationStatus&quot;:0,&quot;themeID&quot;:184,&quot;groupName&quot;:&quot;経済&quot;,&quot;themeName&quot;:&quot;会計&quot;,&quot;word&quot;:&quot;выкупленные собственные акции&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;社内株&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゃないかぶ&quot;,&quot;transliteration&quot;:&quot;shanaikabu&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="собственные" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

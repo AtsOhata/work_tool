@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	случая - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,случая" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u0441%u043b%u0443%u0447%u0430%u044f" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV244Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNGB0LvRg9GH0LDRj2QCAw9kFggCAg9kFgQCAQ8WAh4Dc3JjBQ8uLi9pbWcvbG9nby5wbmdkAgUPFgIeBGhyZWYFDi4uLz9sYW5nPXJ1LVJVZAIEDxYCHgdWaXNpYmxlZ2QCBg8WAh8DaGQCBw9kFghmDxYCHwNoZAIBDxYCHwNoZAICDxYCHwNoZAIFDxYCHwNoZGTm2xbhPtdwe0pJsPBBOvkMtAOvEA==" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAUGf7Fq3ZEPnQDEk1+wLt5JlIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/gEbHD7GGDSvHwxwwAfBFZ5PODYK" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:false,&quot;Phrases&quot;:[{&quot;translateID&quot;:684270,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;выжидание случая&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;待機&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たいき&quot;,&quot;transliteration&quot;:&quot;taiki&quot;},{&quot;translateID&quot;:544099,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Жертвы несчастного случая&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;事故死した人物&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じこししたじんぶつ&quot;,&quot;transliteration&quot;:&quot;jikoshishitajinbutsu&quot;},{&quot;translateID&quot;:666729,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;тот, что подходит для данного случая&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;相応しい&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふさわしい&quot;,&quot;transliteration&quot;:&quot;fusawashii&quot;},{&quot;translateID&quot;:843538,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;жертва несчастного случая&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;変死者&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;へんししゃ&quot;,&quot;transliteration&quot;:&quot;henshisha&quot;},{&quot;translateID&quot;:356318,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;дело случая&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;加減物&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かげんもの&quot;,&quot;transliteration&quot;:&quot;kagenmono&quot;},{&quot;translateID&quot;:453129,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;искать случая&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;隙をうかがる&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;すきをうかがる&quot;,&quot;transliteration&quot;:&quot;suki o ukagaru&quot;},{&quot;translateID&quot;:168535,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;это скорее дело случая&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;それはじょうずへたよりも調子ものだ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;それはじょうずへたよりもちょうしものだ&quot;,&quot;transliteration&quot;:&quot;sorehajouzuhetayorimochoushimonoda&quot;},{&quot;translateID&quot;:684285,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;выжидать случая&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;待機する&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たいきする&quot;,&quot;transliteration&quot;:&quot;taikisuru&quot;},{&quot;translateID&quot;:843535,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;погибнуть от несчастного случая&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;変死する&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;へんしする&quot;,&quot;transliteration&quot;:&quot;henshisuru&quot;},{&quot;translateID&quot;:715429,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;дело случая&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;調子物&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちょうしもの&quot;,&quot;transliteration&quot;:&quot;choushimono&quot;},{&quot;translateID&quot;:514761,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;страхование от несчастного случая на производстве&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;災害保険&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さいがいほけん&quot;,&quot;transliteration&quot;:&quot;saigaihoken&quot;},{&quot;translateID&quot;:584939,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;страхование от несчастного случая&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;傷害保険&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょうがいほけん&quot;,&quot;transliteration&quot;:&quot;shougaihoken&quot;},{&quot;translateID&quot;:546683,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ждать случая&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;時分を窺う&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じぶんをうかがう&quot;,&quot;transliteration&quot;:&quot;jibun o ukagau&quot;},{&quot;translateID&quot;:807478,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;для непредвиденного случая&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;非常用&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひじょうよう&quot;,&quot;transliteration&quot;:&quot;hijouyou&quot;},{&quot;translateID&quot;:545759,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;дождаться случая&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;時を得る&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ときをえる&quot;,&quot;transliteration&quot;:&quot;toki o eru&quot;},{&quot;translateID&quot;:816180,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;описание данного случая или приложу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;病歴&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;びょうれき&quot;,&quot;transliteration&quot;:&quot;byoureki&quot;},{&quot;translateID&quot;:614980,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;описание данного случая или приложу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;身上調査&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しんじょうちょうさ&quot;,&quot;transliteration&quot;:&quot;shinjouchousa&quot;},{&quot;translateID&quot;:207751,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;из случая&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;の機会に&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;のきかいに&quot;,&quot;transliteration&quot;:&quot;nokikaini&quot;},{&quot;translateID&quot;:207791,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;из случая&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;の時に&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;のときに&quot;,&quot;transliteration&quot;:&quot;notokini&quot;},{&quot;translateID&quot;:404405,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;описание данного случая или приложу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;既往歴&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きおうれき&quot;,&quot;transliteration&quot;:&quot;kioureki&quot;},{&quot;translateID&quot;:592589,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;описание данного случая или приложу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;症病録&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょうびょうろく&quot;,&quot;transliteration&quot;:&quot;shoubyouroku&quot;},{&quot;translateID&quot;:544649,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;описание данного случая или приложу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;事例史&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じれいし&quot;,&quot;transliteration&quot;:&quot;jireishi&quot;},{&quot;translateID&quot;:544651,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;описание данного случая или приложу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;事歴&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ことれき&quot;,&quot;transliteration&quot;:&quot;kotoreki&quot;},{&quot;translateID&quot;:327928,&quot;translationStatus&quot;:0,&quot;themeID&quot;:115,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;精神科&quot;,&quot;word&quot;:&quot;фиксация единичного случая наблюдения&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;逸話記録&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いつわきろく&quot;,&quot;transliteration&quot;:&quot;itsuwakiroku&quot;},{&quot;translateID&quot;:544098,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;смерть от несчастного случая&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;事故死&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じこし&quot;,&quot;transliteration&quot;:&quot;jikoshi&quot;},{&quot;translateID&quot;:442545,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;смерть от несчастного случая&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;偶発死&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぐうはつし&quot;,&quot;transliteration&quot;:&quot;guuhatsushi&quot;},{&quot;translateID&quot;:115909,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;разбор конкретного случая болезни&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ケーススタディ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けーすすたでぃ&quot;,&quot;transliteration&quot;:&quot;ke:susutadi&quot;},{&quot;translateID&quot;:592607,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;анализ медицинского случая&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;症例分析&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょうれいぶんせき&quot;,&quot;transliteration&quot;:&quot;shoureibunseki&quot;},{&quot;translateID&quot;:592598,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;разбор конкретного случая болезни&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;症例研究&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょうれいけんきゅう&quot;,&quot;transliteration&quot;:&quot;shoureikenkyuu&quot;},{&quot;translateID&quot;:544643,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;разбор конкретного случая болезни&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;事例研究&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じれいけんきゅう&quot;,&quot;transliteration&quot;:&quot;jireikenkyuu&quot;},{&quot;translateID&quot;:479492,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;последствия транспортного несчастного случая&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;交通事故の続発・後遺症&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうつうじこのぞくはつ・こういしょう&quot;,&quot;transliteration&quot;:&quot;koutsuujikonozokuhatsu・kouishou&quot;},{&quot;translateID&quot;:569830,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;обследование и наблюдение после несчастного случая на производстве&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;就業中の事故後における検査及び観察&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゅうぎょうちゅうのじこごにおけるけんさおよびかんさつ&quot;,&quot;transliteration&quot;:&quot;shuugyouchuunojikogoniokerukensaoyobikansatsu&quot;},{&quot;translateID&quot;:514751,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;смерть от несчастного случая&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;災害死&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さいがいし&quot;,&quot;transliteration&quot;:&quot;saigaishi&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="случая" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

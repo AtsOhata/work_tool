@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	одна - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,одна" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u043e%u0434%u043d%u0430" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAVy44Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNC+0LTQvdCwZAIDD2QWCAICD2QWBAIBDxYCHgNzcmMFDy4uL2ltZy9sb2dvLnBuZ2QCBQ8WAh4EaHJlZgUOLi4vP2xhbmc9cnUtUlVkAgQPFgIeB1Zpc2libGVnZAIGDxYCHwNoZAIHD2QWCGYPFgIfA2hkAgEPFgIfA2hkAgIPFgIfA2hkAgUPFgIfA2hkZIarR8GQB8mj8yd4wf7S8Pv/hfqr" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAXLAQLJAo0X5DV6nS8Oe+zPlIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/hUDAjR6M9rMqYonApqT1p61hAEV" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:true,&quot;Phrases&quot;:[{&quot;translateID&quot;:863581,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;одна десятитысячная&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;万分の一&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まんぶんのいち&quot;,&quot;transliteration&quot;:&quot;manbunnoichi&quot;},{&quot;translateID&quot;:506376,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;У вас будет на эту ночь одна свободная комната?&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;今夜、部屋は空いていますか。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こんや、へやはあいていますか。&quot;,&quot;transliteration&quot;:&quot;konya、heyahaaiteimasuka。&quot;},{&quot;translateID&quot;:529422,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;одна четвёртая&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;四分一&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しぶいち&quot;,&quot;transliteration&quot;:&quot;shibuichi&quot;},{&quot;translateID&quot;:797077,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;У него три дочери: одна вышла замуж, остальные - нет.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;彼には娘が3人ある。1人は結婚しているが、あと2人は結婚していない。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かれにはむすめが3にんある。ひとりはけっこんしているが、あとふたりはけっこんしていない。&quot;,&quot;transliteration&quot;:&quot;karenihamusumega3ninaru。hitorihakekkonshiteiruga、atofutarihakekkonshiteinai。&quot;},{&quot;translateID&quot;:193140,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ни одна газета&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;どの新聞も&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;どのしんぶんも&quot;,&quot;transliteration&quot;:&quot;donoshinbunmo&quot;},{&quot;translateID&quot;:535696,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Одна из моих любимых песен - \&quot;Голодный паук\&quot;.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;私の好きな曲はハングリー・スパイダーです。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;わたしのすきなきょくははんぐりー・すぱいだーです。&quot;,&quot;transliteration&quot;:&quot;watashinosukinakyokuhahanguri:・supaida:desu。&quot;},{&quot;translateID&quot;:856625,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;одна страна&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;某国&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぼうこく&quot;,&quot;transliteration&quot;:&quot;boukoku&quot;},{&quot;translateID&quot;:199327,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;долго ни одна сторона не могла добиться решающего перевеса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;なかなか勝負がつかなかった&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なかなかしょうぶがつかなかった&quot;,&quot;transliteration&quot;:&quot;nakanakashoubugatsukanakatta&quot;},{&quot;translateID&quot;:323847,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;одна собака&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;一犬&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いっけん&quot;,&quot;transliteration&quot;:&quot;ikken&quot;},{&quot;translateID&quot;:324892,&quot;translationStatus&quot;:1,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;одна рука&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;一手&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひとて&quot;,&quot;transliteration&quot;:&quot;hitote&quot;},{&quot;translateID&quot;:325444,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;одна партия&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;一席&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いっせき&quot;,&quot;transliteration&quot;:&quot;isseki&quot;},{&quot;translateID&quot;:325673,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;одна пара&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;一足&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;1ぞく&quot;,&quot;transliteration&quot;:&quot;1zoku&quot;},{&quot;translateID&quot;:326238,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;одна выгода&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;一得&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いっとく&quot;,&quot;transliteration&quot;:&quot;ittoku&quot;},{&quot;translateID&quot;:844664,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;одна сторона&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;片面&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かためん&quot;,&quot;transliteration&quot;:&quot;katamen&quot;},{&quot;translateID&quot;:325592,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;одна прядь&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;一総&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひとふさ&quot;,&quot;transliteration&quot;:&quot;hitofusa&quot;},{&quot;translateID&quot;:327134,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;одна из спорящих сторон&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;一方&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いっぽう&quot;,&quot;transliteration&quot;:&quot;ippou&quot;},{&quot;translateID&quot;:327320,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;одна сторона&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;一面&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いちめん&quot;,&quot;transliteration&quot;:&quot;ichimen&quot;},{&quot;translateID&quot;:106652,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;одна чертверть&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;クオーター&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;くおーたー&quot;,&quot;transliteration&quot;:&quot;kuo:ta:&quot;},{&quot;translateID&quot;:812582,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;одна сотая часть&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;百分&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひゃくぶん&quot;,&quot;transliteration&quot;:&quot;hyakubun&quot;},{&quot;translateID&quot;:506045,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Ты сегодня одна пришла?&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;今日、一人で来たの？&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きょう、ひとりできたの？&quot;,&quot;transliteration&quot;:&quot;kyou、hitoridekitano？&quot;},{&quot;translateID&quot;:529396,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;одна четвёртая&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;四分の一&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;4ぶんの1&quot;,&quot;transliteration&quot;:&quot;4bunno1&quot;},{&quot;translateID&quot;:788275,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;одна восьмая&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;八分音符&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はちぶおんぷ&quot;,&quot;transliteration&quot;:&quot;hachibuonpu&quot;},{&quot;translateID&quot;:192217,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Ни одна не красива.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;どちらも美しくない。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;どちらもうつくしくない。&quot;,&quot;transliteration&quot;:&quot;dochiramoutsukushikunai。&quot;},{&quot;translateID&quot;:535241,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Мы очень надеемся, что не начнётся еще одна война.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;私たちは再び戦争が起こらないことを本当に望む。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;わたしたちはふたたびせんそうがおこらないことをほんとうにのぞむ。&quot;,&quot;transliteration&quot;:&quot;watashitachihafutatabisensougaokoranaikoto o hontouninozomu。&quot;},{&quot;translateID&quot;:831888,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;одна сотая&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;分&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぶん&quot;,&quot;transliteration&quot;:&quot;bun&quot;},{&quot;translateID&quot;:199198,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Ни одна река в мире не длиннее Нила.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ナイル川より長い川は世界中にない。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ないるがわよりながいかわはせかいじゅうにない。&quot;,&quot;transliteration&quot;:&quot;nairugawayorinagaikawahasekaijuuninai。&quot;},{&quot;translateID&quot;:323814,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;одна группа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;一群&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひとむれ&quot;,&quot;transliteration&quot;:&quot;hitomure&quot;},{&quot;translateID&quot;:324889,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;одна чашечка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;一酌&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いっしゃく&quot;,&quot;transliteration&quot;:&quot;isshaku&quot;},{&quot;translateID&quot;:325439,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;одна шлюпка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;一隻&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いっせき&quot;,&quot;transliteration&quot;:&quot;isseki&quot;},{&quot;translateID&quot;:325672,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;одна пара&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;一足&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いっそく&quot;,&quot;transliteration&quot;:&quot;issoku&quot;},{&quot;translateID&quot;:326197,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;одна ступень&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;一等&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いっとう&quot;,&quot;transliteration&quot;:&quot;ittou&quot;},{&quot;translateID&quot;:844634,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;одна сторона&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;片方&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かたえ&quot;,&quot;transliteration&quot;:&quot;katae&quot;},{&quot;translateID&quot;:325591,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;одна гроздь&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;一総&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひとふさ&quot;,&quot;transliteration&quot;:&quot;hitofusa&quot;},{&quot;translateID&quot;:327026,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;одна минута&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;一分&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いっぷん&quot;,&quot;transliteration&quot;:&quot;ippun&quot;},{&quot;translateID&quot;:327305,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;одна составная часть&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;一味&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いちみ&quot;,&quot;transliteration&quot;:&quot;ichimi&quot;},{&quot;translateID&quot;:927148,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;одна пара ножниц&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;鋏一挺&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はさみいっちょう&quot;,&quot;transliteration&quot;:&quot;hasamiicchou&quot;},{&quot;translateID&quot;:812396,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Сто и одна ночь Симона Синема&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;百一夜&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;101や&quot;,&quot;transliteration&quot;:&quot;101ya&quot;},{&quot;translateID&quot;:505083,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;одна плоть и кровь&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;骨肉&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こつにく&quot;,&quot;transliteration&quot;:&quot;kotsuniku&quot;},{&quot;translateID&quot;:529376,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;одна четвёртая часть&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;四半分&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しはんぶん&quot;,&quot;transliteration&quot;:&quot;shihanbun&quot;},{&quot;translateID&quot;:712949,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Ещё одна слежка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;張り込みプラス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はりこみぷらす&quot;,&quot;transliteration&quot;:&quot;harikomipurasu&quot;},{&quot;translateID&quot;:192215,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Мне не нравится ни одна из них.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;どちらも好きでない。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;どちらもすきでない。&quot;,&quot;transliteration&quot;:&quot;dochiramosukidenai。&quot;},{&quot;translateID&quot;:11350,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;У меня есть две собаки. Одна белая, а другая - чёрная.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;2匹犬を飼っているが、1匹は白でもう1匹は黒だ。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;2ひきいぬをかっているが、1ぴきはしろでもう1ぴきはくろだ。&quot;,&quot;transliteration&quot;:&quot;2hikiinu o katteiruga、1pikihashirodemou1pikihakuroda。&quot;},{&quot;translateID&quot;:792384,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;одна половина&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;半面&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はんめん&quot;,&quot;transliteration&quot;:&quot;hanmen&quot;},{&quot;translateID&quot;:126120,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Мне не нравится ни одна из этих шляп.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;これらの帽子はどれも気に入らない。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;これらのぼうしはどれもきにいらない。&quot;,&quot;transliteration&quot;:&quot;koreranoboushihadoremokiniiranai。&quot;},{&quot;translateID&quot;:323772,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;одна партия&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;一局&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いっきょく&quot;,&quot;transliteration&quot;:&quot;ikkyoku&quot;},{&quot;translateID&quot;:324884,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;одна комната&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;一室&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いっしつ&quot;,&quot;transliteration&quot;:&quot;isshitsu&quot;},{&quot;translateID&quot;:325438,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;одна лодка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;一隻&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いっせき&quot;,&quot;transliteration&quot;:&quot;isseki&quot;},{&quot;translateID&quot;:325548,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;одна чашка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;一膳&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いちぜん&quot;,&quot;transliteration&quot;:&quot;ichizen&quot;},{&quot;translateID&quot;:326182,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;одна труппа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;一党&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いっとう&quot;,&quot;transliteration&quot;:&quot;ittou&quot;},{&quot;translateID&quot;:844633,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;одна сторона&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;片方&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かたほう&quot;,&quot;transliteration&quot;:&quot;katahou&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="одна" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	дракона - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,дракона" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u0434%u0440%u0430%u043a%u043e%u043d%u0430" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV444Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNC00YDQsNC60L7QvdCwZAIDD2QWCAICD2QWBAIBDxYCHgNzcmMFDy4uL2ltZy9sb2dvLnBuZ2QCBQ8WAh4EaHJlZgUOLi4vP2xhbmc9cnUtUlVkAgQPFgIeB1Zpc2libGVnZAIGDxYCHwNoZAIHD2QWCGYPFgIfA2hkAgEPFgIfA2hkAgIPFgIfA2hkAgUPFgIfA2hkZPCVGtRmCdPHd5rjk/RvuQTOwnIR" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAWJFMM/xGbMN0sVt/SkHB9clIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/k3QnChe8McI56S5b2wsorvpmbWn" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:false,&quot;Phrases&quot;:[{&quot;translateID&quot;:294753,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Сигма Дракона&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;りゅう座シグマ星&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;りゅうざしぐまほし&quot;,&quot;transliteration&quot;:&quot;ryuuzashigumahoshi&quot;},{&quot;translateID&quot;:194734,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Жемчуг дракона&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ドラゴンボール&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;どらごんぼーる&quot;,&quot;transliteration&quot;:&quot;doragonbo:ru&quot;},{&quot;translateID&quot;:768233,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Гибель дракона&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;日本沈没&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にほんちんぼつ&quot;,&quot;transliteration&quot;:&quot;nihonchinbotsu&quot;},{&quot;translateID&quot;:294752,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Хи Дракона&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;りゅう座カイ星&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;りゅうざかいほし&quot;,&quot;transliteration&quot;:&quot;ryuuzakaihoshi&quot;},{&quot;translateID&quot;:194732,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Возвращение дракона&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ドラゴンへの道&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;どらごんへのみち&quot;,&quot;transliteration&quot;:&quot;doragonhenomichi&quot;},{&quot;translateID&quot;:487963,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;год 2000 Дракона&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;庚辰&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうしん&quot;,&quot;transliteration&quot;:&quot;koushin&quot;},{&quot;translateID&quot;:294751,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Йота Дракона&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;りゅう座イオタ星&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;りゅうざいおたほし&quot;,&quot;transliteration&quot;:&quot;ryuuzaiotahoshi&quot;},{&quot;translateID&quot;:194725,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Сердце дракона 2&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ドラゴンハート 新たなる旅立ち&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;どらごんはーと あらたなるたびだち&quot;,&quot;transliteration&quot;:&quot;doragonha:to aratanarutabidachi&quot;},{&quot;translateID&quot;:901608,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;божество в образе дракона&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;龍神&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;りゅうじん&quot;,&quot;transliteration&quot;:&quot;ryuujin&quot;},{&quot;translateID&quot;:294750,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;BY Дракона&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;りゅう座BY星&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;りゅうざBYほし&quot;,&quot;transliteration&quot;:&quot;ryuuzaBYhoshi&quot;},{&quot;translateID&quot;:194703,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Вариант дракона&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ドラゴン・ヴァリエーション&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;どらごん・ヴぁりえーしょん&quot;,&quot;transliteration&quot;:&quot;doragon・varie:shon&quot;},{&quot;translateID&quot;:901566,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Каннон с головой дракона&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;竜頭観音&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;りゅうずかんのん&quot;,&quot;transliteration&quot;:&quot;ryuuzukannon&quot;},{&quot;translateID&quot;:438681,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;татуировка с изображением чёрного дракона&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;倶梨伽羅紋々&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;くりからもんもん&quot;,&quot;transliteration&quot;:&quot;kurikaramonmon&quot;},{&quot;translateID&quot;:589806,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;картина с изображением летящего вверх дракона&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;昇り竜&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;のぼりりゅう&quot;,&quot;transliteration&quot;:&quot;noboriryuu&quot;},{&quot;translateID&quot;:332407,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;иметь на правой руке татуировку в виде дракона&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;右腕に竜の入れ墨をしている&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;みぎうでにりゅうのいれずみをしている&quot;,&quot;transliteration&quot;:&quot;migiudeniryuunoirezumi o shiteiru&quot;},{&quot;translateID&quot;:438680,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;изображение на мече чёрного дракона в огне&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;倶利伽羅&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;くりから&quot;,&quot;transliteration&quot;:&quot;kurikara&quot;},{&quot;translateID&quot;:294754,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Список звёзд созвездия Дракона&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;りゅう座の恒星の一覧&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;りゅうざのこうせいのいちらん&quot;,&quot;transliteration&quot;:&quot;ryuuzanokouseinoichiran&quot;},{&quot;translateID&quot;:194742,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Орден Дракона&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ドラゴン騎士団&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;どらごんきしだん&quot;,&quot;transliteration&quot;:&quot;doragonkishidan&quot;},{&quot;translateID&quot;:294749,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Переменная типа BY Дракона&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;りゅう座BY型変光星&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;りゅうざBYがたへんこうせい&quot;,&quot;transliteration&quot;:&quot;ryuuzaBYgatahenkousei&quot;},{&quot;translateID&quot;:193790,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Честь дракона&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;トム・ヤム・クン!&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とむ・やむ・くん!&quot;,&quot;transliteration&quot;:&quot;tomu・yamu・kun!&quot;},{&quot;translateID&quot;:901532,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;дворец морского дракона&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;竜宮&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;りゅうぐう&quot;,&quot;transliteration&quot;:&quot;ryuuguu&quot;},{&quot;translateID&quot;:294748,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;42 Дракона&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;りゅう座42番星&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;りゅうざ42ばんほし&quot;,&quot;transliteration&quot;:&quot;ryuuza42banhoshi&quot;},{&quot;translateID&quot;:741122,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;картина с изображением летящего вверх дракона&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;登り竜&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;のぼりりゅう&quot;,&quot;transliteration&quot;:&quot;noboriryuu&quot;},{&quot;translateID&quot;:849054,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;год 1988 Дракона&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;戊辰&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;つちのえたつ&quot;,&quot;transliteration&quot;:&quot;tsuchinoetatsu&quot;},{&quot;translateID&quot;:693224,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;год Дракона&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;辰年&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たつどし&quot;,&quot;transliteration&quot;:&quot;tatsudoshi&quot;},{&quot;translateID&quot;:101898,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Поцелуй дракона&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;キス・オブ・ザ・ドラゴン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きす・おぶ・ざ・どらごん&quot;,&quot;transliteration&quot;:&quot;kisu・obu・za・doragon&quot;},{&quot;translateID&quot;:194723,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Глаза дракона&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ドラゴンの眼&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;どらごんのめ&quot;,&quot;transliteration&quot;:&quot;doragonnome&quot;},{&quot;translateID&quot;:491281,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;год 2024 Дракона&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;甲辰&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうしん&quot;,&quot;transliteration&quot;:&quot;koushin&quot;},{&quot;translateID&quot;:775430,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Выход дракона&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;燃えよドラゴン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;もえよどらごん&quot;,&quot;transliteration&quot;:&quot;moeyodoragon&quot;},{&quot;translateID&quot;:837603,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;год 2036 Дракона&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;丙辰&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひのえたつ&quot;,&quot;transliteration&quot;:&quot;hinoetatsu&quot;},{&quot;translateID&quot;:768232,&quot;translationStatus&quot;:0,&quot;themeID&quot;:208,&quot;groupName&quot;:&quot;人文&quot;,&quot;themeName&quot;:&quot;文学&quot;,&quot;word&quot;:&quot;Гибель Дракона&quot;,&quot;wordnote&quot;:&quot;автор: Комацу Сакё, переводчик: Парнов Е.&quot;,&quot;translation&quot;:&quot;日本沈没&quot;,&quot;translationnote&quot;:&quot;小松左京&quot;,&quot;reading&quot;:&quot;にほんちんぼつ&quot;,&quot;transliteration&quot;:&quot;nihonchinbotsu&quot;},{&quot;translateID&quot;:901598,&quot;translationStatus&quot;:0,&quot;themeID&quot;:208,&quot;groupName&quot;:&quot;人文&quot;,&quot;themeName&quot;:&quot;文学&quot;,&quot;word&quot;:&quot;Клыки Дракона&quot;,&quot;wordnote&quot;:&quot;автор: Тобэ Синдзюро, переводчик: Ермакова Л.&quot;,&quot;translation&quot;:&quot;龍牙&quot;,&quot;translationnote&quot;:&quot;戸部新十郎&quot;,&quot;reading&quot;:&quot;りゅうきば&quot;,&quot;transliteration&quot;:&quot;ryuukiba&quot;},{&quot;translateID&quot;:225378,&quot;translationStatus&quot;:0,&quot;themeID&quot;:215,&quot;groupName&quot;:&quot;人文&quot;,&quot;themeName&quot;:&quot;映画&quot;,&quot;word&quot;:&quot;Как приручить дракона&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ヒックとドラゴン&quot;,&quot;translationnote&quot;:&quot;映画&quot;,&quot;reading&quot;:&quot;ひっくとどらごん&quot;,&quot;transliteration&quot;:&quot;hikkutodoragon&quot;},{&quot;translateID&quot;:229151,&quot;translationStatus&quot;:0,&quot;themeID&quot;:215,&quot;groupName&quot;:&quot;人文&quot;,&quot;themeName&quot;:&quot;映画&quot;,&quot;word&quot;:&quot;Сердце дракона&quot;,&quot;wordnote&quot;:&quot;фильм, 1985&quot;,&quot;translation&quot;:&quot;ファースト・ミッション&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふぁーすと・みっしょん&quot;,&quot;transliteration&quot;:&quot;fa:suto・misshon&quot;},{&quot;translateID&quot;:63682,&quot;translationStatus&quot;:0,&quot;themeID&quot;:215,&quot;groupName&quot;:&quot;人文&quot;,&quot;themeName&quot;:&quot;映画&quot;,&quot;word&quot;:&quot;Год дракона&quot;,&quot;wordnote&quot;:&quot;фильм&quot;,&quot;translation&quot;:&quot;イヤー・オブ・ザ・ドラゴン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いやー・おぶ・ざ・どらごん&quot;,&quot;transliteration&quot;:&quot;iya:・obu・za・doragon&quot;},{&quot;translateID&quot;:901602,&quot;translationStatus&quot;:0,&quot;themeID&quot;:215,&quot;groupName&quot;:&quot;人文&quot;,&quot;themeName&quot;:&quot;映画&quot;,&quot;word&quot;:&quot;Кулак дракона&quot;,&quot;wordnote&quot;:&quot;фильм&quot;,&quot;translation&quot;:&quot;龍拳&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;りゅうこぶし&quot;,&quot;transliteration&quot;:&quot;ryuukobushi&quot;},{&quot;translateID&quot;:194724,&quot;translationStatus&quot;:0,&quot;themeID&quot;:215,&quot;groupName&quot;:&quot;人文&quot;,&quot;themeName&quot;:&quot;映画&quot;,&quot;word&quot;:&quot;Сердце дракона&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ドラゴンハート&quot;,&quot;translationnote&quot;:&quot;映画&quot;,&quot;reading&quot;:&quot;どらごんはーと&quot;,&quot;transliteration&quot;:&quot;doragonha:to&quot;},{&quot;translateID&quot;:194705,&quot;translationStatus&quot;:0,&quot;themeID&quot;:215,&quot;groupName&quot;:&quot;人文&quot;,&quot;themeName&quot;:&quot;映画&quot;,&quot;word&quot;:&quot;Девушка с татуировкой дракона&quot;,&quot;wordnote&quot;:&quot;фильм, 2011&quot;,&quot;translation&quot;:&quot;ドラゴン・タトゥーの女&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;どらごん・たとぅーのおんな&quot;,&quot;transliteration&quot;:&quot;doragon・tatoぅ:noonna&quot;},{&quot;translateID&quot;:194718,&quot;translationStatus&quot;:0,&quot;themeID&quot;:215,&quot;groupName&quot;:&quot;人文&quot;,&quot;themeName&quot;:&quot;映画&quot;,&quot;word&quot;:&quot;Убийца дракона&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ドラゴンスレイヤー&quot;,&quot;translationnote&quot;:&quot;映画&quot;,&quot;reading&quot;:&quot;どらごんすれいやー&quot;,&quot;transliteration&quot;:&quot;doragonsureiya:&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="дракона" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	луис - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,луис" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u043b%u0443%u0438%u0441" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAVy44Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNC70YPQuNGBZAIDD2QWCAICD2QWBAIBDxYCHgNzcmMFDy4uL2ltZy9sb2dvLnBuZ2QCBQ8WAh4EaHJlZgUOLi4vP2xhbmc9cnUtUlVkAgQPFgIeB1Zpc2libGVnZAIGDxYCHwNoZAIHD2QWCGYPFgIfA2hkAgEPFgIfA2hkAgIPFgIfA2hkAgUPFgIfA2hkZI/OSIonR4D/EexZp8CFyzotb0Sd" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAUTCNFMVD9ynVIL8HRidow5lIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/oL+WfSXvU8KwTwuyQ7Ofj9g+hxa" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:true,&quot;Phrases&quot;:[{&quot;translateID&quot;:296433,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Гарсия Постиго, Луис&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ルイス・ガルシア・ポスティーゴ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;るいす・がるしあ・ぽすてぃーご&quot;,&quot;transliteration&quot;:&quot;ruisu・garushia・posuti:go&quot;},{&quot;translateID&quot;:296451,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Суарес, Луис&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ルイス・スアレス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;るいす・すあれす&quot;,&quot;transliteration&quot;:&quot;ruisu・suaresu&quot;},{&quot;translateID&quot;:296461,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Молина, Луис&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ルイス・デ・モリナ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;るいす・で・もりな&quot;,&quot;transliteration&quot;:&quot;ruisu・de・morina&quot;},{&quot;translateID&quot;:296179,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Джорден, Луис&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ルイ・ジョーダン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;るい・じょーだん&quot;,&quot;transliteration&quot;:&quot;rui・jo:dan&quot;},{&quot;translateID&quot;:296413,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Перес, Луис Альберто&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ルイス・アルベルト・ペレス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;るいす・あるべると・ぺれす&quot;,&quot;transliteration&quot;:&quot;ruisu・aruberuto・peresu&quot;},{&quot;translateID&quot;:296484,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Переа, Луис Амаранто&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ルイス・ペレア&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;るいす・ぺれあ&quot;,&quot;transliteration&quot;:&quot;ruisu・perea&quot;},{&quot;translateID&quot;:296503,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Монти, Луис&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ルイス・モンティ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;るいす・もんてぃ&quot;,&quot;transliteration&quot;:&quot;ruisu・monti&quot;},{&quot;translateID&quot;:161221,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Менотти, Сесар Луис&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;セサル・ルイス・メノッティ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せさる・るいす・めのってぃ&quot;,&quot;transliteration&quot;:&quot;sesaru・ruisu・menotteぃ&quot;},{&quot;translateID&quot;:262862,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Борхес, Хорхе Луис&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ホルヘ・ルイス・ボルヘス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほるへ・るいす・ぼるへす&quot;,&quot;transliteration&quot;:&quot;horuhe・ruisu・boruhesu&quot;},{&quot;translateID&quot;:296432,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Гарсия Фернандес, Луис&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ルイス・ガルシア・フェルナンデス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;るいす・がるしあ・ふぇるなんです&quot;,&quot;transliteration&quot;:&quot;ruisu・garushia・ferunandesu&quot;},{&quot;translateID&quot;:296449,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Салливан, Луис Генри&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ルイス・サリヴァン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;るいす・さりヴぁん&quot;,&quot;transliteration&quot;:&quot;ruisu・sarivan&quot;},{&quot;translateID&quot;:296460,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Моралес, Луис де&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ルイス・デ・モラレス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;るいす・で・もられす&quot;,&quot;transliteration&quot;:&quot;ruisu・de・moraresu&quot;},{&quot;translateID&quot;:296154,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Игнарро, Луис&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ルイ・イグナロ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;るい・いぐなろ&quot;,&quot;transliteration&quot;:&quot;rui・igunaro&quot;},{&quot;translateID&quot;:296412,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Суарес, Луис Альберто&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ルイス・アルベルト・スアレス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;るいす・あるべると・すあれす&quot;,&quot;transliteration&quot;:&quot;ruisu・aruberuto・suaresu&quot;},{&quot;translateID&quot;:296479,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Буньюэль, Луис&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ルイス・ブニュエル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;るいす・ぶにゅえる&quot;,&quot;transliteration&quot;:&quot;ruisu・bunyueru&quot;},{&quot;translateID&quot;:296502,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Моловни, Луис&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ルイス・モロウニー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;るいす・もろうにー&quot;,&quot;transliteration&quot;:&quot;ruisu・morouni:&quot;},{&quot;translateID&quot;:232070,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Касмирски, Филипе Луис&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;フィリペ・ルイス・カスミルスキ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふぃりぺ・るいす・かすみるすき&quot;,&quot;transliteration&quot;:&quot;firipe・ruisu・kasumirusuki&quot;},{&quot;translateID&quot;:259499,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Родригес Сапатеро, Хосе Луис&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ホセ・ルイス・ロドリゲス・サパテロ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほせ・るいす・ろどりげす・さぱてろ&quot;,&quot;transliteration&quot;:&quot;hose・ruisu・rodorigesu・sapatero&quot;},{&quot;translateID&quot;:296431,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Гарсия, Луис&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ルイス・ガルシア&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;るいす・がるしあ&quot;,&quot;transliteration&quot;:&quot;ruisu・garushia&quot;},{&quot;translateID&quot;:296448,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Гонсалес, Луис Оскар&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ルイス・ゴンサレス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;るいす・ごんされす&quot;,&quot;transliteration&quot;:&quot;ruisu・gonsaresu&quot;},{&quot;translateID&quot;:296459,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Пабло, Луис де&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ルイス・デ・パブロ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;るいす・で・ぱぶろ&quot;,&quot;transliteration&quot;:&quot;ruisu・de・paburo&quot;},{&quot;translateID&quot;:294675,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Компанис, Луис&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;リュイス・クンパニィス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;りゅいす・くんぱにぃす&quot;,&quot;transliteration&quot;:&quot;ryuisu・kunpaniぃsu&quot;},{&quot;translateID&quot;:296411,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Луис Альфонсо, герцог Анжуйский&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ルイス・アルフォンソ・デ・ボルボーン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;るいす・あるふぉんそ・で・ぼるぼーん&quot;,&quot;transliteration&quot;:&quot;ruisu・arufonso・de・borubo:n&quot;},{&quot;translateID&quot;:296478,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Пуэнсо, Луис&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ルイス・プエンソ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;るいす・ぷえんそ&quot;,&quot;transliteration&quot;:&quot;ruisu・puenso&quot;},{&quot;translateID&quot;:296501,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Мелендес, Луис&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ルイス・メレンデス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;るいす・めれんです&quot;,&quot;transliteration&quot;:&quot;ruisu・merendesu&quot;},{&quot;translateID&quot;:230738,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Вивес, Хуан Луис&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;フアン・ルイス・ビベス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふあん・るいす・びべす&quot;,&quot;transliteration&quot;:&quot;fuan・ruisu・bibesu&quot;},{&quot;translateID&quot;:259498,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Мендилибар, Хосе Луис&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ホセ・ルイス・メンディリバル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほせ・るいす・めんでぃりばる&quot;,&quot;transliteration&quot;:&quot;hose・ruisu・mendiribaru&quot;},{&quot;translateID&quot;:178138,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Фефферман, Чарльз Луис&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;チャールズ・フェファーマン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゃーるず・ふぇふぁーまん&quot;,&quot;transliteration&quot;:&quot;cha:ruzu・fefa:man&quot;},{&quot;translateID&quot;:296430,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Гаравито, Луис&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ルイス・ガラビート&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;るいす・がらびーと&quot;,&quot;transliteration&quot;:&quot;ruisu・garabi:to&quot;},{&quot;translateID&quot;:296447,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Госсетт, Луис&quot;,&quot;wordnote&quot;:&quot;младший&quot;,&quot;translation&quot;:&quot;ルイス・ゴセット・ジュニア&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;るいす・ごせっと・じゅにあ&quot;,&quot;transliteration&quot;:&quot;ruisu・gosetto・junia&quot;},{&quot;translateID&quot;:296458,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Нарваес, Луис де&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ルイス・デ・ナルバエス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;るいす・で・なるばえす&quot;,&quot;transliteration&quot;:&quot;ruisu・de・narubaesu&quot;},{&quot;translateID&quot;:138562,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Санто, Диого Луис&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ジオゴ・ルイス・サント&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じおご・るいす・さんと&quot;,&quot;transliteration&quot;:&quot;jiogo・ruisu・santo&quot;},{&quot;translateID&quot;:296410,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Арконада, Луис&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ルイス・アルコナーダ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;るいす・あるこなーだ&quot;,&quot;transliteration&quot;:&quot;ruisu・arukona:da&quot;},{&quot;translateID&quot;:296477,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Монтойя, Луис Фернандо&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ルイス・フェルナンド・モントージャ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;るいす・ふぇるなんど・もんとーじゃ&quot;,&quot;transliteration&quot;:&quot;ruisu・ferunando・monto:ja&quot;},{&quot;translateID&quot;:296500,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Медина Канталехо, Луис&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ルイス・メディナ・カンタレホ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;るいす・めでぃな・かんたれほ&quot;,&quot;transliteration&quot;:&quot;ruisu・medina・kantareho&quot;},{&quot;translateID&quot;:230736,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Гомес, Хуан Луис&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;フアン・ルイス・ゴメス・ロペス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふあん・るいす・ごめす・ろぺす&quot;,&quot;transliteration&quot;:&quot;fuan・ruisu・gomesu・ropesu&quot;},{&quot;translateID&quot;:259497,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Вильянуэва, Хосе Луис&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ホセ・ルイス・ビジャヌエバ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほせ・るいす・びじゃぬえば&quot;,&quot;transliteration&quot;:&quot;hose・ruisu・bijanueba&quot;},{&quot;translateID&quot;:307598,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Перейра ди Соза, Вашингтон Луис&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ワシントン・ルイス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;わしんとん・るいす&quot;,&quot;transliteration&quot;:&quot;washinton・ruisu&quot;},{&quot;translateID&quot;:173489,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Данило Луис да Силва&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ダニーロ・ルイス・ダ・シウバ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;だにーろ・るいす・だ・しうば&quot;,&quot;transliteration&quot;:&quot;dani:ro・ruisu・da・shiuba&quot;},{&quot;translateID&quot;:296436,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Бомбонато Гоуларт, Луис Карлос&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ルイス・カルロス・ゴウアート&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;るいす・かるろす・ごうあーと&quot;,&quot;transliteration&quot;:&quot;ruisu・karurosu・goua:to&quot;},{&quot;translateID&quot;:296453,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Скола, Луис&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ルイス・スコラ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;るいす・すこら&quot;,&quot;transliteration&quot;:&quot;ruisu・sukora&quot;},{&quot;translateID&quot;:296463,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Торрес, Луис Ваэс де&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ルイス・バーエス・デ・トーレス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;るいす・ばーえす・で・とーれす&quot;,&quot;transliteration&quot;:&quot;ruisu・ba:esu・de・to:resu&quot;},{&quot;translateID&quot;:296403,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Майер, Луис Барт&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ルイス・B・メイヤー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;るいす・B・めいやー&quot;,&quot;transliteration&quot;:&quot;ruisu・B・meiya:&quot;},{&quot;translateID&quot;:296419,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Уэйн, Луис Уильям&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ルイス・ウェイン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;るいす・うぇいん&quot;,&quot;transliteration&quot;:&quot;ruisu・uぇin&quot;},{&quot;translateID&quot;:296492,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Маунтбеттен, Луис&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ルイス・マウントバッテン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;るいす・まうんとばってん&quot;,&quot;transliteration&quot;:&quot;ruisu・mauntobatten&quot;},{&quot;translateID&quot;:296507,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Лики, Луис&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ルイス・リーキー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;るいす・りーきー&quot;,&quot;transliteration&quot;:&quot;ruisu・ri:ki:&quot;},{&quot;translateID&quot;:259491,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Кастильо, Хосе Луис&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ホセ・ルイス・カスティージョ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほせ・るいす・かすてぃーじょ&quot;,&quot;transliteration&quot;:&quot;hose・ruisu・kasuti:jo&quot;},{&quot;translateID&quot;:54813,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Крёбер, Алфред Луис&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;アルフレッド・L・クローバー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あるふれっど・L・くろーばー&quot;,&quot;transliteration&quot;:&quot;arufureddo・L・kuro:ba:&quot;},{&quot;translateID&quot;:171812,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Давид Луис&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ダヴィド・ルイス・モレイラ・マリーニョ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;だヴぃど・るいす・もれいら・まりーにょ&quot;,&quot;transliteration&quot;:&quot;davido・ruisu・moreira・mari:nyo&quot;},{&quot;translateID&quot;:296434,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Карниглия, Луис&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ルイス・カルニグリア&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;るいす・かるにぐりあ&quot;,&quot;transliteration&quot;:&quot;ruisu・karuniguria&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="луис" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

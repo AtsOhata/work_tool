@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	риса - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,риса" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u0440%u0438%u0441%u0430" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAVy44Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNGA0LjRgdCwZAIDD2QWCAICD2QWBAIBDxYCHgNzcmMFDy4uL2ltZy9sb2dvLnBuZ2QCBQ8WAh4EaHJlZgUOLi4vP2xhbmc9cnUtUlVkAgQPFgIeB1Zpc2libGVnZAIGDxYCHwNoZAIHD2QWCGYPFgIfA2hkAgEPFgIfA2hkAgIPFgIfA2hkAgUPFgIfA2hkZBYQKHs1btduY0O/uyY4I5oBfON+" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAX5aeg7WR9KnGHKvr8xGc2ulIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/jvpKua7bYIBjSJN0wNsoLdIs5jn" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:true,&quot;Phrases&quot;:[{&quot;translateID&quot;:356992,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;дополнительная порция риса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;加配米&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かはいまい&quot;,&quot;transliteration&quot;:&quot;kahaimai&quot;},{&quot;translateID&quot;:835642,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;кухня для варки риса пострадавшим&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;焚出し所&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たきだしどころ&quot;,&quot;transliteration&quot;:&quot;takidashidokoro&quot;},{&quot;translateID&quot;:327934,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;у риса наливаются колосья&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;稲が穂をはらむ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いねがほをはらむ&quot;,&quot;transliteration&quot;:&quot;inegaho o haramu&quot;},{&quot;translateID&quot;:327980,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;пиликуляриоз риса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;稲熱&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いもち&quot;,&quot;transliteration&quot;:&quot;imochi&quot;},{&quot;translateID&quot;:841344,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;возделывание риса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;米作&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;べいさく&quot;,&quot;transliteration&quot;:&quot;beisaku&quot;},{&quot;translateID&quot;:841439,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;кадка для риса пуста&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;米櫃が空になった&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こめびつがからになった&quot;,&quot;transliteration&quot;:&quot;komebitsugakaraninatta&quot;},{&quot;translateID&quot;:732463,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;чашка риса с жареной рыбой&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;天丼&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てんどん&quot;,&quot;transliteration&quot;:&quot;tendon&quot;},{&quot;translateID&quot;:316656,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;запасы риса на случай особой нужды&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;囲い米&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かこいごめ&quot;,&quot;transliteration&quot;:&quot;kakoigome&quot;},{&quot;translateID&quot;:708535,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;средние по скороспелости сорта риса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中手&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なかて&quot;,&quot;transliteration&quot;:&quot;nakate&quot;},{&quot;translateID&quot;:327598,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;зёрнышко риса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;一粒の米&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひとつぶのこめ&quot;,&quot;transliteration&quot;:&quot;hitotsubunokome&quot;},{&quot;translateID&quot;:327967,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;виды на урожай риса хорошие&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;稲作は良さそうだ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いなさくはよさそうだ&quot;,&quot;transliteration&quot;:&quot;inasakuhayosasouda&quot;},{&quot;translateID&quot;:841343,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;урожай риса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;米作&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;べいさく&quot;,&quot;transliteration&quot;:&quot;beisaku&quot;},{&quot;translateID&quot;:841435,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;шелушение риса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;米搗き&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こめつき&quot;,&quot;transliteration&quot;:&quot;kometsuki&quot;},{&quot;translateID&quot;:615157,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;запасы риса для замены импортных продуктов питания&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;身代り米&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;みがわりこめ&quot;,&quot;transliteration&quot;:&quot;migawarikome&quot;},{&quot;translateID&quot;:878274,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;обрушение риса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;籾摺り&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;もみずり&quot;,&quot;transliteration&quot;:&quot;momizuri&quot;},{&quot;translateID&quot;:873912,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Ватая, Риса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;綿矢りさ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;わたやりさ&quot;,&quot;transliteration&quot;:&quot;watayarisa&quot;},{&quot;translateID&quot;:598500,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;запасы риса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;常備米&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じょうびまい&quot;,&quot;transliteration&quot;:&quot;joubimai&quot;},{&quot;translateID&quot;:326811,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;чашка риса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;一飯&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いっぱん&quot;,&quot;transliteration&quot;:&quot;ippan&quot;},{&quot;translateID&quot;:327966,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;урожай риса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;稲作&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いなさく&quot;,&quot;transliteration&quot;:&quot;inasaku&quot;},{&quot;translateID&quot;:841342,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;посевы риса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;米作&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;べいさく&quot;,&quot;transliteration&quot;:&quot;beisaku&quot;},{&quot;translateID&quot;:841426,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Блюда из риса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;米料理&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;べいりょうり&quot;,&quot;transliteration&quot;:&quot;beiryouri&quot;},{&quot;translateID&quot;:526611,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;остатки риса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;残飯&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ざんぱん&quot;,&quot;transliteration&quot;:&quot;zanpan&quot;},{&quot;translateID&quot;:878273,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;зёрнышко неочищенного риса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;籾種&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;もみだね&quot;,&quot;transliteration&quot;:&quot;momidane&quot;},{&quot;translateID&quot;:816232,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;втыкаемая для обозначения границы посадки риса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;苗標&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なえじるし&quot;,&quot;transliteration&quot;:&quot;naejirushi&quot;},{&quot;translateID&quot;:504156,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;котёл для варки риса на пару&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;甑&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こしき&quot;,&quot;transliteration&quot;:&quot;koshiki&quot;},{&quot;translateID&quot;:326810,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;чашка варёного риса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;一飯&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いっぱん&quot;,&quot;transliteration&quot;:&quot;ippan&quot;},{&quot;translateID&quot;:327965,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;возделывание риса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;稲作&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いなさく&quot;,&quot;transliteration&quot;:&quot;inasaku&quot;},{&quot;translateID&quot;:841104,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;купить риса на десять иен&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;米を十円だけ買う&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こめを10えんだけかう&quot;,&quot;transliteration&quot;:&quot;kome o 10endakekau&quot;},{&quot;translateID&quot;:841419,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;кадушка для мытья риса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;米磨ぎ桶&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こめとぎおけ&quot;,&quot;transliteration&quot;:&quot;kometogioke&quot;},{&quot;translateID&quot;:477447,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;варка риса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;御飯炊き&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ごはんたき&quot;,&quot;transliteration&quot;:&quot;gohantaki&quot;},{&quot;translateID&quot;:809442,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;неприкосновенный запас риса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;備蓄米&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;びちくまい&quot;,&quot;transliteration&quot;:&quot;bichikumai&quot;},{&quot;translateID&quot;:325553,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;чашка риса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;一膳飯&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いちぜんめし&quot;,&quot;transliteration&quot;:&quot;ichizenmeshi&quot;},{&quot;translateID&quot;:795905,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;варка риса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;飯焚&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;めしたき&quot;,&quot;transliteration&quot;:&quot;meshitaki&quot;},{&quot;translateID&quot;:311252,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;скатанный из варёного риса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;握飯&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;むすび&quot;,&quot;transliteration&quot;:&quot;musubi&quot;},{&quot;translateID&quot;:327937,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;молотьба риса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;稲扱き&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いねこき&quot;,&quot;transliteration&quot;:&quot;inekoki&quot;},{&quot;translateID&quot;:327989,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;сушилка для риса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;稲木&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いなぎ&quot;,&quot;transliteration&quot;:&quot;inagi&quot;},{&quot;translateID&quot;:841347,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;возделывание риса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;米作り&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こめつくり&quot;,&quot;transliteration&quot;:&quot;kometsukuri&quot;},{&quot;translateID&quot;:918145,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;магазин по продаже толчёного риса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;搗米屋&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;つきごめや&quot;,&quot;transliteration&quot;:&quot;tsukigomeya&quot;},{&quot;translateID&quot;:522288,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;трёх чашек риса мне мало&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;三杯の飯では飽き足らない&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;3ばいのめしではあきたらない&quot;,&quot;transliteration&quot;:&quot;3bainomeshidehaakitaranai&quot;},{&quot;translateID&quot;:89516,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;кадушка для варёного риса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;お鉢&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おはち&quot;,&quot;transliteration&quot;:&quot;ohachi&quot;},{&quot;translateID&quot;:795903,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;две чашки риса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;飯二椀&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;めしにわん&quot;,&quot;transliteration&quot;:&quot;meshiniwan&quot;},{&quot;translateID&quot;:311214,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;скатанный из варёного риса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;握り飯&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にぎりめし&quot;,&quot;transliteration&quot;:&quot;nigirimeshi&quot;},{&quot;translateID&quot;:327935,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Урожай риса уже собран.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;稲の取り入れはもう済んだ。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いねのとりいれはもうすんだ。&quot;,&quot;transliteration&quot;:&quot;inenotoriirehamousunda。&quot;},{&quot;translateID&quot;:327984,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;колосья риса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;稲穂&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いなほ&quot;,&quot;transliteration&quot;:&quot;inaho&quot;},{&quot;translateID&quot;:841346,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;урожай риса в целом хороший&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;米作は一体に良い方です&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;べいさくはいったいによいかたです&quot;,&quot;transliteration&quot;:&quot;beisakuhaittainiyoikatadesu&quot;},{&quot;translateID&quot;:918142,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;кто занимается толчением риса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;搗手&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;つきて&quot;,&quot;transliteration&quot;:&quot;tsukite&quot;},{&quot;translateID&quot;:735413,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;посадка риса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;田植え&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たうえ&quot;,&quot;transliteration&quot;:&quot;taue&quot;},{&quot;translateID&quot;:816227,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;время высеивания риса в рассадник&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;苗代時&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なわしろどき&quot;,&quot;transliteration&quot;:&quot;nawashirodoki&quot;},{&quot;translateID&quot;:49123,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Африканский центр риса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;アフリカ稲センター&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あふりかいねせんたー&quot;,&quot;transliteration&quot;:&quot;afurikainesenta:&quot;},{&quot;translateID&quot;:767827,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Потребление риса в Японии падает.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;日本の米の消費は減少している。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にほんのこめのしょうひはげんしょうしている。&quot;,&quot;transliteration&quot;:&quot;nihonnokomenoshouhihagenshoushiteiru。&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="риса" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	погоды - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,погоды" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u043f%u043e%u0433%u043e%u0434%u044b" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV244Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNC/0L7Qs9C+0LTRi2QCAw9kFggCAg9kFgQCAQ8WAh4Dc3JjBQ8uLi9pbWcvbG9nby5wbmdkAgUPFgIeBGhyZWYFDi4uLz9sYW5nPXJ1LVJVZAIEDxYCHgdWaXNpYmxlZ2QCBg8WAh8DaGQCBw9kFghmDxYCHwNoZAIBDxYCHwNoZAICDxYCHwNoZAIFDxYCHwNoZGSSUdy5t1+blrTY+D/ImaZQta5d6Q==" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAUxWdRbLz+ONWYqVRGoD7dBlIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/pjpjZ7m6RQ8znRUr1hNWFnTq0jc" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:false,&quot;Phrases&quot;:[{&quot;translateID&quot;:731271,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;условия погоды&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;天気模様&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てんきもよう&quot;,&quot;transliteration&quot;:&quot;tenkimoyou&quot;},{&quot;translateID&quot;:631266,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;зонтик для любой погоды&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;晴雨兼用傘&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せいうけんようがさ&quot;,&quot;transliteration&quot;:&quot;seiukenyougasa&quot;},{&quot;translateID&quot;:859408,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;гэта для хорошей погоды&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;朴歯&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほうば&quot;,&quot;transliteration&quot;:&quot;houba&quot;},{&quot;translateID&quot;:731268,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;условия погоды&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;天気都合&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てんきつごう&quot;,&quot;transliteration&quot;:&quot;tenkitsugou&quot;},{&quot;translateID&quot;:731260,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;карта погоды&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;天気図&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てんきず&quot;,&quot;transliteration&quot;:&quot;tenkizu&quot;},{&quot;translateID&quot;:681200,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Жёсткость погоды&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;体感温度&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たいかんおんど&quot;,&quot;transliteration&quot;:&quot;taikanondo&quot;},{&quot;translateID&quot;:731267,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;состояние погоды&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;天気都合&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てんきつごう&quot;,&quot;transliteration&quot;:&quot;tenkitsugou&quot;},{&quot;translateID&quot;:731410,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;от погоды&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;天候の加減か頭が重い&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てんこうのかげんかあたまがおもい&quot;,&quot;transliteration&quot;:&quot;tenkounokagenkaatamagaomoi&quot;},{&quot;translateID&quot;:310948,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;У отца было плохое настроение, потому что из-за плохой погоды он не мог играть в гольф.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;悪天候のためゴルフができなくて、父は機嫌が悪かった。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あくてんこうのためごるふができなくて、ちちはきげんがわるかった。&quot;,&quot;transliteration&quot;:&quot;akutenkounotamegorufugadekinakute、chichihakigengawarukatta。&quot;},{&quot;translateID&quot;:731263,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;бюро погоды&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;天気相談所&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てんきそうだんじょ&quot;,&quot;transliteration&quot;:&quot;tenkisoudanjo&quot;},{&quot;translateID&quot;:731365,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Боги неба и погоды&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;天空神&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てんくうしん&quot;,&quot;transliteration&quot;:&quot;tenkuushin&quot;},{&quot;translateID&quot;:310947,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Из-за плохой погоды земледельцы потеряли много урожая.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;悪天候で農家は作物の出来が悪かった。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あくてんこうでのうかはさくもつのできがわるかった。&quot;,&quot;transliteration&quot;:&quot;akutenkoudenoukahasakumotsunodekigawarukatta。&quot;},{&quot;translateID&quot;:408212,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;карта погоды&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;気象図&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きしょうず&quot;,&quot;transliteration&quot;:&quot;kishouzu&quot;},{&quot;translateID&quot;:731274,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Прогноз погоды говорит, что завтра будет прохладнее.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;天気予報では、明日は涼しくなるそうだ。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てんきよほうでは、あしたはすずしくなるそうだ。&quot;,&quot;transliteration&quot;:&quot;tenkiyohoudeha、ashitahasuzushikunarusouda。&quot;},{&quot;translateID&quot;:56853,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;приспособленный для любой погоды&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;アン・ツー・カー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あん・つー・かー&quot;,&quot;transliteration&quot;:&quot;an・tsu:・ka:&quot;},{&quot;translateID&quot;:333439,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;в случае ненастной погоды переносится&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;雨天順延&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;うてんじゅんえん&quot;,&quot;transliteration&quot;:&quot;utenjunen&quot;},{&quot;translateID&quot;:331377,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;состояние погоды&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;陰晴&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いんせい&quot;,&quot;transliteration&quot;:&quot;insei&quot;},{&quot;translateID&quot;:731272,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;прогноз погоды&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;天気予報&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てんきよほう&quot;,&quot;transliteration&quot;:&quot;tenkiyohou&quot;},{&quot;translateID&quot;:768486,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;выжидания погоды&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;日和見&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひよりみ&quot;,&quot;transliteration&quot;:&quot;hiyorimi&quot;},{&quot;translateID&quot;:70197,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;плащ для любой погоды&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ウェザーオール・コート&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;うぇざーおーる・こーと&quot;,&quot;transliteration&quot;:&quot;uぇza:o:ru・ko:to&quot;},{&quot;translateID&quot;:408244,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;бюллетень погоды&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;気象報&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きしょうほう&quot;,&quot;transliteration&quot;:&quot;kishouhou&quot;},{&quot;translateID&quot;:731282,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Прогнозы погоды редко сбываются.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;天気予報はめったにあたらない。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てんきよほうはめったにあたらない。&quot;,&quot;transliteration&quot;:&quot;tenkiyohouhamettaniataranai。&quot;},{&quot;translateID&quot;:842521,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;период солнечной погоды&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;偏照り&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;へんでり&quot;,&quot;transliteration&quot;:&quot;henderi&quot;},{&quot;translateID&quot;:408148,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;условия погоды&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;気象&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きしょう&quot;,&quot;transliteration&quot;:&quot;kishou&quot;},{&quot;translateID&quot;:731279,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Прогноз погоды говорит, что будут кратковременные ливни.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;天気予報によればにわか雨が降るそうだ。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てんきよほうによればにわかあめがふるそうだ。&quot;,&quot;transliteration&quot;:&quot;tenkiyohouniyorebaniwakaamegafurusouda。&quot;},{&quot;translateID&quot;:673459,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;местное бюро погоды&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;測候所&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そっこうじょ&quot;,&quot;transliteration&quot;:&quot;sokkoujo&quot;},{&quot;translateID&quot;:408231,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;бюллетень погоды&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;気象通報&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きしょうつうほう&quot;,&quot;transliteration&quot;:&quot;kishoutsuuhou&quot;},{&quot;translateID&quot;:731276,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;В прогнозе погоды было сказано, что после обеда будет дождь, но его не было.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;天気予報では午後雨が降るだろうといっていたが、降らなかった。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てんきよほうではごごあめがふるだろうといっていたが、ふらなかった。&quot;,&quot;transliteration&quot;:&quot;tenkiyohoudehagogoamegafurudaroutoitteitaga、furanakatta。&quot;},{&quot;translateID&quot;:626217,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Численный прогноз погоды&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;数値予報&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;すうちよほう&quot;,&quot;transliteration&quot;:&quot;suuchiyohou&quot;},{&quot;translateID&quot;:408218,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;бюро погоды&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;気象台&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きしょうだい&quot;,&quot;transliteration&quot;:&quot;kishoudai&quot;},{&quot;translateID&quot;:731275,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Прогноз погоды оповещает, что завтра будет прохладнее.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;天気予報では、明日は涼しくなるそうだ。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てんきよほうでは、あしたはすずしくなるそうだ。&quot;,&quot;transliteration&quot;:&quot;tenkiyohoudeha、ashitahasuzushikunarusouda。&quot;},{&quot;translateID&quot;:56854,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;приспособленный для любой погоды&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;アン・ツー・カー・コート&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あん・つー・かー・こーと&quot;,&quot;transliteration&quot;:&quot;an・tsu:・ka:・ko:to&quot;},{&quot;translateID&quot;:526220,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;давно уже не было такой хорошей погоды&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;暫く振りのよい天気です&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しばらくふりのよいてんきです&quot;,&quot;transliteration&quot;:&quot;shibarakufurinoyoitenkidesu&quot;},{&quot;translateID&quot;:809182,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;прогноз погоды по трассе полёта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;飛行予報&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひこうよほう&quot;,&quot;transliteration&quot;:&quot;hikouyohou&quot;},{&quot;translateID&quot;:408202,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;водка погоды&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;気象実況報&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きしょうじっきょうほう&quot;,&quot;transliteration&quot;:&quot;kishoujikkyouhou&quot;},{&quot;translateID&quot;:582747,&quot;translationStatus&quot;:0,&quot;themeID&quot;:34,&quot;groupName&quot;:&quot;土木&quot;,&quot;themeName&quot;:&quot;基礎工学&quot;,&quot;word&quot;:&quot;бетонная смесь для жаркой погоды&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;暑中コンクリート&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょちゅうこんくりーと&quot;,&quot;transliteration&quot;:&quot;shochuukonkuri:to&quot;},{&quot;translateID&quot;:731257,&quot;translationStatus&quot;:0,&quot;themeID&quot;:82,&quot;groupName&quot;:&quot;物理&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;анализ погоды&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;天気解析&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てんきかいせき&quot;,&quot;transliteration&quot;:&quot;tenkikaiseki&quot;},{&quot;translateID&quot;:408235,&quot;translationStatus&quot;:0,&quot;themeID&quot;:82,&quot;groupName&quot;:&quot;物理&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;сводка погоды&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;気象通報&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きしょうつうほう&quot;,&quot;transliteration&quot;:&quot;kishoutsuuhou&quot;},{&quot;translateID&quot;:494029,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;спецодежда для ношения в особо неблагоприятных условиях погоды&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;荒天服&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうてんふく&quot;,&quot;transliteration&quot;:&quot;koutenfuku&quot;},{&quot;translateID&quot;:408153,&quot;translationStatus&quot;:0,&quot;themeID&quot;:146,&quot;groupName&quot;:&quot;地学&quot;,&quot;themeName&quot;:&quot;生態学&quot;,&quot;word&quot;:&quot;модель погоды&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;気象パターン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きしょうぱたーん&quot;,&quot;transliteration&quot;:&quot;kishoupata:n&quot;},{&quot;translateID&quot;:731273,&quot;translationStatus&quot;:0,&quot;themeID&quot;:146,&quot;groupName&quot;:&quot;地学&quot;,&quot;themeName&quot;:&quot;生態学&quot;,&quot;word&quot;:&quot;предсказание погоды&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;天気予報&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てんきよほう&quot;,&quot;transliteration&quot;:&quot;tenkiyohou&quot;},{&quot;translateID&quot;:731259,&quot;translationStatus&quot;:0,&quot;themeID&quot;:175,&quot;groupName&quot;:&quot;地学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;типы погоды&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;天気型&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てんきがた&quot;,&quot;transliteration&quot;:&quot;tenkigata&quot;},{&quot;translateID&quot;:502787,&quot;translationStatus&quot;:0,&quot;themeID&quot;:217,&quot;groupName&quot;:&quot;人文&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Национальная служба погоды&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;国立測候所&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こくりつそっこうじょ&quot;,&quot;transliteration&quot;:&quot;kokuritsusokkoujo&quot;},{&quot;translateID&quot;:731262,&quot;translationStatus&quot;:0,&quot;themeID&quot;:225,&quot;groupName&quot;:&quot;人文&quot;,&quot;themeName&quot;:&quot;航空&quot;,&quot;word&quot;:&quot;карта погоды&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;天気図&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てんきず&quot;,&quot;transliteration&quot;:&quot;tenkizu&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="погоды" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

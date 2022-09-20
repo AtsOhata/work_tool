@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	золота - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,золота" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u0437%u043e%u043b%u043e%u0442%u0430" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV244Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNC30L7Qu9C+0YLQsGQCAw9kFggCAg9kFgQCAQ8WAh4Dc3JjBQ8uLi9pbWcvbG9nby5wbmdkAgUPFgIeBGhyZWYFDi4uLz9sYW5nPXJ1LVJVZAIEDxYCHgdWaXNpYmxlZ2QCBg8WAh8DaGQCBw9kFghmDxYCHwNoZAIBDxYCHwNoZAICDxYCHwNoZAIFDxYCHwNoZGSnTBJtYiX/RlMrHd342nql2U6z6A==" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAXqpaPe4C89ojM5nW+u6Pb9lIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/oK4FfcGLmulAF8qMFX9eDMICjE5" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:false,&quot;Phrases&quot;:[{&quot;translateID&quot;:347504,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;сделанный из золота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;黄金造りの&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おうごんづくりの&quot;,&quot;transliteration&quot;:&quot;ougondukurino&quot;},{&quot;translateID&quot;:436617,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;слиток золота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;金塊&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きんかい&quot;,&quot;transliteration&quot;:&quot;kinkai&quot;},{&quot;translateID&quot;:347485,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;из золота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;黄金作りの&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おうごんづくりの&quot;,&quot;transliteration&quot;:&quot;ougondukurino&quot;},{&quot;translateID&quot;:437055,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;сделанный из золота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;金製の&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きんせいの&quot;,&quot;transliteration&quot;:&quot;kinseino&quot;},{&quot;translateID&quot;:741975,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;земля на вес золота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;土一升金一升&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;つち1しょうきん1しょう&quot;,&quot;transliteration&quot;:&quot;tsuchi1shoukin1shou&quot;},{&quot;translateID&quot;:437041,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;качество золота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;金性&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きんしょう&quot;,&quot;transliteration&quot;:&quot;kinshou&quot;},{&quot;translateID&quot;:438049,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;ширма с позолотой из сусального золота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;金屏風&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きんびょうぶ&quot;,&quot;transliteration&quot;:&quot;kinbyoubu&quot;},{&quot;translateID&quot;:437032,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;цвета золота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;金色の&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こんじきの&quot;,&quot;transliteration&quot;:&quot;konjikino&quot;},{&quot;translateID&quot;:514360,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;извлечение золота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;採金&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さいきん&quot;,&quot;transliteration&quot;:&quot;saikin&quot;},{&quot;translateID&quot;:436462,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;Соединения золота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;金の化合物&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きんのかごうぶつ&quot;,&quot;transliteration&quot;:&quot;kinnokagoubutsu&quot;},{&quot;translateID&quot;:436670,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;из имитированного золота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;金擬いの&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きんもどきいの&quot;,&quot;transliteration&quot;:&quot;kinmodokiino&quot;},{&quot;translateID&quot;:514359,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;добыча золота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;採金&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さいきん&quot;,&quot;transliteration&quot;:&quot;saikin&quot;},{&quot;translateID&quot;:580590,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;из чистого золота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;純金の&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じゅんきんの&quot;,&quot;transliteration&quot;:&quot;junkinno&quot;},{&quot;translateID&quot;:436669,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;имитация золота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;金擬い&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きんまがい&quot;,&quot;transliteration&quot;:&quot;kinmagai&quot;},{&quot;translateID&quot;:438033,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;утечка золота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;金流出&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きんりゅうしゅつ&quot;,&quot;transliteration&quot;:&quot;kinryuushutsu&quot;},{&quot;translateID&quot;:437031,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;цвета золота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;金色の&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きんいろの&quot;,&quot;transliteration&quot;:&quot;kinirono&quot;},{&quot;translateID&quot;:524545,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;добыча золота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;産金&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さんきん&quot;,&quot;transliteration&quot;:&quot;sankin&quot;},{&quot;translateID&quot;:437887,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;экспорт золота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;金輸出&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きんゆしゅつ&quot;,&quot;transliteration&quot;:&quot;kinyushutsu&quot;},{&quot;translateID&quot;:437028,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;цвет золота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;金色&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きんしょく&quot;,&quot;transliteration&quot;:&quot;kinshoku&quot;},{&quot;translateID&quot;:628971,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;содержание золота в монете&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;性合い&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょうあい&quot;,&quot;transliteration&quot;:&quot;shouai&quot;},{&quot;translateID&quot;:437845,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;из чистого золота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;金無垢の&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きんむくの&quot;,&quot;transliteration&quot;:&quot;kinmukuno&quot;},{&quot;translateID&quot;:437027,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;цвет золота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;金色&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きんいろ&quot;,&quot;transliteration&quot;:&quot;kiniro&quot;},{&quot;translateID&quot;:436869,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;месторождение золота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;金鉱地&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きんこうち&quot;,&quot;transliteration&quot;:&quot;kinkouchi&quot;},{&quot;translateID&quot;:437659,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;поиск золота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;金探し&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きんさがし&quot;,&quot;transliteration&quot;:&quot;kinsagashi&quot;},{&quot;translateID&quot;:436996,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;качество золота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;金質&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きんしつ&quot;,&quot;transliteration&quot;:&quot;kinshitsu&quot;},{&quot;translateID&quot;:436861,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;Общая лексика&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;залежи золота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;金鉱&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きんこう&quot;,&quot;transliteration&quot;:&quot;kinkou&quot;},{&quot;translateID&quot;:112902,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;Компьютерный&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;лоток для промывки золота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;クレードル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;くれーどる&quot;,&quot;transliteration&quot;:&quot;kure:doru&quot;},{&quot;translateID&quot;:437696,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;Компьютерный&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;точка плавления золота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;金点&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きんてん&quot;,&quot;transliteration&quot;:&quot;kinten&quot;},{&quot;translateID&quot;:437697,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;Технический&quot;,&quot;themeName&quot;:&quot;Машиностроение&quot;,&quot;word&quot;:&quot;точка затвердевания золота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;金点&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きんてん&quot;,&quot;transliteration&quot;:&quot;kinten&quot;},{&quot;translateID&quot;:785729,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;Технический&quot;,&quot;themeName&quot;:&quot;Машиностроение&quot;,&quot;word&quot;:&quot;светлый сплав золота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;白金&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はっきん&quot;,&quot;transliteration&quot;:&quot;hakkin&quot;},{&quot;translateID&quot;:436397,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;Технический&quot;,&quot;themeName&quot;:&quot;Машиностроение&quot;,&quot;word&quot;:&quot;амальгама золота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;金アマルガム&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きんあまるがむ&quot;,&quot;transliteration&quot;:&quot;kinamarugamu&quot;},{&quot;translateID&quot;:640823,&quot;translationStatus&quot;:0,&quot;themeID&quot;:49,&quot;groupName&quot;:&quot;Технический&quot;,&quot;themeName&quot;:&quot;Нефтегазовая пром.&quot;,&quot;word&quot;:&quot;заявка на разработку золота в кварцевых жилах&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;石英鉱区&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せきえいこうく&quot;,&quot;transliteration&quot;:&quot;sekieikouku&quot;},{&quot;translateID&quot;:640824,&quot;translationStatus&quot;:0,&quot;themeID&quot;:49,&quot;groupName&quot;:&quot;Технический&quot;,&quot;themeName&quot;:&quot;Нефтегазовая пром.&quot;,&quot;word&quot;:&quot;рудник жильного золота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;石英鉱山&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せきえいこうざん&quot;,&quot;transliteration&quot;:&quot;sekieikouzan&quot;},{&quot;translateID&quot;:214167,&quot;translationStatus&quot;:0,&quot;themeID&quot;:49,&quot;groupName&quot;:&quot;Технический&quot;,&quot;themeName&quot;:&quot;Нефтегазовая пром.&quot;,&quot;word&quot;:&quot;не содержащий золота кварц&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;バック&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ばっく&quot;,&quot;transliteration&quot;:&quot;bakku&quot;},{&quot;translateID&quot;:97846,&quot;translationStatus&quot;:0,&quot;themeID&quot;:50,&quot;groupName&quot;:&quot;Технический&quot;,&quot;themeName&quot;:&quot;Металлургия&quot;,&quot;word&quot;:&quot;стандарт содержания золота в сплаве&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;カラット&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;からっと&quot;,&quot;transliteration&quot;:&quot;karatto&quot;},{&quot;translateID&quot;:214304,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;Технический&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;не содержащий золота кварц&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;バッククオーツ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ばっくくおーつ&quot;,&quot;transliteration&quot;:&quot;bakkukuo:tsu&quot;},{&quot;translateID&quot;:436916,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;Химический&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;сплав золота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;金合金&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きんごうきん&quot;,&quot;transliteration&quot;:&quot;kingoukin&quot;},{&quot;translateID&quot;:436596,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;Химический&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;соли золота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;金塩&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きんしお&quot;,&quot;transliteration&quot;:&quot;kinshio&quot;},{&quot;translateID&quot;:436461,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;Химический&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;слиток золота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;金の延べ棒&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きんののべぼう&quot;,&quot;transliteration&quot;:&quot;kinnonobebou&quot;},{&quot;translateID&quot;:525396,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;Химический&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;окись золота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;酸化金&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さんかきん&quot;,&quot;transliteration&quot;:&quot;sankakin&quot;},{&quot;translateID&quot;:525395,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;Химический&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;оксид золота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;酸化金&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さんかきん&quot;,&quot;transliteration&quot;:&quot;sankakin&quot;},{&quot;translateID&quot;:343042,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;Химический&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;натрий хлорид золота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;塩化金酸ナトリウム&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;えんかきんさんなとりうむ&quot;,&quot;transliteration&quot;:&quot;enkakinsannatoriumu&quot;},{&quot;translateID&quot;:343036,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;Химический&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;хлорид золота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;塩化金&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;えんかきん&quot;,&quot;transliteration&quot;:&quot;enkakin&quot;},{&quot;translateID&quot;:542950,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;Медицинский&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;амальгамы зубные из золота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;歯科用金アマルガム&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しかようきんあまるがむ&quot;,&quot;transliteration&quot;:&quot;shikayoukinamarugamu&quot;},{&quot;translateID&quot;:437780,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;Медицинский&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;патологическая пигментация тканей при лечении солями золота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;金皮症&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きんかわしょう&quot;,&quot;transliteration&quot;:&quot;kinkawashou&quot;},{&quot;translateID&quot;:436598,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;Медицинский&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;соединение золота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;金化合物&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きんかごうぶつ&quot;,&quot;transliteration&quot;:&quot;kinkagoubutsu&quot;},{&quot;translateID&quot;:436417,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;Медицинский&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;коллоид золота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;金ゾル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きんぞる&quot;,&quot;transliteration&quot;:&quot;kinzoru&quot;},{&quot;translateID&quot;:436594,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;Медицинский&quot;,&quot;themeName&quot;:&quot;Базис&quot;,&quot;word&quot;:&quot;коллоидная соль золота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;金塩&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きんえん&quot;,&quot;transliteration&quot;:&quot;kinen&quot;},{&quot;translateID&quot;:437663,&quot;translationStatus&quot;:0,&quot;themeID&quot;:183,&quot;groupName&quot;:&quot;Экономический&quot;,&quot;themeName&quot;:&quot;Ценные бумаги&quot;,&quot;word&quot;:&quot;слиток золота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;金地金&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きんじがね&quot;,&quot;transliteration&quot;:&quot;kinjigane&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="золота" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

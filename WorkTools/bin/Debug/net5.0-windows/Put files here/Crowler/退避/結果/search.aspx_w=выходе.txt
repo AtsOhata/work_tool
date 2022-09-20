@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	выходе - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,выходе" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u0432%u044b%u0445%u043e%u0434%u0435" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV244Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNCy0YvRhdC+0LTQtWQCAw9kFggCAg9kFgQCAQ8WAh4Dc3JjBQ8uLi9pbWcvbG9nby5wbmdkAgUPFgIeBGhyZWYFDi4uLz9sYW5nPXJ1LVJVZAIEDxYCHgdWaXNpYmxlZ2QCBg8WAh8DaGQCBw9kFghmDxYCHwNoZAIBDxYCHwNoZAICDxYCHwNoZAIFDxYCHwNoZGQIvrCatSCImykPmtjtPqgPwBcYww==" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAVzAPQ5kqTKsUpqlIxeyvOplIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/lwRh6yyCms6eqgncBlNppQ1fd+Z" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:false,&quot;Phrases&quot;:[{&quot;translateID&quot;:738903,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;быть внимательным при посадке в трамвай и при выходе из трамвая&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;電車の乗り降りに注意する&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;でんしゃののりおりにちゅういする&quot;,&quot;transliteration&quot;:&quot;denshanonoriorinichuuisuru&quot;},{&quot;translateID&quot;:685396,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;заявление о выходе из общества&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;退会届&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たいかいとどけ&quot;,&quot;transliteration&quot;:&quot;taikaitodoke&quot;},{&quot;translateID&quot;:577906,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;опрос на выходе&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;出口調査&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;でぐちちょうさ&quot;,&quot;transliteration&quot;:&quot;deguchichousa&quot;},{&quot;translateID&quot;:859191,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Я думаю о немедленном выходе на пенсию.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;僕はすぐ辞職しようかと思っている。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぼくはすぐじしょくしようかとおもっている。&quot;,&quot;transliteration&quot;:&quot;bokuhasugujishokushiyoukatoomotteiru。&quot;},{&quot;translateID&quot;:727766,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;надеваемые при выходе во двор&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;庭下駄&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にわげた&quot;,&quot;transliteration&quot;:&quot;niwageta&quot;},{&quot;translateID&quot;:571098,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;Закрывать удалённые соединения при выходе&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;終了時にダイアルアップ接続を閉じる&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゅうりょうじにだいあるあっぷせつぞくをとじる&quot;,&quot;transliteration&quot;:&quot;shuuryoujinidaiaruappusetsuzoku o tojiru&quot;},{&quot;translateID&quot;:579043,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;блок буферной памяти на выходе&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;出力ブロック&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゅつりょくぶろっく&quot;,&quot;transliteration&quot;:&quot;shutsuryokuburokku&quot;},{&quot;translateID&quot;:571099,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;Очищать при выходе&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;終了時に空にする&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゅうりょうじにからにする&quot;,&quot;transliteration&quot;:&quot;shuuryoujinikaranisuru&quot;},{&quot;translateID&quot;:571100,&quot;translationStatus&quot;:0,&quot;themeID&quot;:8,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;インターネット&quot;,&quot;word&quot;:&quot;При выходе&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;終了時の処理&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゅうりょうじのしょり&quot;,&quot;transliteration&quot;:&quot;shuuryoujinoshori&quot;},{&quot;translateID&quot;:246805,&quot;translationStatus&quot;:0,&quot;themeID&quot;:8,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;インターネット&quot;,&quot;word&quot;:&quot;Подтверждение при выходе&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;プログラム終了時に確認する&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぷろぐらむしゅうりょうじにかくにんする&quot;,&quot;transliteration&quot;:&quot;puroguramushuuryoujinikakuninsuru&quot;},{&quot;translateID&quot;:260050,&quot;translationStatus&quot;:0,&quot;themeID&quot;:8,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;インターネット&quot;,&quot;word&quot;:&quot;При выходе оперативных исправлений&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ホットフィックスが公開された際&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほっとふぃっくすがこうかいされたさい&quot;,&quot;transliteration&quot;:&quot;hottofikkusugakoukaisaretasai&quot;},{&quot;translateID&quot;:608811,&quot;translationStatus&quot;:0,&quot;themeID&quot;:8,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;インターネット&quot;,&quot;word&quot;:&quot;уведомление о выходе новых версий&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;新バージョン公開時に通知&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しんばーじょんこうかいじにつうち&quot;,&quot;transliteration&quot;:&quot;shinba:jonkoukaijinitsuuchi&quot;},{&quot;translateID&quot;:450573,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;микрофильм, полученный на выходе ЭВМ&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;計算機出力マイクロフィルム&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けいさんきしゅつりょくまいくろふぃるむ&quot;,&quot;transliteration&quot;:&quot;keisankishutsuryokumaikurofirumu&quot;},{&quot;translateID&quot;:86008,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;напряжение компенсации смещения нуля на выходе&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;オフセット電圧&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おふせっとでんあつ&quot;,&quot;transliteration&quot;:&quot;ofusettodenatsu&quot;},{&quot;translateID&quot;:579068,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;давление на выходе&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;出力圧&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゅつりょくあつ&quot;,&quot;transliteration&quot;:&quot;shutsuryokuatsu&quot;},{&quot;translateID&quot;:128514,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;микрофильм, полученный на выходе ЭВМ&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;コンピュータ出力マイクロフィルム&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こんぴゅーたしゅつりょくまいくろふぃるむ&quot;,&quot;transliteration&quot;:&quot;konpyu:tashutsuryokumaikurofirumu&quot;},{&quot;translateID&quot;:373102,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;полное сопротивление при разомкнутой на выходе цепи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;開放インピーダンス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かいほういんぴーだんす&quot;,&quot;transliteration&quot;:&quot;kaihouinpi:dansu&quot;},{&quot;translateID&quot;:81172,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;царапины, образующиеся при выходе из ручья&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;エンドマーク&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;えんどまーく&quot;,&quot;transliteration&quot;:&quot;endoma:ku&quot;},{&quot;translateID&quot;:577903,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;скорость на выходе&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;出口速度&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;でぐちそくど&quot;,&quot;transliteration&quot;:&quot;deguchisokudo&quot;},{&quot;translateID&quot;:332983,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;угол на выходе из межлопаточного канала&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;羽根出口角&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はねしゅつこうかく&quot;,&quot;transliteration&quot;:&quot;haneshutsukoukaku&quot;},{&quot;translateID&quot;:192132,&quot;translationStatus&quot;:0,&quot;themeID&quot;:44,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;航空宇宙&quot;,&quot;word&quot;:&quot;бомбометание при выходе из пикирования&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;トス爆撃&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とすばくげき&quot;,&quot;transliteration&quot;:&quot;tosubakugeki&quot;},{&quot;translateID&quot;:740440,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;температура на выходе&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;吐出し温度&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;としゅつしおんど&quot;,&quot;transliteration&quot;:&quot;toshutsushiondo&quot;},{&quot;translateID&quot;:230931,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;давление на выходе вентилятора&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ファン動圧&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふぁんどうあつ&quot;,&quot;transliteration&quot;:&quot;fandouatsu&quot;},{&quot;translateID&quot;:577892,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;давление на выходе&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;出口圧力&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;でぐちあつりょく&quot;,&quot;transliteration&quot;:&quot;deguchiatsuryoku&quot;},{&quot;translateID&quot;:781924,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;противодавление на выходе газов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;背圧&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せあつ&quot;,&quot;transliteration&quot;:&quot;seatsu&quot;},{&quot;translateID&quot;:899760,&quot;translationStatus&quot;:0,&quot;themeID&quot;:50,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;金属&quot;,&quot;word&quot;:&quot;скорость на выходе&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;流出速度&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;りゅうしゅつそくど&quot;,&quot;transliteration&quot;:&quot;ryuushutsusokudo&quot;},{&quot;translateID&quot;:578984,&quot;translationStatus&quot;:0,&quot;themeID&quot;:50,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;金属&quot;,&quot;word&quot;:&quot;энергия на выходе&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;出力エネルギー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゅつりょくえねるぎー&quot;,&quot;transliteration&quot;:&quot;shutsuryokuenerugi:&quot;},{&quot;translateID&quot;:579112,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;сигнал на выходе&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;出力信号&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゅつりょくしんごう&quot;,&quot;transliteration&quot;:&quot;shutsuryokushingou&quot;},{&quot;translateID&quot;:579159,&quot;translationStatus&quot;:0,&quot;themeID&quot;:82,&quot;groupName&quot;:&quot;物理&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;мощность на выходе&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;出力電力&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゅつりょくでんりょく&quot;,&quot;transliteration&quot;:&quot;shutsuryokudenryoku&quot;},{&quot;translateID&quot;:579149,&quot;translationStatus&quot;:0,&quot;themeID&quot;:82,&quot;groupName&quot;:&quot;物理&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;напряжение на выходе&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;出力電圧&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゅつりょくでんあつ&quot;,&quot;transliteration&quot;:&quot;shutsuryokudenatsu&quot;},{&quot;translateID&quot;:558096,&quot;translationStatus&quot;:0,&quot;themeID&quot;:82,&quot;groupName&quot;:&quot;物理&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;доза на выходе&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;射出線量&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゃしゅつせんりょう&quot;,&quot;transliteration&quot;:&quot;shashutsusenryou&quot;},{&quot;translateID&quot;:579066,&quot;translationStatus&quot;:0,&quot;themeID&quot;:82,&quot;groupName&quot;:&quot;物理&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;уровень на выходе&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;出力レベル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゅつりょくれべる&quot;,&quot;transliteration&quot;:&quot;shutsuryokureberu&quot;},{&quot;translateID&quot;:577905,&quot;translationStatus&quot;:0,&quot;themeID&quot;:82,&quot;groupName&quot;:&quot;物理&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;скорость на выходе&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;出口速度&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;でぐちそくど&quot;,&quot;transliteration&quot;:&quot;deguchisokudo&quot;},{&quot;translateID&quot;:577895,&quot;translationStatus&quot;:0,&quot;themeID&quot;:82,&quot;groupName&quot;:&quot;物理&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;давление на выходе&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;出口圧力&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;でぐちあつりょく&quot;,&quot;transliteration&quot;:&quot;deguchiatsuryoku&quot;},{&quot;translateID&quot;:577898,&quot;translationStatus&quot;:0,&quot;themeID&quot;:82,&quot;groupName&quot;:&quot;物理&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;температура на выходе&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;出口温度&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;でぐちおんど&quot;,&quot;transliteration&quot;:&quot;deguchiondo&quot;},{&quot;translateID&quot;:899725,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;газ на выходе&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;流出ガス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;りゅうしゅつがす&quot;,&quot;transliteration&quot;:&quot;ryuushutsugasu&quot;},{&quot;translateID&quot;:750030,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;давление на выходе&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;頭部圧力&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とうぶあつりょく&quot;,&quot;transliteration&quot;:&quot;toubuatsuryoku&quot;},{&quot;translateID&quot;:345738,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;температура на выходе&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;押出温度&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おしだしおんど&quot;,&quot;transliteration&quot;:&quot;oshidashiondo&quot;},{&quot;translateID&quot;:577909,&quot;translationStatus&quot;:0,&quot;themeID&quot;:210,&quot;groupName&quot;:&quot;人文&quot;,&quot;themeName&quot;:&quot;政治&quot;,&quot;word&quot;:&quot;опрос граждан на выходе с избирательных участков&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;出口調査&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;でぐちちょうさ&quot;,&quot;transliteration&quot;:&quot;deguchichousa&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="выходе" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

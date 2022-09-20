@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	доставки - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,доставки" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u0434%u043e%u0441%u0442%u0430%u0432%u043a%u0438" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV644Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNC00L7RgdGC0LDQstC60LhkAgMPZBYIAgIPZBYEAgEPFgIeA3NyYwUPLi4vaW1nL2xvZ28ucG5nZAIFDxYCHgRocmVmBQ4uLi8/bGFuZz1ydS1SVWQCBA8WAh4HVmlzaWJsZWdkAgYPFgIfA2hkAgcPZBYIZg8WAh8DaGQCAQ8WAh8DaGQCAg8WAh8DaGQCBQ8WAh8DaGRkcIih+qJiPKrJLGtQ/DRM+78ytfQ=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAWx4mhMCvjMmEwxOFEucgOxlIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/iccapTiW3JapBUSXPhiOTlz59Za" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:false,&quot;Phrases&quot;:[{&quot;translateID&quot;:705065,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;задержка доставки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;遅配&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちはい&quot;,&quot;transliteration&quot;:&quot;chihai&quot;},{&quot;translateID&quot;:783569,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;место доставки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;配達先&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はいたつさき&quot;,&quot;transliteration&quot;:&quot;haitatsusaki&quot;},{&quot;translateID&quot;:777180,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;квитанция доставки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;納品書&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;のうひんしょ&quot;,&quot;transliteration&quot;:&quot;nouhinsho&quot;},{&quot;translateID&quot;:670596,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;место доставки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;送達先&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そうたつさき&quot;,&quot;transliteration&quot;:&quot;soutatsusaki&quot;},{&quot;translateID&quot;:334280,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;включая стоимость доставки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;運賃込みで&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;うんちんこみで&quot;,&quot;transliteration&quot;:&quot;unchinkomide&quot;},{&quot;translateID&quot;:837353,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;шкатулка для доставки письма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;文筥&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふばこ&quot;,&quot;transliteration&quot;:&quot;fubako&quot;},{&quot;translateID&quot;:334265,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;стоимость доставки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;運賃&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;うんちん&quot;,&quot;transliteration&quot;:&quot;unchin&quot;},{&quot;translateID&quot;:837127,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;шкатулка для доставки письма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;文箱&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふばこ&quot;,&quot;transliteration&quot;:&quot;fubako&quot;},{&quot;translateID&quot;:861572,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Служба доставки Кики&quot;,&quot;wordnote&quot;:&quot;книга&quot;,&quot;translation&quot;:&quot;魔女の宅急便&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まじょのたっきゅうびん&quot;,&quot;transliteration&quot;:&quot;majonotakkyuubin&quot;},{&quot;translateID&quot;:861571,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Ведьмина служба доставки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;魔女の宅急便&quot;,&quot;translationnote&quot;:&quot;スタジオジブリ作品&quot;,&quot;reading&quot;:&quot;まじょのたっきゅうびん&quot;,&quot;transliteration&quot;:&quot;majonotakkyuubin&quot;},{&quot;translateID&quot;:362211,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;стоимость доставки товара&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;荷渡し費&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にわたしひ&quot;,&quot;transliteration&quot;:&quot;niwatashihi&quot;},{&quot;translateID&quot;:362209,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;место доставки товара&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;荷渡し地&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にわたしち&quot;,&quot;transliteration&quot;:&quot;niwatashichi&quot;},{&quot;translateID&quot;:375977,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;внешняя система доставки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;外部配信システム&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;がいぶはいしんしすてむ&quot;,&quot;transliteration&quot;:&quot;gaibuhaishinshisutemu&quot;},{&quot;translateID&quot;:670665,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;адрес доставки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;送付先住所&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そうふせんじゅうじょ&quot;,&quot;transliteration&quot;:&quot;soufusenjuujo&quot;},{&quot;translateID&quot;:303636,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;задание доставки журналов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ログ配布ジョブ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ろぐはいふじょぶ&quot;,&quot;transliteration&quot;:&quot;roguhaifujobu&quot;},{&quot;translateID&quot;:152157,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;обработчик планирования и доставки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;スケジュールおよび配信のプロセッサ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;すけじゅーるおよびはいしんのぷろせっさ&quot;,&quot;transliteration&quot;:&quot;sukeju:ruoyobihaishinnopurosessa&quot;},{&quot;translateID&quot;:303637,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;конфигурация доставки журналов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ログ配布構成&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ろぐはいふこうせい&quot;,&quot;transliteration&quot;:&quot;roguhaifukousei&quot;},{&quot;translateID&quot;:275693,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;очередь доставки в почтовые ящики&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;メールボックス配信キュー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;めーるぼっくすはいしんきゅー&quot;,&quot;transliteration&quot;:&quot;me:rubokkusuhaishinkyu:&quot;},{&quot;translateID&quot;:789864,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;способ доставки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;発送方法&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はっそうほうほう&quot;,&quot;transliteration&quot;:&quot;hassouhouhou&quot;},{&quot;translateID&quot;:275714,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;служба доставки почты&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;メール配信サービス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;めーるはいしんさーびす&quot;,&quot;transliteration&quot;:&quot;me:ruhaishinsa:bisu&quot;},{&quot;translateID&quot;:783445,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;протокол доставки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;配信プロトコル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はいしんぷろとこる&quot;,&quot;transliteration&quot;:&quot;haishinpurotokoru&quot;},{&quot;translateID&quot;:783446,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;модуль доставки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;配信拡張機能&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はいしんかくちょうきのう&quot;,&quot;transliteration&quot;:&quot;haishinkakuchoukinou&quot;},{&quot;translateID&quot;:127616,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;сеть доставки содержимого&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;コンテンツ配信ネットワーク&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こんてんつはいしんねっとわーく&quot;,&quot;transliteration&quot;:&quot;kontentsuhaishinnettowa:ku&quot;},{&quot;translateID&quot;:900628,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;без доставки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;留め置き&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とめおき&quot;,&quot;transliteration&quot;:&quot;tomeoki&quot;},{&quot;translateID&quot;:783440,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;очередь доставки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;配信キュー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はいしんきゅー&quot;,&quot;transliteration&quot;:&quot;haishinkyu:&quot;},{&quot;translateID&quot;:783443,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;канал доставки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;配信チャネル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はいしんちゃねる&quot;,&quot;transliteration&quot;:&quot;haishinchaneru&quot;},{&quot;translateID&quot;:783444,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;тип канала доставки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;配信チャネルの種類&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はいしんちゃねるのしゅるい&quot;,&quot;transliteration&quot;:&quot;haishinchanerunoshurui&quot;},{&quot;translateID&quot;:275652,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;Часть системы доставки электронной почты, которая обеспечивает доставку сообщений группам адресатов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;メールエクスプローダ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;めーるえくすぷろーだ&quot;,&quot;transliteration&quot;:&quot;me:ruekusupuro:da&quot;},{&quot;translateID&quot;:379501,&quot;translationStatus&quot;:0,&quot;themeID&quot;:44,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;航空宇宙&quot;,&quot;word&quot;:&quot;система доставки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;核兵器運搬方式&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かくへいきうんぱんほうしき&quot;,&quot;transliteration&quot;:&quot;kakuheikiunpanhoushiki&quot;},{&quot;translateID&quot;:670434,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;эффективность доставки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;送出し効率&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そうしゅつしこうりつ&quot;,&quot;transliteration&quot;:&quot;soushutsushikouritsu&quot;},{&quot;translateID&quot;:783564,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;фургон для доставки покупок и заказов на дом&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;配達車&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はいたつしゃ&quot;,&quot;transliteration&quot;:&quot;haitatsusha&quot;},{&quot;translateID&quot;:334225,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;время доставки товара&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;運送時間&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;うんそうじかん&quot;,&quot;transliteration&quot;:&quot;unsoujikan&quot;},{&quot;translateID&quot;:836588,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;служба доставки документов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;文献送付サービス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぶんけんそうふさーびす&quot;,&quot;transliteration&quot;:&quot;bunkensoufusa:bisu&quot;},{&quot;translateID&quot;:880663,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;система доставки лекарств&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;薬物送達システム&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;やくぶつそうたつしすてむ&quot;,&quot;transliteration&quot;:&quot;yakubutsusoutatsushisutemu&quot;},{&quot;translateID&quot;:783572,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;машина для доставки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;配達用トラック&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はいたつようとらっく&quot;,&quot;transliteration&quot;:&quot;haitatsuyoutorakku&quot;},{&quot;translateID&quot;:783534,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;фургон для доставки покупок и заказов на дом&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;配送車&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はいそうしゃ&quot;,&quot;transliteration&quot;:&quot;haisousha&quot;},{&quot;translateID&quot;:138973,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;система доставки сигналов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;シグナル伝達系&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しぐなるでんたつけい&quot;,&quot;transliteration&quot;:&quot;shigunarudentatsukei&quot;},{&quot;translateID&quot;:188032,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;система доставки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;デリバリーシステム&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;でりばりーしすてむ&quot;,&quot;transliteration&quot;:&quot;deribari:shisutemu&quot;},{&quot;translateID&quot;:194894,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;система доставки лекарственных средств&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ドラッグデリバリーシステム&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;どらっぐでりばりーしすてむ&quot;,&quot;transliteration&quot;:&quot;doragguderibari:shisutemu&quot;},{&quot;translateID&quot;:706593,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;оплата по факту доставки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;着払い&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゃくばらい&quot;,&quot;transliteration&quot;:&quot;chakubarai&quot;},{&quot;translateID&quot;:176224,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;система доставки лекарственных средств&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ぢーぢーえす&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぢーぢーえす&quot;,&quot;transliteration&quot;:&quot;di:di:esu&quot;},{&quot;translateID&quot;:880662,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;система доставки лекарственных веществ&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;薬物送達システム&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;やくぶつそうたつしすてむ&quot;,&quot;transliteration&quot;:&quot;yakubutsusoutatsushisutemu&quot;},{&quot;translateID&quot;:880465,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;система доставки лекарственных средств&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;薬剤送達システム&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;やくざいそうたつしすてむ&quot;,&quot;transliteration&quot;:&quot;yakuzaisoutatsushisutemu&quot;},{&quot;translateID&quot;:880706,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;система доставки лекарственных средств&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;薬物配送システム&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;やくぶつはいそうしすてむ&quot;,&quot;transliteration&quot;:&quot;yakubutsuhaisoushisutemu&quot;},{&quot;translateID&quot;:670595,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;система доставки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;送達系&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そうたつけい&quot;,&quot;transliteration&quot;:&quot;soutatsukei&quot;},{&quot;translateID&quot;:599094,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;система доставки сигналов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;情報伝達系&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じょうほうでんたつけい&quot;,&quot;transliteration&quot;:&quot;jouhoudentatsukei&quot;},{&quot;translateID&quot;:670598,&quot;translationStatus&quot;:0,&quot;themeID&quot;:197,&quot;groupName&quot;:&quot;法律&quot;,&quot;themeName&quot;:&quot;著作権&quot;,&quot;word&quot;:&quot;средства доставки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;送達方式&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そうたつほうしき&quot;,&quot;transliteration&quot;:&quot;soutatsuhoushiki&quot;},{&quot;translateID&quot;:670594,&quot;translationStatus&quot;:0,&quot;themeID&quot;:200,&quot;groupName&quot;:&quot;法律&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;срок доставки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;送達期限&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そうたつきげん&quot;,&quot;transliteration&quot;:&quot;soutatsukigen&quot;},{&quot;translateID&quot;:769831,&quot;translationStatus&quot;:0,&quot;themeID&quot;:218,&quot;groupName&quot;:&quot;人文&quot;,&quot;themeName&quot;:&quot;軍事用語&quot;,&quot;word&quot;:&quot;продолжительность доставки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;入荷期間&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にゅうかきかん&quot;,&quot;transliteration&quot;:&quot;nyuukakikan&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="доставки" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

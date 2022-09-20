@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	окне - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,окне" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u043e%u043a%u043d%u0435" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAVy44Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNC+0LrQvdC1ZAIDD2QWCAICD2QWBAIBDxYCHgNzcmMFDy4uL2ltZy9sb2dvLnBuZ2QCBQ8WAh4EaHJlZgUOLi4vP2xhbmc9cnUtUlVkAgQPFgIeB1Zpc2libGVnZAIGDxYCHwNoZAIHD2QWCGYPFgIfA2hkAgEPFgIfA2hkAgIPFgIfA2hkAgUPFgIfA2hkZGLt2DdAzP4rt5UXWuZ8orivH937" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAVFg6lWDkrKx4pLqQtjs9mSlIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/rDVGPY2YH9bVx13lK76aIvNKVlv" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:false,&quot;Phrases&quot;:[{&quot;translateID&quot;:577585,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;выпуклая решетка на окне&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;出格子&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;でごうし&quot;,&quot;transliteration&quot;:&quot;degoushi&quot;},{&quot;translateID&quot;:668269,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;В окне я увидел лицо мужчины.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;窓のうち側に男の顔が見えていた。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まどのうちそばにおとこのかおがみえていた。&quot;,&quot;transliteration&quot;:&quot;madonouchisobaniotokonokaogamieteita。&quot;},{&quot;translateID&quot;:577586,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;выпуклая решётка на окне&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;出格子&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;でごうし&quot;,&quot;transliteration&quot;:&quot;degoushi&quot;},{&quot;translateID&quot;:174203,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;Открывать страницы в новом окне&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;タブを新しいウィンドウで開く&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たぶをあたらしいうぃんどうでひらく&quot;,&quot;transliteration&quot;:&quot;tabu o atarashiiuぃndoudehiraku&quot;},{&quot;translateID&quot;:229504,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;контракт выбора файлов в окне открытия&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ファイル オープン ピッカー コントラクト&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふぁいる おーぷん ぴっかー こんとらくと&quot;,&quot;transliteration&quot;:&quot;fairu o:pun pikka: kontorakuto&quot;},{&quot;translateID&quot;:121614,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;Исходный код в этом окне был изменен. Сохранить изменения?&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;このウィンドウのソースコードは変更されています。保存しますか？&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;このうぃんどうのそーすこーどはへんこうされています。ほぞんしますか?&quot;,&quot;transliteration&quot;:&quot;konouぃndounoso:suko:dohahenkousareteimasu。hozonshimasuka?&quot;},{&quot;translateID&quot;:229896,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;контракт выбора файлов в окне сохранения&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ファイル保存ピッカー コントラクト&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふぁいるほぞんぴっかー こんとらくと&quot;,&quot;transliteration&quot;:&quot;fairuhozonpikka: kontorakuto&quot;},{&quot;translateID&quot;:608712,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;Просмотреть в новом окне&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;新しいブラウザウィンドウを開きます&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あたらしいぶらうざうぃんどうをひらきます&quot;,&quot;transliteration&quot;:&quot;atarashiiburauzauぃndou o hirakimasu&quot;},{&quot;translateID&quot;:174001,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;Открывать страницы в одном окне&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;タブブラウジングを有効にする&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たぶぶらうじんぐをゆうこうにする&quot;,&quot;transliteration&quot;:&quot;tabuburaujingu o yuukounisuru&quot;},{&quot;translateID&quot;:608672,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;Открыть в новом окне&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;新しいウィンドウで開く&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あたらしいうぃんどうでひらく&quot;,&quot;transliteration&quot;:&quot;atarashiiuぃndoudehiraku&quot;},{&quot;translateID&quot;:260207,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;высвечиваемое в часовом окне&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ポップアップ・メニュー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぽっぷあっぷ・めにゅー&quot;,&quot;transliteration&quot;:&quot;poppuappu・menyu:&quot;},{&quot;translateID&quot;:214334,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;Открыть в фоновом окне&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;バックグラウンドのウィンドウで開く&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ばっくぐらうんどのうぃんどうでひらく&quot;,&quot;transliteration&quot;:&quot;bakkuguraundonouぃndoudehiraku&quot;},{&quot;translateID&quot;:214329,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;Открыть в фоновом окне&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;バックグラウンドに新しいウィンドウで開く&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ばっくぐらうんどにあたらしいうぃんどうでひらく&quot;,&quot;transliteration&quot;:&quot;bakkuguraundoniatarashiiuぃndoudehiraku&quot;},{&quot;translateID&quot;:69678,&quot;translationStatus&quot;:0,&quot;themeID&quot;:8,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;インターネット&quot;,&quot;word&quot;:&quot;Начать видеотрансляцию в окне при 100 %&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ウィンドウ100%でビデオ開始&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;うぃんどう100%でびでおかいし&quot;,&quot;transliteration&quot;:&quot;uぃndou100%debideokaishi&quot;},{&quot;translateID&quot;:69711,&quot;translationStatus&quot;:0,&quot;themeID&quot;:8,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;インターネット&quot;,&quot;word&quot;:&quot;Видео в отдельном окне&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ウィンドウ表示&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;うぃんどうひょうじ&quot;,&quot;transliteration&quot;:&quot;uぃndouhyouji&quot;},{&quot;translateID&quot;:275408,&quot;translationStatus&quot;:0,&quot;themeID&quot;:8,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;インターネット&quot;,&quot;word&quot;:&quot;Показывать в основном окне&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;メイン画面に表示する&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;めいんがめんにひょうじする&quot;,&quot;transliteration&quot;:&quot;meingamennihyoujisuru&quot;},{&quot;translateID&quot;:275409,&quot;translationStatus&quot;:0,&quot;themeID&quot;:8,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;インターネット&quot;,&quot;word&quot;:&quot;Показывать в основном окне&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;メイン画面に文字コードを表示する&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;めいんがめんにもじこーどをひょうじする&quot;,&quot;transliteration&quot;:&quot;meingamennimojiko:do o hyoujisuru&quot;},{&quot;translateID&quot;:225946,&quot;translationStatus&quot;:0,&quot;themeID&quot;:8,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;インターネット&quot;,&quot;word&quot;:&quot;Видео в отдельном окне&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ビデオウィンドウ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;びでおうぃんどう&quot;,&quot;transliteration&quot;:&quot;bideouぃndou&quot;},{&quot;translateID&quot;:157770,&quot;translationStatus&quot;:0,&quot;themeID&quot;:8,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;インターネット&quot;,&quot;word&quot;:&quot;Показывать все Pop-up окна в одном окне&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;すべてのポップアップは一つのタブに表示する&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;すべてのぽっぷあっぷはひとつのたぶにひょうじする&quot;,&quot;transliteration&quot;:&quot;subetenopoppuappuhahitotsunotabunihyoujisuru&quot;},{&quot;translateID&quot;:723692,&quot;translationStatus&quot;:0,&quot;themeID&quot;:8,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;インターネット&quot;,&quot;word&quot;:&quot;Видео в окне звонка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;通話タブ表示&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;つうわたぶひょうじ&quot;,&quot;transliteration&quot;:&quot;tsuuwatabuhyouji&quot;},{&quot;translateID&quot;:226017,&quot;translationStatus&quot;:0,&quot;themeID&quot;:8,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;インターネット&quot;,&quot;word&quot;:&quot;Показывать видео в окне звонка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ビデオを通話タブで表示&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;びでおをつうわたぶでひょうじ&quot;,&quot;transliteration&quot;:&quot;bideo o tsuuwatabudehyouji&quot;},{&quot;translateID&quot;:608689,&quot;translationStatus&quot;:0,&quot;themeID&quot;:8,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;インターネット&quot;,&quot;word&quot;:&quot;Открыть в новом окне&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;新しいタブで開く&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あたらしいたぶでひらく&quot;,&quot;transliteration&quot;:&quot;atarashiitabudehiraku&quot;},{&quot;translateID&quot;:226054,&quot;translationStatus&quot;:0,&quot;themeID&quot;:8,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;インターネット&quot;,&quot;word&quot;:&quot;Видео в окне звонка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ビデオ通話タブ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;びでおつうわたぶ&quot;,&quot;transliteration&quot;:&quot;bideotsuuwatabu&quot;},{&quot;translateID&quot;:79263,&quot;translationStatus&quot;:0,&quot;themeID&quot;:8,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;インターネット&quot;,&quot;word&quot;:&quot;Отмечать ошибки в главном окне&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;エラー検出された行の表示を変更&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;えらーけんしゅつされたぎょうのひょうじをへんこう&quot;,&quot;transliteration&quot;:&quot;era:kenshutsusaretagyounohyouji o henkou&quot;},{&quot;translateID&quot;:226007,&quot;translationStatus&quot;:0,&quot;themeID&quot;:8,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;インターネット&quot;,&quot;word&quot;:&quot;Показывать видео в отдельном окне&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ビデオをウィンドウで表示&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;びでおをうぃんどうでひょうじ&quot;,&quot;transliteration&quot;:&quot;bideo o uぃndoudehyouji&quot;},{&quot;translateID&quot;:225995,&quot;translationStatus&quot;:0,&quot;themeID&quot;:8,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;インターネット&quot;,&quot;word&quot;:&quot;Видео в отдельном окне&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ビデオは別ウィンドウ表示です&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;びでおはべつうぃんどうひょうじです&quot;,&quot;transliteration&quot;:&quot;bideohabetsuuぃndouhyoujidesu&quot;},{&quot;translateID&quot;:814452,&quot;translationStatus&quot;:0,&quot;themeID&quot;:11,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;プログラミング&quot;,&quot;word&quot;:&quot;над именами файлов, не помещающимися в окне&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;表示が途切れているファイルのフルネームを表示&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひょうじがとぎれているふぁいるのふるねーむをひょうじ&quot;,&quot;transliteration&quot;:&quot;hyoujigatogireteirufairunofurune:mu o hyouji&quot;},{&quot;translateID&quot;:174212,&quot;translationStatus&quot;:0,&quot;themeID&quot;:11,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;プログラミング&quot;,&quot;word&quot;:&quot;создать копию закладки во втором окне&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;タブを隣のパネルにコピー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たぶをとなりのぱねるにこぴー&quot;,&quot;transliteration&quot;:&quot;tabu o tonarinopanerunikopi:&quot;},{&quot;translateID&quot;:180882,&quot;translationStatus&quot;:0,&quot;themeID&quot;:11,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;プログラミング&quot;,&quot;word&quot;:&quot;дерево для открытия папки в другом окне нажимать enter&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ツリー Enterで隣のウィンドウにディレクトリを表示&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;つりー Enterでとなりのうぃんどうにでぃれくとりをひょうじ&quot;,&quot;transliteration&quot;:&quot;tsuri: Enterdetonarinouぃndounidirekutori o hyouji&quot;},{&quot;translateID&quot;:333302,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;прокладка в окне или двери&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;雨よけ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あめよけ&quot;,&quot;transliteration&quot;:&quot;ameyoke&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="окне" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

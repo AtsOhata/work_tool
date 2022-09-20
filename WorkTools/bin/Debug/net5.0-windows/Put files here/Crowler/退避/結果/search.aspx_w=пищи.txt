@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	пищи - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,пищи" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u043f%u0438%u0449%u0438" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAVy44Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNC/0LjRidC4ZAIDD2QWCAICD2QWBAIBDxYCHgNzcmMFDy4uL2ltZy9sb2dvLnBuZ2QCBQ8WAh4EaHJlZgUOLi4vP2xhbmc9cnUtUlVkAgQPFgIeB1Zpc2libGVnZAIGDxYCHwNoZAIHD2QWCGYPFgIfA2hkAgEPFgIfA2hkAgIPFgIfA2hkAgUPFgIfA2hkZBIkiSashmjmRVlWmVgNDx/EG9TF" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAXLfW7lNk8ymw2M97ZJS4TPlIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/vj/9oEDElnHDUEyVT+qGYLB0G8d" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:true,&quot;Phrases&quot;:[{&quot;translateID&quot;:382954,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;одноразовые палочки для пищи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;割り箸&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;わりばし&quot;,&quot;transliteration&quot;:&quot;waribashi&quot;},{&quot;translateID&quot;:602504,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;прием пищи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;食&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;し&quot;,&quot;transliteration&quot;:&quot;shi&quot;},{&quot;translateID&quot;:624626,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;варка пищи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;炊ぎ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かしぎ&quot;,&quot;transliteration&quot;:&quot;kashigi&quot;},{&quot;translateID&quot;:787945,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;подставка под палочки для пищи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;箸置き&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はしおき&quot;,&quot;transliteration&quot;:&quot;hashioki&quot;},{&quot;translateID&quot;:902693,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Приготовление пищи отнимает слишком много времени.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;料理にあまりに時間がかかりすぎる。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;りょうりにあまりにじかんがかかりすぎる。&quot;,&quot;transliteration&quot;:&quot;ryouriniamarinijikangakakarisugiru。&quot;},{&quot;translateID&quot;:590653,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;переваривание пищи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;消化&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょうか&quot;,&quot;transliteration&quot;:&quot;shouka&quot;},{&quot;translateID&quot;:787940,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;палочки для пищи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;箸&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はし&quot;,&quot;transliteration&quot;:&quot;hashi&quot;},{&quot;translateID&quot;:902678,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;приготовление пищи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;料理&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;りょうり&quot;,&quot;transliteration&quot;:&quot;ryouri&quot;},{&quot;translateID&quot;:588982,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;немного пищи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;少食&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょうしょく&quot;,&quot;transliteration&quot;:&quot;shoushoku&quot;},{&quot;translateID&quot;:587335,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;немного пищи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;小食&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょうしょく&quot;,&quot;transliteration&quot;:&quot;shoushoku&quot;},{&quot;translateID&quot;:546714,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;время приёма пищи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;時分時&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じぶんじ&quot;,&quot;transliteration&quot;:&quot;jibunji&quot;},{&quot;translateID&quot;:853262,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;приём пищи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;方食&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かたしょく&quot;,&quot;transliteration&quot;:&quot;katashoku&quot;},{&quot;translateID&quot;:536425,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;я не переношу такой грубой пищи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;私はこんな粗食には堪えられない&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;わたしはこんなそしょくにはたえられない&quot;,&quot;transliteration&quot;:&quot;watashihakonnasoshokunihataerarenai&quot;},{&quot;translateID&quot;:541944,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;брать пробу пищи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;試食する&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ししょくする&quot;,&quot;transliteration&quot;:&quot;shishokusuru&quot;},{&quot;translateID&quot;:502929,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;воздерживаться от мучной пищи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;穀断ちをする&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こくだちをする&quot;,&quot;transliteration&quot;:&quot;kokudachi o suru&quot;},{&quot;translateID&quot;:383318,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;одноразовые палочки для пищи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;割箸&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;わりばし&quot;,&quot;transliteration&quot;:&quot;waribashi&quot;},{&quot;translateID&quot;:602874,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;между приёмами пищи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;食間に&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょっかんに&quot;,&quot;transliteration&quot;:&quot;shokkanni&quot;},{&quot;translateID&quot;:715921,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;приготовление пищи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;調理&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちょうり&quot;,&quot;transliteration&quot;:&quot;chouri&quot;},{&quot;translateID&quot;:502928,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;воздержание от мучной пищи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;穀断ち&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こくだち&quot;,&quot;transliteration&quot;:&quot;kokudachi&quot;},{&quot;translateID&quot;:382955,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;палочки для пищи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;割り箸&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;わりばし&quot;,&quot;transliteration&quot;:&quot;waribashi&quot;},{&quot;translateID&quot;:602737,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;желудок не принимает пищи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;食べ物が胃に納まらない&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たべものがいにおさまらない&quot;,&quot;transliteration&quot;:&quot;tabemonogainiosamaranai&quot;},{&quot;translateID&quot;:624643,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;приготовление пищи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;炊事&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;すいじ&quot;,&quot;transliteration&quot;:&quot;suiji&quot;},{&quot;translateID&quot;:546713,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;время приёма пищи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;時分時&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じぶんどき&quot;,&quot;transliteration&quot;:&quot;jibundoki&quot;},{&quot;translateID&quot;:320251,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;желудок расстроился и не принимает пищи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;胃が弱っているので食物を受け付けない&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いがよわっているのでしょくもつをうけつけない&quot;,&quot;transliteration&quot;:&quot;igayowatteirunodeshokumotsu o uketsukenai&quot;},{&quot;translateID&quot;:795886,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;часы приёма пищи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;飯時&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;めしどき&quot;,&quot;transliteration&quot;:&quot;meshidoki&quot;},{&quot;translateID&quot;:442182,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ограничение пищи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;空腹時&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;くうふくじ&quot;,&quot;transliteration&quot;:&quot;kuufukuji&quot;},{&quot;translateID&quot;:325128,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;приём пищи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;一食&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いっしょく&quot;,&quot;transliteration&quot;:&quot;isshoku&quot;},{&quot;translateID&quot;:699925,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;воздерживаться от пищи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;断食する&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;だんじきする&quot;,&quot;transliteration&quot;:&quot;danjikisuru&quot;},{&quot;translateID&quot;:646706,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Расстройство приёма пищи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;摂食障害&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せっしょくしょうがい&quot;,&quot;transliteration&quot;:&quot;sesshokushougai&quot;},{&quot;translateID&quot;:558762,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;варка пищи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;煮焚き&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にたき&quot;,&quot;transliteration&quot;:&quot;nitaki&quot;},{&quot;translateID&quot;:325126,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;один приём пищи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;一食&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いっしょく&quot;,&quot;transliteration&quot;:&quot;isshoku&quot;},{&quot;translateID&quot;:699920,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;воздержание от пищи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;断食&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;だんじき&quot;,&quot;transliteration&quot;:&quot;danjiki&quot;},{&quot;translateID&quot;:602956,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;принятие пищи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;食事&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょくじ&quot;,&quot;transliteration&quot;:&quot;shokuji&quot;},{&quot;translateID&quot;:558710,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;приготовление пищи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;煮焼き&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にやき&quot;,&quot;transliteration&quot;:&quot;niyaki&quot;},{&quot;translateID&quot;:756914,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;проба пищи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;毒見&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;どくみ&quot;,&quot;transliteration&quot;:&quot;dokumi&quot;},{&quot;translateID&quot;:383319,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;палочки для пищи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;割箸&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;わりばし&quot;,&quot;transliteration&quot;:&quot;waribashi&quot;},{&quot;translateID&quot;:602955,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;принятие пищи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;食事&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;えっせん&quot;,&quot;transliteration&quot;:&quot;essen&quot;},{&quot;translateID&quot;:715946,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Технология приготовления пищи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;調理法&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちょうりほう&quot;,&quot;transliteration&quot;:&quot;chourihou&quot;},{&quot;translateID&quot;:715938,&quot;translationStatus&quot;:0,&quot;themeID&quot;:44,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;航空宇宙&quot;,&quot;word&quot;:&quot;блок приготовления пищи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;調理室&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちょうりしつ&quot;,&quot;transliteration&quot;:&quot;chourishitsu&quot;},{&quot;translateID&quot;:715941,&quot;translationStatus&quot;:0,&quot;themeID&quot;:44,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;航空宇宙&quot;,&quot;word&quot;:&quot;блок приготовления пищи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;調理台&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちょうりだい&quot;,&quot;transliteration&quot;:&quot;chouridai&quot;},{&quot;translateID&quot;:736753,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;кастрюли-скороварки, котлы для приготовления пищи под давлением, электрические&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;電気式圧力シチュー鍋&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;でんきしきあつりょくしちゅーなべ&quot;,&quot;transliteration&quot;:&quot;denkishikiatsuryokushichu:nabe&quot;},{&quot;translateID&quot;:736754,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;кастрюли-скороварки, котлы для приготовления пищи под давлением, электрические&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;電気式圧力鍋&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;でんきしきあつりょくなべ&quot;,&quot;transliteration&quot;:&quot;denkishikiatsuryokunabe&quot;},{&quot;translateID&quot;:256474,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;пакет для упаковывания и приготовления в нем пищи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ボイルインバッグパウチ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぼいるいんばっぐぱうち&quot;,&quot;transliteration&quot;:&quot;boiruinbaggupauchi&quot;},{&quot;translateID&quot;:646707,&quot;translationStatus&quot;:0,&quot;themeID&quot;:115,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;精神科&quot;,&quot;word&quot;:&quot;расстройства приема пищи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;摂食障害&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せっしょくしょうがい&quot;,&quot;transliteration&quot;:&quot;sesshokushougai&quot;},{&quot;translateID&quot;:646708,&quot;translationStatus&quot;:0,&quot;themeID&quot;:115,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;精神科&quot;,&quot;word&quot;:&quot;расстройство приема пищи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;摂食障害&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せっしょくしょうがい&quot;,&quot;transliteration&quot;:&quot;sesshokushougai&quot;},{&quot;translateID&quot;:769380,&quot;translationStatus&quot;:0,&quot;themeID&quot;:115,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;精神科&quot;,&quot;word&quot;:&quot;расстройство приема пищи в младенческом и детском возрасте&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;乳幼児期及び小児期の哺育障害&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にゅうようじきおよびしょうにきのほいくしょうがい&quot;,&quot;transliteration&quot;:&quot;nyuuyoujikioyobishounikinohoikushougai&quot;},{&quot;translateID&quot;:603664,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;отсутствие пищи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;食糧の不足&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょくりょうのふそく&quot;,&quot;transliteration&quot;:&quot;shokuryounofusoku&quot;},{&quot;translateID&quot;:603458,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;кусок непрожеванной пищи во рту&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;食物塊&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょくぶつかい&quot;,&quot;transliteration&quot;:&quot;shokubutsukai&quot;},{&quot;translateID&quot;:678113,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;чрезмерное потребление пищи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;多食症&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たしょくしょう&quot;,&quot;transliteration&quot;:&quot;tashokushou&quot;},{&quot;translateID&quot;:646702,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;патологическая боязнь приема пищи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;摂食恐怖&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せっしょくきょうふ&quot;,&quot;transliteration&quot;:&quot;sesshokukyoufu&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="пищи" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	капсулы - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,капсулы" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u043a%u0430%u043f%u0441%u0443%u043b%u044b" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV444Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNC60LDQv9GB0YPQu9GLZAIDD2QWCAICD2QWBAIBDxYCHgNzcmMFDy4uL2ltZy9sb2dvLnBuZ2QCBQ8WAh4EaHJlZgUOLi4vP2xhbmc9cnUtUlVkAgQPFgIeB1Zpc2libGVnZAIGDxYCHwNoZAIHD2QWCGYPFgIfA2hkAgEPFgIfA2hkAgIPFgIfA2hkAgUPFgIfA2hkZPUHDPvdK5D7FGiFZ1sgAfkNgrWG" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAUIJtVRRWuYwJuRhRKwZ9stlIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/sh3bhQ0WrE0xR80gCHmBY1kTOe5" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:false,&quot;Phrases&quot;:[{&quot;translateID&quot;:805967,&quot;translationStatus&quot;:0,&quot;themeID&quot;:113,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;寄生虫学&quot;,&quot;word&quot;:&quot;образование капсулы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;被嚢現象&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひのうげんしょう&quot;,&quot;transliteration&quot;:&quot;hinougenshou&quot;},{&quot;translateID&quot;:805965,&quot;translationStatus&quot;:0,&quot;themeID&quot;:113,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;寄生虫学&quot;,&quot;word&quot;:&quot;образование капсулы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;被嚢形成&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひのうけいせい&quot;,&quot;transliteration&quot;:&quot;hinoukeisei&quot;},{&quot;translateID&quot;:761224,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ретролентикулярная часть внутренней капсулы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;内包のレンズ後脚&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ないほうのれんずこうきゃく&quot;,&quot;transliteration&quot;:&quot;naihounorenzukoukyaku&quot;},{&quot;translateID&quot;:761234,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ветви к задней ножке внутренней капсулы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;内包後脚枝&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ないほうこうきゃくし&quot;,&quot;transliteration&quot;:&quot;naihoukoukyakushi&quot;},{&quot;translateID&quot;:193111,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;воспаление теновой капсулы глазного яблока&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;トノン嚢炎&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とのんのうえん&quot;,&quot;transliteration&quot;:&quot;tononnouen&quot;},{&quot;translateID&quot;:761225,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;задняя ножка внутренней капсулы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;内包の後脚&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ないほうのこうきゃく&quot;,&quot;transliteration&quot;:&quot;naihounokoukyaku&quot;},{&quot;translateID&quot;:761235,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;синдром внутренней капсулы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;内包症候群&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ないほうしょうこうぐん&quot;,&quot;transliteration&quot;:&quot;naihoushoukougun&quot;},{&quot;translateID&quot;:322376,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;капсулы для фармацевтических целей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;医薬用カシェ剤&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いやくようかしぇざい&quot;,&quot;transliteration&quot;:&quot;iyakuyoukashezai&quot;},{&quot;translateID&quot;:761223,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;захрусталиковая часть внутренней капсулы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;内包のレンズ後脚&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ないほうのれんずこうきゃく&quot;,&quot;transliteration&quot;:&quot;naihounorenzukoukyaku&quot;},{&quot;translateID&quot;:761233,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ретролентикулярная часть внутренней капсулы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;内包後脚のレンズ後部&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ないほうこうきゃくのれんずこうぶ&quot;,&quot;transliteration&quot;:&quot;naihoukoukyakunorenzukoubu&quot;},{&quot;translateID&quot;:111156,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;воспаление глиссоновой капсулы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;グリソン鞘炎&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぐりそんしょうえん&quot;,&quot;transliteration&quot;:&quot;gurisonshouen&quot;},{&quot;translateID&quot;:761222,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;подхрусталиковая часть внутренней капсулы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;内包のレンズ下部&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ないほうのれんずかぶ&quot;,&quot;transliteration&quot;:&quot;naihounorenzukabu&quot;},{&quot;translateID&quot;:761232,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;захрусталиковая часть внутренней капсулы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;内包後脚のレンズ後部&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ないほうこうきゃくのれんずこうぶ&quot;,&quot;transliteration&quot;:&quot;naihoukoukyakunorenzukoubu&quot;},{&quot;translateID&quot;:880487,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;капсулы для лекарств&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;薬剤用カプセル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;やくざいようかぷせる&quot;,&quot;transliteration&quot;:&quot;yakuzaiyoukapuseru&quot;},{&quot;translateID&quot;:925030,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;антиген капсулы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;莢膜抗原&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さやまくこうげん&quot;,&quot;transliteration&quot;:&quot;sayamakukougen&quot;},{&quot;translateID&quot;:761221,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;подхрусталиковая часть внутренней капсулы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;内包のレンズ下脚&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ないほうのれんずかきゃく&quot;,&quot;transliteration&quot;:&quot;naihounorenzukakyaku&quot;},{&quot;translateID&quot;:761231,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;задняя ножка внутренней капсулы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;内包後脚&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ないほうこうきゃく&quot;,&quot;transliteration&quot;:&quot;naihoukoukyaku&quot;},{&quot;translateID&quot;:186959,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;воспаление теновой капсулы глазного яблока&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;テノン嚢炎&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てのんのうえん&quot;,&quot;transliteration&quot;:&quot;tenonnouen&quot;},{&quot;translateID&quot;:925029,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;антиген капсулы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;莢膜抗原&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きょうまくこうげん&quot;,&quot;transliteration&quot;:&quot;kyoumakukougen&quot;},{&quot;translateID&quot;:397248,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;воспаление суставной капсулы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;関節包炎&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かんせつほうえん&quot;,&quot;transliteration&quot;:&quot;kansetsuhouen&quot;},{&quot;translateID&quot;:761230,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ретролентикулярная часть внутренней капсулы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;内包レンズ核後部&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ないほうれんずかくこうぶ&quot;,&quot;transliteration&quot;:&quot;naihourenzukakukoubu&quot;},{&quot;translateID&quot;:761247,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ретролентикулярная часть внутренней капсулы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;内方後脚のレンズ核後部&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ないおうこうきゃくのれんずかくこうぶ&quot;,&quot;transliteration&quot;:&quot;naioukoukyakunorenzukakukoubu&quot;},{&quot;translateID&quot;:776627,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ушивание капсулы органа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;嚢縫合術&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;のうほうごうじゅつ&quot;,&quot;transliteration&quot;:&quot;nouhougoujutsu&quot;},{&quot;translateID&quot;:397247,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;фиброзный слой суставной капсулы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;関節包の線維膜&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かんせつほうのせんいまく&quot;,&quot;transliteration&quot;:&quot;kansetsuhounosenimaku&quot;},{&quot;translateID&quot;:761229,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;колено внутренней капсулы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;内包の膝&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ないほうのしつ&quot;,&quot;transliteration&quot;:&quot;naihounoshitsu&quot;},{&quot;translateID&quot;:761246,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;захрусталиковая часть внутренней капсулы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;内方後脚のレンズ核後部&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ないおうこうきゃくのれんずかくこうぶ&quot;,&quot;transliteration&quot;:&quot;naioukoukyakunorenzukakukoubu&quot;},{&quot;translateID&quot;:849987,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ушивание капсулы органа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;包縫合術&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほうほうごうじゅつ&quot;,&quot;transliteration&quot;:&quot;houhougoujutsu&quot;},{&quot;translateID&quot;:397246,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;фиброзный слой суставной капсулы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;関節包の線維層&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かんせつほうのせんいそう&quot;,&quot;transliteration&quot;:&quot;kansetsuhounosenisou&quot;},{&quot;translateID&quot;:761228,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;корково-ядерные волокна внутренней капсулы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;内包の皮質核路&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ないほうのひしつかくろ&quot;,&quot;transliteration&quot;:&quot;naihounohishitsukakuro&quot;},{&quot;translateID&quot;:761241,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ветви к колену внутренней капсулы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;内包膝枝&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ないほうしつし&quot;,&quot;transliteration&quot;:&quot;naihoushitsushi&quot;},{&quot;translateID&quot;:849739,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;воспаление оболочки или капсулы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;包炎&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほうえん&quot;,&quot;transliteration&quot;:&quot;houen&quot;},{&quot;translateID&quot;:397095,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;склероз тканей суставной капсулы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;関節硬化症&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かんせつこうかしょう&quot;,&quot;transliteration&quot;:&quot;kansetsukoukashou&quot;},{&quot;translateID&quot;:761227,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;корково-ядерные волокна внутренней капсулы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;内包の皮質核線維&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ないほうのひしつかくせんい&quot;,&quot;transliteration&quot;:&quot;naihounohishitsukakuseni&quot;},{&quot;translateID&quot;:761240,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;колено внутренней капсулы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;内包膝&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ないほうしつ&quot;,&quot;transliteration&quot;:&quot;naihoushitsu&quot;},{&quot;translateID&quot;:622821,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;удаление части капсулы хрусталика&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;水晶体嚢胞切除&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;すいしょうたいのうほうせつじょ&quot;,&quot;transliteration&quot;:&quot;suishoutainouhousetsujo&quot;},{&quot;translateID&quot;:806112,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;воспаление оболочки или капсулы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;被膜炎&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひまくえん&quot;,&quot;transliteration&quot;:&quot;himakuen&quot;},{&quot;translateID&quot;:761226,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;передняя ножка внутренней капсулы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;内包の前脚&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ないほうのぜんきゃく&quot;,&quot;transliteration&quot;:&quot;naihounozenkyaku&quot;},{&quot;translateID&quot;:761239,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;передняя ножка внутренней капсулы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;内包前脚&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ないほうぜんきゃく&quot;,&quot;transliteration&quot;:&quot;naihouzenkyaku&quot;},{&quot;translateID&quot;:619267,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;воспаление фиброзной капсулы почки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;腎周囲炎&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じんしゅういえん&quot;,&quot;transliteration&quot;:&quot;jinshuuien&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="капсулы" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

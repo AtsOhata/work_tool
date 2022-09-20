@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	никому - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,никому" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u043d%u0438%u043a%u043e%u043c%u0443" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV244Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNC90LjQutC+0LzRg2QCAw9kFggCAg9kFgQCAQ8WAh4Dc3JjBQ8uLi9pbWcvbG9nby5wbmdkAgUPFgIeBGhyZWYFDi4uLz9sYW5nPXJ1LVJVZAIEDxYCHgdWaXNpYmxlZ2QCBg8WAh8DaGQCBw9kFghmDxYCHwNoZAIBDxYCHwNoZAICDxYCHwNoZAIFDxYCHwNoZGS/ZRHzGTawqtYMx8ydC0jGFgJYOg==" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAX2FMbb+ceInUP2IObH3lLnlIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/qnDrZwOJ4Xws1B49fbYkuUpSTDM" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:false,&quot;Phrases&quot;:[{&quot;translateID&quot;:800250,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Он не уделяет особого внимания никому в особенности.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;彼は特に誰といってえこひいきをしない。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かれはとくにだれといってえこひいきをしない。&quot;,&quot;transliteration&quot;:&quot;karehatokunidaretoitteekohiiki o shinai。&quot;},{&quot;translateID&quot;:617023,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;быть не хуже других: не уступать никому&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;人後に落ちない&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じんごにおちない&quot;,&quot;transliteration&quot;:&quot;jingoniochinai&quot;},{&quot;translateID&quot;:800138,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Он никому не позволял вмешиваться в его личные дела.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;彼は誰にも彼の私事に干渉させなかった。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かれはだれにもかれのわたくしごとにかんしょうさせなかった。&quot;,&quot;transliteration&quot;:&quot;karehadarenimokarenowatakushigotonikanshousasenakatta。&quot;},{&quot;translateID&quot;:616444,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Каждый из нас как луна: у всех есть тёмная сторона, которую мы никому не показываем.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;人はみな月である。誰にも決して見せない暗い面がある。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひとはみなつきである。だれにもけっしてみせないくらいめんがある。&quot;,&quot;transliteration&quot;:&quot;hitohaminatsukidearu。darenimokesshitemisenaikuraimengaaru。&quot;},{&quot;translateID&quot;:800136,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Он пообещал мне, что никому об этом не расскажет.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;彼は誰にも言わないと私に約束した。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かれはだれにもいわないとわたしにやくそくした。&quot;,&quot;transliteration&quot;:&quot;karehadarenimoiwanaitowatashiniyakusokushita。&quot;},{&quot;translateID&quot;:165304,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Даю тебе слово, что никому об этом не скажу.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;そのことには、誰にも言わないと約束します。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そのことには、だれにもいわないとやくそくします。&quot;,&quot;transliteration&quot;:&quot;sonokotoniha、darenimoiwanaitoyakusokushimasu。&quot;},{&quot;translateID&quot;:800134,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Он ушёл из офиса, не сказав никому ни слова.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;彼は誰にも一言も言わないで会社を出ていった。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かれはだれにもひとこともいわないでかいしゃをでていった。&quot;,&quot;transliteration&quot;:&quot;karehadarenimohitokotomoiwanaidekaisha o deteitta。&quot;},{&quot;translateID&quot;:694513,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;никому не известно&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;誰知らぬ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;だれしらぬ&quot;,&quot;transliteration&quot;:&quot;dareshiranu&quot;},{&quot;translateID&quot;:108658,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;В математике он не уступает никому в классе.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;クラスで、数学では彼の右に出る者はいない。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;くらすで、すうがくではかれのみぎにでるものはいない。&quot;,&quot;transliteration&quot;:&quot;kurasude、suugakudehakarenomiginiderumonohainai。&quot;},{&quot;translateID&quot;:483457,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Никому не скажу, что бы ни случилось.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;口が裂けてもそのことは口外しません。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;くちがさけてもそのことはこうがいしません。&quot;,&quot;transliteration&quot;:&quot;kuchigasaketemosonokotohakougaishimasen。&quot;},{&quot;translateID&quot;:699185,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Вместе мы никому и ничему не уступаем.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;団結すれば、どんなことでもできる。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;だんけつすれば、どんなことでもできる。&quot;,&quot;transliteration&quot;:&quot;danketsusureba、donnakotodemodekiru。&quot;},{&quot;translateID&quot;:633758,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;не принося никому ни пользы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;生を盗む&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せいをぬすむ&quot;,&quot;transliteration&quot;:&quot;sei o nusumu&quot;},{&quot;translateID&quot;:122256,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;в таком виде я не могу показаться никому на глаза&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;この形では人前へ出られない&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;このかたちではひとまえへでられない&quot;,&quot;transliteration&quot;:&quot;konokatachidehahitomaehederarenai&quot;},{&quot;translateID&quot;:198542,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Это дурное поветрие, которое не принесёт никому ничего хорошего.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;どんな風も誰かの得になる。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;どんなかぜもだれかのとくになる。&quot;,&quot;transliteration&quot;:&quot;donnakazemodarekanotokuninaru。&quot;},{&quot;translateID&quot;:798519,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Он никому не уступает во владении французским.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;彼はフランス語を自由に使いこなすことにかけてはだれにも劣らない。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かれはふらんすごをじゆうにつかいこなすことにかけてはだれにもおとらない。&quot;,&quot;transliteration&quot;:&quot;karehafuransugo o jiyuunitsukaikonasukotonikaketehadarenimootoranai。&quot;},{&quot;translateID&quot;:694495,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Кажется, никому неинтересно его мнение.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;誰も彼の見解に注目していないようだ。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;だれもかれのけんかいにちゅうもくしていないようだ。&quot;,&quot;transliteration&quot;:&quot;daremokarenokenkainichuumokushiteinaiyouda。&quot;},{&quot;translateID&quot;:797549,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;его произведения при жизни никому не были известны&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;彼の著書は生前公けにされなかった&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かれのちょしょはせいぜんおおやけけにされなかった&quot;,&quot;transliteration&quot;:&quot;karenochoshohaseizenooyakekenisarenakatta&quot;},{&quot;translateID&quot;:694445,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Никому не следует говорить&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;誰にも言ってはならない&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;だれにもいってはならない&quot;,&quot;transliteration&quot;:&quot;darenimoittehanaranai&quot;},{&quot;translateID&quot;:274387,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Это никому не нравится.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;みんな嫌がっているのに。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;みんないやがっているのに。&quot;,&quot;transliteration&quot;:&quot;minnaiyagatteirunoni。&quot;},{&quot;translateID&quot;:694442,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Не дай никому увидеть себя.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;誰にもみられるなよ。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;だれにもみられるなよ。&quot;,&quot;transliteration&quot;:&quot;darenimomirarerunayo。&quot;},{&quot;translateID&quot;:168837,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Это тайна, я никому её не выдам.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;それは秘密です。誰にももらさないで下さい。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;それはひみつです。だれにももらさないでください。&quot;,&quot;transliteration&quot;:&quot;sorehahimitsudesu。darenimomorasanaidekudasai。&quot;},{&quot;translateID&quot;:538216,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Я никому не открою твой секрет.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;私は秘密を漏らしたりしません。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;わたしはひみつをもらしたりしません。&quot;,&quot;transliteration&quot;:&quot;watashihahimitsu o morashitarishimasen。&quot;},{&quot;translateID&quot;:699811,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;никому не говоря&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;断らずに&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ことわらずに&quot;,&quot;transliteration&quot;:&quot;kotowarazuni&quot;},{&quot;translateID&quot;:605003,&quot;translationStatus&quot;:0,&quot;themeID&quot;:215,&quot;groupName&quot;:&quot;人文&quot;,&quot;themeName&quot;:&quot;映画&quot;,&quot;word&quot;:&quot;Не говори никому&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;唇を閉ざせ&quot;,&quot;translationnote&quot;:&quot;映画&quot;,&quot;reading&quot;:&quot;くちびるをとざせ&quot;,&quot;transliteration&quot;:&quot;kuchibiru o tozase&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="никому" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	объекта - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,объекта" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u043e%u0431%u044a%u0435%u043a%u0442%u0430" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV444Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNC+0LHRitC10LrRgtCwZAIDD2QWCAICD2QWBAIBDxYCHgNzcmMFDy4uL2ltZy9sb2dvLnBuZ2QCBQ8WAh4EaHJlZgUOLi4vP2xhbmc9cnUtUlVkAgQPFgIeB1Zpc2libGVnZAIGDxYCHwNoZAIHD2QWCGYPFgIfA2hkAgEPFgIfA2hkAgIPFgIfA2hkAgUPFgIfA2hkZPRTBHf9XXsSxYKkPLctIYIxGEL5" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAVvnNntKRv4ZbayJfGRVLiulIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/qKdxZCDJS/8Db9evVMiC895/Wkk" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:true,&quot;Phrases&quot;:[{&quot;translateID&quot;:706624,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Посадка летающего объекта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;着陸&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゃくりく&quot;,&quot;transliteration&quot;:&quot;chakuriku&quot;},{&quot;translateID&quot;:445585,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;руководитель объекта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;係り&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かかり&quot;,&quot;transliteration&quot;:&quot;kakari&quot;},{&quot;translateID&quot;:185784,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Идентификатор цифрового объекта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;デジタルオブジェクト識別子&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;でじたるおぶじぇくとしきべつし&quot;,&quot;transliteration&quot;:&quot;dejitaruobujekutoshikibetsushi&quot;},{&quot;translateID&quot;:808662,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;свободная рамка объекта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;非連結オブジェクト フレーム&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひれんけつおぶじぇくと ふれーむ&quot;,&quot;transliteration&quot;:&quot;hirenketsuobujekuto fure:mu&quot;},{&quot;translateID&quot;:85829,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;вкладка объекта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;オブジェクト タブ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おぶじぇくと たぶ&quot;,&quot;transliteration&quot;:&quot;obujekuto tabu&quot;},{&quot;translateID&quot;:85903,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;идентификатор объекта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;オブジェクト識別子&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おぶじぇくとしきべつし&quot;,&quot;transliteration&quot;:&quot;obujekutoshikibetsushi&quot;},{&quot;translateID&quot;:375686,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;команда выполнения xml находится не в начале внешнего объекта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;外部エンティティを開始しない xml 処理構成&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;がいぶえんてぃてぃをかいししない xml しょりこうせい&quot;,&quot;transliteration&quot;:&quot;gaibuentiti o kaishishinai xml shorikousei&quot;},{&quot;translateID&quot;:169682,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;тип целевого объекта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ターゲットの種類&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たーげっとのしゅるい&quot;,&quot;transliteration&quot;:&quot;ta:gettonoshurui&quot;},{&quot;translateID&quot;:85833,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;рамка объекта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;オブジェクト フレーム&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おぶじぇくと ふれーむ&quot;,&quot;transliteration&quot;:&quot;obujekuto fure:mu&quot;},{&quot;translateID&quot;:85904,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;инициализатор объекта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;オブジェクト初期化子&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おぶじぇくとしょきかこ&quot;,&quot;transliteration&quot;:&quot;obujekutoshokikako&quot;},{&quot;translateID&quot;:378352,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;Неизвестное расширение ID объекта &quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;拡張子のオブジェクト ID が不明です &quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かくちょうしのおぶじぇくと ID がふめいです&quot;,&quot;transliteration&quot;:&quot;kakuchoushinoobujekuto ID gafumeidesu&quot;},{&quot;translateID&quot;:81019,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;идентификатор объекта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;エンティティ識別名&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;えんてぃてぃしきべつめい&quot;,&quot;transliteration&quot;:&quot;entitishikibetsumei&quot;},{&quot;translateID&quot;:85864,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;разрешение для объекта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;オブジェクトのアクセス許可&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おぶじぇくとのあくせすきょか&quot;,&quot;transliteration&quot;:&quot;obujekutonoakusesukyoka&quot;},{&quot;translateID&quot;:449521,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;перенос характеристик одного объекта на другой&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;継承&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けいしょう&quot;,&quot;transliteration&quot;:&quot;keishou&quot;},{&quot;translateID&quot;:375687,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;ошибка выполнения ссылки внешнего объекта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;外部エンティティ参照中のエラー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;がいぶえんてぃてぃさんしょうちゅうのえらー&quot;,&quot;transliteration&quot;:&quot;gaibuentitisanshouchuunoera:&quot;},{&quot;translateID&quot;:79012,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;имитация функций другого объекта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;エミュレーション&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;えみゅれーしょん&quot;,&quot;transliteration&quot;:&quot;emyure:shon&quot;},{&quot;translateID&quot;:85859,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;тип объекта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;オブジェクトタイプ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おぶじぇくとたいぷ&quot;,&quot;transliteration&quot;:&quot;obujekutotaipu&quot;},{&quot;translateID&quot;:85905,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;жизненный цикл объекта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;オブジェクト生存線&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おぶじぇくとせいぞんせん&quot;,&quot;transliteration&quot;:&quot;obujekutoseizonsen&quot;},{&quot;translateID&quot;:56950,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;привязка объекта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;アンカー記号&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あんかーきごう&quot;,&quot;transliteration&quot;:&quot;anka:kigou&quot;},{&quot;translateID&quot;:85822,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;состояние объекта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;オブジェクト イン状態&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おぶじぇくと いんじょうたい&quot;,&quot;transliteration&quot;:&quot;obujekuto injoutai&quot;},{&quot;translateID&quot;:85882,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;тип объекта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;オブジェクト型&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おぶじぇくとがた&quot;,&quot;transliteration&quot;:&quot;obujekutogata&quot;},{&quot;translateID&quot;:806761,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;скрыт компонент объекта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;非閣僚議員&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひかくりょうぎいん&quot;,&quot;transliteration&quot;:&quot;hikakuryougiin&quot;},{&quot;translateID&quot;:85827,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;контекст объекта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;オブジェクト コンテキスト&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おぶじぇくと こんてきすと&quot;,&quot;transliteration&quot;:&quot;obujekuto kontekisuto&quot;},{&quot;translateID&quot;:85883,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;тип данных объекта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;オブジェクト型&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おぶじぇくとがた&quot;,&quot;transliteration&quot;:&quot;obujekutogata&quot;},{&quot;translateID&quot;:237689,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;скрыт компонент объекта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;プライベート・メンバー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぷらいべーと・めんばー&quot;,&quot;transliteration&quot;:&quot;puraibe:to・menba:&quot;},{&quot;translateID&quot;:565631,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;имитировать функции другого объекта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;手本とする&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てほんとする&quot;,&quot;transliteration&quot;:&quot;tehontosuru&quot;},{&quot;translateID&quot;:85868,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;время жизни объекта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;オブジェクトの有効期間&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おぶじぇくとのゆうこうきかん&quot;,&quot;transliteration&quot;:&quot;obujekutonoyuukoukikan&quot;},{&quot;translateID&quot;:646184,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;флаг создания объекта в подключенной системе&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;接続されたシステム オブジェクトの作成フラグ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せつぞくされたしすてむ おぶじぇくとのさくせいふらぐ&quot;,&quot;transliteration&quot;:&quot;setsuzokusaretashisutemu obujekutonosakuseifuragu&quot;},{&quot;translateID&quot;:279963,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;макет объекта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;モック オブジェクト&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;もっく おぶじぇくと&quot;,&quot;transliteration&quot;:&quot;mokku obujekuto&quot;},{&quot;translateID&quot;:85867,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;тип объекта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;オブジェクトの種類&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おぶじぇくとのしゅるい&quot;,&quot;transliteration&quot;:&quot;obujekutonoshurui&quot;},{&quot;translateID&quot;:909098,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;присоединенная рамка объекта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;連結オブジェクト フレーム&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;れんけつおぶじぇくと ふれーむ&quot;,&quot;transliteration&quot;:&quot;renketsuobujekuto fure:mu&quot;},{&quot;translateID&quot;:33847,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;идентификатор объекта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;OID&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;OID&quot;,&quot;transliteration&quot;:&quot;OID&quot;},{&quot;translateID&quot;:278947,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;способ генерации границ перемещающегося объекта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;モーションブラー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;もーしょんぶらー&quot;,&quot;transliteration&quot;:&quot;mo:shonbura:&quot;},{&quot;translateID&quot;:85866,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;идентификатор объекта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;オブジェクトの識別子&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おぶじぇくとのしきべつし&quot;,&quot;transliteration&quot;:&quot;obujekutonoshikibetsushi&quot;},{&quot;translateID&quot;:838293,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;скрыт компонент объекта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;平議員&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひらぎいん&quot;,&quot;transliteration&quot;:&quot;hiragiin&quot;},{&quot;translateID&quot;:28620,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;автоматическое определение местоположения подвижного объекта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;AVL&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;AVL&quot;,&quot;transliteration&quot;:&quot;AVL&quot;},{&quot;translateID&quot;:278942,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;способ генерации границ перемещающегося объекта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;モーション・ブラー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;もーしょんぶらー&quot;,&quot;transliteration&quot;:&quot;mo:shonbura:&quot;},{&quot;translateID&quot;:85865,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;путь объекта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;オブジェクトのパス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おぶじぇくとのぱす&quot;,&quot;transliteration&quot;:&quot;obujekutonopasu&quot;},{&quot;translateID&quot;:669727,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;защита единичного объекта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;装置保護機構&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そうちほごきこう&quot;,&quot;transliteration&quot;:&quot;souchihogokikou&quot;},{&quot;translateID&quot;:246143,&quot;translationStatus&quot;:0,&quot;themeID&quot;:8,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;インターネット&quot;,&quot;word&quot;:&quot;Показывать панель вне объекта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;フロートバーはオブジェクトの外側に表示&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふろーとばーはおぶじぇくとのそとがわにひょうじ&quot;,&quot;transliteration&quot;:&quot;furo:toba:haobujekutonosotogawanihyouji&quot;},{&quot;translateID&quot;:480690,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;цвет самосветящегося объекта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;光源色&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうげんいろ&quot;,&quot;transliteration&quot;:&quot;kougeniro&quot;},{&quot;translateID&quot;:81011,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;идентификатор объекта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;エンティティー識別名&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;えんてぃてぃーしきべつめい&quot;,&quot;transliteration&quot;:&quot;entiti:shikibetsumei&quot;},{&quot;translateID&quot;:831482,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;распознавание объекта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;物体認識&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぶったいにんしき&quot;,&quot;transliteration&quot;:&quot;buttaininshiki&quot;},{&quot;translateID&quot;:831475,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;воспринимаемый цвет объекта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;物体色&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぶったいいろ&quot;,&quot;transliteration&quot;:&quot;buttaiiro&quot;},{&quot;translateID&quot;:750521,&quot;translationStatus&quot;:0,&quot;themeID&quot;:44,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;航空宇宙&quot;,&quot;word&quot;:&quot;зеркало для фиксации объекта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;動鏡&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;どうかがみ&quot;,&quot;transliteration&quot;:&quot;doukagami&quot;},{&quot;translateID&quot;:299068,&quot;translationStatus&quot;:0,&quot;themeID&quot;:44,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;航空宇宙&quot;,&quot;word&quot;:&quot;засечка объекта на экране локатора&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;レーダー位置決定&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;れーだーいちけってい&quot;,&quot;transliteration&quot;:&quot;re:da:ichikettei&quot;},{&quot;translateID&quot;:831102,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;расстояние от вершины до объекта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;物距離&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ものきょり&quot;,&quot;transliteration&quot;:&quot;monokyori&quot;},{&quot;translateID&quot;:831529,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;точка объекта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;物点&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ものてん&quot;,&quot;transliteration&quot;:&quot;monoten&quot;},{&quot;translateID&quot;:729403,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;точка отпускания объекта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;滴点&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しずくてん&quot;,&quot;transliteration&quot;:&quot;shizukuten&quot;},{&quot;translateID&quot;:898812,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;местоположение объекта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;立地&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;りっち&quot;,&quot;transliteration&quot;:&quot;ricchi&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="объекта" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	нажмите - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,нажмите" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u043d%u0430%u0436%u043c%u0438%u0442%u0435" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV444Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNC90LDQttC80LjRgtC1ZAIDD2QWCAICD2QWBAIBDxYCHgNzcmMFDy4uL2ltZy9sb2dvLnBuZ2QCBQ8WAh4EaHJlZgUOLi4vP2xhbmc9cnUtUlVkAgQPFgIeB1Zpc2libGVnZAIGDxYCHwNoZAIHD2QWCGYPFgIfA2hkAgEPFgIfA2hkAgIPFgIfA2hkAgUPFgIfA2hkZLM30GqM0CLpr1d/KYUPN9kK2U3x" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAWv1AkPYv2GUGGcsVihXlhAlIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/hR9ECuiTix3INadk99yVePqoWgF" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:false,&quot;Phrases&quot;:[{&quot;translateID&quot;:360879,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;В случае пожара нажмите эту кнопку.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;火事の場合にはこのボタンを押してください。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かじのばあいにはこのぼたんをおしてください。&quot;,&quot;transliteration&quot;:&quot;kajinobaainihakonobotan o oshitekudasai。&quot;},{&quot;translateID&quot;:360875,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;В случае пожара разбейте стекло и нажмите на красную кнопку.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;火事の時には、ガラスを割って赤いボタンを押して下さい。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かじのときには、がらすをわってあかいぼたんをおしてください。&quot;,&quot;transliteration&quot;:&quot;kajinotokiniha、garasu o watteakaibotan o oshitekudasai。&quot;},{&quot;translateID&quot;:435181,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;В случае чрезвычайной ситуации  нажмите кнопку.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;緊急の場合は、このボタンを押しなさい。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きんきゅうのばあいは、このぼたんをおしなさい。&quot;,&quot;transliteration&quot;:&quot;kinkyuunobaaiha、konobotan o oshinasai。&quot;},{&quot;translateID&quot;:594037,&quot;translationStatus&quot;:0,&quot;themeID&quot;:8,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;インターネット&quot;,&quot;word&quot;:&quot;Нажмите здесь для подробностей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;詳細はここをクリックしてください。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょうさいはここをくりっくしてください。&quot;,&quot;transliteration&quot;:&quot;shousaihakoko o kurikkushitekudasai。&quot;},{&quot;translateID&quot;:120280,&quot;translationStatus&quot;:0,&quot;themeID&quot;:8,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;インターネット&quot;,&quot;word&quot;:&quot;Чтобы добавить новые контакты, нажмите здесь&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ここをクリックして新規コンタクトの追加&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ここをくりっくしてしんきこんたくとのついか&quot;,&quot;transliteration&quot;:&quot;koko o kurikkushiteshinkikontakutonotsuika&quot;},{&quot;translateID&quot;:344827,&quot;translationStatus&quot;:0,&quot;themeID&quot;:8,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;インターネット&quot;,&quot;word&quot;:&quot;Нажмите здесь, чтобы пропустить приветствие и оставить сообщение сразу.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;応答メッセージを流さずにボイスメールを録音開始&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おうとうめっせーじをながさずにぼいすめーるをろくおんかいし&quot;,&quot;transliteration&quot;:&quot;outoumesse:ji o nagasazuniboisume:ru o rokuonkaishi&quot;},{&quot;translateID&quot;:632078,&quot;translationStatus&quot;:0,&quot;themeID&quot;:8,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;インターネット&quot;,&quot;word&quot;:&quot;Нажмите сюда, если это не работает&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;正常に動作しない時は&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せいじょうにどうさしないときは.&quot;,&quot;transliteration&quot;:&quot;seijounidousashinaitokiha.&quot;},{&quot;translateID&quot;:121783,&quot;translationStatus&quot;:0,&quot;themeID&quot;:8,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;インターネット&quot;,&quot;word&quot;:&quot;Нажмите сюда, чтобы увидеть остальную часть чата.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;このチャットの残りを表示するにはここをクリック&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;このちゃっとののこりをひょうじするにはここをくりっく&quot;,&quot;transliteration&quot;:&quot;konochattononokori o hyoujisurunihakoko o kurikku&quot;},{&quot;translateID&quot;:675356,&quot;translationStatus&quot;:0,&quot;themeID&quot;:8,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;インターネット&quot;,&quot;word&quot;:&quot;Чтобы продолжить, нажмите \u0027Старт\u0027.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;続けるには「開始」をクリックしてください。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;つづけるには「かいし」をくりっくしてください。&quot;,&quot;transliteration&quot;:&quot;tsudukeruniha「kaishi」 o kurikkushitekudasai。&quot;},{&quot;translateID&quot;:193127,&quot;translationStatus&quot;:0,&quot;themeID&quot;:8,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;インターネット&quot;,&quot;word&quot;:&quot;Нажмите сюда, чтобы посмотреть последние сообщения&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;との最近のチャット履歴を表示するにはここをクリック&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とのさいきんのちゃっとりれきをひょうじするにはここをくりっく&quot;,&quot;transliteration&quot;:&quot;tonosaikinnochattorireki o hyoujisurunihakoko o kurikku&quot;},{&quot;translateID&quot;:470144,&quot;translationStatus&quot;:0,&quot;themeID&quot;:8,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;インターネット&quot;,&quot;word&quot;:&quot;результат поиска. Выберите тех, кого вы ищите, и нажмите \&quot;Добавить\&quot;.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;個の結果が見つかりました。お探しの相手を選択し、追加をクリックしてください。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;このけっかがみつかりました。おさがしのあいてをせんたくし、ついかをくりっくしてください。&quot;,&quot;transliteration&quot;:&quot;konokekkagamitsukarimashita。osagashinoaite o sentakushi、tsuika o kurikkushitekudasai。&quot;},{&quot;translateID&quot;:128980,&quot;translationStatus&quot;:0,&quot;themeID&quot;:8,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;インターネット&quot;,&quot;word&quot;:&quot;Выделите друзей и нажмите \u0027Закончить\u0027 чтобы пригласить их.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ご招待したいお友達を選択し「次へ」をクリックして完了してください。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ごしょうたいしたいおともだちをせんたくし「つぎへ」をくりっくしてかんりょうしてください。&quot;,&quot;transliteration&quot;:&quot;goshoutaishitaiotomodachi o sentakushi「tsugihe」 o kurikkushitekanryoushitekudasai。&quot;},{&quot;translateID&quot;:89666,&quot;translationStatus&quot;:0,&quot;themeID&quot;:8,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;インターネット&quot;,&quot;word&quot;:&quot;Введите ваше имя, е-майл и приветствие, затем нажмите \u0027Вперёд\u0027.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;お名前、メールアドレスと応答メッセージを入力し「完了」をクリックしてください。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おなまえ、めーるあどれすとおうとうめっせーじをにゅうりょくし「かんりょう」をくりっくしてください。&quot;,&quot;transliteration&quot;:&quot;onamae、me:ruadoresutooutoumesse:ji o nyuuryokushi「kanryou」 o kurikkushitekudasai。&quot;},{&quot;translateID&quot;:120276,&quot;translationStatus&quot;:0,&quot;themeID&quot;:8,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;インターネット&quot;,&quot;word&quot;:&quot;Нажмите здесь&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ここをクリック。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ここをくりっく。&quot;,&quot;transliteration&quot;:&quot;koko o kurikku。&quot;},{&quot;translateID&quot;:315574,&quot;translationStatus&quot;:0,&quot;themeID&quot;:8,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;インターネット&quot;,&quot;word&quot;:&quot;Нажмите сюда, чтобы увидеть прошлые пропущенные события&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;以前のイベントを表示&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いぜんのいべんとをひょうじ&quot;,&quot;transliteration&quot;:&quot;izennoibento o hyouji&quot;},{&quot;translateID&quot;:120278,&quot;translationStatus&quot;:0,&quot;themeID&quot;:8,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;インターネット&quot;,&quot;word&quot;:&quot;Нажмите здесь, чтобы начать чат с&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ここをクリックしてチャットをへ送信&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ここをくりっくしてちゃっとをへそうしん&quot;,&quot;transliteration&quot;:&quot;koko o kurikkushitechatto o hesoushin&quot;},{&quot;translateID&quot;:659575,&quot;translationStatus&quot;:0,&quot;themeID&quot;:8,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;インターネット&quot;,&quot;word&quot;:&quot;Нажмите здесь, чтобы увидеть прошлые сообщения&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;全チャット履歴を表示&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぜんちゃっとりれきをひょうじ&quot;,&quot;transliteration&quot;:&quot;zenchattorireki o hyouji&quot;},{&quot;translateID&quot;:120275,&quot;translationStatus&quot;:0,&quot;themeID&quot;:8,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;インターネット&quot;,&quot;word&quot;:&quot;Нажмите здесь&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ここをクリック&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ここをくりっく&quot;,&quot;transliteration&quot;:&quot;koko o kurikku&quot;},{&quot;translateID&quot;:447738,&quot;translationStatus&quot;:0,&quot;themeID&quot;:8,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;インターネット&quot;,&quot;word&quot;:&quot;Введите код, полученный в SMS и нажмите \&quot;Подтвердить\&quot;.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;携帯で受け取った確認コードを入力して「送信」をクリック&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けいたいでうけとったかくにんこーどをにゅうりょくして「そうしん」をくりっく&quot;,&quot;transliteration&quot;:&quot;keitaideuketottakakuninko:do o nyuuryokushite「soushin」 o kurikku&quot;},{&quot;translateID&quot;:256256,&quot;translationStatus&quot;:0,&quot;themeID&quot;:8,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;インターネット&quot;,&quot;word&quot;:&quot;Нажмите здесь, когда закончите работать с автоответчиком&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ボイスメールを残す&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぼいすめーるをのこす&quot;,&quot;transliteration&quot;:&quot;boisume:ru o nokosu&quot;},{&quot;translateID&quot;:33855,&quot;translationStatus&quot;:0,&quot;themeID&quot;:8,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;インターネット&quot;,&quot;word&quot;:&quot;Нажмите \u0027OK\u0027, чтобы принять запрос, или \u0027Отменить\u0027, чтобы отклонить его.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;OKかキャンセルをクリックしてください。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;OKかきゃんせるをくりっくしてください。&quot;,&quot;transliteration&quot;:&quot;OKkakyanseru o kurikkushitekudasai。&quot;},{&quot;translateID&quot;:256255,&quot;translationStatus&quot;:0,&quot;themeID&quot;:8,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;インターネット&quot;,&quot;word&quot;:&quot;Нажмите здесь, чтобы повесить трубку и НЕ оставлять сообщений.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ボイスメールを残さず通話を切断&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぼいすめーるをのこさずつうわをせつだん&quot;,&quot;transliteration&quot;:&quot;boisume:ru o nokosazutsuuwa o setsudan&quot;},{&quot;translateID&quot;:174081,&quot;translationStatus&quot;:0,&quot;themeID&quot;:8,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;インターネット&quot;,&quot;word&quot;:&quot;Для того, чтобы прослушать звук, нажмите дважды.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ダブルクリックで再生&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;だぶるくりっくでさいせい&quot;,&quot;transliteration&quot;:&quot;daburukurikkudesaisei&quot;},{&quot;translateID&quot;:256252,&quot;translationStatus&quot;:0,&quot;themeID&quot;:8,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;インターネット&quot;,&quot;word&quot;:&quot;Нажмите здесь, если вы закончили запись сообщения&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ボイスメールを完了したらここをクリック&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぼいすめーるをかんりょうしたらここをくりっく&quot;,&quot;transliteration&quot;:&quot;boisume:ru o kanryoushitarakoko o kurikku&quot;},{&quot;translateID&quot;:246687,&quot;translationStatus&quot;:0,&quot;themeID&quot;:11,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;プログラミング&quot;,&quot;word&quot;:&quot;нажмите кнопку № &quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;プログラムを開始するには&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぷろぐらむをかいしするには&quot;,&quot;transliteration&quot;:&quot;puroguramu o kaishisuruniha&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="нажмите" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

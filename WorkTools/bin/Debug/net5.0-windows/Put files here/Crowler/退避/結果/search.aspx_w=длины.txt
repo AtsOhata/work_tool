@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	длины - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,длины" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u0434%u043b%u0438%u043d%u044b" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV044Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNC00LvQuNC90YtkAgMPZBYIAgIPZBYEAgEPFgIeA3NyYwUPLi4vaW1nL2xvZ28ucG5nZAIFDxYCHgRocmVmBQ4uLi8/bGFuZz1ydS1SVWQCBA8WAh4HVmlzaWJsZWdkAgYPFgIfA2hkAgcPZBYIZg8WAh8DaGQCAQ8WAh8DaGQCAg8WAh8DaGQCBQ8WAh8DaGRk2wcXSOhyHpX5yXurO90cElUSgck=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAU2H8h3UTcspSoeus1GEp0OlIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/vNKhXzLpxRJc7vGAfMBs2zLZksr" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:true,&quot;Phrases&quot;:[{&quot;translateID&quot;:472806,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;блок фиксированной длины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;固定長ブロック&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こていちょうぶろっく&quot;,&quot;transliteration&quot;:&quot;koteichouburokku&quot;},{&quot;translateID&quot;:741925,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;мера длины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;度量&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;どりょう&quot;,&quot;transliteration&quot;:&quot;doryou&quot;},{&quot;translateID&quot;:765728,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;шерстяное одеяло двойной длины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;二枚続きの毛布&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にまいつづきのもうふ&quot;,&quot;transliteration&quot;:&quot;nimaitsudukinomoufu&quot;},{&quot;translateID&quot;:323647,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;в один кэн длины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;一間の&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いっけんの&quot;,&quot;transliteration&quot;:&quot;ikkenno&quot;},{&quot;translateID&quot;:472804,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;код постоянной длины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;固定長コード&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こていちょうこーど&quot;,&quot;transliteration&quot;:&quot;koteichouko:do&quot;},{&quot;translateID&quot;:152116,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;штрих меры длины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;スケール行&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;すけーるぎょう&quot;,&quot;transliteration&quot;:&quot;suke:rugyou&quot;},{&quot;translateID&quot;:472801,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;фиксированной длины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;固定長&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こていちょう&quot;,&quot;transliteration&quot;:&quot;koteichou&quot;},{&quot;translateID&quot;:306361,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;слово двойной длины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ロング・ワード&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ろんぐ・わーど&quot;,&quot;transliteration&quot;:&quot;rongu・wa:do&quot;},{&quot;translateID&quot;:630587,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;массив переменной длины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;整合配列&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せいごうはいれつ&quot;,&quot;transliteration&quot;:&quot;seigouhairetsu&quot;},{&quot;translateID&quot;:472810,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;формат фиксированной длины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;固定長形式&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こていちょうけいしき&quot;,&quot;transliteration&quot;:&quot;koteichoukeishiki&quot;},{&quot;translateID&quot;:717256,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;модификатор длины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;長さ変更子&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ながさへんこうこ&quot;,&quot;transliteration&quot;:&quot;nagasahenkouko&quot;},{&quot;translateID&quot;:34751,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;код с ограничением длины поля&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;RLLコード&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;RLLこーど&quot;,&quot;transliteration&quot;:&quot;RLLko:do&quot;},{&quot;translateID&quot;:472875,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;формат фиксированной длины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;固定様式&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こていようしき&quot;,&quot;transliteration&quot;:&quot;koteiyoushiki&quot;},{&quot;translateID&quot;:717238,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;такой же длины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;長さがと同じで&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ながさがとおなじで&quot;,&quot;transliteration&quot;:&quot;nagasagatoonajide&quot;},{&quot;translateID&quot;:358010,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;код переменной длины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;可変長符号&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かへんちょうふごう&quot;,&quot;transliteration&quot;:&quot;kahenchoufugou&quot;},{&quot;translateID&quot;:174059,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;слово двойной длины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ダブル・ワード&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;だぶる・わーど&quot;,&quot;transliteration&quot;:&quot;daburu・wa:do&quot;},{&quot;translateID&quot;:358054,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;формат переменной длины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;可変様式&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かへんようしき&quot;,&quot;transliteration&quot;:&quot;kahenyoushiki&quot;},{&quot;translateID&quot;:174153,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;слово двойной длины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ダブルワード&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;だぶるわーど&quot;,&quot;transliteration&quot;:&quot;daburuwa:do&quot;},{&quot;translateID&quot;:358008,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;слово переменной длины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;可変長語&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かへんちょうご&quot;,&quot;transliteration&quot;:&quot;kahenchougo&quot;},{&quot;translateID&quot;:819676,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;массив со строками разной длины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;不調和配列&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふちょうわはいれつ&quot;,&quot;transliteration&quot;:&quot;fuchouwahairetsu&quot;},{&quot;translateID&quot;:16233,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;регистр учетверённой длины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;4倍長レジスタ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;4ばいちょうれじすた&quot;,&quot;transliteration&quot;:&quot;4baichourejisuta&quot;},{&quot;translateID&quot;:358003,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;вектор переменной длины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;可変長ベクトル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かへんちょうべくとる&quot;,&quot;transliteration&quot;:&quot;kahenchoubekutoru&quot;},{&quot;translateID&quot;:819675,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;массив записей разной длины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;不調和配列&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふちょうわはいれつ&quot;,&quot;transliteration&quot;:&quot;fuchouwahairetsu&quot;},{&quot;translateID&quot;:784033,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;число двойной длины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;倍長数&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ばいちょうすう&quot;,&quot;transliteration&quot;:&quot;baichousuu&quot;},{&quot;translateID&quot;:358000,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;полет переменной длины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;可変長フィールド&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かへんちょうふぃーるど&quot;,&quot;transliteration&quot;:&quot;kahenchoufi:rudo&quot;},{&quot;translateID&quot;:819672,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;массив записей разной длины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;不調和アレイ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふちょうわあれい&quot;,&quot;transliteration&quot;:&quot;fuchouwaarei&quot;},{&quot;translateID&quot;:784029,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;слово двойной длины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;倍長語&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ばいちょうご&quot;,&quot;transliteration&quot;:&quot;baichougo&quot;},{&quot;translateID&quot;:357999,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;код переменной длины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;可変長コード&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かへんちょうこーど&quot;,&quot;transliteration&quot;:&quot;kahenchouko:do&quot;},{&quot;translateID&quot;:472813,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;слово фиксированной длины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;固定長語&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こていちょうご&quot;,&quot;transliteration&quot;:&quot;koteichougo&quot;},{&quot;translateID&quot;:784025,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;регистр двойной длины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;倍長レジスタ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ばいちょうれじすた&quot;,&quot;transliteration&quot;:&quot;baichourejisuta&quot;},{&quot;translateID&quot;:222419,&quot;translationStatus&quot;:0,&quot;themeID&quot;:8,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;インターネット&quot;,&quot;word&quot;:&quot;Поле пиры неверной длины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ピアフィールド長が正しくありません。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぴあふぃーるどちょうがただしくありません。&quot;,&quot;transliteration&quot;:&quot;piafi:rudochougatadashikuarimasen。&quot;},{&quot;translateID&quot;:678578,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;число многократной длины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;多倍長数&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たばいちょうすう&quot;,&quot;transliteration&quot;:&quot;tabaichousuu&quot;},{&quot;translateID&quot;:36805,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;запись переменной длины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;V形式レコード&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;Vけいしきれこーど&quot;,&quot;transliteration&quot;:&quot;Vkeishikireko:do&quot;},{&quot;translateID&quot;:33758,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;регистр n-кратной длины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;N倍長レジスタ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;Nばいちょうれじすた&quot;,&quot;transliteration&quot;:&quot;Nbaichourejisuta&quot;},{&quot;translateID&quot;:174154,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;адресация словами двойной длины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ダブルワードアドレッシング&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;だぶるわーどあどれっしんぐ&quot;,&quot;transliteration&quot;:&quot;daburuwa:doadoresshingu&quot;},{&quot;translateID&quot;:472805,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;поле фиксированной длины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;固定長フィールド&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こていちょうふぃーるど&quot;,&quot;transliteration&quot;:&quot;koteichoufi:rudo&quot;},{&quot;translateID&quot;:358004,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;запись переменной длины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;可変長レコード&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かへんちょうれこーど&quot;,&quot;transliteration&quot;:&quot;kahenchoureko:do&quot;},{&quot;translateID&quot;:529365,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;регистр учетверённой длины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;四倍長レジスタ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;4ばいちょうれじすた&quot;,&quot;transliteration&quot;:&quot;4baichourejisuta&quot;},{&quot;translateID&quot;:717244,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;модификатор длины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;長さモディファイア&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ながさもでぃふぁいあ&quot;,&quot;transliteration&quot;:&quot;nagasamodifaia&quot;},{&quot;translateID&quot;:358002,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;поле переменной длины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;可変長フィールド&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かへんちょうふぃーるど&quot;,&quot;transliteration&quot;:&quot;kahenchoufi:rudo&quot;},{&quot;translateID&quot;:472802,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;запись фиксированной длины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;固定長&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こていちょう&quot;,&quot;transliteration&quot;:&quot;koteichou&quot;},{&quot;translateID&quot;:717245,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;спецификация длины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;長さ指定&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ながさしてい&quot;,&quot;transliteration&quot;:&quot;nagasashitei&quot;},{&quot;translateID&quot;:270731,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;регистр накапливающего сумматора многократной длины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;マルチプルアキュムレーティングレジスター&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まるちぷるあきゅむれーてぃんぐれじすたー&quot;,&quot;transliteration&quot;:&quot;maruchipuruakyumure:tingurejisuta:&quot;},{&quot;translateID&quot;:472803,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;постоянной длины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;固定長&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こていちょう&quot;,&quot;transliteration&quot;:&quot;koteichou&quot;},{&quot;translateID&quot;:717247,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;модификатор длины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;長さ修正子&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ながさしゅうせいこ&quot;,&quot;transliteration&quot;:&quot;nagasashuuseiko&quot;},{&quot;translateID&quot;:357998,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;переменной длины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;可変長カード送り機構&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かへんちょうかーどおくりきこう&quot;,&quot;transliteration&quot;:&quot;kahenchouka:dookurikikou&quot;},{&quot;translateID&quot;:36776,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;запись переменной длины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;Vモード・レコード&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;Vもーど・れこーど&quot;,&quot;transliteration&quot;:&quot;Vmo:do・reko:do&quot;},{&quot;translateID&quot;:765461,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;число двойной длины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;二倍長の数&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;2ばいながのかず&quot;,&quot;transliteration&quot;:&quot;2bainaganokazu&quot;},{&quot;translateID&quot;:698342,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;плоскопараллельная мера длины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;端度器&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はしどき&quot;,&quot;transliteration&quot;:&quot;hashidoki&quot;},{&quot;translateID&quot;:784027,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;регистр двойной длины с возможностью доступа к обеим половинам&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;倍長レジスタ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ばいちょうれじすた&quot;,&quot;transliteration&quot;:&quot;baichourejisuta&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="длины" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

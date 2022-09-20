@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	момент - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,момент" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u043c%u043e%u043c%u0435%u043d%u0442" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV244Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNC80L7QvNC10L3RgmQCAw9kFggCAg9kFgQCAQ8WAh4Dc3JjBQ8uLi9pbWcvbG9nby5wbmdkAgUPFgIeBGhyZWYFDi4uLz9sYW5nPXJ1LVJVZAIEDxYCHgdWaXNpYmxlZ2QCBg8WAh8DaGQCBw9kFghmDxYCHwNoZAIBDxYCHwNoZAICDxYCHwNoZAIFDxYCHwNoZGQnHiFkOMalnwhEgW0xES03zeh0nA==" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAWHHgN3AwTQM8IIBkPZW9ALlIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/viLy6QODFy/sucbFMicKF+vfVA1" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[{&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;words&quot;:[{&quot;translateID&quot;:280831,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;момент&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;モメント&quot;,&quot;reading&quot;:&quot;もめんと&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;momento&quot;},{&quot;translateID&quot;:324041,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;момент&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;一刻&quot;,&quot;reading&quot;:&quot;いっこく&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;ikkoku&quot;},{&quot;translateID&quot;:324266,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;момент&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;一時&quot;,&quot;reading&quot;:&quot;ひととき&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;hitotoki&quot;},{&quot;translateID&quot;:324447,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;момент&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;一時点&quot;,&quot;reading&quot;:&quot;いちじてん&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;ichijiten&quot;},{&quot;translateID&quot;:324972,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;момент&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;一瞬&quot;,&quot;reading&quot;:&quot;いっしゅん&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;isshun&quot;},{&quot;translateID&quot;:324984,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;момент&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;一瞬間&quot;,&quot;reading&quot;:&quot;いっしゅんかん&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;isshunkan&quot;},{&quot;translateID&quot;:279171,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;момент&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;モーメント&quot;,&quot;reading&quot;:&quot;もーめんと&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;mo:mento&quot;},{&quot;translateID&quot;:500837,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;момент&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;刻み&quot;,&quot;reading&quot;:&quot;きざみ&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;kizami&quot;},{&quot;translateID&quot;:516711,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;момент&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;際&quot;,&quot;reading&quot;:&quot;さい&quot;,&quot;isReadingAlwaysVisible&quot;:true,&quot;transliteration&quot;:&quot;sai&quot;},{&quot;translateID&quot;:516712,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;момент&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;際&quot;,&quot;reading&quot;:&quot;きわ&quot;,&quot;isReadingAlwaysVisible&quot;:true,&quot;transliteration&quot;:&quot;kiwa&quot;},{&quot;translateID&quot;:546190,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;момент&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;時機&quot;,&quot;reading&quot;:&quot;じき&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;jiki&quot;},{&quot;translateID&quot;:546448,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;момент&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;時刻&quot;,&quot;reading&quot;:&quot;じこく&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;jikoku&quot;},{&quot;translateID&quot;:546659,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;момент&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;時点&quot;,&quot;reading&quot;:&quot;じてん&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;jiten&quot;},{&quot;translateID&quot;:579612,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;момент&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;瞬間&quot;,&quot;reading&quot;:&quot;しゅんかん&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;shunkan&quot;},{&quot;translateID&quot;:579668,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;момент&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;瞬刻&quot;,&quot;reading&quot;:&quot;しゅんこく&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;shunkoku&quot;},{&quot;translateID&quot;:579672,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;момент&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;瞬時&quot;,&quot;reading&quot;:&quot;しゅんじ&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;shunji&quot;},{&quot;translateID&quot;:581434,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;момент&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;処&quot;,&quot;reading&quot;:&quot;しょ&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;sho&quot;},{&quot;translateID&quot;:582327,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;момент&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;所&quot;,&quot;reading&quot;:&quot;ところ&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;tokoro&quot;},{&quot;translateID&quot;:619973,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;момент&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;須臾&quot;,&quot;reading&quot;:&quot;しゅゆ&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;shuyu&quot;},{&quot;translateID&quot;:626635,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;момент&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;寸陰&quot;,&quot;reading&quot;:&quot;すんいん&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;sunin&quot;},{&quot;translateID&quot;:626656,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;момент&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;寸時&quot;,&quot;reading&quot;:&quot;すんじ&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;sunji&quot;},{&quot;translateID&quot;:626693,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;момент&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;寸秒&quot;,&quot;reading&quot;:&quot;すんびょう&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;sunbyou&quot;},{&quot;translateID&quot;:646753,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;момент&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;折&quot;,&quot;reading&quot;:&quot;おり&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;ori&quot;},{&quot;translateID&quot;:646774,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;момент&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;折り&quot;,&quot;reading&quot;:&quot;おり&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;ori&quot;},{&quot;translateID&quot;:647560,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;момент&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;節&quot;,&quot;reading&quot;:&quot;せつ&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;setsu&quot;},{&quot;translateID&quot;:673309,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;момент&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;束の間&quot;,&quot;reading&quot;:&quot;つかのま&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;tsukanoma&quot;},{&quot;translateID&quot;:785409,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;момент&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;拍子&quot;,&quot;reading&quot;:&quot;ひょうし&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;hyoushi&quot;},{&quot;translateID&quot;:832108,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;момент&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;分陰&quot;,&quot;reading&quot;:&quot;ふんいん&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;funin&quot;},{&quot;translateID&quot;:834308,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;момент&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;分秒&quot;,&quot;reading&quot;:&quot;ふんびょう&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;funbyou&quot;},{&quot;translateID&quot;:844372,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;момент&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;片時&quot;,&quot;reading&quot;:&quot;かたとき&quot;,&quot;isReadingAlwaysVisible&quot;:true,&quot;transliteration&quot;:&quot;katatoki&quot;},{&quot;translateID&quot;:844373,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;момент&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;片時&quot;,&quot;reading&quot;:&quot;へんじ&quot;,&quot;isReadingAlwaysVisible&quot;:true,&quot;transliteration&quot;:&quot;henji&quot;},{&quot;translateID&quot;:907674,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;момент&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;暦日&quot;,&quot;reading&quot;:&quot;れきじつ&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;rekijitsu&quot;},{&quot;translateID&quot;:907677,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;момент&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;暦年&quot;,&quot;reading&quot;:&quot;れきねん&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;rekinen&quot;},{&quot;translateID&quot;:915441,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;момент&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;咄嗟&quot;,&quot;reading&quot;:&quot;とっさ&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;tossa&quot;},{&quot;translateID&quot;:626640,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;момент&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;寸暇&quot;,&quot;reading&quot;:&quot;すんか&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;sunka&quot;},{&quot;translateID&quot;:33170,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;Момент&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;Moment&quot;,&quot;reading&quot;:&quot;Moment&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;Moment&quot;}]},{&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;words&quot;:[{&quot;translateID&quot;:693648,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;момент&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;脱出トルク&quot;,&quot;reading&quot;:&quot;だっしゅつとるく&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;dasshutsutoruku&quot;},{&quot;translateID&quot;:736303,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;момент&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;電気モーメント&quot;,&quot;reading&quot;:&quot;でんきもーめんと&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;denkimo:mento&quot;}]},{&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;words&quot;:[{&quot;translateID&quot;:334954,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;момент&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;運動量保存&quot;,&quot;reading&quot;:&quot;うんどうりょうほぞん&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;undouryouhozon&quot;}]},{&quot;groupName&quot;:&quot;物理&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;words&quot;:[{&quot;translateID&quot;:196732,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;момент&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;トルク&quot;,&quot;reading&quot;:&quot;とるく&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;toruku&quot;},{&quot;translateID&quot;:545816,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;момент&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;時間&quot;,&quot;reading&quot;:&quot;じかん&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;jikan&quot;},{&quot;translateID&quot;:642281,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;момент&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;積率&quot;,&quot;reading&quot;:&quot;せきりつ&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;sekiritsu&quot;},{&quot;translateID&quot;:579620,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;момент&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;瞬間&quot;,&quot;reading&quot;:&quot;しゅんかん&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;shunkan&quot;}]},{&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;words&quot;:[{&quot;translateID&quot;:642282,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;момент&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;積率&quot;,&quot;reading&quot;:&quot;せきりつ&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;sekiritsu&quot;},{&quot;translateID&quot;:367425,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;момент&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;回数&quot;,&quot;reading&quot;:&quot;かいすう&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;kaisuu&quot;}]},{&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;words&quot;:[{&quot;translateID&quot;:279173,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;момент&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;モーメント&quot;,&quot;reading&quot;:&quot;もーめんと&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;mo:mento&quot;}]}],&quot;topPhrases&quot;:[{&quot;translateID&quot;:468361,&quot;translationStatus&quot;:0,&quot;themeID&quot;:0,&quot;groupName&quot;:null,&quot;themeName&quot;:null,&quot;word&quot;:&quot;данный момент&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;現在のところ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;げんざいのところ&quot;,&quot;transliteration&quot;:&quot;genzainotokoro&quot;},{&quot;translateID&quot;:166328,&quot;translationStatus&quot;:0,&quot;themeID&quot;:0,&quot;groupName&quot;:null,&quot;themeName&quot;:null,&quot;word&quot;:&quot;на данный момент&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;その場逃れの&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そのばのがれ&quot;,&quot;transliteration&quot;:&quot;sonobanogare&quot;},{&quot;translateID&quot;:468329,&quot;translationStatus&quot;:0,&quot;themeID&quot;:0,&quot;groupName&quot;:null,&quot;themeName&quot;:null,&quot;word&quot;:&quot;на момент&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;現在&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;げんざい&quot;,&quot;transliteration&quot;:&quot;genzai&quot;},{&quot;translateID&quot;:207783,&quot;translationStatus&quot;:0,&quot;themeID&quot;:0,&quot;groupName&quot;:null,&quot;themeName&quot;:null,&quot;word&quot;:&quot;в момент&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;の際に&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;のさいに&quot;,&quot;transliteration&quot;:&quot;nosaini&quot;},{&quot;translateID&quot;:505680,&quot;translationStatus&quot;:0,&quot;themeID&quot;:0,&quot;groupName&quot;:null,&quot;themeName&quot;:null,&quot;word&quot;:&quot;в данный момент&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;今の所では&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いまのところでは&quot;,&quot;transliteration&quot;:&quot;imanotokorodeha&quot;},{&quot;translateID&quot;:159734,&quot;translationStatus&quot;:0,&quot;themeID&quot;:0,&quot;groupName&quot;:null,&quot;themeName&quot;:null,&quot;word&quot;:&quot;в тот момент&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;する弾みに&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;するはずみに&quot;,&quot;transliteration&quot;:&quot;suruhazumini&quot;},{&quot;translateID&quot;:122594,&quot;translationStatus&quot;:0,&quot;themeID&quot;:0,&quot;groupName&quot;:null,&quot;themeName&quot;:null,&quot;word&quot;:&quot;в настоящий момент&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;この瞬間&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;このしゅんかん&quot;,&quot;transliteration&quot;:&quot;konoshunkan&quot;},{&quot;translateID&quot;:60653,&quot;translationStatus&quot;:0,&quot;themeID&quot;:0,&quot;groupName&quot;:null,&quot;themeName&quot;:null,&quot;word&quot;:&quot;в любой момент&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;いかなる場合にでも&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いかなるばあいにでも&quot;,&quot;transliteration&quot;:&quot;ikanarubaainidemo&quot;},{&quot;translateID&quot;:118507,&quot;translationStatus&quot;:0,&quot;themeID&quot;:0,&quot;groupName&quot;:null,&quot;themeName&quot;:null,&quot;word&quot;:&quot;в этот момент&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;こうなると&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうなると&quot;,&quot;transliteration&quot;:&quot;kounaruto&quot;},{&quot;translateID&quot;:468462,&quot;translationStatus&quot;:0,&quot;themeID&quot;:0,&quot;groupName&quot;:null,&quot;themeName&quot;:null,&quot;word&quot;:&quot;настоящий момент&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;現時点&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;げんじてん&quot;,&quot;transliteration&quot;:&quot;genjiten&quot;}],&quot;phrasesGroups&quot;:[{&quot;id&quot;:1,&quot;gid&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;count&quot;:181},{&quot;id&quot;:7,&quot;gid&quot;:2,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;count&quot;:27},{&quot;id&quot;:13,&quot;gid&quot;:2,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;count&quot;:19},{&quot;id&quot;:9,&quot;gid&quot;:2,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;count&quot;:21},{&quot;id&quot;:22,&quot;gid&quot;:3,&quot;groupName&quot;:&quot;車両&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;count&quot;:1},{&quot;id&quot;:14,&quot;gid&quot;:3,&quot;groupName&quot;:&quot;車両&quot;,&quot;themeName&quot;:&quot;自動車&quot;,&quot;count&quot;:2},{&quot;id&quot;:34,&quot;gid&quot;:4,&quot;groupName&quot;:&quot;土木&quot;,&quot;themeName&quot;:&quot;基礎工学&quot;,&quot;count&quot;:1},{&quot;id&quot;:43,&quot;gid&quot;:4,&quot;groupName&quot;:&quot;土木&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;count&quot;:1},{&quot;id&quot;:24,&quot;gid&quot;:4,&quot;groupName&quot;:&quot;土木&quot;,&quot;themeName&quot;:&quot;橋梁工学&quot;,&quot;count&quot;:3},{&quot;id&quot;:32,&quot;gid&quot;:4,&quot;groupName&quot;:&quot;土木&quot;,&quot;themeName&quot;:&quot;地盤工学&quot;,&quot;count&quot;:1},{&quot;id&quot;:53,&quot;gid&quot;:5,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;count&quot;:35},{&quot;id&quot;:47,&quot;gid&quot;:5,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;count&quot;:78},{&quot;id&quot;:50,&quot;gid&quot;:5,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;金属&quot;,&quot;count&quot;:8},{&quot;id&quot;:44,&quot;gid&quot;:5,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;航空宇宙&quot;,&quot;count&quot;:6},{&quot;id&quot;:82,&quot;gid&quot;:7,&quot;groupName&quot;:&quot;物理&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;count&quot;:82},{&quot;id&quot;:92,&quot;gid&quot;:8,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;count&quot;:37},{&quot;id&quot;:129,&quot;gid&quot;:9,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;count&quot;:11},{&quot;id&quot;:123,&quot;gid&quot;:9,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;泌尿器学/肛門学&quot;,&quot;count&quot;:1},{&quot;id&quot;:175,&quot;gid&quot;:12,&quot;groupName&quot;:&quot;地学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;count&quot;:3},{&quot;id&quot;:185,&quot;gid&quot;:13,&quot;groupName&quot;:&quot;経済&quot;,&quot;themeName&quot;:&quot;金融&quot;,&quot;count&quot;:1},{&quot;id&quot;:197,&quot;gid&quot;:14,&quot;groupName&quot;:&quot;法律&quot;,&quot;themeName&quot;:&quot;著作権&quot;,&quot;count&quot;:1},{&quot;id&quot;:218,&quot;gid&quot;:15,&quot;groupName&quot;:&quot;人文&quot;,&quot;themeName&quot;:&quot;軍事用語&quot;,&quot;count&quot;:1},{&quot;id&quot;:225,&quot;gid&quot;:15,&quot;groupName&quot;:&quot;人文&quot;,&quot;themeName&quot;:&quot;航空&quot;,&quot;count&quot;:2}],&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:false,&quot;Phrases&quot;:null}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="момент" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

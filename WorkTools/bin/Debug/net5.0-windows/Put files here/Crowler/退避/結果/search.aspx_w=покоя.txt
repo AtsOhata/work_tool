@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	покоя - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,покоя" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u043f%u043e%u043a%u043e%u044f" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV044Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNC/0L7QutC+0Y9kAgMPZBYIAgIPZBYEAgEPFgIeA3NyYwUPLi4vaW1nL2xvZ28ucG5nZAIFDxYCHgRocmVmBQ4uLi8/bGFuZz1ydS1SVWQCBA8WAh4HVmlzaWJsZWdkAgYPFgIfA2hkAgcPZBYIZg8WAh8DaGQCAQ8WAh8DaGQCAg8WAh8DaGQCBQ8WAh8DaGRk0K94fJ7bqTfZkJjAF6ZgNNtUN5k=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAUu+r8imPyGfNNLuobusJMrlIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/iNoJ5Fc3hzZY7fI8/F0QYbUAbWq" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:true,&quot;Phrases&quot;:[{&quot;translateID&quot;:406905,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;не давать покоя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;気になる&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きになる&quot;,&quot;transliteration&quot;:&quot;kininaru&quot;},{&quot;translateID&quot;:406830,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;не знать покоя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;気が忙しい&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きがいそがしい&quot;,&quot;transliteration&quot;:&quot;kigaisogashii&quot;},{&quot;translateID&quot;:830804,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;душа умершего не находит покоя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;仏が浮ばれない&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほとけがうかばれない&quot;,&quot;transliteration&quot;:&quot;hotokegaukabarenai&quot;},{&quot;translateID&quot;:639533,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;орбита покоя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;静止起動&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せいしきどう&quot;,&quot;transliteration&quot;:&quot;seishikidou&quot;},{&quot;translateID&quot;:406747,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;не находить себе покоя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;気がもめる&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きがもめる&quot;,&quot;transliteration&quot;:&quot;kigamomeru&quot;},{&quot;translateID&quot;:406728,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;не находить себе покоя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;気がすまない&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きがすまない&quot;,&quot;transliteration&quot;:&quot;kigasumanai&quot;},{&quot;translateID&quot;:797457,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;мне покоя не даёт&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;彼の住所が分からないので気が気じゃない&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かれのじゅうしょがわからないのできがきじゃない&quot;,&quot;transliteration&quot;:&quot;karenojuushogawakaranainodekigakijanai&quot;},{&quot;translateID&quot;:417019,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;период покоя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;休眠期&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きゅうみんき&quot;,&quot;transliteration&quot;:&quot;kyuuminki&quot;},{&quot;translateID&quot;:157514,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;состояние покоя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;スペースホールド&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;すぺーすほーるど&quot;,&quot;transliteration&quot;:&quot;supe:suho:rudo&quot;},{&quot;translateID&quot;:639410,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;состояние покоя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;静穏状態&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せいおんじょうたい&quot;,&quot;transliteration&quot;:&quot;seionjoutai&quot;},{&quot;translateID&quot;:472292,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;находящийся в состоянии покоя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;固体化&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こたいか&quot;,&quot;transliteration&quot;:&quot;kotaika&quot;},{&quot;translateID&quot;:472336,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;находящийся в состоянии покоя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;固体素子&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こたいそし&quot;,&quot;transliteration&quot;:&quot;kotaisoshi&quot;},{&quot;translateID&quot;:472248,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;находящийся в состоянии покоя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;固体&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こたい&quot;,&quot;transliteration&quot;:&quot;kotai&quot;},{&quot;translateID&quot;:167993,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;находящийся в состоянии покоя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ソリッドステート&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そりっどすてーと&quot;,&quot;transliteration&quot;:&quot;soriddosute:to&quot;},{&quot;translateID&quot;:416908,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;состояние покоя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;休止状態&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きゅうしじょうたい&quot;,&quot;transliteration&quot;:&quot;kyuushijoutai&quot;},{&quot;translateID&quot;:737842,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;масса покоя электрона&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;電子の静止質量&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;でんしのせいししつりょう&quot;,&quot;transliteration&quot;:&quot;denshinoseishishitsuryou&quot;},{&quot;translateID&quot;:163326,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;двухтактный усилитель с нулевым выходным током покоя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ゼロ静止点プッシュプル増幅器&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぜろせいしてんぷっしゅぷるぞうふくき&quot;,&quot;transliteration&quot;:&quot;zeroseishitenpusshupuruzoufukuki&quot;},{&quot;translateID&quot;:653548,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;состояние покоя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;潜在状態&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せんざいじょうたい&quot;,&quot;transliteration&quot;:&quot;senzaijoutai&quot;},{&quot;translateID&quot;:640010,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;трение покоя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;静摩擦&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せいまさつ&quot;,&quot;transliteration&quot;:&quot;seimasatsu&quot;},{&quot;translateID&quot;:416895,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;время покоя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;休止時間&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きゅうしじかん&quot;,&quot;transliteration&quot;:&quot;kyuushijikan&quot;},{&quot;translateID&quot;:639467,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;состояние покоя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;静止&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せいし&quot;,&quot;transliteration&quot;:&quot;seishi&quot;},{&quot;translateID&quot;:639601,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;трение покоя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;静止摩擦&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せいしまさつ&quot;,&quot;transliteration&quot;:&quot;seishimasatsu&quot;},{&quot;translateID&quot;:639561,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;масса покоя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;静止質量&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せいししつりょう&quot;,&quot;transliteration&quot;:&quot;seishishitsuryou&quot;},{&quot;translateID&quot;:416896,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;время покоя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;休止時間&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きゅうしじかん&quot;,&quot;transliteration&quot;:&quot;kyuushijikan&quot;},{&quot;translateID&quot;:411902,&quot;translationStatus&quot;:0,&quot;themeID&quot;:50,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;金属&quot;,&quot;word&quot;:&quot;трение покоя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;起動摩擦&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きどうまさつ&quot;,&quot;transliteration&quot;:&quot;kidoumasatsu&quot;},{&quot;translateID&quot;:639609,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;плотность массы покоя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;静止密度&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せいしみつど&quot;,&quot;transliteration&quot;:&quot;seishimitsudo&quot;},{&quot;translateID&quot;:639588,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;напряжение покоя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;静止電圧&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せいしでんあつ&quot;,&quot;transliteration&quot;:&quot;seishidenatsu&quot;},{&quot;translateID&quot;:639584,&quot;translationStatus&quot;:0,&quot;themeID&quot;:82,&quot;groupName&quot;:&quot;物理&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;точка покоя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;静止点&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せいしてん&quot;,&quot;transliteration&quot;:&quot;seishiten&quot;},{&quot;translateID&quot;:639564,&quot;translationStatus&quot;:0,&quot;themeID&quot;:82,&quot;groupName&quot;:&quot;物理&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;масса покоя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;静止質量&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せいししつりょう&quot;,&quot;transliteration&quot;:&quot;seishishitsuryou&quot;},{&quot;translateID&quot;:639605,&quot;translationStatus&quot;:0,&quot;themeID&quot;:82,&quot;groupName&quot;:&quot;物理&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;трение покоя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;静止摩擦&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せいしまさつ&quot;,&quot;transliteration&quot;:&quot;seishimasatsu&quot;},{&quot;translateID&quot;:639571,&quot;translationStatus&quot;:0,&quot;themeID&quot;:82,&quot;groupName&quot;:&quot;物理&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;состояние покоя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;静止状態&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せいしじょうたい&quot;,&quot;transliteration&quot;:&quot;seishijoutai&quot;},{&quot;translateID&quot;:639472,&quot;translationStatus&quot;:0,&quot;themeID&quot;:82,&quot;groupName&quot;:&quot;物理&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;энергия покоя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;静止エネルギー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せいしえねるぎー&quot;,&quot;transliteration&quot;:&quot;seishienerugi:&quot;},{&quot;translateID&quot;:892394,&quot;translationStatus&quot;:0,&quot;themeID&quot;:82,&quot;groupName&quot;:&quot;物理&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;масса покоя протона&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;陽子の静止質量&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ようしのせいししつりょう&quot;,&quot;transliteration&quot;:&quot;youshinoseishishitsuryou&quot;},{&quot;translateID&quot;:737841,&quot;translationStatus&quot;:0,&quot;themeID&quot;:82,&quot;groupName&quot;:&quot;物理&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;масса покоя электрона&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;電子の静止質量&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;でんしのせいししつりょう&quot;,&quot;transliteration&quot;:&quot;denshinoseishishitsuryou&quot;},{&quot;translateID&quot;:709161,&quot;translationStatus&quot;:0,&quot;themeID&quot;:82,&quot;groupName&quot;:&quot;物理&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;масса покоя нейтрона&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中性子の静止質量&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅうせいしのせいししつりょう&quot;,&quot;transliteration&quot;:&quot;chuuseishinoseishishitsuryou&quot;},{&quot;translateID&quot;:313437,&quot;translationStatus&quot;:0,&quot;themeID&quot;:82,&quot;groupName&quot;:&quot;物理&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;положение покоя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;安静位&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あんせいい&quot;,&quot;transliteration&quot;:&quot;anseii&quot;},{&quot;translateID&quot;:885850,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;стадия покоя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;誘導期&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ゆうどうき&quot;,&quot;transliteration&quot;:&quot;yuudouki&quot;},{&quot;translateID&quot;:640015,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;коэффициент трения покоя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;静摩擦係数&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せいまさつけいすう&quot;,&quot;transliteration&quot;:&quot;seimasatsukeisuu&quot;},{&quot;translateID&quot;:635501,&quot;translationStatus&quot;:0,&quot;themeID&quot;:116,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;放射線医学&quot;,&quot;word&quot;:&quot;положение физиологического покоя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;生理的安静位&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せいりてきあんせいぐらい&quot;,&quot;transliteration&quot;:&quot;seiritekianseigurai&quot;},{&quot;translateID&quot;:313458,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;слюна в состоянии покоя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;安静唾液&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あんせいだえき&quot;,&quot;transliteration&quot;:&quot;anseidaeki&quot;},{&quot;translateID&quot;:639594,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ток покоя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;静止電流&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せいしでんりゅう&quot;,&quot;transliteration&quot;:&quot;seishidenryuu&quot;},{&quot;translateID&quot;:313438,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;стенокардия покоя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;安静狭心症&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あんせいきょうしんしょう&quot;,&quot;transliteration&quot;:&quot;anseikyoushinshou&quot;},{&quot;translateID&quot;:313459,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;показатели обмена веществ в состоянии покоя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;安静代謝率&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あんせいたいしゃりつ&quot;,&quot;transliteration&quot;:&quot;anseitaisharitsu&quot;},{&quot;translateID&quot;:416904,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;состояние покоя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;休止状態&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きゅうしじょうたい&quot;,&quot;transliteration&quot;:&quot;kyuushijoutai&quot;},{&quot;translateID&quot;:313456,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;визуализация в состоянии покоя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;安静像&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あんせいぞう&quot;,&quot;transliteration&quot;:&quot;anseizou&quot;},{&quot;translateID&quot;:639589,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;потенциал покоя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;静止電位&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せいしでんい&quot;,&quot;transliteration&quot;:&quot;seishideni&quot;},{&quot;translateID&quot;:313457,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;исследование слюны в состоянии покоя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;安静唾液&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あんせいだえき&quot;,&quot;transliteration&quot;:&quot;anseidaeki&quot;},{&quot;translateID&quot;:639590,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;напряжение покоя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;静止電位&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せいしでんい&quot;,&quot;transliteration&quot;:&quot;seishideni&quot;},{&quot;translateID&quot;:313448,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;расход энергии в состоянии покоя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;安静時エネルギー消費量&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あんせいじえねるぎーしょうひりょう&quot;,&quot;transliteration&quot;:&quot;anseijienerugi:shouhiryou&quot;},{&quot;translateID&quot;:639527,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;фаза покоя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;静止期&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せいしき&quot;,&quot;transliteration&quot;:&quot;seishiki&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="покоя" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

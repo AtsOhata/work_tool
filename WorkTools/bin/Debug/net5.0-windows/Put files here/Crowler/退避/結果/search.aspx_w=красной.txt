@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	красной - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,красной" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u043a%u0440%u0430%u0441%u043d%u043e%u0439" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV444Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNC60YDQsNGB0L3QvtC5ZAIDD2QWCAICD2QWBAIBDxYCHgNzcmMFDy4uL2ltZy9sb2dvLnBuZ2QCBQ8WAh4EaHJlZgUOLi4vP2xhbmc9cnUtUlVkAgQPFgIeB1Zpc2libGVnZAIGDxYCHwNoZAIHD2QWCGYPFgIfA2hkAgEPFgIfA2hkAgIPFgIfA2hkAgUPFgIfA2hkZBEoJPn4Kopv/MmiFgLa88ZTavHZ" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAWvGT9E18wfxgdBV8kBCFbtlIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/pgD+SeydDDgFzGKhd4K7P1m0CMD" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:false,&quot;Phrases&quot;:[{&quot;translateID&quot;:492323,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;медаль красной ленты&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;紅授褒章&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうじゅほうしょう&quot;,&quot;transliteration&quot;:&quot;koujuhoushou&quot;},{&quot;translateID&quot;:643919,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;варёный рис с красной фасолью&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;赤飯&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せきはん&quot;,&quot;transliteration&quot;:&quot;sekihan&quot;},{&quot;translateID&quot;:380412,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;белая шёлковая косынка с красной подкладкой&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;角隠し&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;つのかくし&quot;,&quot;transliteration&quot;:&quot;tsunokakushi&quot;},{&quot;translateID&quot;:643595,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Маска Красной смерти&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;赤死病の仮面&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あかしびょうのかめん&quot;,&quot;transliteration&quot;:&quot;akashibyounokamen&quot;},{&quot;translateID&quot;:477343,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;суп из красной фасоли с рисом&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;御膳汁粉&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ごぜんじるこ&quot;,&quot;transliteration&quot;:&quot;gozenjiruko&quot;},{&quot;translateID&quot;:643570,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;дешёвый дождевик из красной промасленной бумаги&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;赤合羽&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あかがっぱ&quot;,&quot;transliteration&quot;:&quot;akagappa&quot;},{&quot;translateID&quot;:212167,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Штурм Красной Мечети&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;パキスタン・モスク立てこもり事件&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぱきすたん・もすくたてこもりじけん&quot;,&quot;transliteration&quot;:&quot;pakisutan・mosukutatekomorijiken&quot;},{&quot;translateID&quot;:643204,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;фарфор с красной росписью&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;赤絵&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あかえ&quot;,&quot;transliteration&quot;:&quot;akae&quot;},{&quot;translateID&quot;:627030,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Общество красной свастики&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;世界紅卍字会&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せかいべにまんじじかい&quot;,&quot;transliteration&quot;:&quot;sekaibenimanjijikai&quot;},{&quot;translateID&quot;:587959,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;каша из красной фасоли&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;小豆粥&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あずきがゆ&quot;,&quot;transliteration&quot;:&quot;azukigayu&quot;},{&quot;translateID&quot;:189995,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Фракция Красной Армии&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ドイツ赤軍&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;どいつせきぐん&quot;,&quot;transliteration&quot;:&quot;doitsusekigun&quot;},{&quot;translateID&quot;:369903,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;начинать с красной строки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;改行する&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かいぎょうする&quot;,&quot;transliteration&quot;:&quot;kaigyousuru&quot;},{&quot;translateID&quot;:587958,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;замороженный мармелад из красной фасоли&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;小豆アイス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あずきあいす&quot;,&quot;transliteration&quot;:&quot;azukiaisu&quot;},{&quot;translateID&quot;:643920,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;варёный рис с красной фасолью&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;赤飯&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あかめし&quot;,&quot;transliteration&quot;:&quot;akameshi&quot;},{&quot;translateID&quot;:927997,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;моти со сладкой начинкой из красной фасоли&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;餡転餅&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あんころもち&quot;,&quot;transliteration&quot;:&quot;ankoromochi&quot;},{&quot;translateID&quot;:717824,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Северо-западный поход Красной Армии Китая из Хунани в Шэньси 1934-1936&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;長征&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちょうせい&quot;,&quot;transliteration&quot;:&quot;chousei&quot;},{&quot;translateID&quot;:927996,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;моти со сладкой начинкой из красной фасоли&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;餡転&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あんころ&quot;,&quot;transliteration&quot;:&quot;ankoro&quot;},{&quot;translateID&quot;:348264,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Взгляни на дом с красной крышей.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;屋根の赤い家を見てご覧なさい。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;やねのあかいいえをみてごらんなさい。&quot;,&quot;transliteration&quot;:&quot;yanenoakaiie o mitegorannasai。&quot;},{&quot;translateID&quot;:293376,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Правдивая история Красной Шапки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;リトル・レッド レシピ泥棒は誰だ!?&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;りとる・れっど れしぴどろぼうはだれだ!?&quot;,&quot;transliteration&quot;:&quot;ritoru・reddo reshipidorobouhadareda!?&quot;},{&quot;translateID&quot;:927994,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;делать начинку из красной фасоли&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;餡を入れる&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あんをいれる&quot;,&quot;transliteration&quot;:&quot;an o ireru&quot;},{&quot;translateID&quot;:587965,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;мармелад из красной фасоли&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;小豆餡&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あずきあん&quot;,&quot;transliteration&quot;:&quot;azukian&quot;},{&quot;translateID&quot;:165905,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Для того, чтобы вывести национальную экономику из красной зоны, её необходимо накачать иностранными инвестициями.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;その国の財政の赤字をなくすには、もっと、たくさんの外国の援助を注ぎ込まなければならなかった。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そのくにのざいせいのあかじをなくすには、もっと、たくさんのがいこくのえんじょをつぎこまなければならなかった。&quot;,&quot;transliteration&quot;:&quot;sonokuninozaiseinoakaji o nakusuniha、motto、takusannogaikokunoenjo o tsugikomanakerebanaranakatta。&quot;},{&quot;translateID&quot;:927992,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;сладкая паста из красной фасоли&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;餡&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あん&quot;,&quot;transliteration&quot;:&quot;an&quot;},{&quot;translateID&quot;:587964,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;начинённые мармеладом из красной фасоли&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;小豆餅&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あずきもち&quot;,&quot;transliteration&quot;:&quot;azukimochi&quot;},{&quot;translateID&quot;:589078,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Тайна красной планеты&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;少年マイロの火星冒険記3D&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょうねんまいろのかせいぼうけんき3D&quot;,&quot;transliteration&quot;:&quot;shounenmaironokaseiboukenki3D&quot;},{&quot;translateID&quot;:643011,&quot;translationStatus&quot;:0,&quot;themeID&quot;:8,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;インターネット&quot;,&quot;word&quot;:&quot;Поля, отмеченные красной звездочкой, обязательны&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;赤い米印の付いた項目は必須入力です&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あかいこめじるしのついたこうもくはひっすにゅうりょくです&quot;,&quot;transliteration&quot;:&quot;akaikomejirushinotsuitakoumokuhahissunyuuryokudesu&quot;},{&quot;translateID&quot;:209102,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;разновидность твёрдой красной древесины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;パートリッジウッド&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぱーとりっじうっど&quot;,&quot;transliteration&quot;:&quot;pa:torijjiuddo&quot;},{&quot;translateID&quot;:483782,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;дистрофия красной каймы губ&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;口角症&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうかくしょう&quot;,&quot;transliteration&quot;:&quot;koukakushou&quot;},{&quot;translateID&quot;:484173,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;дистрофия красной каймы губ&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;口唇症&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうしんしょう&quot;,&quot;transliteration&quot;:&quot;koushinshou&quot;},{&quot;translateID&quot;:32588,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;клетки красной волчанки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;LE 細胞&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;LE さいぼう&quot;,&quot;transliteration&quot;:&quot;LE saibou&quot;},{&quot;translateID&quot;:32597,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;клетки красной волчанки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;LE因子&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;LEいんし&quot;,&quot;transliteration&quot;:&quot;LEinshi&quot;},{&quot;translateID&quot;:35210,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;подобный системной красной волчанке&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;SLE様症候群&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;えすあーるいーようしょうこうぐん&quot;,&quot;transliteration&quot;:&quot;esua:rui:youshoukougun&quot;},{&quot;translateID&quot;:492363,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;иссечение красной каймы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;紅唇部切除&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうしんぶせつじょ&quot;,&quot;transliteration&quot;:&quot;koushinbusetsujo&quot;},{&quot;translateID&quot;:923532,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;тяжи красной пульпы селезёнки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;脾索&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひさく&quot;,&quot;transliteration&quot;:&quot;hisaku&quot;},{&quot;translateID&quot;:492362,&quot;translationStatus&quot;:0,&quot;themeID&quot;:129,&quot;groupName&quot;:&quot;医学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;иссечение красной каймы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;紅唇切除&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうしんせつじょ&quot;,&quot;transliteration&quot;:&quot;koushinsetsujo&quot;},{&quot;translateID&quot;:901325,&quot;translationStatus&quot;:0,&quot;themeID&quot;:166,&quot;groupName&quot;:&quot;地学&quot;,&quot;themeName&quot;:&quot;地質学&quot;,&quot;word&quot;:&quot;образование красной зернистой массы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;粒状化作用&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;りゅうじょうかさよう&quot;,&quot;transliteration&quot;:&quot;ryuujoukasayou&quot;},{&quot;translateID&quot;:300545,&quot;translationStatus&quot;:0,&quot;themeID&quot;:215,&quot;groupName&quot;:&quot;人文&quot;,&quot;themeName&quot;:&quot;映画&quot;,&quot;word&quot;:&quot;Битва у Красной скалы&quot;,&quot;wordnote&quot;:&quot;фильм&quot;,&quot;translation&quot;:&quot;レッドクリフ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;れっどくりふ&quot;,&quot;transliteration&quot;:&quot;reddokurifu&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="красной" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

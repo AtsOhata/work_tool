@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	жалкий - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,жалкий" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u0436%u0430%u043b%u043a%u0438%u0439" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV244Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNC20LDQu9C60LjQuWQCAw9kFggCAg9kFgQCAQ8WAh4Dc3JjBQ8uLi9pbWcvbG9nby5wbmdkAgUPFgIeBGhyZWYFDi4uLz9sYW5nPXJ1LVJVZAIEDxYCHgdWaXNpYmxlZ2QCBg8WAh8DaGQCBw9kFghmDxYCHwNoZAIBDxYCHwNoZAICDxYCHwNoZAIFDxYCHwNoZGR8xSMhKN6uN+KNBc3qnPgz8gWc8A==" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAUUcFx64bDCY/R/cDifSL6elIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/uGMDM4jLZ9M1pDA2SjDZwegeh+r" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[{&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;words&quot;:[{&quot;translateID&quot;:309423,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;жалкий&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;哀れっぽい&quot;,&quot;reading&quot;:&quot;あわれっぽい&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;awareppoi&quot;},{&quot;translateID&quot;:309436,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;жалкий&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;哀れみを誘う&quot;,&quot;reading&quot;:&quot;あわれみをさそう&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;awaremi o sasou&quot;},{&quot;translateID&quot;:309573,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;жалкий&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;愛しい&quot;,&quot;reading&quot;:&quot;いとしい&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;itoshii&quot;},{&quot;translateID&quot;:357152,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;жалкий&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;可哀そう&quot;,&quot;reading&quot;:&quot;かわいそう&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;kawaisou&quot;},{&quot;translateID&quot;:357155,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;жалкий&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;可哀そうな&quot;,&quot;reading&quot;:&quot;かわいそうな&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;kawaisouna&quot;},{&quot;translateID&quot;:357165,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;жалкий&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;可哀想&quot;,&quot;reading&quot;:&quot;かわいそう&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;kawaisou&quot;},{&quot;translateID&quot;:357169,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;жалкий&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;可哀相&quot;,&quot;reading&quot;:&quot;かわいそう&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;kawaisou&quot;},{&quot;translateID&quot;:358158,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;жалкий&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;可憐&quot;,&quot;reading&quot;:&quot;かれん&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;karen&quot;},{&quot;translateID&quot;:406980,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;жалкий&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;気の毒な&quot;,&quot;reading&quot;:&quot;きのどくな&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;kinodokuna&quot;},{&quot;translateID&quot;:463224,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;жалкий&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;見窄しい&quot;,&quot;reading&quot;:&quot;みすぼらしい&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;misuborashii&quot;},{&quot;translateID&quot;:464288,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;жалкий&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;遣る瀬無い&quot;,&quot;reading&quot;:&quot;やるせない&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;yarusenai&quot;},{&quot;translateID&quot;:523720,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;жалкий&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;惨め&quot;,&quot;reading&quot;:&quot;みじめ&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;mijime&quot;},{&quot;translateID&quot;:523724,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;жалкий&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;惨めな&quot;,&quot;reading&quot;:&quot;みじめな&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;mijimena&quot;},{&quot;translateID&quot;:523769,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;жалкий&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;惨憺たる&quot;,&quot;reading&quot;:&quot;さんたんたる&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;santantaru&quot;},{&quot;translateID&quot;:584960,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;жалкий&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;傷々しい&quot;,&quot;reading&quot;:&quot;いたいたしい&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;itaitashii&quot;},{&quot;translateID&quot;:593152,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;жалкий&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;笑止な&quot;,&quot;reading&quot;:&quot;しょうしな&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;shoushina&quot;},{&quot;translateID&quot;:598622,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;жалкий&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;情けない&quot;,&quot;reading&quot;:&quot;なさけない&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;nasakenai&quot;},{&quot;translateID&quot;:598648,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;жалкий&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;情け無い&quot;,&quot;reading&quot;:&quot;なさけない&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;nasakenai&quot;},{&quot;translateID&quot;:599142,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;жалкий&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;情無い&quot;,&quot;reading&quot;:&quot;なさけない&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;nasakenai&quot;},{&quot;translateID&quot;:652643,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;жалкий&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;浅ましい&quot;,&quot;reading&quot;:&quot;あさましい&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;asamashii&quot;},{&quot;translateID&quot;:722175,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;жалкий&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;痛ましい&quot;,&quot;reading&quot;:&quot;いたましい&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;itamashii&quot;},{&quot;translateID&quot;:722340,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;жалкий&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;痛痛しい&quot;,&quot;reading&quot;:&quot;いたいたしい&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;itaitashii&quot;},{&quot;translateID&quot;:722342,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;жалкий&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;痛々しい&quot;,&quot;reading&quot;:&quot;いたいたしい&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;itaitashii&quot;},{&quot;translateID&quot;:753227,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;жалкий&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;同情すべき&quot;,&quot;reading&quot;:&quot;どうじょうすべき&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;doujousubeki&quot;},{&quot;translateID&quot;:809690,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;жалкий&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;微か&quot;,&quot;reading&quot;:&quot;かすか&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;kasuka&quot;},{&quot;translateID&quot;:809695,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;жалкий&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;微かな&quot;,&quot;reading&quot;:&quot;かすかな&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;kasukana&quot;},{&quot;translateID&quot;:821315,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;жалкий&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;不愍な&quot;,&quot;reading&quot;:&quot;ふびんな&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;fubinna&quot;},{&quot;translateID&quot;:821319,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;жалкий&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;不憫&quot;,&quot;reading&quot;:&quot;ふびん&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;fubin&quot;},{&quot;translateID&quot;:883062,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;жалкий&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;幽&quot;,&quot;reading&quot;:&quot;ゆう&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;yuu&quot;},{&quot;translateID&quot;:883068,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;жалкий&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;幽か&quot;,&quot;reading&quot;:&quot;かすか&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;kasuka&quot;},{&quot;translateID&quot;:883079,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;жалкий&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;幽かな&quot;,&quot;reading&quot;:&quot;ゆうかな&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;yuukana&quot;},{&quot;translateID&quot;:908573,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;жалкий&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;憐むべき&quot;,&quot;reading&quot;:&quot;あわれみむべき&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;awaremimubeki&quot;},{&quot;translateID&quot;:914631,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;жалкий&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;佗しい&quot;,&quot;reading&quot;:&quot;わびしい&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;wabishii&quot;},{&quot;translateID&quot;:914671,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;жалкий&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;侘びしい&quot;,&quot;reading&quot;:&quot;わびしい&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;wabishii&quot;},{&quot;translateID&quot;:917310,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;жалкий&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;憫然たる&quot;,&quot;reading&quot;:&quot;びんぜんたる&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;binzentaru&quot;},{&quot;translateID&quot;:75854,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;жалкий&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;えげつない&quot;,&quot;reading&quot;:&quot;えげつない&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;egetsunai&quot;},{&quot;translateID&quot;:88778,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;жалкий&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;お気の毒な&quot;,&quot;reading&quot;:&quot;おきのどくな&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;okinodokuna&quot;},{&quot;translateID&quot;:116748,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;жалкий&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;けちな&quot;,&quot;reading&quot;:&quot;けちな&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;kechina&quot;},{&quot;translateID&quot;:249069,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;жалкий&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ぺいぺい&quot;,&quot;reading&quot;:&quot;ぺいぺい&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;peipei&quot;},{&quot;translateID&quot;:249972,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;жалкий&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ぺえぺえ&quot;,&quot;reading&quot;:&quot;ぺえぺえ&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;peepee&quot;},{&quot;translateID&quot;:272634,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;жалкий&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;みすぼらしい&quot;,&quot;reading&quot;:&quot;みすぼらしい&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;misuborashii&quot;},{&quot;translateID&quot;:138745,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;жалкий&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;しがない&quot;,&quot;reading&quot;:&quot;しがない&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;shiganai&quot;},{&quot;translateID&quot;:593151,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;жалкий&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;笑止&quot;,&quot;reading&quot;:&quot;しょうし&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;shoushi&quot;},{&quot;translateID&quot;:406976,&quot;translationStatus&quot;:0,&quot;word&quot;:&quot;жалкий&quot;,&quot;note&quot;:&quot;&quot;,&quot;translation&quot;:&quot;気の毒&quot;,&quot;reading&quot;:&quot;きのどく&quot;,&quot;isReadingAlwaysVisible&quot;:false,&quot;transliteration&quot;:&quot;kinodoku&quot;}]}],&quot;topPhrases&quot;:[{&quot;translateID&quot;:141345,&quot;translationStatus&quot;:0,&quot;themeID&quot;:0,&quot;groupName&quot;:null,&quot;themeName&quot;:null,&quot;word&quot;:&quot;жалкий вид&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;しみたれ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しみたれ&quot;,&quot;transliteration&quot;:&quot;shimitare&quot;},{&quot;translateID&quot;:826940,&quot;translationStatus&quot;:0,&quot;themeID&quot;:0,&quot;groupName&quot;:null,&quot;themeName&quot;:null,&quot;word&quot;:&quot;жалкий бродяга&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;風吹き烏&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かざふきがらす&quot;,&quot;transliteration&quot;:&quot;kazafukigarasu&quot;},{&quot;translateID&quot;:713957,&quot;translationStatus&quot;:0,&quot;themeID&quot;:0,&quot;groupName&quot;:null,&quot;themeName&quot;:null,&quot;word&quot;:&quot;иметь жалкий вид&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;潮垂れる&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しおたれる&quot;,&quot;transliteration&quot;:&quot;shiotareru&quot;},{&quot;translateID&quot;:392716,&quot;translationStatus&quot;:0,&quot;themeID&quot;:0,&quot;groupName&quot;:null,&quot;themeName&quot;:null,&quot;word&quot;:&quot;но жалкий по существу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;看板倒しの&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かんばんだおしの&quot;,&quot;transliteration&quot;:&quot;kanbandaoshino&quot;}],&quot;phrasesGroups&quot;:[{&quot;id&quot;:1,&quot;gid&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;count&quot;:5}],&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:false,&quot;Phrases&quot;:null}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="жалкий" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

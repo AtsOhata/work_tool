@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	конечная - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,конечная" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u043a%u043e%u043d%u0435%u0447%u043d%u0430%u044f" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV644Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNC60L7QvdC10YfQvdCw0Y9kAgMPZBYIAgIPZBYEAgEPFgIeA3NyYwUPLi4vaW1nL2xvZ28ucG5nZAIFDxYCHgRocmVmBQ4uLi8/bGFuZz1ydS1SVWQCBA8WAh4HVmlzaWJsZWdkAgYPFgIfA2hkAgcPZBYIZg8WAh8DaGQCAQ8WAh8DaGQCAg8WAh8DaGQCBQ8WAh8DaGRkFlvAypvbz8GYsBPx6kH4KZWeg/g=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAWphcSFMuc7EX+X1rwcti2NlIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/pLMzgiUER3DjcqBNCMYW/GY8biX" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:true,&quot;Phrases&quot;:[{&quot;translateID&quot;:420639,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;конечная цель&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;究竟の目的&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;くきょうのもくてき&quot;,&quot;transliteration&quot;:&quot;kukyounomokuteki&quot;},{&quot;translateID&quot;:420611,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;конечная причина&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;究極原因&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きゅうきょくげんいん&quot;,&quot;transliteration&quot;:&quot;kyuukyokugenin&quot;},{&quot;translateID&quot;:169969,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;конечная станция&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ターミナル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たーみなる&quot;,&quot;transliteration&quot;:&quot;ta:minaru&quot;},{&quot;translateID&quot;:900595,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;конечная остановка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;留まり&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とまり&quot;,&quot;transliteration&quot;:&quot;tomari&quot;},{&quot;translateID&quot;:884247,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Конечная геометрия&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;有限幾何学&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ゆうげんきかがく&quot;,&quot;transliteration&quot;:&quot;yuugenkikagaku&quot;},{&quot;translateID&quot;:570914,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;конечная станция&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;終端駅&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゅうたんえき&quot;,&quot;transliteration&quot;:&quot;shuutaneki&quot;},{&quot;translateID&quot;:512865,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;конечная точка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;最終点&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さいしゅうてん&quot;,&quot;transliteration&quot;:&quot;saishuuten&quot;},{&quot;translateID&quot;:570887,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;конечная скорость&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;終速&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゅうそく&quot;,&quot;transliteration&quot;:&quot;shuusoku&quot;},{&quot;translateID&quot;:512782,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;конечная станция&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;最終駅&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さいしゅうえき&quot;,&quot;transliteration&quot;:&quot;saishuueki&quot;},{&quot;translateID&quot;:570995,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;конечная стадия&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;終盤&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゅうばん&quot;,&quot;transliteration&quot;:&quot;shuuban&quot;},{&quot;translateID&quot;:725918,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;конечная остановка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;停まり&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とまり&quot;,&quot;transliteration&quot;:&quot;tomari&quot;},{&quot;translateID&quot;:570948,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;конечная станция&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;終点&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゅうてん&quot;,&quot;transliteration&quot;:&quot;shuuten&quot;},{&quot;translateID&quot;:533971,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;конечная остановка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;止まり&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とまり&quot;,&quot;transliteration&quot;:&quot;tomari&quot;},{&quot;translateID&quot;:570940,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;конечная станция&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;終着駅&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゅうちゃくえき&quot;,&quot;transliteration&quot;:&quot;shuuchakueki&quot;},{&quot;translateID&quot;:512882,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;конечная цель&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;最終目的&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さいしゅうもくてき&quot;,&quot;transliteration&quot;:&quot;saishuumokuteki&quot;},{&quot;translateID&quot;:570935,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;конечная цена&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;終値&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おわりね&quot;,&quot;transliteration&quot;:&quot;owarine&quot;},{&quot;translateID&quot;:512879,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;конечная форма&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;最終編成&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さいしゅうへんせい&quot;,&quot;transliteration&quot;:&quot;saishuuhensei&quot;},{&quot;translateID&quot;:164683,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;конечная точка зоны&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ゾーン エンドポイント&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぞーん えんどぽいんと&quot;,&quot;transliteration&quot;:&quot;zo:n endopointo&quot;},{&quot;translateID&quot;:127031,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;конечная точка потребителя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;コンシューマー エンドポイント&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こんしゅーまー えんどぽいんと&quot;,&quot;transliteration&quot;:&quot;konshu:ma: endopointo&quot;},{&quot;translateID&quot;:770542,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;входная конечная точка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;入力エンドポイント&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にゅうりょくえんどぽいんと&quot;,&quot;transliteration&quot;:&quot;nyuuryokuendopointo&quot;},{&quot;translateID&quot;:129713,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;конечная точка службы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;サービス エンドポイント&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さーびす えんどぽいんと&quot;,&quot;transliteration&quot;:&quot;sa:bisu endopointo&quot;},{&quot;translateID&quot;:656515,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;конечная точка выделения &quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;選択終了点&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せんたくしゅうりょうてん&quot;,&quot;transliteration&quot;:&quot;sentakushuuryouten&quot;},{&quot;translateID&quot;:130387,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;конечная дата цикла&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;サイクル終了日&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さいくるしゅうりょうび&quot;,&quot;transliteration&quot;:&quot;saikurushuuryoubi&quot;},{&quot;translateID&quot;:169972,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;конечная позиция&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ターミナル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たーみなる&quot;,&quot;transliteration&quot;:&quot;ta:minaru&quot;},{&quot;translateID&quot;:912955,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;конечная точка логического сервера&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;論理サーバー エンドポイント&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ろんりさーばー えんどぽいんと&quot;,&quot;transliteration&quot;:&quot;ronrisa:ba: endopointo&quot;},{&quot;translateID&quot;:698370,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;конечная позиция&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;端末&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たんまつ&quot;,&quot;transliteration&quot;:&quot;tanmatsu&quot;},{&quot;translateID&quot;:277087,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;конечная точка диалога&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;メッセージ交換エンドポイント&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;めっせーじこうかんえんどぽいんと&quot;,&quot;transliteration&quot;:&quot;messe:jikoukanendopointo&quot;},{&quot;translateID&quot;:698417,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;конечная позиция&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;端末装置&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たんまつそうち&quot;,&quot;transliteration&quot;:&quot;tanmatsusouchi&quot;},{&quot;translateID&quot;:747911,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;конечная область&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;統合先範囲&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とうごうさきはんい&quot;,&quot;transliteration&quot;:&quot;tougousakihani&quot;},{&quot;translateID&quot;:246348,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;конечная точка прокси&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;プロキシ エンドポイント&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぷろきし えんどぽいんと&quot;,&quot;transliteration&quot;:&quot;purokishi endopointo&quot;},{&quot;translateID&quot;:81161,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;конечная точка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;エンドポイント&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;えんどぽいんと&quot;,&quot;transliteration&quot;:&quot;endopointo&quot;},{&quot;translateID&quot;:247962,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;конечная точка поставщика&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;プロバイダー エンドポイント&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぷろばいだー えんどぽいんと&quot;,&quot;transliteration&quot;:&quot;purobaida: endopointo&quot;},{&quot;translateID&quot;:891554,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;конечная вершина&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;葉節点&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はせってん&quot;,&quot;transliteration&quot;:&quot;hasetten&quot;},{&quot;translateID&quot;:570924,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;конечная вершина&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;終端節点&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゅうたんせってん&quot;,&quot;transliteration&quot;:&quot;shuutansetten&quot;},{&quot;translateID&quot;:49190,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;конечная точка приложения&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;アプリケーション エンドポイント&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あぷりけーしょん えんどぽいんと&quot;,&quot;transliteration&quot;:&quot;apurike:shon endopointo&quot;},{&quot;translateID&quot;:184006,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;конечная точка подключения к базе данных&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;データベース接続エンドポイント&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;でーたべーすせつぞくえんどぽいんと&quot;,&quot;transliteration&quot;:&quot;de:tabe:susetsuzokuendopointo&quot;},{&quot;translateID&quot;:512873,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;конечная регулируемая величина&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;最終被制御変数&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さいしゅうひせいぎょへんすう&quot;,&quot;transliteration&quot;:&quot;saishuuhiseigyohensuu&quot;},{&quot;translateID&quot;:877801,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;конечная программа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;目的ルーチン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;もくてきるーちん&quot;,&quot;transliteration&quot;:&quot;mokutekiru:chin&quot;},{&quot;translateID&quot;:877789,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;конечная программа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;目的プログラム&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;もくてきぷろぐらむ&quot;,&quot;transliteration&quot;:&quot;mokutekipuroguramu&quot;},{&quot;translateID&quot;:283732,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;конечная метка пользователя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ユーザ終わりラベル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ゆーざおわりらべる&quot;,&quot;transliteration&quot;:&quot;yu:zaowariraberu&quot;},{&quot;translateID&quot;:509375,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;конечная разность&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;差分&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さぶん&quot;,&quot;transliteration&quot;:&quot;sabun&quot;},{&quot;translateID&quot;:884250,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;конечная группа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;有限群&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ゆうげんぐん&quot;,&quot;transliteration&quot;:&quot;yuugengun&quot;},{&quot;translateID&quot;:169987,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;конечная заделка электропроводки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ターミナルフィテイング&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たーみなるふぃていんぐ&quot;,&quot;transliteration&quot;:&quot;ta:minarufiteingu&quot;},{&quot;translateID&quot;:570950,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;конечная станция&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;終点&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゅうてん&quot;,&quot;transliteration&quot;:&quot;shuuten&quot;},{&quot;translateID&quot;:570915,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;конечная станция&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;終端駅&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゅうたんえき&quot;,&quot;transliteration&quot;:&quot;shuutaneki&quot;},{&quot;translateID&quot;:570888,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;конечная скорость&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;終速&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おわりはや&quot;,&quot;transliteration&quot;:&quot;owarihaya&quot;},{&quot;translateID&quot;:894588,&quot;translationStatus&quot;:0,&quot;themeID&quot;:22,&quot;groupName&quot;:&quot;車両&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;конечная цена автомобиля&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;落札価格&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;らくさつかかく&quot;,&quot;transliteration&quot;:&quot;rakusatsukakaku&quot;},{&quot;translateID&quot;:884293,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;конечная деформация&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;有限変形&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ゆうげんへんけい&quot;,&quot;transliteration&quot;:&quot;yuugenhenkei&quot;},{&quot;translateID&quot;:884294,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;конечная генеральная совокупность&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;有限母集団&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ゆうげんぼしゅうだん&quot;,&quot;transliteration&quot;:&quot;yuugenboshuudan&quot;},{&quot;translateID&quot;:570892,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;конечная скорость&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;終速度&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゅうそくど&quot;,&quot;transliteration&quot;:&quot;shuusokudo&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="конечная" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

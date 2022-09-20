@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	решения - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,решения" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u0440%u0435%u0448%u0435%u043d%u0438%u044f" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV444Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNGA0LXRiNC10L3QuNGPZAIDD2QWCAICD2QWBAIBDxYCHgNzcmMFDy4uL2ltZy9sb2dvLnBuZ2QCBQ8WAh4EaHJlZgUOLi4vP2xhbmc9cnUtUlVkAgQPFgIeB1Zpc2libGVnZAIGDxYCHwNoZAIHD2QWCGYPFgIfA2hkAgEPFgIfA2hkAgIPFgIfA2hkAgUPFgIfA2hkZEI4tianzQYu1EE9oBLUuW7nAV4G" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAXjglMjEpN98erLk2anO4YLlIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/jyKzhYmzWFtNp6lTOANB1gSfq0y" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:true,&quot;Phrases&quot;:[{&quot;translateID&quot;:35901,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Теория решения изобретательских задач&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;TRIZ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;TRIZ&quot;,&quot;transliteration&quot;:&quot;TRIZ&quot;},{&quot;translateID&quot;:516489,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;взвешивание обстоятельств дела для вынесения судебного решения&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;裁判の評議&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さいばんのひょうぎ&quot;,&quot;transliteration&quot;:&quot;saibannohyougi&quot;},{&quot;translateID&quot;:672911,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;немедленное вынесение решения суда и наложение взыскания&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;即決即行&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そっけつそっこう&quot;,&quot;transliteration&quot;:&quot;sokketsusokkou&quot;},{&quot;translateID&quot;:514410,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;принятие решения&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;採決&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さいけつ&quot;,&quot;transliteration&quot;:&quot;saiketsu&quot;},{&quot;translateID&quot;:902492,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;воздержаться от решения&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;両方の言い分を聞くまで判断を控える&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;りょうほうのいいぶんをきくまではんだんをひかえる&quot;,&quot;transliteration&quot;:&quot;ryouhounoiibun o kikumadehandan o hikaeru&quot;},{&quot;translateID&quot;:157733,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;всё зависит от твоего решения&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;すべてが君の決心一つだ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;すべてがきみのけっしんひとつだ&quot;,&quot;transliteration&quot;:&quot;subetegakiminokesshinhitotsuda&quot;},{&quot;translateID&quot;:543925,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;вопрос требует немедленного решения&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;事急速を要す&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こときゅうそくをようす&quot;,&quot;transliteration&quot;:&quot;kotokyuusoku o yousu&quot;},{&quot;translateID&quot;:366306,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;стратегия решения&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;解決策&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かいけつさく&quot;,&quot;transliteration&quot;:&quot;kaiketsusaku&quot;},{&quot;translateID&quot;:554117,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;письменный приказ о выполнении судебного решения&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;執行令状&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しっこうれいじょう&quot;,&quot;transliteration&quot;:&quot;shikkoureijou&quot;},{&quot;translateID&quot;:499595,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Принятие решения методом консенсуса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;合意形成&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ごういけいせい&quot;,&quot;transliteration&quot;:&quot;gouikeisei&quot;},{&quot;translateID&quot;:535245,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Мы отложили принятие окончательного решения до следующей недели.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;私たちは最終決定を来週まで延期しなければならない。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;わたしたちはさいしゅうけっていをらいしゅうまでえんきしなければならない。&quot;,&quot;transliteration&quot;:&quot;watashitachihasaishuukettei o raishuumadeenkishinakerebanaranai。&quot;},{&quot;translateID&quot;:662412,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Встраиваемые решения&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;組み込みシステム&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;くみこみしすてむ&quot;,&quot;transliteration&quot;:&quot;kumikomishisutemu&quot;},{&quot;translateID&quot;:492947,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;способ решения&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;考え方&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かんがえかた&quot;,&quot;transliteration&quot;:&quot;kangaekata&quot;},{&quot;translateID&quot;:791101,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;в ожидании решения по делу&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;判決の下るまで&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はんけつのくだるまで&quot;,&quot;transliteration&quot;:&quot;hanketsunokudarumade&quot;},{&quot;translateID&quot;:453911,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;право решения&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;決定権&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けっていけん&quot;,&quot;transliteration&quot;:&quot;ketteiken&quot;},{&quot;translateID&quot;:248164,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;режим решения задач пользователя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;プロブレムモード&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぷろぶれむもーど&quot;,&quot;transliteration&quot;:&quot;puroburemumo:do&quot;},{&quot;translateID&quot;:647268,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;одобрение проектного решения&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;設計承認&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せっけいしょうにん&quot;,&quot;transliteration&quot;:&quot;sekkeishounin&quot;},{&quot;translateID&quot;:678420,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;многоступенчатый метод решения&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;多段決定過程&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ただんけっていかてい&quot;,&quot;transliteration&quot;:&quot;tadanketteikatei&quot;},{&quot;translateID&quot;:317298,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;поиск решения&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;意思決定&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いしけってい&quot;,&quot;transliteration&quot;:&quot;ishikettei&quot;},{&quot;translateID&quot;:168035,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;архитектура решения&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ソリューション アーキテクチャ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そりゅーしょん あーきてくちゃ&quot;,&quot;transliteration&quot;:&quot;soryu:shon a:kitekucha&quot;},{&quot;translateID&quot;:317306,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;процедура принятия решения&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;意思決定過程&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いしけっていかてい&quot;,&quot;transliteration&quot;:&quot;ishiketteikatei&quot;},{&quot;translateID&quot;:168037,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;компонент решения&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ソリューション コンポーネント&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そりゅーしょん こんぽーねんと&quot;,&quot;transliteration&quot;:&quot;soryu:shon konpo:nento&quot;},{&quot;translateID&quot;:453935,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;правила принятия решения&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;決定則&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けっていそく&quot;,&quot;transliteration&quot;:&quot;ketteisoku&quot;},{&quot;translateID&quot;:317311,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;система поддержки принятия решения&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;意思決定支援システム&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いしけっていしえんしすてむ&quot;,&quot;transliteration&quot;:&quot;ishiketteishienshisutemu&quot;},{&quot;translateID&quot;:168038,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;пакет решения&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ソリューション パッケージ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そりゅーしょん ぱっけーじ&quot;,&quot;transliteration&quot;:&quot;soryu:shon pakke:ji&quot;},{&quot;translateID&quot;:453857,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;логическая схема выбора решения&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;決定ゲート&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けっていげーと&quot;,&quot;transliteration&quot;:&quot;ketteige:to&quot;},{&quot;translateID&quot;:878461,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;решения проблем&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;問題の解決策&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;もんだいのかいけつさく&quot;,&quot;transliteration&quot;:&quot;mondainokaiketsusaku&quot;},{&quot;translateID&quot;:626139,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;устойчивость численного решения&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;数値安定度&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;すうちあんていど&quot;,&quot;transliteration&quot;:&quot;suuchianteido&quot;},{&quot;translateID&quot;:513963,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;выбор оптимального решения в начале поиска&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;最良優先探索&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さいりょうゆうせんたんさく&quot;,&quot;transliteration&quot;:&quot;sairyouyuusentansaku&quot;},{&quot;translateID&quot;:878510,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;программа решения задач&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;問題解決プログラム&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;もんだいかいけつぷろぐらむ&quot;,&quot;transliteration&quot;:&quot;mondaikaiketsupuroguramu&quot;},{&quot;translateID&quot;:181825,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;блок решения&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ディシジョン・ボックス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;でぃしじょん・ぼっくす&quot;,&quot;transliteration&quot;:&quot;dishijon・bokkusu&quot;},{&quot;translateID&quot;:453979,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;переменная решения&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;決定変数&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けっていへんすう&quot;,&quot;transliteration&quot;:&quot;ketteihensuu&quot;},{&quot;translateID&quot;:317313,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;лицо, принимающее решения&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;意思決定者&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いしけっていしゃ&quot;,&quot;transliteration&quot;:&quot;ishiketteisha&quot;},{&quot;translateID&quot;:168039,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;репозиторий решения&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ソリューション リポジトリ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そりゅーしょん りぽじとり&quot;,&quot;transliteration&quot;:&quot;soryu:shon ripojitori&quot;},{&quot;translateID&quot;:453886,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;функция выбора решения&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;決定関数&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けっていかんすう&quot;,&quot;transliteration&quot;:&quot;ketteikansuu&quot;},{&quot;translateID&quot;:224323,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;система для решения коммерческих задач&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ビジネスシステム&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;びじねすしすてむ&quot;,&quot;transliteration&quot;:&quot;bijinesushisutemu&quot;},{&quot;translateID&quot;:168041,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;концепция решения&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ソリューションの概念&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そりゅーしょんのがいねん&quot;,&quot;transliteration&quot;:&quot;soryu:shonnogainen&quot;},{&quot;translateID&quot;:42561,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;план решения задачи&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;アジェンダ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あじぇんだ&quot;,&quot;transliteration&quot;:&quot;ajenda&quot;},{&quot;translateID&quot;:832758,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;команда выбора решения&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;分岐命令&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぶんきめいれい&quot;,&quot;transliteration&quot;:&quot;bunkimeirei&quot;},{&quot;translateID&quot;:168044,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;издатель решения&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ソリューション発行者&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そりゅーしょんはっこうしゃ&quot;,&quot;transliteration&quot;:&quot;soryu:shonhakkousha&quot;},{&quot;translateID&quot;:453855,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;алгоритм выбора решения&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;決定アルゴリズム&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けっていあるごりずむ&quot;,&quot;transliteration&quot;:&quot;ketteiarugorizumu&quot;},{&quot;translateID&quot;:701652,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;набор правил и процедур для решения&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;知識資源&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちしきしげん&quot;,&quot;transliteration&quot;:&quot;chishikishigen&quot;},{&quot;translateID&quot;:696733,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;область решения проблемы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;探索空間&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たんさくくうかん&quot;,&quot;transliteration&quot;:&quot;tansakukuukan&quot;},{&quot;translateID&quot;:878490,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;режим решения задач для пользователя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;問題モード&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;もんだいもーど&quot;,&quot;transliteration&quot;:&quot;mondaimo:do&quot;},{&quot;translateID&quot;:453915,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;система поддержки принятия решения&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;決定支援システム&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けっていしえんしすてむ&quot;,&quot;transliteration&quot;:&quot;ketteishienshisutemu&quot;},{&quot;translateID&quot;:878520,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;область решения проблемы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;問題空間&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;もんだいくうかん&quot;,&quot;transliteration&quot;:&quot;mondaikuukan&quot;},{&quot;translateID&quot;:453899,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;правила принятия решения&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;決定規準&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けっていきじゅん&quot;,&quot;transliteration&quot;:&quot;ketteikijun&quot;},{&quot;translateID&quot;:556231,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;допустимые решения&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;実効解&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じっこうかい&quot;,&quot;transliteration&quot;:&quot;jikkoukai&quot;},{&quot;translateID&quot;:453881,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;процесс принятия решения&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;決定過程&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けっていかてい&quot;,&quot;transliteration&quot;:&quot;ketteikatei&quot;},{&quot;translateID&quot;:260464,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;потенциальное дерево решения&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ポテンシャル解決樹&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぽてんしゃるかいけつき&quot;,&quot;transliteration&quot;:&quot;potensharukaiketsuki&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="решения" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

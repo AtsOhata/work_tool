@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	новостей - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,новостей" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u043d%u043e%u0432%u043e%u0441%u0442%u0435%u0439" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV644Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNC90L7QstC+0YHRgtC10LlkAgMPZBYIAgIPZBYEAgEPFgIeA3NyYwUPLi4vaW1nL2xvZ28ucG5nZAIFDxYCHgRocmVmBQ4uLi8/bGFuZz1ydS1SVWQCBA8WAh4HVmlzaWJsZWdkAgYPFgIfA2hkAgcPZBYIZg8WAh8DaGQCAQ8WAh8DaGQCAg8WAh8DaGQCBQ8WAh8DaGRk5BkAYobKIttpAIK1U5vDLBDGhhs=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAXrmRi7Opoazz9SrxfV063UlIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/g870qPx/auEof4zwrjr3pqp2p1f" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:false,&quot;Phrases&quot;:[{&quot;translateID&quot;:559040,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;отдел местных новостей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;社会面&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゃかいめん&quot;,&quot;transliteration&quot;:&quot;shakaimen&quot;},{&quot;translateID&quot;:65251,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Я читал только фрагменты новостей в Интернете, однако, ну, уяснил общую картину.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;インターネットの断片的ニュースを読んでいるだけですが、まあ、だいたい想像がつきます。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いんたーねっとのだんぺんてきにゅーすをよんでいるだけですが、まあ、だいたいそうぞうがつきます。&quot;,&quot;transliteration&quot;:&quot;inta:nettonodanpentekinyu:su o yondeirudakedesuga、maa、daitaisouzougatsukimasu。&quot;},{&quot;translateID&quot;:202747,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;источник новостей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ニュース・ソース&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にゅーす・そーす&quot;,&quot;transliteration&quot;:&quot;nyu:su・so:su&quot;},{&quot;translateID&quot;:798130,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;От хороших новостей он не удержался и запрыгал от счастья.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;彼はそのよい知らせを聞いて、うれしくて飛び上がらずにはいられなかった。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かれはそのよいしらせをきいて、うれしくてとびあがらずにはいられなかった。&quot;,&quot;transliteration&quot;:&quot;karehasonoyoishirase o kiite、ureshikutetobiagarazunihairarenakatta。&quot;},{&quot;translateID&quot;:904668,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;специальный выпуск новостей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;臨時ニュース&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;りんじにゅーす&quot;,&quot;transliteration&quot;:&quot;rinjinyu:su&quot;},{&quot;translateID&quot;:845413,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Отсутствие новостей - это хорошие новости.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;便りがないのは良い知らせ。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たよりがないのはよいしらせ。&quot;,&quot;transliteration&quot;:&quot;tayoriganainohayoishirase。&quot;},{&quot;translateID&quot;:202574,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Музей журналистики и новостей&quot;,&quot;wordnote&quot;:&quot;Вашингтон&quot;,&quot;translation&quot;:&quot;ニュージアム&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にゅーじあむ&quot;,&quot;transliteration&quot;:&quot;nyu:jiamu&quot;},{&quot;translateID&quot;:41799,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;Ленты новостей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;アクティビティ フィード&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あくてぃびてぃ ふぃーど&quot;,&quot;transliteration&quot;:&quot;akutibiti fi:do&quot;},{&quot;translateID&quot;:202764,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;заголовок группы новостей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ニュースグループヘッダ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にゅーすぐるーぷへっだ&quot;,&quot;transliteration&quot;:&quot;nyu:suguru:puhedda&quot;},{&quot;translateID&quot;:111931,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;Получение новостей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;グループの受信中&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぐるーぷのじゅしんちゅう&quot;,&quot;transliteration&quot;:&quot;guru:punojushinchuu&quot;},{&quot;translateID&quot;:202737,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;учетная запись для группы новостей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ニュース アカウント&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にゅーす あかうんと&quot;,&quot;transliteration&quot;:&quot;nyu:su akaunto&quot;},{&quot;translateID&quot;:202765,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;Показывать группы новостей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ニュースグループを表示&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にゅーすぐるーぷをひょうじ&quot;,&quot;transliteration&quot;:&quot;nyu:suguru:pu o hyouji&quot;},{&quot;translateID&quot;:202738,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;сервер новостей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ニュース サーバー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にゅーす さーばー&quot;,&quot;transliteration&quot;:&quot;nyu:su sa:ba:&quot;},{&quot;translateID&quot;:202769,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;Ленты новостей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ニュースフィード&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にゅーすふぃーど&quot;,&quot;transliteration&quot;:&quot;nyu:sufi:do&quot;},{&quot;translateID&quot;:202740,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;заголовок новостей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ニュース バナー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にゅーす ばなー&quot;,&quot;transliteration&quot;:&quot;nyu:su bana:&quot;},{&quot;translateID&quot;:202770,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;Лента новостей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ニュースフィード&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にゅーすふぃーど&quot;,&quot;transliteration&quot;:&quot;nyu:sufi:do&quot;},{&quot;translateID&quot;:34859,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;Подписка на ленты новостей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;RSS ニュースフィードの購読&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;RSS にゅーすふぃーどのこうどく&quot;,&quot;transliteration&quot;:&quot;RSS nyu:sufi:donokoudoku&quot;},{&quot;translateID&quot;:202761,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;Группы новостей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ニュースグループ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にゅーすぐるーぷ.&quot;,&quot;transliteration&quot;:&quot;nyu:suguru:pu.&quot;},{&quot;translateID&quot;:202777,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;группа новостей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ニュースリーダー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にゅーすりーだー&quot;,&quot;transliteration&quot;:&quot;nyu:suri:da:&quot;},{&quot;translateID&quot;:41798,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;лента новостей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;アクティビティ フィード&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あくてぃびてぃ ふぃーど&quot;,&quot;transliteration&quot;:&quot;akutibiti fi:do&quot;},{&quot;translateID&quot;:202763,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;Подписка на группы новостей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ニュースグループの購読&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にゅーすぐるーぷのこうどく&quot;,&quot;transliteration&quot;:&quot;nyu:suguru:punokoudoku&quot;},{&quot;translateID&quot;:567192,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;Получатель не указан. Пожалуйста, укажите получателя или группу новостей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;受取人が指定されていません。受取人 または ニュースグループを設定してください。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;うけとりにんがしていされていません。うけとりにん または にゅーすぐるーぷをせっていしてください。&quot;,&quot;transliteration&quot;:&quot;uketoriningashiteisareteimasen。uketorinin mataha nyu:suguru:pu o setteishitekudasai。&quot;},{&quot;translateID&quot;:202741,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;заголовок новостей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ニュース バナー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にゅーすばなー&quot;,&quot;transliteration&quot;:&quot;nyu:subana:&quot;},{&quot;translateID&quot;:202772,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;Показывать ленты новостей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ニュースフィードを表示&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にゅーすふぃーどをひょうじ&quot;,&quot;transliteration&quot;:&quot;nyu:sufi:do o hyouji&quot;},{&quot;translateID&quot;:738112,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;электронная служба новостей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;電子掲示板&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;でんしけいじばん&quot;,&quot;transliteration&quot;:&quot;denshikeijiban&quot;},{&quot;translateID&quot;:202752,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;Группы новостей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ニュースアカウント&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にゅーすあかうんと&quot;,&quot;transliteration&quot;:&quot;nyu:suakaunto&quot;},{&quot;translateID&quot;:202773,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;Обновление лент новостей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ニュースフィード更新中&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にゅーすふぃーどこうしんちゅう&quot;,&quot;transliteration&quot;:&quot;nyu:sufi:dokoushinchuu&quot;},{&quot;translateID&quot;:34858,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;Лента новостей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;RSS ニュースフィード&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;RSS にゅーすふぃーど&quot;,&quot;transliteration&quot;:&quot;RSS nyu:sufi:do&quot;},{&quot;translateID&quot;:202760,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;Группы новостей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ニュースグループ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にゅーすぐるーぷ&quot;,&quot;transliteration&quot;:&quot;nyu:suguru:pu&quot;},{&quot;translateID&quot;:202776,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;программа чтения новостей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ニュースリーダー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にゅーすりーだー&quot;,&quot;transliteration&quot;:&quot;nyu:suri:da:&quot;},{&quot;translateID&quot;:33596,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;протокол передачи сетевых новостей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;NNTP&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;NNTP&quot;,&quot;transliteration&quot;:&quot;NNTP&quot;},{&quot;translateID&quot;:202759,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;группа новостей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ニュースグループ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にゅーすぐるーぷ&quot;,&quot;transliteration&quot;:&quot;nyu:suguru:pu&quot;},{&quot;translateID&quot;:202774,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;Программа новостей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ニュースプログラム&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にゅーすぷろぐらむ&quot;,&quot;transliteration&quot;:&quot;nyu:supuroguramu&quot;},{&quot;translateID&quot;:36905,&quot;translationStatus&quot;:0,&quot;themeID&quot;:8,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;インターネット&quot;,&quot;word&quot;:&quot;На странице найдена лента новостей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;Webページ上にRSSフィードを発見しました。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;WebぺーじじょうにRSSふぃーどをはっけんしました。&quot;,&quot;transliteration&quot;:&quot;Webpe:jijouniRSSfi:do o hakkenshimashita。&quot;},{&quot;translateID&quot;:121914,&quot;translationStatus&quot;:0,&quot;themeID&quot;:8,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;インターネット&quot;,&quot;word&quot;:&quot;На этой странице найдена лента новостей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;このページにRSSフィードを発見しました。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;このぺーじにRSSふぃーどをはっけんしました。&quot;,&quot;transliteration&quot;:&quot;konope:jiniRSSfi:do o hakkenshimashita。&quot;},{&quot;translateID&quot;:111200,&quot;translationStatus&quot;:0,&quot;themeID&quot;:8,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;インターネット&quot;,&quot;word&quot;:&quot;Щелкните мышью для добавления ленты новостей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;クリックすればこのページのRSSフィードを追加できます。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;くりっくすればこのぺーじのRSSふぃーどをついかできます。&quot;,&quot;transliteration&quot;:&quot;kurikkusurebakonope:jinoRSSfi:do o tsuikadekimasu。&quot;},{&quot;translateID&quot;:850279,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;агентства печати новостей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;報道をする者に対するニュースの供給&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほうどうをするものにたいするにゅーすのきょうきゅう&quot;,&quot;transliteration&quot;:&quot;houdou o surumononitaisurunyu:sunokyoukyuu&quot;},{&quot;translateID&quot;:116168,&quot;translationStatus&quot;:0,&quot;themeID&quot;:146,&quot;groupName&quot;:&quot;地学&quot;,&quot;themeName&quot;:&quot;生態学&quot;,&quot;word&quot;:&quot;кабельная сеть передачи новостей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ケーブルニュースネットワーク&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けーぶるにゅーすねっとわーく&quot;,&quot;transliteration&quot;:&quot;ke:burunyu:sunettowa:ku&quot;},{&quot;translateID&quot;:202783,&quot;translationStatus&quot;:0,&quot;themeID&quot;:223,&quot;groupName&quot;:&quot;人文&quot;,&quot;themeName&quot;:&quot;教育&quot;,&quot;word&quot;:&quot;служба новостей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ニュースレポーターによる取材・報告&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にゅーすれぽーたーによるしゅざい・ほうこく&quot;,&quot;transliteration&quot;:&quot;nyu:surepo:ta:niyorushuzai・houkoku&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="новостей" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

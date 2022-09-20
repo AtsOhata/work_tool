@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	командный - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,командный" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u043a%u043e%u043c%u0430%u043d%u0434%u043d%u044b%u0439" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV844Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNC60L7QvNCw0L3QtNC90YvQuWQCAw9kFggCAg9kFgQCAQ8WAh4Dc3JjBQ8uLi9pbWcvbG9nby5wbmdkAgUPFgIeBGhyZWYFDi4uLz9sYW5nPXJ1LVJVZAIEDxYCHgdWaXNpYmxlZ2QCBg8WAh8DaGQCBw9kFghmDxYCHwNoZAIBDxYCHwNoZAICDxYCHwNoZAIFDxYCHwNoZGRCevSlxF73B5VfZhBIXR3oaGSBkg==" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAVvz1uh9Gsr2rjyeOegQ4SLlIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/plwOqAoFJrTuArBDYDtSiN7LgzZ" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:true,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:false,&quot;Phrases&quot;:[{&quot;translateID&quot;:445123,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;командный состав&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;軍事幹部&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぐんじかんぶ&quot;,&quot;transliteration&quot;:&quot;gunjikanbu&quot;},{&quot;translateID&quot;:532220,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;командный пункт&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;指揮所&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しきしょ&quot;,&quot;transliteration&quot;:&quot;shikisho&quot;},{&quot;translateID&quot;:532219,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;командный пункт&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;指揮所&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しきじょ&quot;,&quot;transliteration&quot;:&quot;shikijo&quot;},{&quot;translateID&quot;:8448,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Командный чемпионат мира по фигурному катанию 2012&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;2012年世界フィギュアスケート国別対抗戦&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;2012ねんせかいふぃぎゅあすけーとこくべつたいこうせん&quot;,&quot;transliteration&quot;:&quot;2012nensekaifigyuasuke:tokokubetsutaikousen&quot;},{&quot;translateID&quot;:528714,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;командный пункт&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;司令所&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しれいじょ&quot;,&quot;transliteration&quot;:&quot;shireijo&quot;},{&quot;translateID&quot;:652236,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;командный пункт&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;戦闘指揮所&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せんとうしきしょ&quot;,&quot;transliteration&quot;:&quot;sentoushikisho&quot;},{&quot;translateID&quot;:389613,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;командный состав&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;幹部&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かんぶ&quot;,&quot;transliteration&quot;:&quot;kanbu&quot;},{&quot;translateID&quot;:626932,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Командный чемпионат мира по фигурному катанию&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;世界フィギュアスケート国別対抗戦&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せかいふぃぎゅあすけーとこくべつたいこうせん&quot;,&quot;transliteration&quot;:&quot;sekaifigyuasuke:tokokubetsutaikousen&quot;},{&quot;translateID&quot;:7917,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Командный чемпионат мира по фигурному катанию 2009&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;2009年世界フィギュアスケート国別対抗戦&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;2009ねんせかいふぃぎゅあすけーとこくべつたいこうせん&quot;,&quot;transliteration&quot;:&quot;2009nensekaifigyuasuke:tokokubetsutaikousen&quot;},{&quot;translateID&quot;:747946,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Командный пункт&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;統制&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とうせい&quot;,&quot;transliteration&quot;:&quot;tousei&quot;},{&quot;translateID&quot;:291284,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;командный розыгрыш первенства&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;リーグ戦&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;りーぐせん&quot;,&quot;transliteration&quot;:&quot;ri:gusen&quot;},{&quot;translateID&quot;:858572,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Велоспорт на летних Олимпийских играх 2008 - командный спринт&quot;,&quot;wordnote&quot;:&quot;мужчины&quot;,&quot;translation&quot;:&quot;北京オリンピックにおける自転車競技・男子チームスプリント&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぺきんおりんぴっくにおけるじてんしゃきょうぎ・だんしちーむすぷりんと&quot;,&quot;transliteration&quot;:&quot;pekinorinpikkuniokerujitenshakyougi・danshichi:musupurinto&quot;},{&quot;translateID&quot;:400574,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Чтобы принять участие в управлении бизнесом, вам понадобится командный дух для работы со многими коллегами.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;企業経営で活躍するために必要となるのが多くの仲間と仕事を遂行するための協調精神です。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きぎょうけいえいでかつやくするためにひつようとなるのがおおくのなかまとしごとをすいこうするためのきょうちょうせいしんです。&quot;,&quot;transliteration&quot;:&quot;kigyoukeieidekatsuyakusurutamenihitsuyoutonarunogaookunonakamatoshigoto o suikousurutamenokyouchouseishindesu。&quot;},{&quot;translateID&quot;:214777,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;командный файл для работы в пакетном режиме&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;バッチ・ファイル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ばっち・ふぁいる&quot;,&quot;transliteration&quot;:&quot;bacchi・fairu&quot;},{&quot;translateID&quot;:86325,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;командный пункт&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;オペレーションセンタ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おぺれーしょんせんた&quot;,&quot;transliteration&quot;:&quot;opere:shonsenta&quot;},{&quot;translateID&quot;:214818,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;командный файл&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;バッチプログラム&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ばっちぷろぐらむ&quot;,&quot;transliteration&quot;:&quot;bacchipuroguramu&quot;},{&quot;translateID&quot;:258475,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;командный интерпретатор Bourne shell&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ボーンシェル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぼーんしぇる&quot;,&quot;transliteration&quot;:&quot;bo:nsheru&quot;},{&quot;translateID&quot;:812858,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;командный интерпретатор Bourne shell&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;標準シェル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひょうじゅんしぇる&quot;,&quot;transliteration&quot;:&quot;hyoujunsheru&quot;},{&quot;translateID&quot;:29041,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;командный интерпретатор Bourne shell&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;Bシェル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;Bしぇる&quot;,&quot;transliteration&quot;:&quot;Bsheru&quot;},{&quot;translateID&quot;:176252,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;командный обозреватель&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;チーム エクスプローラー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちーむ えくすぷろーらー&quot;,&quot;transliteration&quot;:&quot;chi:mu ekusupuro:ra:&quot;},{&quot;translateID&quot;:124045,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;командный язык&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;コマンド言語&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こまんどげんご&quot;,&quot;transliteration&quot;:&quot;komandogengo&quot;},{&quot;translateID&quot;:214776,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;командный файл&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;バッチ・ファイル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ばっち・ふぁいる&quot;,&quot;transliteration&quot;:&quot;bacchi・fairu&quot;},{&quot;translateID&quot;:533006,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;командный режим&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;指令モード&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しれいもーど&quot;,&quot;transliteration&quot;:&quot;shireimo:do&quot;},{&quot;translateID&quot;:176257,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;командный проект&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;チーム プロジェクト&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちーむ ぷろじぇくと&quot;,&quot;transliteration&quot;:&quot;chi:mu purojekuto&quot;},{&quot;translateID&quot;:628081,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;командный язык&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;制御言語&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せいぎょげんご&quot;,&quot;transliteration&quot;:&quot;seigyogengo&quot;},{&quot;translateID&quot;:124013,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;командный процессор&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;コマンドシェル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こまんどしぇる&quot;,&quot;transliteration&quot;:&quot;komandosheru&quot;},{&quot;translateID&quot;:124026,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;командный режим&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;コマンドモード&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こまんどもーど&quot;,&quot;transliteration&quot;:&quot;komandomo:do&quot;},{&quot;translateID&quot;:124029,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;командный режимы резания&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;コマンドモード&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こまんどもーど&quot;,&quot;transliteration&quot;:&quot;komandomo:do&quot;},{&quot;translateID&quot;:124054,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;командный оператор&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;コマンド文&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こまんどぶん&quot;,&quot;transliteration&quot;:&quot;komandobun&quot;},{&quot;translateID&quot;:124050,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;командный процессор&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;コマンド制御プログラム&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こまんどせいぎょぷろぐらむ&quot;,&quot;transliteration&quot;:&quot;komandoseigyopuroguramu&quot;},{&quot;translateID&quot;:871667,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;командный опорный сигнал&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;命令基準値&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;めいれいきじゅんち&quot;,&quot;transliteration&quot;:&quot;meireikijunchi&quot;},{&quot;translateID&quot;:124024,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;командный процессор&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;コマンドプロセッサ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こまんどぷろせっさ&quot;,&quot;transliteration&quot;:&quot;komandopurosessa&quot;},{&quot;translateID&quot;:124021,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;командный кадр&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;コマンドフレーム&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こまんどふれーむ&quot;,&quot;transliteration&quot;:&quot;komandofure:mu&quot;},{&quot;translateID&quot;:871611,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;командный цикл&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;命令サイクル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;めいれいさいくる&quot;,&quot;transliteration&quot;:&quot;meireisaikuru&quot;},{&quot;translateID&quot;:533003,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;командный импульс&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;指令パルス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しれいぱるす&quot;,&quot;transliteration&quot;:&quot;shireiparusu&quot;},{&quot;translateID&quot;:533008,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;командный язык&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;指令言語&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しれいげんご&quot;,&quot;transliteration&quot;:&quot;shireigengo&quot;},{&quot;translateID&quot;:533023,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;командный оператор&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;指令文&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しれいぶん&quot;,&quot;transliteration&quot;:&quot;shireibun&quot;},{&quot;translateID&quot;:533000,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;командный импульс&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;指令パルス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しれいぱるす&quot;,&quot;transliteration&quot;:&quot;shireiparusu&quot;},{&quot;translateID&quot;:627925,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;командный выключатель&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;制御スイッチ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せいぎょすいっち&quot;,&quot;transliteration&quot;:&quot;seigyosuicchi&quot;},{&quot;translateID&quot;:123982,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;командный сигнал&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;コマンド&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こまんど&quot;,&quot;transliteration&quot;:&quot;komando&quot;},{&quot;translateID&quot;:707063,&quot;translationStatus&quot;:0,&quot;themeID&quot;:44,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;航空宇宙&quot;,&quot;word&quot;:&quot;центральный командный пункт&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中央統制&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅうおうとうせい&quot;,&quot;transliteration&quot;:&quot;chuuoutousei&quot;},{&quot;translateID&quot;:524893,&quot;translationStatus&quot;:0,&quot;themeID&quot;:44,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;航空宇宙&quot;,&quot;word&quot;:&quot;командный прибор&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;算定具&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さんていぐ&quot;,&quot;transliteration&quot;:&quot;santeigu&quot;},{&quot;translateID&quot;:532217,&quot;translationStatus&quot;:0,&quot;themeID&quot;:44,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;航空宇宙&quot;,&quot;word&quot;:&quot;командный прибор&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;指揮者&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しきしゃ&quot;,&quot;transliteration&quot;:&quot;shikisha&quot;},{&quot;translateID&quot;:533021,&quot;translationStatus&quot;:0,&quot;themeID&quot;:44,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;航空宇宙&quot;,&quot;word&quot;:&quot;командный модуль или отсек&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;指令船&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しれいせん&quot;,&quot;transliteration&quot;:&quot;shireisen&quot;},{&quot;translateID&quot;:715717,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;командный сигнал&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;調節信号&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちょうせつしんごう&quot;,&quot;transliteration&quot;:&quot;chousetsushingou&quot;},{&quot;translateID&quot;:124046,&quot;translationStatus&quot;:0,&quot;themeID&quot;:82,&quot;groupName&quot;:&quot;物理&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;командный язык&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;コマンド言語&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こまんどげんご&quot;,&quot;transliteration&quot;:&quot;komandogengo&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="командный" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

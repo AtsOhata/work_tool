@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	кевин - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,кевин" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u043a%u0435%u0432%u0438%u043d" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV044Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNC60LXQstC40L1kAgMPZBYIAgIPZBYEAgEPFgIeA3NyYwUPLi4vaW1nL2xvZ28ucG5nZAIFDxYCHgRocmVmBQ4uLi8/bGFuZz1ydS1SVWQCBA8WAh4HVmlzaWJsZWdkAgYPFgIfA2hkAgcPZBYIZg8WAh8DaGQCAQ8WAh8DaGQCAg8WAh8DaGQCBQ8WAh8DaGRk+yMHSH19A6ljUlWrbvdublSs1/0=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAUZN+3PhRx8a4oO+tcBUN9klIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/oPMeMeRswXFiEDL60fATLhQfBRa" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:true,&quot;Phrases&quot;:[{&quot;translateID&quot;:115670,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Клайн, Кевин&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ケヴィン・クライン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けヴぃん・くらいん&quot;,&quot;transliteration&quot;:&quot;kevin・kurain&quot;},{&quot;translateID&quot;:115680,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Зегерс, Кевин&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ケヴィン・ゼガーズ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けヴぃん・ぜがーず&quot;,&quot;transliteration&quot;:&quot;kevin・zega:zu&quot;},{&quot;translateID&quot;:115690,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Холл, Кевин Питер&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ケヴィン・ピーター・ホール&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けヴぃん・ぴーたー・ほーる&quot;,&quot;transliteration&quot;:&quot;kevin・pi:ta:・ho:ru&quot;},{&quot;translateID&quot;:115701,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Маккарти, Кевин&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ケヴィン・マッカーシー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けヴぃん・まっかーしー&quot;,&quot;transliteration&quot;:&quot;kevin・makka:shi:&quot;},{&quot;translateID&quot;:117163,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Гарнетт, Кевин&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ケビン・ガーネット&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けびん・がーねっと&quot;,&quot;transliteration&quot;:&quot;kebin・ga:netto&quot;},{&quot;translateID&quot;:117174,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Макхейл, Кевин&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ケビン・マクヘイル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けびん・まくへいる&quot;,&quot;transliteration&quot;:&quot;kebin・makuheiru&quot;},{&quot;translateID&quot;:115669,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Килбэн, Кевин&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ケヴィン・キルバーン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けヴぃん・きるばーん&quot;,&quot;transliteration&quot;:&quot;kevin・kiruba:n&quot;},{&quot;translateID&quot;:115679,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Смит, Кевин&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ケヴィン・スミス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けヴぃん・すみす&quot;,&quot;transliteration&quot;:&quot;kevin・sumisu&quot;},{&quot;translateID&quot;:115689,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Нолан, Кевин&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ケヴィン・ノーラン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けヴぃん・のーらん&quot;,&quot;transliteration&quot;:&quot;kevin・no:ran&quot;},{&quot;translateID&quot;:115700,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Макхейл, Кевин&quot;,&quot;wordnote&quot;:&quot;актёр&quot;,&quot;translation&quot;:&quot;ケヴィン・マクヘイル&quot;,&quot;translationnote&quot;:&quot;俳優&quot;,&quot;reading&quot;:&quot;けヴぃん・まくへいる&quot;,&quot;transliteration&quot;:&quot;kevin・makuheiru&quot;},{&quot;translateID&quot;:117162,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Картер, Кевин&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ケビン・カーター&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けびん・かーたー&quot;,&quot;transliteration&quot;:&quot;kebin・ka:ta:&quot;},{&quot;translateID&quot;:117173,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Ричардсон, Кевин Майкл&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ケビン・マイケル・リチャードソン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けびん・まいける・りちゃーどそん&quot;,&quot;transliteration&quot;:&quot;kebin・maikeru・richa:doson&quot;},{&quot;translateID&quot;:115668,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Галлахер, Кевин&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ケヴィン・ギャラハー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けヴぃん・ぎゃらはー&quot;,&quot;transliteration&quot;:&quot;kevin・gyaraha:&quot;},{&quot;translateID&quot;:115678,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Спейси, Кевин&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ケヴィン・スペイシー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けヴぃん・すぺいしー&quot;,&quot;transliteration&quot;:&quot;kevin・supeishi:&quot;},{&quot;translateID&quot;:115688,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Трапп, Кевин&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ケヴィン・トラップ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けヴぃん・とらっぷ&quot;,&quot;transliteration&quot;:&quot;kevin・torappu&quot;},{&quot;translateID&quot;:115699,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Макнелли, Кевин&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ケヴィン・マクナリー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けヴぃん・まくなりー&quot;,&quot;transliteration&quot;:&quot;kevin・makunari:&quot;},{&quot;translateID&quot;:117161,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Ульетт, Кевин&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ケビン・ウリエット&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けびん・うりえっと&quot;,&quot;transliteration&quot;:&quot;kebin・urietto&quot;},{&quot;translateID&quot;:117172,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Мартин, Кевин&quot;,&quot;wordnote&quot;:&quot;кёрлингист&quot;,&quot;translation&quot;:&quot;ケビン・マーティン&quot;,&quot;translationnote&quot;:&quot;カーリング選手&quot;,&quot;reading&quot;:&quot;けびん・まーてぃん&quot;,&quot;transliteration&quot;:&quot;kebin・ma:tin&quot;},{&quot;translateID&quot;:115667,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Гамейро, Кевин&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ケヴィン・ガメイロ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けヴぃん・がめいろ&quot;,&quot;transliteration&quot;:&quot;kevin・gameiro&quot;},{&quot;translateID&quot;:115677,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Стротман, Кевин&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ケヴィン・ストロートマン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けヴぃん・すとろーとまん&quot;,&quot;transliteration&quot;:&quot;kevin・sutoro:toman&quot;},{&quot;translateID&quot;:115687,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Дойл, Кевин&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ケヴィン・ドイル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けヴぃん・どいる&quot;,&quot;transliteration&quot;:&quot;kevin・doiru&quot;},{&quot;translateID&quot;:115698,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Маккидд, Кевин&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ケヴィン・マクキッド&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けヴぃん・まくきっど&quot;,&quot;transliteration&quot;:&quot;kevin・makukiddo&quot;},{&quot;translateID&quot;:117160,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Уиллис, Кевин&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ケビン・ウィリス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けびん・うぃりす&quot;,&quot;transliteration&quot;:&quot;kebin・uぃrisu&quot;},{&quot;translateID&quot;:117170,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Нэш, Кевин Скотт&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ケビン・ナッシュ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けびん・なっしゅ&quot;,&quot;transliteration&quot;:&quot;kebin・nasshu&quot;},{&quot;translateID&quot;:115662,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;О’Коннор, Кевин&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ケヴィン・J・オコナー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けヴぃん・J・おこなー&quot;,&quot;transliteration&quot;:&quot;kevin・J・okona:&quot;},{&quot;translateID&quot;:115672,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Гросскройц, Кевин&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ケヴィン・グロスクロイツ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けヴぃん・ぐろすくろいつ&quot;,&quot;transliteration&quot;:&quot;kevin・gurosukuroitsu&quot;},{&quot;translateID&quot;:115682,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Данн, Кевин&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ケヴィン・ダン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けヴぃん・だん&quot;,&quot;transliteration&quot;:&quot;kevin・dan&quot;},{&quot;translateID&quot;:115692,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Файги, Кевин&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ケヴィン・フェイグ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けヴぃん・ふぇいぐ&quot;,&quot;transliteration&quot;:&quot;kevin・feigu&quot;},{&quot;translateID&quot;:115703,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Мур, Кевин&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ケヴィン・ムーア&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けヴぃん・むーあ&quot;,&quot;transliteration&quot;:&quot;kevin・mu:a&quot;},{&quot;translateID&quot;:117165,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Костнер, Кевин&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ケビン・コスナー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けびん・こすなー&quot;,&quot;transliteration&quot;:&quot;kebin・kosuna:&quot;},{&quot;translateID&quot;:117176,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Янг, Кевин&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ケビン・ヤング&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けびん・やんぐ&quot;,&quot;transliteration&quot;:&quot;kebin・yangu&quot;},{&quot;translateID&quot;:115661,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Андерсон, Кевин Джей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ケヴィン・J・アンダースン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けヴぃん・J・あんだーすん&quot;,&quot;transliteration&quot;:&quot;kevin・J・anda:sun&quot;},{&quot;translateID&quot;:115671,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Кураньи, Кевин&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ケヴィン・クラニー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けヴぃん・くらにー&quot;,&quot;transliteration&quot;:&quot;kevin・kurani:&quot;},{&quot;translateID&quot;:115681,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Сорбо, Кевин&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ケヴィン・ソルボ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けヴぃん・そるぼ&quot;,&quot;transliteration&quot;:&quot;kevin・sorubo&quot;},{&quot;translateID&quot;:115691,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Филлипс, Кевин&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ケヴィン・フィリップス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けヴぃん・ふぃりっぷす&quot;,&quot;transliteration&quot;:&quot;kevin・firippusu&quot;},{&quot;translateID&quot;:115702,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Миральяс, Кевин&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ケヴィン・ミララス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けヴぃん・みららす&quot;,&quot;transliteration&quot;:&quot;kevin・mirarasu&quot;},{&quot;translateID&quot;:117164,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Киган, Кевин&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ケビン・キーガン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けびん・きーがん&quot;,&quot;transliteration&quot;:&quot;kebin・ki:gan&quot;},{&quot;translateID&quot;:117175,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Митник, Кевин&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ケビン・ミトニック&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けびん・みとにっく&quot;,&quot;transliteration&quot;:&quot;kebin・mitonikku&quot;},{&quot;translateID&quot;:115666,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Керн, Кевин&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ケヴィン・カーン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けヴぃん・かーん&quot;,&quot;transliteration&quot;:&quot;kevin・ka:n&quot;},{&quot;translateID&quot;:115676,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Сиро, Кевин&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ケヴィン・シロー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けヴぃん・しろー&quot;,&quot;transliteration&quot;:&quot;kevin・shiro:&quot;},{&quot;translateID&quot;:115686,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Дюранд, Кевин&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ケヴィン・デュランド&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けヴぃん・でゅらんど&quot;,&quot;transliteration&quot;:&quot;kevin・deゅrando&quot;},{&quot;translateID&quot;:115697,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Поллак, Кевин&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ケヴィン・ポラック&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けヴぃん・ぽらっく&quot;,&quot;transliteration&quot;:&quot;kevin・porakku&quot;},{&quot;translateID&quot;:117159,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Ван дер Перрен, Кевин&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ケビン・ヴァン・デル・ペレン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けびん・ヴぁん・でる・ぺれん&quot;,&quot;transliteration&quot;:&quot;kebin・van・deru・peren&quot;},{&quot;translateID&quot;:117169,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Дюрант, Кевин&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ケビン・デュラント&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けびん・でゅらんと&quot;,&quot;transliteration&quot;:&quot;kebin・deゅranto&quot;},{&quot;translateID&quot;:115665,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;О’Коннелл, Кевин&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ケヴィン・オコネル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けヴぃん・おこねる&quot;,&quot;transliteration&quot;:&quot;kevin・okoneru&quot;},{&quot;translateID&quot;:115675,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Джеймс, Кевин&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ケヴィン・ジェームズ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けヴぃん・じぇーむず&quot;,&quot;transliteration&quot;:&quot;kevin・je:muzu&quot;},{&quot;translateID&quot;:115685,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Диллон, Кевин&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ケヴィン・ディロン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けヴぃん・でぃろん&quot;,&quot;transliteration&quot;:&quot;kevin・diron&quot;},{&quot;translateID&quot;:115696,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Хофланд, Кевин&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ケヴィン・ホフラント&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けヴぃん・ほふらんと&quot;,&quot;transliteration&quot;:&quot;kevin・hofuranto&quot;},{&quot;translateID&quot;:115706,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Роч, Кевин&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ケヴィン・ローチ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けヴぃん・ろーち&quot;,&quot;transliteration&quot;:&quot;kevin・ro:chi&quot;},{&quot;translateID&quot;:117168,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Серафин, Кевин&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ケビン・セラフィン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けびん・せらふぃん&quot;,&quot;transliteration&quot;:&quot;kebin・serafin&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="кевин" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

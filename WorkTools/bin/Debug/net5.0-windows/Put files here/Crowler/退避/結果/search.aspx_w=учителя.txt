@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	учителя - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,учителя" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u0443%u0447%u0438%u0442%u0435%u043b%u044f" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV444Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNGD0YfQuNGC0LXQu9GPZAIDD2QWCAICD2QWBAIBDxYCHgNzcmMFDy4uL2ltZy9sb2dvLnBuZ2QCBQ8WAh4EaHJlZgUOLi4vP2xhbmc9cnUtUlVkAgQPFgIeB1Zpc2libGVnZAIGDxYCHwNoZAIHD2QWCGYPFgIfA2hkAgEPFgIfA2hkAgIPFgIfA2hkAgUPFgIfA2hkZIYfC1XDgHwgNpuuZqDx5suKyi2J" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAUkBxJjnyuQsNkYt4zvlq9flIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/hIHMn5BgD8FVojJl3AmpXQBeciV" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:false,&quot;Phrases&quot;:[{&quot;translateID&quot;:583716,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;помощник учителя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;助教諭&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じょきょうゆ&quot;,&quot;transliteration&quot;:&quot;jokyouyu&quot;},{&quot;translateID&quot;:428344,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;и учителя бывают всякие&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;教師にもピンから切りまである&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きょうしにもぴんからきりまである&quot;,&quot;transliteration&quot;:&quot;kyoushinimopinkarakirimadearu&quot;},{&quot;translateID&quot;:421698,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Моя сестра в июне вышла замуж за учителя старшей школы.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;去る6月に私の姉は高校の教師と結婚した。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さる6がつにわたしのあねはこうこうのきょうしとけっこんした。&quot;,&quot;transliteration&quot;:&quot;saru6gatsuniwatashinoanehakoukounokyoushitokekkonshita。&quot;},{&quot;translateID&quot;:583710,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;помощник учителя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;助教&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じょきょう&quot;,&quot;transliteration&quot;:&quot;jokyou&quot;},{&quot;translateID&quot;:578939,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;превзойти своего учителя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;出藍の誉れがある&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゅつらんのほまれがある&quot;,&quot;transliteration&quot;:&quot;shutsurannohomaregaaru&quot;},{&quot;translateID&quot;:661518,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;излагать взгляды учителя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;祖述する&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そじゅつする&quot;,&quot;transliteration&quot;:&quot;sojutsusuru&quot;},{&quot;translateID&quot;:836560,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;экзамен на звание учителя средней школы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;文検&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぶんけん&quot;,&quot;transliteration&quot;:&quot;bunken&quot;},{&quot;translateID&quot;:531483,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;учителя и друзья&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;師友&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゆう&quot;,&quot;transliteration&quot;:&quot;shiyuu&quot;},{&quot;translateID&quot;:428338,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;в качестве учителя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;教師としては&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きょうしとしては&quot;,&quot;transliteration&quot;:&quot;kyoushitoshiteha&quot;},{&quot;translateID&quot;:166423,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;этого учителя ученики очень любят и уважают&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;その先生は非常に生徒に慕われている&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そのせんせいはひじょうにせいとにしたわれている&quot;,&quot;transliteration&quot;:&quot;sonosenseihahijouniseitonishitawareteiru&quot;},{&quot;translateID&quot;:531464,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;долг учителя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;師道&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しどう&quot;,&quot;transliteration&quot;:&quot;shidou&quot;},{&quot;translateID&quot;:47694,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;в той школе учителя как на подбор&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;あの学校には先生が揃っている&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あのがっこうにはせんせいがそろっている&quot;,&quot;transliteration&quot;:&quot;anogakkounihasenseigasorotteiru&quot;},{&quot;translateID&quot;:649918,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Не все учителя ведут себя таким образом.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;先生がみんなそんなふうにふるまうわけではない。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せんせいがみんなそんなふうにふるまうわけではない。&quot;,&quot;transliteration&quot;:&quot;senseigaminnasonnafuunifurumauwakedehanai。&quot;},{&quot;translateID&quot;:359883,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Вымышленные учителя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;架空の教員&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かくうのきょういん&quot;,&quot;transliteration&quot;:&quot;kakuunokyouin&quot;},{&quot;translateID&quot;:428347,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;День учителя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;教師の日&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きょうしのひ&quot;,&quot;transliteration&quot;:&quot;kyoushinohi&quot;},{&quot;translateID&quot;:535450,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;я не гожусь в учителя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;私には教師は勤まらない&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;わたしにはきょうしはつとまらない&quot;,&quot;transliteration&quot;:&quot;watashinihakyoushihatsutomaranai&quot;},{&quot;translateID&quot;:157805,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Все учителя были молоды и любили преподавать.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;すべての先生が若く、教えるのが大好きだった。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;すべてのせんせいがわかく、おしえるのがだいすきだった。&quot;,&quot;transliteration&quot;:&quot;subetenosenseigawakaku、oshierunogadaisukidatta。&quot;},{&quot;translateID&quot;:859194,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;У этого учителя я не научился ничему.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;僕はその教師から何も習わなかった。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぼくはそのきょうしからなにもならわなかった。&quot;,&quot;transliteration&quot;:&quot;bokuhasonokyoushikarananimonarawanakatta。&quot;},{&quot;translateID&quot;:428346,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;учиться у учителя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;教師に付いて勉強する&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きょうしについてべんきょうする&quot;,&quot;transliteration&quot;:&quot;kyoushinitsuitebenkyousuru&quot;},{&quot;translateID&quot;:535011,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;У нашего учителя чудесное чувство юмора.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;私たちの先生にはすばらしいユーモアのセンスがある。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;わたしたちのせんせいにはすばらしいゆーもあのせんすがある。&quot;,&quot;transliteration&quot;:&quot;watashitachinosenseinihasubarashiiyu:moanosensugaaru。&quot;},{&quot;translateID&quot;:166422,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;У учителя есть большое влияние на учеников.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;その先生は生徒に対して大きな影響力を持っている。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そのせんせいはせいとにたいしておおきなえいきょうりょくをもっている。&quot;,&quot;transliteration&quot;:&quot;sonosenseihaseitonitaishiteookinaeikyouryoku o motteiru。&quot;},{&quot;translateID&quot;:531462,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;наставления учителя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;師伝&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しでん&quot;,&quot;transliteration&quot;:&quot;shiden&quot;},{&quot;translateID&quot;:428451,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;жизнь учителя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;教壇生活&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きょうだんせいかつ&quot;,&quot;transliteration&quot;:&quot;kyoudanseikatsu&quot;},{&quot;translateID&quot;:802707,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;А она ходила на вокзал, чтобы повидать своего учителя перед отъездом?&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;彼女は先生を見送りに駅に行きましたか。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かのじょはせんせいをみおくりにえきにいきましたか。&quot;,&quot;transliteration&quot;:&quot;kanojohasensei o miokuriniekiniikimashitaka。&quot;},{&quot;translateID&quot;:799045,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;в учителя он не годится&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;彼は教師としては駄目だ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かれはきょうしとしてはだめだ&quot;,&quot;transliteration&quot;:&quot;karehakyoushitoshitehadameda&quot;},{&quot;translateID&quot;:531446,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;теория учителя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;師説&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しせつ&quot;,&quot;transliteration&quot;:&quot;shisetsu&quot;},{&quot;translateID&quot;:428447,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;стол учителя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;教卓&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きょうたく&quot;,&quot;transliteration&quot;:&quot;kyoutaku&quot;},{&quot;translateID&quot;:309940,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;любимчик учителя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;愛弟子&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まなでし&quot;,&quot;transliteration&quot;:&quot;manadeshi&quot;},{&quot;translateID&quot;:703473,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;есть место учителя в средней школе&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;地方でも良ければ中学校の口がある&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちほうでもよければちゅうがっこうのくちがある&quot;,&quot;transliteration&quot;:&quot;chihoudemoyokerebachuugakkounokuchigaaru&quot;},{&quot;translateID&quot;:531433,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;дом учителя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;師家&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しか&quot;,&quot;transliteration&quot;:&quot;shika&quot;},{&quot;translateID&quot;:428351,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Учителя не должны опираться лишь на свой авторитет.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;教師は自らの権威を頼みとしてはならない。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きょうしはみずからのけんいをたのみとしてはならない。&quot;,&quot;transliteration&quot;:&quot;kyoushihamizukaranokeni o tanomitoshitehanaranai。&quot;},{&quot;translateID&quot;:709742,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;учителя средней школы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中等教員&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅうとうきょういん&quot;,&quot;transliteration&quot;:&quot;chuutoukyouin&quot;},{&quot;translateID&quot;:649923,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;С точки зрения учителя учить её был одним удовольствием.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;先生にとって、彼女を教えるのは楽しみだった。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せんせいにとって、かのじょをおしえるのはたのしみだった。&quot;,&quot;transliteration&quot;:&quot;senseinitotte、kanojo o oshierunohatanoshimidatta。&quot;},{&quot;translateID&quot;:531431,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;доброта учителя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;師恩&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しおん&quot;,&quot;transliteration&quot;:&quot;shion&quot;},{&quot;translateID&quot;:428350,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Учителя должны давать надежду своим ученикам, что завтра будет ярче и счастливие.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;教師は子供達に、明日はもっと明るく幸福になれるという確信を与えねばならない。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きょうしはこどもたちに、あしたはもっとあかるくこうふくになれるというかくしんをあたえねばならない。&quot;,&quot;transliteration&quot;:&quot;kyoushihakodomotachini、ashitahamottoakarukukoufukuninarerutoiukakushin o ataenebanaranai。&quot;},{&quot;translateID&quot;:634959,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Студенты обожают нового учителя английского языка.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;生徒たちはその新しい英語の先生にあこがれている。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せいとたちはそのあたらしいえいごのせんせいにあこがれている。&quot;,&quot;transliteration&quot;:&quot;seitotachihasonoatarashiieigonosenseiniakogareteiru。&quot;},{&quot;translateID&quot;:428339,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;обучение без учителя&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;教師なし学習&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きょうしなしがくしゅう&quot;,&quot;transliteration&quot;:&quot;kyoushinashigakushuu&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="учителя" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

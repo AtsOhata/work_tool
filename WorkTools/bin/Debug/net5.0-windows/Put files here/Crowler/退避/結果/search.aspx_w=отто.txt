@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	отто - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,отто" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u043e%u0442%u0442%u043e" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAVy44Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNC+0YLRgtC+ZAIDD2QWCAICD2QWBAIBDxYCHgNzcmMFDy4uL2ltZy9sb2dvLnBuZ2QCBQ8WAh4EaHJlZgUOLi4vP2xhbmc9cnUtUlVkAgQPFgIeB1Zpc2libGVnZAIGDxYCHwNoZAIHD2QWCGYPFgIfA2hkAgEPFgIfA2hkAgIPFgIfA2hkAgUPFgIfA2hkZFj+AwMup4nLySkBIgK5mtZWfi0A" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAXyXywifI/Slft9KinrQ0kglIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/uz33lVUHXQZTphkm+7sA31hFt3T" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:true,&quot;Phrases&quot;:[{&quot;translateID&quot;:85121,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Ульсон, Отто&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;オット・オルソン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おっと・おるそん&quot;,&quot;transliteration&quot;:&quot;otto・oruson&quot;},{&quot;translateID&quot;:85142,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Киттель, Отто&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;オットー・キッテル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おっとー・きってる&quot;,&quot;transliteration&quot;:&quot;otto:・kitteru&quot;},{&quot;translateID&quot;:85152,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Конрад, Отто&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;オットー・コンラード&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おっとー・こんらーど&quot;,&quot;transliteration&quot;:&quot;otto:・konra:do&quot;},{&quot;translateID&quot;:85162,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Дикс, Отто&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;オットー・ディクス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おっとー・でぃくす&quot;,&quot;transliteration&quot;:&quot;otto:・dikusu&quot;},{&quot;translateID&quot;:85172,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Финш, Отто&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;オットー・フィンシュ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おっとー・ふぃんしゅ&quot;,&quot;transliteration&quot;:&quot;otto:・finshu&quot;},{&quot;translateID&quot;:85182,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Больнов, Отто Фридрих&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;オットー・フリードリッヒ・ボルノウ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おっとー・ふりーどりっひ・ぼるのう&quot;,&quot;transliteration&quot;:&quot;otto:・furi:dorihhi・borunou&quot;},{&quot;translateID&quot;:85192,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Мейергоф, Отто&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;オットー・マイヤーホフ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おっとー・まいやーほふ&quot;,&quot;transliteration&quot;:&quot;otto:・maiya:hofu&quot;},{&quot;translateID&quot;:85202,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Фриш, Отто Роберт&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;オットー・ロベルト・フリッシュ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おっとー・ろべると・ふりっしゅ&quot;,&quot;transliteration&quot;:&quot;otto:・roberuto・furisshu&quot;},{&quot;translateID&quot;:84628,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Лессер, Отто Леберехт&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;オスカー・レサー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おすかー・れさー&quot;,&quot;transliteration&quot;:&quot;osuka:・resa:&quot;},{&quot;translateID&quot;:85141,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Кариус, Отто&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;オットー・カリウス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おっとー・かりうす&quot;,&quot;transliteration&quot;:&quot;otto:・kariusu&quot;},{&quot;translateID&quot;:85151,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Гесслер, Отто&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;オットー・ゲスラー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おっとー・げすらー&quot;,&quot;transliteration&quot;:&quot;otto:・gesura:&quot;},{&quot;translateID&quot;:85161,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Дильс, Отто Пауль Герман&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;オットー・ディールス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おっとー・でぃーるす&quot;,&quot;transliteration&quot;:&quot;otto:・di:rusu&quot;},{&quot;translateID&quot;:85171,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Бауэр, Отто&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;オットー・バウアー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おっとー・ばうあー&quot;,&quot;transliteration&quot;:&quot;otto:・baua:&quot;},{&quot;translateID&quot;:85181,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Отто Франц&quot;,&quot;wordnote&quot;:&quot;эрцгерцог Австрии&quot;,&quot;translation&quot;:&quot;オットー・フランツ・フォン・エスターライヒ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おっとー・ふらんつ・ふぉん・えすたーらいひ&quot;,&quot;transliteration&quot;:&quot;otto:・furantsu・fon・esuta:raihi&quot;},{&quot;translateID&quot;:85191,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Мейснер, Отто&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;オットー・マイスナー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おっとー・まいすなー&quot;,&quot;transliteration&quot;:&quot;otto:・maisuna:&quot;},{&quot;translateID&quot;:85201,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Ломюллер, Отто&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;オットー・ローミュラー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おっとー・ろーみゅらー&quot;,&quot;transliteration&quot;:&quot;otto:・ro:myura:&quot;},{&quot;translateID&quot;:231850,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Рунге, Филипп Отто&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;フィリップ・オットー・ルンゲ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふぃりっぷ・おっとー・るんげ&quot;,&quot;transliteration&quot;:&quot;firippu・otto:・runge&quot;},{&quot;translateID&quot;:85140,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Кайзер, Отто&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;オットー・カイザー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おっとー・かいざー&quot;,&quot;transliteration&quot;:&quot;otto:・kaiza:&quot;},{&quot;translateID&quot;:85150,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Тирак, Отто&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;オットー・ゲオルク・ティーラック&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おっとー・げおるく・てぃーらっく&quot;,&quot;transliteration&quot;:&quot;otto:・georuku・ti:rakku&quot;},{&quot;translateID&quot;:85160,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Дитрих, Отто&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;オットー・ディートリヒ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おっとー・でぃーとりひ&quot;,&quot;transliteration&quot;:&quot;otto:・di:torihi&quot;},{&quot;translateID&quot;:85170,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Отто Генрих&quot;,&quot;wordnote&quot;:&quot;курфюрст Пфальца&quot;,&quot;translation&quot;:&quot;オットー・ハインリヒ&quot;,&quot;translationnote&quot;:&quot;プファルツ選帝侯&quot;,&quot;reading&quot;:&quot;おっとー・はいんりひ&quot;,&quot;transliteration&quot;:&quot;otto:・hainrihi&quot;},{&quot;translateID&quot;:85180,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Франк, Отто&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;オットー・フランク&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おっとー・ふらんく&quot;,&quot;transliteration&quot;:&quot;otto:・furanku&quot;},{&quot;translateID&quot;:85190,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Хофман, Отто&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;オットー・ホフマン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おっとー・ほふまん&quot;,&quot;transliteration&quot;:&quot;otto:・hofuman&quot;},{&quot;translateID&quot;:85200,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Розенбергер, Отто Август&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;オットー・ローゼンベルガー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おっとー・ろーぜんべるがー&quot;,&quot;transliteration&quot;:&quot;otto:・ro:zenberuga:&quot;},{&quot;translateID&quot;:116515,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Розен, Георг Иоганн Отто&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ゲオルク・フォン・ローゼン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;げおるく・ふぉん・ろーぜん&quot;,&quot;transliteration&quot;:&quot;georuku・fon・ro:zen&quot;},{&quot;translateID&quot;:85139,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Олендорф, Отто&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;オットー・オーレンドルフ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おっとー・おーれんどるふ&quot;,&quot;transliteration&quot;:&quot;otto:・o:rendorufu&quot;},{&quot;translateID&quot;:85149,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Гротеволь, Отто&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;オットー・グローテヴォール&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おっとー・ぐろーてヴぉーる&quot;,&quot;transliteration&quot;:&quot;otto:・guro:tevo:ru&quot;},{&quot;translateID&quot;:85159,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Цилиакс, Отто&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;オットー・チリアクス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おっとー・ちりあくす&quot;,&quot;transliteration&quot;:&quot;otto:・chiriakusu&quot;},{&quot;translateID&quot;:85169,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Ган, Отто&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;オットー・ハーン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おっとー・はーん&quot;,&quot;transliteration&quot;:&quot;otto:・ha:n&quot;},{&quot;translateID&quot;:85179,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Браун, Отто&quot;,&quot;wordnote&quot;:&quot;революционер&quot;,&quot;translation&quot;:&quot;オットー・ブラウン&quot;,&quot;translationnote&quot;:&quot;共産主義者&quot;,&quot;reading&quot;:&quot;おっとー・ぶらうん&quot;,&quot;transliteration&quot;:&quot;otto:・buraun&quot;},{&quot;translateID&quot;:85189,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Гёльдер, Отто&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;オットー・ヘルダー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おっとー・へるだー&quot;,&quot;transliteration&quot;:&quot;otto:・heruda:&quot;},{&quot;translateID&quot;:85199,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Рехагель, Отто&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;オットー・レーハーゲル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おっとー・れーはーげる&quot;,&quot;transliteration&quot;:&quot;otto:・re:ha:geru&quot;},{&quot;translateID&quot;:211468,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Виланд, Генрих Отто&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ハインリッヒ・ヴィーラント&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はいんりっひ・ヴぃーらんと&quot;,&quot;transliteration&quot;:&quot;hainrihhi・vi:ranto&quot;},{&quot;translateID&quot;:45503,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Виндаус, Адольф Отто Рейнгольд&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;アドルフ・ヴィンダウス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あどるふ・ヴぃんだうす&quot;,&quot;transliteration&quot;:&quot;adorufu・vindausu&quot;},{&quot;translateID&quot;:85133,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Вейнингер, Отто&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;オットー・ヴァイニンガー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おっとー・ヴぁいにんがー&quot;,&quot;transliteration&quot;:&quot;otto:・vaininga:&quot;},{&quot;translateID&quot;:85144,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Куусинен, Отто Вильгельмович&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;オットー・クーシネン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おっとー・くーしねん&quot;,&quot;transliteration&quot;:&quot;otto:・ku:shinen&quot;},{&quot;translateID&quot;:85154,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Штерн, Отто&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;オットー・シュテルン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おっとー・しゅてるん&quot;,&quot;transliteration&quot;:&quot;otto:・shuterun&quot;},{&quot;translateID&quot;:85164,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Николаи, Отто&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;オットー・ニコライ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おっとー・にこらい&quot;,&quot;transliteration&quot;:&quot;otto:・nikorai&quot;},{&quot;translateID&quot;:85174,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Герике, Отто фон&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;オットー・フォン・ゲーリケ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おっとー・ふぉん・げーりけ&quot;,&quot;transliteration&quot;:&quot;otto:・fon・ge:rike&quot;},{&quot;translateID&quot;:85184,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Фредриксон, Отто&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;オットー・フレデリクソン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おっとー・ふれでりくそん&quot;,&quot;transliteration&quot;:&quot;otto:・furederikuson&quot;},{&quot;translateID&quot;:85194,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Раш, Отто&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;オットー・ラッシュ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おっとー・らっしゅ&quot;,&quot;transliteration&quot;:&quot;otto:・rasshu&quot;},{&quot;translateID&quot;:85204,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Варбург, Отто Генрих&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;オットー・ワールブルク&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おっとー・わーるぶるく&quot;,&quot;transliteration&quot;:&quot;otto:・wa:ruburuku&quot;},{&quot;translateID&quot;:296840,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Гессе, Людвиг Отто&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ルードヴィヒ・オットー・ヘッセ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;るーどヴぃひ・おっとー・へっせ&quot;,&quot;transliteration&quot;:&quot;ru:dovihi・otto:・hesse&quot;},{&quot;translateID&quot;:85132,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Есперсен, Отто&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;オットー・イェスペルセン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おっとー・いぇすぺるせん&quot;,&quot;transliteration&quot;:&quot;otto:・iぇsuperusen&quot;},{&quot;translateID&quot;:85143,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Гюнше, Отто&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;オットー・ギュンシェ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おっとー・ぎゅんしぇ&quot;,&quot;transliteration&quot;:&quot;otto:・gyunshe&quot;},{&quot;translateID&quot;:85153,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Йелинек, Отто&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;オットー・ジェリネク&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おっとー・じぇりねく&quot;,&quot;transliteration&quot;:&quot;otto:・jerineku&quot;},{&quot;translateID&quot;:85163,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Мантейфель, Отто Теодор&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;オットー・テオドール・フォン・マントイフェル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おっとー・ておどーる・ふぉん・まんといふぇる&quot;,&quot;transliteration&quot;:&quot;otto:・teodo:ru・fon・mantoiferu&quot;},{&quot;translateID&quot;:85173,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Гирке, Отто Фридрих фон&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;オットー・フォン・ギールケ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おっとー・ふぉん・ぎーるけ&quot;,&quot;transliteration&quot;:&quot;otto:・fon・gi:ruke&quot;},{&quot;translateID&quot;:85183,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Брунфельс, Отто&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;オットー・ブルンフェルス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おっとー・ぶるんふぇるす&quot;,&quot;transliteration&quot;:&quot;otto:・burunferusu&quot;},{&quot;translateID&quot;:85193,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Отто Марсеус ван Скрик&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;オットー・マルセウス・ファン・スリーク&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おっとー・まるせうす・ふぁん・すりーく&quot;,&quot;transliteration&quot;:&quot;otto:・maruseusu・fan・suri:ku&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="отто" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

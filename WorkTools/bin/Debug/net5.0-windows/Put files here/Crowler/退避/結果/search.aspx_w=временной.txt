@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	временной - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,временной" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u0432%u0440%u0435%u043c%u0435%u043d%u043d%u043e%u0439" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV844Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNCy0YDQtdC80LXQvdC90L7QuWQCAw9kFggCAg9kFgQCAQ8WAh4Dc3JjBQ8uLi9pbWcvbG9nby5wbmdkAgUPFgIeBGhyZWYFDi4uLz9sYW5nPXJ1LVJVZAIEDxYCHgdWaXNpYmxlZ2QCBg8WAh8DaGQCBw9kFghmDxYCHwNoZAIBDxYCHwNoZAICDxYCHwNoZAIFDxYCHwNoZGT1wADY5qd9vwBLBSMEmG2eaGMMtA==" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAU5ipaD7Hoy5tnUqqgLilSQlIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/rE9aYIfmBYigqhBdzed/63N5i+5" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:true,&quot;Phrases&quot;:[{&quot;translateID&quot;:546044,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;в прямой временной последовательности&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;時間順序積&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じかんじゅんじょせき&quot;,&quot;transliteration&quot;:&quot;jikanjunjoseki&quot;},{&quot;translateID&quot;:324468,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;в качестве временной меры&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;一時凌ぎに&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いちじしのぎに&quot;,&quot;transliteration&quot;:&quot;ichijishinogini&quot;},{&quot;translateID&quot;:409246,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;прекращение порученной временной работы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;季任&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きにん&quot;,&quot;transliteration&quot;:&quot;kinin&quot;},{&quot;translateID&quot;:30825,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Метод конечных разностей во временной области&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;FDTD法&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;FDTDほう&quot;,&quot;transliteration&quot;:&quot;FDTDhou&quot;},{&quot;translateID&quot;:546119,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;в обратной временной последовательности&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;時間反転&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じかんはんてん&quot;,&quot;transliteration&quot;:&quot;jikanhanten&quot;},{&quot;translateID&quot;:171138,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;генератор временной диаграммы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;タイミング発生器&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たいみんぐはっせいき&quot;,&quot;transliteration&quot;:&quot;taiminguhasseiki&quot;},{&quot;translateID&quot;:171254,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;временной промежуток&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;タイムスライス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たいむすらいす&quot;,&quot;transliteration&quot;:&quot;taimusuraisu&quot;},{&quot;translateID&quot;:171256,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;временной квант&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;タイムスロット&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たいむすろっと&quot;,&quot;transliteration&quot;:&quot;taimusurotto&quot;},{&quot;translateID&quot;:35744,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;объединение с временной компрессией&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;TCM&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;TCM&quot;,&quot;transliteration&quot;:&quot;TCM&quot;},{&quot;translateID&quot;:450197,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;временной горизонт&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;計画対象期間&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けいかくたいしょうきかん&quot;,&quot;transliteration&quot;:&quot;keikakutaishoukikan&quot;},{&quot;translateID&quot;:546690,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;временной коммутатор&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;時分割スイッチ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じぶんかつすいっち&quot;,&quot;transliteration&quot;:&quot;jibunkatsusuicchi&quot;},{&quot;translateID&quot;:546710,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;объединение с временной компрессией&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;時分割方向制御伝送方式&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じぶんかつほうこうせいぎょでんそうほうしき&quot;,&quot;transliteration&quot;:&quot;jibunkatsuhoukouseigyodensouhoushiki&quot;},{&quot;translateID&quot;:545847,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;временной селектор&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;時間ゲート&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じかんげーと&quot;,&quot;transliteration&quot;:&quot;jikange:to&quot;},{&quot;translateID&quot;:546164,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;временной интервал&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;時間領域&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じかんりょういき&quot;,&quot;transliteration&quot;:&quot;jikanryouiki&quot;},{&quot;translateID&quot;:276190,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;основной временной интервал&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;メジャータイムスライス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;めじゃーたいむすらいす&quot;,&quot;transliteration&quot;:&quot;meja:taimusuraisu&quot;},{&quot;translateID&quot;:35911,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;временной квант&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;TS&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;TS&quot;,&quot;transliteration&quot;:&quot;TS&quot;},{&quot;translateID&quot;:257993,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;временной интервал опроса&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ポーリング間隔&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぽーりんぐかんかく&quot;,&quot;transliteration&quot;:&quot;po:ringukankaku&quot;},{&quot;translateID&quot;:704888,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;передатчик с временной задержкой&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;遅延送信機&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちえんそうしんき&quot;,&quot;transliteration&quot;:&quot;chiensoushinki&quot;},{&quot;translateID&quot;:265562,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;малый временной промежуток&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;マイナー・タイム・スライス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まいなー・たいむ・すらいす&quot;,&quot;transliteration&quot;:&quot;maina:・taimu・suraisu&quot;},{&quot;translateID&quot;:736717,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;временной механизм&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;電気時計用電動機&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;でんきとけいようでんどうき&quot;,&quot;transliteration&quot;:&quot;denkitokeiyoudendouki&quot;},{&quot;translateID&quot;:171255,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;временной интервал&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;タイムスライス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たいむすらいす&quot;,&quot;transliteration&quot;:&quot;taimusuraisu&quot;},{&quot;translateID&quot;:752242,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;синхронный временной селектор&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;同期ゲート&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;どうきげーと&quot;,&quot;transliteration&quot;:&quot;doukige:to&quot;},{&quot;translateID&quot;:171252,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;временной интервал&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;タイムスライシング&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たいむすらいしんぐ&quot;,&quot;transliteration&quot;:&quot;taimusuraishingu&quot;},{&quot;translateID&quot;:793152,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;реле с зависимой временной характеристикой&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;反時限継電器&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はんじげんけいでんき&quot;,&quot;transliteration&quot;:&quot;hanjigenkeidenki&quot;},{&quot;translateID&quot;:545854,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;временной фактор&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;時間スケール&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じかんすけーる&quot;,&quot;transliteration&quot;:&quot;jikansuke:ru&quot;},{&quot;translateID&quot;:556488,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;временной график выполнения&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;実行図&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じっこうず&quot;,&quot;transliteration&quot;:&quot;jikkouzu&quot;},{&quot;translateID&quot;:546392,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;временной шаг&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;時限&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じげん&quot;,&quot;transliteration&quot;:&quot;jigen&quot;},{&quot;translateID&quot;:90153,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;защитный временной интервал&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ガードタイム&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;がーどたいむ&quot;,&quot;transliteration&quot;:&quot;ga:dotaimu&quot;},{&quot;translateID&quot;:546087,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;схема временной задержки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;時間遅延回路&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じかんちえんかいろ&quot;,&quot;transliteration&quot;:&quot;jikanchienkairo&quot;},{&quot;translateID&quot;:160038,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;временной квант&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;スロット時間&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;すろっとじかん&quot;,&quot;transliteration&quot;:&quot;surottojikan&quot;},{&quot;translateID&quot;:546018,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;временной селектор&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;時間差弁別器&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じかんさべんべつき&quot;,&quot;transliteration&quot;:&quot;jikansabenbetsuki&quot;},{&quot;translateID&quot;:545969,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;временной шаг&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;時間間隔&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じかんかんかく&quot;,&quot;transliteration&quot;:&quot;jikankankaku&quot;},{&quot;translateID&quot;:556534,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;временной график выполнения&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;実行流れ図&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じっこうながれず&quot;,&quot;transliteration&quot;:&quot;jikkounagarezu&quot;},{&quot;translateID&quot;:546158,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;временной дискриминатор&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;時間弁別器&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じかんべんべつき&quot;,&quot;transliteration&quot;:&quot;jikanbenbetsuki&quot;},{&quot;translateID&quot;:726883,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;временной выключатель&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;定時開閉器&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ていじかいへいき&quot;,&quot;transliteration&quot;:&quot;teijikaiheiki&quot;},{&quot;translateID&quot;:171231,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;временной выключатель&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;タイムスイッチ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たいむすいっち&quot;,&quot;transliteration&quot;:&quot;taimusuicchi&quot;},{&quot;translateID&quot;:133166,&quot;translationStatus&quot;:0,&quot;themeID&quot;:34,&quot;groupName&quot;:&quot;土木&quot;,&quot;themeName&quot;:&quot;基礎工学&quot;,&quot;word&quot;:&quot;стойка крепления. несущая только крепимый элемент без временной нагрузки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;サポート&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さぽーと&quot;,&quot;transliteration&quot;:&quot;sapo:to&quot;},{&quot;translateID&quot;:545808,&quot;translationStatus&quot;:0,&quot;themeID&quot;:44,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;航空宇宙&quot;,&quot;word&quot;:&quot;временной интервал&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;時間&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じかん&quot;,&quot;transliteration&quot;:&quot;jikan&quot;},{&quot;translateID&quot;:354711,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;прихватывать временной сваркой стёжками&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;仮付け溶接&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かりつけようせつ&quot;,&quot;transliteration&quot;:&quot;karitsukeyousetsu&quot;},{&quot;translateID&quot;:546254,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;временной ряд&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;時系列&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じけいれつ&quot;,&quot;transliteration&quot;:&quot;jikeiretsu&quot;},{&quot;translateID&quot;:383522,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;напряжение от временной нагрузки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;活荷重応力&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かつかじゅうおうりょく&quot;,&quot;transliteration&quot;:&quot;katsukajuuouryoku&quot;},{&quot;translateID&quot;:246606,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;временной программный механизм&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;プログラムタイマ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぷろぐらむたいま&quot;,&quot;transliteration&quot;:&quot;puroguramutaima&quot;},{&quot;translateID&quot;:411267,&quot;translationStatus&quot;:0,&quot;themeID&quot;:49,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;石油・ガス&quot;,&quot;word&quot;:&quot;временной разрез до ввода поправок&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;記録断面&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きろくだんめん&quot;,&quot;transliteration&quot;:&quot;kirokudanmen&quot;},{&quot;translateID&quot;:136421,&quot;translationStatus&quot;:0,&quot;themeID&quot;:50,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;金属&quot;,&quot;word&quot;:&quot;задатчик временной последовательности&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;シーケンスタイマー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しーけんすたいまー&quot;,&quot;transliteration&quot;:&quot;shi:kensutaima:&quot;},{&quot;translateID&quot;:726968,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;стационарный временной ряд&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;定常時系列&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ていじょうじけいれつ&quot;,&quot;transliteration&quot;:&quot;teijoujikeiretsu&quot;},{&quot;translateID&quot;:673754,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;диапазон временной развёртки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;測定範囲&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そくていはんい&quot;,&quot;transliteration&quot;:&quot;sokuteihani&quot;},{&quot;translateID&quot;:546144,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;временной анализатор&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;時間分析器&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じかんぶんせきき&quot;,&quot;transliteration&quot;:&quot;jikanbunsekiki&quot;},{&quot;translateID&quot;:546068,&quot;translationStatus&quot;:0,&quot;themeID&quot;:82,&quot;groupName&quot;:&quot;物理&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;временной строб&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;時間窓&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じかんまど&quot;,&quot;transliteration&quot;:&quot;jikanmado&quot;},{&quot;translateID&quot;:545944,&quot;translationStatus&quot;:0,&quot;themeID&quot;:82,&quot;groupName&quot;:&quot;物理&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;временной множитель&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;時間因子&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じかんいんし&quot;,&quot;transliteration&quot;:&quot;jikaninshi&quot;},{&quot;translateID&quot;:546259,&quot;translationStatus&quot;:0,&quot;themeID&quot;:82,&quot;groupName&quot;:&quot;物理&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;временной ряд&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;時系列&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じけいれつ&quot;,&quot;transliteration&quot;:&quot;jikeiretsu&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="временной" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

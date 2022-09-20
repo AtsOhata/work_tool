@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	ветра - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,ветра" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u0432%u0435%u0442%u0440%u0430" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV044Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNCy0LXRgtGA0LBkAgMPZBYIAgIPZBYEAgEPFgIeA3NyYwUPLi4vaW1nL2xvZ28ucG5nZAIFDxYCHgRocmVmBQ4uLi8/bGFuZz1ydS1SVWQCBA8WAh4HVmlzaWJsZWdkAgYPFgIfA2hkAgcPZBYIZg8WAh8DaGQCAQ8WAh8DaGQCAg8WAh8DaGQCBQ8WAh8DaGRkgfEFyBJ0FzRr/3/zM/3UHAsywuI=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAV86k0Yhznhi2AB/kdxruD6lIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/gV6NaanMTc6EDBUwSuB73NVsO51" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:true,&quot;Phrases&quot;:[{&quot;translateID&quot;:825369,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;принестись порывом ветра&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;舞い込む&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まいこむ&quot;,&quot;transliteration&quot;:&quot;maikomu&quot;},{&quot;translateID&quot;:826880,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;загородка от ветра&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;風除け&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かざよけ&quot;,&quot;transliteration&quot;:&quot;kazayoke&quot;},{&quot;translateID&quot;:827325,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;быть игрушкой ветра и волн&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;風浪にもてあそばれる&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふうろうにもてあそばれる&quot;,&quot;transliteration&quot;:&quot;fuurounimoteasobareru&quot;},{&quot;translateID&quot;:123270,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;эти деревья защищают дом от ветра&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;この木は家の風除けになる&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;このきはいえのかぜよけになる&quot;,&quot;transliteration&quot;:&quot;konokihaienokazeyokeninaru&quot;},{&quot;translateID&quot;:619906,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;порыв ветра&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;陣風&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じんふう&quot;,&quot;transliteration&quot;:&quot;jinfuu&quot;},{&quot;translateID&quot;:826544,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;качаться от ветра&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;風に揺らぐ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かぜにゆらぐ&quot;,&quot;transliteration&quot;:&quot;kazeniyuragu&quot;},{&quot;translateID&quot;:826560,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;сын ветра&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;風の息子&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かぜのむすこ&quot;,&quot;transliteration&quot;:&quot;kazenomusuko&quot;},{&quot;translateID&quot;:827277,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;маленький звенящий от ветра колокольчик&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;風鈴&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふうりん&quot;,&quot;transliteration&quot;:&quot;fuurin&quot;},{&quot;translateID&quot;:880974,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;ивы гнутся от ветра&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;柳が風になびいている&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;やなぎがかぜになびいている&quot;,&quot;transliteration&quot;:&quot;yanagigakazeninabiiteiru&quot;},{&quot;translateID&quot;:619905,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;порыв ветра&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;陣風&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じんぷう&quot;,&quot;transliteration&quot;:&quot;jinpuu&quot;},{&quot;translateID&quot;:826543,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;хлопать от ветра&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;風に煽られている&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かぜにあおられている&quot;,&quot;transliteration&quot;:&quot;kazeniaorareteiru&quot;},{&quot;translateID&quot;:826791,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;направление ветра&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;風向き&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かざむき&quot;,&quot;transliteration&quot;:&quot;kazamuki&quot;},{&quot;translateID&quot;:827245,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;сила ветра&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;風力&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふうりょく&quot;,&quot;transliteration&quot;:&quot;fuuryoku&quot;},{&quot;translateID&quot;:793666,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;встречный порыв ветра&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;反対気流&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はんたいきりゅう&quot;,&quot;transliteration&quot;:&quot;hantaikiryuu&quot;},{&quot;translateID&quot;:590416,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;шум ветра в соснах&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;松風&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょうふう&quot;,&quot;transliteration&quot;:&quot;shoufuu&quot;},{&quot;translateID&quot;:826541,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;защищаясь от порывов ветра&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;風に吹きまくられないように&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かぜにふきまくられないように&quot;,&quot;transliteration&quot;:&quot;kazenifukimakurarenaiyouni&quot;},{&quot;translateID&quot;:826787,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Направление ветра&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;風向&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふうこう&quot;,&quot;transliteration&quot;:&quot;fuukou&quot;},{&quot;translateID&quot;:827191,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;защита от ветра&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;風防&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふうぼう&quot;,&quot;transliteration&quot;:&quot;fuubou&quot;},{&quot;translateID&quot;:721724,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Фактор ветра&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;追い風参考記録&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おいかぜさんこうきろく&quot;,&quot;transliteration&quot;:&quot;oikazesankoukiroku&quot;},{&quot;translateID&quot;:590415,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;шелест ветра между соснами&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;松風&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まつかぜ&quot;,&quot;transliteration&quot;:&quot;matsukaze&quot;},{&quot;translateID&quot;:758590,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;порыв ветра&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;突風&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とっぷう&quot;,&quot;transliteration&quot;:&quot;toppuu&quot;},{&quot;translateID&quot;:826584,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;заслонять от ветра&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;風をさえぎる&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かぜをさえぎる&quot;,&quot;transliteration&quot;:&quot;kaze o saegiru&quot;},{&quot;translateID&quot;:827029,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;выжидание попутного ветра&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;風待ち&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かざまち&quot;,&quot;transliteration&quot;:&quot;kazamachi&quot;},{&quot;translateID&quot;:868991,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Бесшумный перезвон ветра&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;無声風鈴&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;むせいふうりん&quot;,&quot;transliteration&quot;:&quot;museifuurin&quot;},{&quot;translateID&quot;:731346,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;внезапный порыв ветра&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;天狗風&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てんぐかぜ&quot;,&quot;transliteration&quot;:&quot;tengukaze&quot;},{&quot;translateID&quot;:611688,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;идти прямо против ветра&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;真向から風を受けて進む&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まっこうからかぜをうけてすすむ&quot;,&quot;transliteration&quot;:&quot;makkoukarakaze o uketesusumu&quot;},{&quot;translateID&quot;:732472,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;шум ветра&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;天籟&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てんらい&quot;,&quot;transliteration&quot;:&quot;tenrai&quot;},{&quot;translateID&quot;:826552,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Слушай песню ветра&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;風の歌を聴け&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かぜのうたをきけ&quot;,&quot;transliteration&quot;:&quot;kazenouta o kike&quot;},{&quot;translateID&quot;:826996,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;скорость ветра&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;風速&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふうそく&quot;,&quot;transliteration&quot;:&quot;fuusoku&quot;},{&quot;translateID&quot;:827329,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;веяние ветра&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;風籟&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふうらい&quot;,&quot;transliteration&quot;:&quot;fuurai&quot;},{&quot;translateID&quot;:226416,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;дуновение ветра&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ひと吹きの風&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひとぶきのかぜ&quot;,&quot;transliteration&quot;:&quot;hitobukinokaze&quot;},{&quot;translateID&quot;:927597,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;бег со скоростью ветра&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;韋駝天走り&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いだてんばしり&quot;,&quot;transliteration&quot;:&quot;idatenbashiri&quot;},{&quot;translateID&quot;:826538,&quot;translationStatus&quot;:1,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;тростник, шелестящий от ветра&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;風にそよぐ葦&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かぜにそよぐあし&quot;,&quot;transliteration&quot;:&quot;kazenisoyoguashi&quot;},{&quot;translateID&quot;:826618,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;укрыться от ветра&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;風陰に隠れる&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かぜいんにかくれる&quot;,&quot;transliteration&quot;:&quot;kazeinnikakureru&quot;},{&quot;translateID&quot;:827165,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;возникновение ветра&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;風発&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふうはつ&quot;,&quot;transliteration&quot;:&quot;fuuhatsu&quot;},{&quot;translateID&quot;:570578,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;шум осеннего ветра&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;秋声&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゅうせい&quot;,&quot;transliteration&quot;:&quot;shuusei&quot;},{&quot;translateID&quot;:590266,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;шум ветра в сосновом бору&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;松韻&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょういん&quot;,&quot;transliteration&quot;:&quot;shouin&quot;},{&quot;translateID&quot;:826529,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;деревья гнутся от ветра&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;風で枝が撓む&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かぜでえだがたわむ&quot;,&quot;transliteration&quot;:&quot;kazedeedagatawamu&quot;},{&quot;translateID&quot;:826617,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;защищённое от ветра&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;風陰&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かざかげ&quot;,&quot;transliteration&quot;:&quot;kazakage&quot;},{&quot;translateID&quot;:827141,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;быть игрушкой ветра и волн&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;風波に翻弄される&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふうはにほんろうされる&quot;,&quot;transliteration&quot;:&quot;fuuhanihonrousareru&quot;},{&quot;translateID&quot;:555363,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;с быстротой ветра&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;疾風のごとく&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しっぷうのごとく&quot;,&quot;transliteration&quot;:&quot;shippuunogotoku&quot;},{&quot;translateID&quot;:519461,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;цветы вишни осыпаются от ветра&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;桜の花が風にちらちら散っている&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さくらのはながかぜにちらちらちっている&quot;,&quot;transliteration&quot;:&quot;sakuranohanagakazenichirachirachitteiru&quot;},{&quot;translateID&quot;:826528,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;из-за ветра на озере поднялись волны&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;風で湖が波立った&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かぜでみずうみがなみだった&quot;,&quot;transliteration&quot;:&quot;kazedemizuumiganamidatta&quot;},{&quot;translateID&quot;:826596,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;давление ветра&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;風圧&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふうあつ&quot;,&quot;transliteration&quot;:&quot;fuuatsu&quot;},{&quot;translateID&quot;:827104,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;открытое для ветра&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;風当り&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かざあたり&quot;,&quot;transliteration&quot;:&quot;kazaatari&quot;},{&quot;translateID&quot;:555361,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;порыв ветра&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;疾風&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しっぷう&quot;,&quot;transliteration&quot;:&quot;shippuu&quot;},{&quot;translateID&quot;:415586,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;течение против ветра&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;虐潮&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぎゃくちょう&quot;,&quot;transliteration&quot;:&quot;gyakuchou&quot;},{&quot;translateID&quot;:858075,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;защита от ветра&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;防風&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぼうふう&quot;,&quot;transliteration&quot;:&quot;boufuu&quot;},{&quot;translateID&quot;:826496,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;из-за ветра дождь бьёт в стёкла&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;風が雨を窓に吹きつける&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かぜがあめをまどにふきつける&quot;,&quot;transliteration&quot;:&quot;kazegaame o madonifukitsukeru&quot;},{&quot;translateID&quot;:826591,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;идти прямо против ветра&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;風を正面に受けて進む&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かぜをしょうめんにうけてすすむ&quot;,&quot;transliteration&quot;:&quot;kaze o shoumenniuketesusumu&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="ветра" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

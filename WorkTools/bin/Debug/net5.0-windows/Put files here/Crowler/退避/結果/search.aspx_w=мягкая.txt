@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	мягкая - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,мягкая" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u043c%u044f%u0433%u043a%u0430%u044f" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV244Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNC80Y/Qs9C60LDRj2QCAw9kFggCAg9kFgQCAQ8WAh4Dc3JjBQ8uLi9pbWcvbG9nby5wbmdkAgUPFgIeBGhyZWYFDi4uLz9sYW5nPXJ1LVJVZAIEDxYCHgdWaXNpYmxlZ2QCBg8WAh8DaGQCBw9kFghmDxYCHwNoZAIBDxYCHwNoZAICDxYCHwNoZAIFDxYCHwNoZGTyhwSxEVsyGLXbBsRZEWpZuKDVwg==" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAUns/TYseWu2+j3ZK80xqItlIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/nJewtMno83gK1C02U8W+wN6FEYS" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:true,&quot;Phrases&quot;:[{&quot;translateID&quot;:519487,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;тонкая мягкая бумага&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;桜紙&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さくらがみ&quot;,&quot;transliteration&quot;:&quot;sakuragami&quot;},{&quot;translateID&quot;:371464,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;мягкая вода&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;灰汁のない水&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あくのないみず&quot;,&quot;transliteration&quot;:&quot;akunonaimizu&quot;},{&quot;translateID&quot;:214973,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;мягкая прокладка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;パッド&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぱっど&quot;,&quot;transliteration&quot;:&quot;paddo&quot;},{&quot;translateID&quot;:167390,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Мягкая сила&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ソフト・パワー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そふと・ぱわー&quot;,&quot;transliteration&quot;:&quot;sofuto・pawa:&quot;},{&quot;translateID&quot;:573968,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Мягкая шерсть дороже грубой, но и то, и другое лучше синтетики, производимой из нейлона.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;柔らかいウールの方が粗いウールより高価で、そのどちらともナイロン製の人工繊維より上等である。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;やわらかいうーるのかたがあらいうーるよりこうかで、そのどちらともないろんせいのじんこうせんいよりじょうとうである。&quot;,&quot;transliteration&quot;:&quot;yawarakaiu:runokatagaaraiu:ruyorikoukade、sonodochiratomonaironseinojinkouseniyorijoutoudearu。&quot;},{&quot;translateID&quot;:741196,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Горная тропа была укрыта одеялом листьев, мягкая и удобная для ходьбы.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;登山道は一面の落ち葉で柔らかく歩きやすい。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とざんどうはいちめんのおちばでやわらかくあるきやすい。&quot;,&quot;transliteration&quot;:&quot;tozandouhaichimennoochibadeyawarakakuarukiyasui。&quot;},{&quot;translateID&quot;:203928,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Мягкая игрушка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ぬいぐるみ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぬいぐるみ&quot;,&quot;transliteration&quot;:&quot;nuigurumi&quot;},{&quot;translateID&quot;:854326,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;мягкая игрушка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;縫い包み&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぬいぐるみ&quot;,&quot;transliteration&quot;:&quot;nuigurumi&quot;},{&quot;translateID&quot;:762770,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;мягкая посадка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;軟着陸&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なんちゃくりく&quot;,&quot;transliteration&quot;:&quot;nanchakuriku&quot;},{&quot;translateID&quot;:762712,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;мягкая вода&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;軟水&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なんすい&quot;,&quot;transliteration&quot;:&quot;nansui&quot;},{&quot;translateID&quot;:700505,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;мягкая зима&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;暖冬&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;だんとう&quot;,&quot;transliteration&quot;:&quot;dantou&quot;},{&quot;translateID&quot;:574048,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;мягкая кожа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;柔皮&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じゅうひ&quot;,&quot;transliteration&quot;:&quot;juuhi&quot;},{&quot;translateID&quot;:927583,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;мягкая кожа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;鞣皮&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じゅうひ&quot;,&quot;transliteration&quot;:&quot;juuhi&quot;},{&quot;translateID&quot;:167386,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;мягкая копия&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ソフト・コピー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そふと・こぴー&quot;,&quot;transliteration&quot;:&quot;sofuto・kopi:&quot;},{&quot;translateID&quot;:167602,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;мягкая копия&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ソフトコピー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そふとこぴー&quot;,&quot;transliteration&quot;:&quot;sofutokopi:&quot;},{&quot;translateID&quot;:167617,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;мягкая лампа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ソフトチューブ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そふとちゅーぶ&quot;,&quot;transliteration&quot;:&quot;sofutochu:bu&quot;},{&quot;translateID&quot;:92453,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;мягкая лампа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ガシーチューブ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;がしーちゅーぶ&quot;,&quot;transliteration&quot;:&quot;gashi:chu:bu&quot;},{&quot;translateID&quot;:620927,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;мягкая характеристика&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;垂下特性&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;すいかとくせい&quot;,&quot;transliteration&quot;:&quot;suikatokusei&quot;},{&quot;translateID&quot;:771695,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;мягкая граница страницы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;任意改ページ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にんいかいぺーじ&quot;,&quot;transliteration&quot;:&quot;ninikaipe:ji&quot;},{&quot;translateID&quot;:762714,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;мягкая вода&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;軟水&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なんすい&quot;,&quot;transliteration&quot;:&quot;nansui&quot;},{&quot;translateID&quot;:302117,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;мягкая пайка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ろう接&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ろうせっ&quot;,&quot;transliteration&quot;:&quot;rouseっ&quot;},{&quot;translateID&quot;:762487,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;мягкая сталь&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;軟鋼&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なんこう&quot;,&quot;transliteration&quot;:&quot;nankou&quot;},{&quot;translateID&quot;:786869,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;мягкая листовая сталь&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;薄鋼板&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;うすこうはん&quot;,&quot;transliteration&quot;:&quot;usukouhan&quot;},{&quot;translateID&quot;:433235,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;очень мягкая нелегированная сталь&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;極軟鋼&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きょくなんこう&quot;,&quot;transliteration&quot;:&quot;kyokunankou&quot;},{&quot;translateID&quot;:908709,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;мягкая сталь&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;練鋼&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ねりはがね&quot;,&quot;transliteration&quot;:&quot;nerihagane&quot;},{&quot;translateID&quot;:283168,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;мягкая рентгеновская область спектра&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;やわらかいX線&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;やわらかいXせん&quot;,&quot;transliteration&quot;:&quot;yawarakaiXsen&quot;},{&quot;translateID&quot;:762715,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;мягкая вода&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;軟水&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なんすい&quot;,&quot;transliteration&quot;:&quot;nansui&quot;},{&quot;translateID&quot;:433236,&quot;translationStatus&quot;:0,&quot;themeID&quot;:50,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;金属&quot;,&quot;word&quot;:&quot;особо мягкая сталь&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;極軟鋼&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きょくなんこう&quot;,&quot;transliteration&quot;:&quot;kyokunankou&quot;},{&quot;translateID&quot;:244921,&quot;translationStatus&quot;:0,&quot;themeID&quot;:50,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;金属&quot;,&quot;word&quot;:&quot;мягкая туба&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;フレキシブルチューブ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふれきしぶるちゅーぶ&quot;,&quot;transliteration&quot;:&quot;furekishiburuchu:bu&quot;},{&quot;translateID&quot;:725697,&quot;translationStatus&quot;:0,&quot;themeID&quot;:50,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;金属&quot;,&quot;word&quot;:&quot;мягкая сталь&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;低炭素鋼&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ていたんそこう&quot;,&quot;transliteration&quot;:&quot;teitansokou&quot;},{&quot;translateID&quot;:313761,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;мягкая посадка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;安全着陸&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あんぜんちゃくりく&quot;,&quot;transliteration&quot;:&quot;anzenchakuriku&quot;},{&quot;translateID&quot;:167642,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;мягкая мода&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ソフトモード&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そふともーど&quot;,&quot;transliteration&quot;:&quot;sofutomo:do&quot;},{&quot;translateID&quot;:561091,&quot;translationStatus&quot;:0,&quot;themeID&quot;:82,&quot;groupName&quot;:&quot;物理&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;мягкая фокусировка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;弱集束&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じゃくしゅうそく&quot;,&quot;transliteration&quot;:&quot;jakushuusoku&quot;},{&quot;translateID&quot;:167377,&quot;translationStatus&quot;:0,&quot;themeID&quot;:82,&quot;groupName&quot;:&quot;物理&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;мягкая вода&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ソフト・ウォーター&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そふとうぉーたー&quot;,&quot;transliteration&quot;:&quot;sofutouぉ:ta:&quot;},{&quot;translateID&quot;:762488,&quot;translationStatus&quot;:0,&quot;themeID&quot;:82,&quot;groupName&quot;:&quot;物理&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;мягкая сталь&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;軟鋼&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なんこう&quot;,&quot;transliteration&quot;:&quot;nankou&quot;},{&quot;translateID&quot;:762749,&quot;translationStatus&quot;:0,&quot;themeID&quot;:82,&quot;groupName&quot;:&quot;物理&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;мягкая компонента&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;軟成分&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なんせいぶん&quot;,&quot;transliteration&quot;:&quot;nanseibun&quot;},{&quot;translateID&quot;:762750,&quot;translationStatus&quot;:0,&quot;themeID&quot;:82,&quot;groupName&quot;:&quot;物理&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;мягкая составляющая&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;軟成分&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なんせいぶん&quot;,&quot;transliteration&quot;:&quot;nanseibun&quot;},{&quot;translateID&quot;:167378,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;мягкая вода&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ソフト・ウォーター&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そふと・うぉーたー&quot;,&quot;transliteration&quot;:&quot;sofuto・uぉ:ta:&quot;},{&quot;translateID&quot;:71130,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;мягкая тара для воды&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ウォーターバッグ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;うぉーたーばっぐ&quot;,&quot;transliteration&quot;:&quot;uぉ:ta:baggu&quot;},{&quot;translateID&quot;:573970,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;мягкая кислота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;柔らかい酸&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;やわらかいさん&quot;,&quot;transliteration&quot;:&quot;yawarakaisan&quot;},{&quot;translateID&quot;:762384,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;мягкая смола&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;軟ピッチ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なんぴっち&quot;,&quot;transliteration&quot;:&quot;nanpicchi&quot;},{&quot;translateID&quot;:313847,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;мягкая прокладка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;安全枕&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あんぜんまくら&quot;,&quot;transliteration&quot;:&quot;anzenmakura&quot;},{&quot;translateID&quot;:167396,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;мягкая резина&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ソフト・ラバー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そふと・らばー&quot;,&quot;transliteration&quot;:&quot;sofuto・raba:&quot;},{&quot;translateID&quot;:357574,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;мягкая сталь&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;可鍛鋳鉄&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かたんちゅうてつ&quot;,&quot;transliteration&quot;:&quot;katanchuutetsu&quot;},{&quot;translateID&quot;:167606,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;мягкая контактная линза&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ソフトコンタクトレンズ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そふとこんたくとれんず&quot;,&quot;transliteration&quot;:&quot;sofutokontakutorenzu&quot;},{&quot;translateID&quot;:712920,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;мягкая мебель&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;張り椅子&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はりいす&quot;,&quot;transliteration&quot;:&quot;hariisu&quot;},{&quot;translateID&quot;:167651,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;мягкая кислота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ソフト酸&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そふとさん&quot;,&quot;transliteration&quot;:&quot;sofutosan&quot;},{&quot;translateID&quot;:709406,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;мягкая шляпа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中折帽&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅうおりぼう&quot;,&quot;transliteration&quot;:&quot;chuuoribou&quot;},{&quot;translateID&quot;:616113,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;мягкая древесина&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;針葉樹&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しんようじゅ&quot;,&quot;transliteration&quot;:&quot;shinyouju&quot;},{&quot;translateID&quot;:182066,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;мягкая ткань&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ティシュペーパー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てぃしゅぺーぱー&quot;,&quot;transliteration&quot;:&quot;tishupe:pa:&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="мягкая" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	джей - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,джей" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u0434%u0436%u0435%u0439" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAVy44Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNC00LbQtdC5ZAIDD2QWCAICD2QWBAIBDxYCHgNzcmMFDy4uL2ltZy9sb2dvLnBuZ2QCBQ8WAh4EaHJlZgUOLi4vP2xhbmc9cnUtUlVkAgQPFgIeB1Zpc2libGVnZAIGDxYCHwNoZAIHD2QWCGYPFgIfA2hkAgEPFgIfA2hkAgIPFgIfA2hkAgUPFgIfA2hkZJXGtlJBxlO4wHmx5oWlek2OK2o+" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAWhMpmV9aTucZSf2yEIZcG2lIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/lC+hVdE8XxWVW8uK20gKHClKZO4" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:false,&quot;Phrases&quot;:[{&quot;translateID&quot;:32189,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Томпсон, Джей Ли&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;J・リー・トンプソン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;J・りー・とんぷそん&quot;,&quot;transliteration&quot;:&quot;J・ri:・tonpuson&quot;},{&quot;translateID&quot;:27955,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Маклин, Эй Джей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;A.J.&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;A.J.&quot;,&quot;transliteration&quot;:&quot;A.J.&quot;},{&quot;translateID&quot;:136989,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Спиринг, Джей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ジェイ・スピーリング&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じぇい・すぴーりんぐ&quot;,&quot;transliteration&quot;:&quot;jei・supi:ringu&quot;},{&quot;translateID&quot;:137599,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Джесси Джей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ジェシー・J&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じぇしー・J&quot;,&quot;transliteration&quot;:&quot;jeshi:・J&quot;},{&quot;translateID&quot;:32181,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Уолш, Джей Ти&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;J・T・ウォルシュ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;J・T・うぉるしゅ&quot;,&quot;transliteration&quot;:&quot;J・T・uぉrushu&quot;},{&quot;translateID&quot;:222964,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Горячий парень Джей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ヒートガイジェイ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひーとがいじぇい&quot;,&quot;transliteration&quot;:&quot;hi:togaijei&quot;},{&quot;translateID&quot;:136986,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Шон, Джей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ジェイ・ショーン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じぇい・しょーん&quot;,&quot;transliteration&quot;:&quot;jei・sho:n&quot;},{&quot;translateID&quot;:137282,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Джеффрис, Джеймс Джей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ジェームス・J・ジェフリーズ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じぇーむす・J・じぇふりーず&quot;,&quot;transliteration&quot;:&quot;je:musu・J・jefuri:zu&quot;},{&quot;translateID&quot;:32163,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Смит, Джей Ар&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;J.R.スミス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;J.R.すみす&quot;,&quot;transliteration&quot;:&quot;J.R.sumisu&quot;},{&quot;translateID&quot;:154026,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Рассел, Стивен Джей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;スティーヴン・ラッセル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;すてぃーヴん・らっせる&quot;,&quot;transliteration&quot;:&quot;suti:vun・rasseru&quot;},{&quot;translateID&quot;:136985,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Гулд, Джей&quot;,&quot;wordnote&quot;:&quot;второй&quot;,&quot;translation&quot;:&quot;ジェイ・グールド&quot;,&quot;translationnote&quot;:&quot;2世&quot;,&quot;reading&quot;:&quot;じぇい・ぐーるど&quot;,&quot;transliteration&quot;:&quot;jei・gu:rudo&quot;},{&quot;translateID&quot;:137060,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Кей, Джей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ジェイソン・ケイ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じぇいそん・けい&quot;,&quot;transliteration&quot;:&quot;jeison・kei&quot;},{&quot;translateID&quot;:32162,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Редик, Джей Джей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;J.J.レディック&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;J.J.れでぃっく&quot;,&quot;transliteration&quot;:&quot;J.J.redikku&quot;},{&quot;translateID&quot;:153985,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Гулд, Стивен Джей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;スティーヴン・ジェイ・グールド&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;すてぃーヴん・じぇい・ぐーるど&quot;,&quot;transliteration&quot;:&quot;suti:vun・jei・gu:rudo&quot;},{&quot;translateID&quot;:136983,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Катлер, Джей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ジェイ・カトラー&quot;,&quot;translationnote&quot;:&quot;ボディビルダー&quot;,&quot;reading&quot;:&quot;じぇい・かとらー&quot;,&quot;transliteration&quot;:&quot;jei・katora:&quot;},{&quot;translateID&quot;:136999,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Роуч, Джей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ジェイ・ローチ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じぇい・ろーち&quot;,&quot;transliteration&quot;:&quot;jei・ro:chi&quot;},{&quot;translateID&quot;:215412,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Ти Джей Хукер&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;パトカーアダム30&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぱとかーあだむ30&quot;,&quot;transliteration&quot;:&quot;patoka:adamu30&quot;},{&quot;translateID&quot;:33769,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Симпсон, О. Джей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;O・J・シンプソン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;O・J・しんぷそん&quot;,&quot;transliteration&quot;:&quot;O・J・shinpuson&quot;},{&quot;translateID&quot;:115661,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Андерсон, Кевин Джей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ケヴィン・J・アンダースン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;けヴぃん・J・あんだーすん&quot;,&quot;transliteration&quot;:&quot;kevin・J・anda:sun&quot;},{&quot;translateID&quot;:136991,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Барушель, Джей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ジェイ・バルチェル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じぇい・ばるちぇる&quot;,&quot;transliteration&quot;:&quot;jei・barucheru&quot;},{&quot;translateID&quot;:305408,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Лифтон, Роберт Джей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ロバート・J・リフトン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ろばーと・J・りふとん&quot;,&quot;transliteration&quot;:&quot;roba:to・J・rifuton&quot;},{&quot;translateID&quot;:74641,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Эй Джей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;エイプリル・ジャネット&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;えいぷりる・じゃねっと&quot;,&quot;transliteration&quot;:&quot;eipuriru・janetto&quot;},{&quot;translateID&quot;:33768,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Мэйо, О Джей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;O.J.メイヨ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;O.J.めいよ&quot;,&quot;transliteration&quot;:&quot;O.J.meiyo&quot;},{&quot;translateID&quot;:27970,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Кук, Эй Джей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;A・J・クック&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;A・J・くっく&quot;,&quot;transliteration&quot;:&quot;A・J・kukku&quot;},{&quot;translateID&quot;:136990,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Демерит, Джей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ジェイ・デメリット&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じぇい・でめりっと&quot;,&quot;transliteration&quot;:&quot;jei・demeritto&quot;},{&quot;translateID&quot;:245350,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Конекэмп, Фред Джей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;フレッド・J・コーネカンプ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふれっど・J・こーねかんぷ&quot;,&quot;transliteration&quot;:&quot;fureddo・J・ko:nekanpu&quot;},{&quot;translateID&quot;:29945,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Дарен Джей Ашба&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;DJアシュバ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;DJあしゅば&quot;,&quot;transliteration&quot;:&quot;DJashuba&quot;},{&quot;translateID&quot;:275159,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Блайдж, Мэри Джей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;メアリー・J. ブライジ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;めありー・J. ぶらいじ&quot;,&quot;transliteration&quot;:&quot;meari:・J. buraiji&quot;},{&quot;translateID&quot;:136981,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Джей и Молчаливый Боб наносят ответный удар&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ジェイ\u0026サイレント・ボブ 帝国への逆襲&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じぇい\u0026さいれんと・ぼぶ ていこくへのぎゃくしゅう&quot;,&quot;transliteration&quot;:&quot;jei\u0026sairento・bobu teikokuhenogyakushuu&quot;},{&quot;translateID&quot;:136998,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Лено, Джей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ジェイ・レノ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じぇい・れの&quot;,&quot;transliteration&quot;:&quot;jei・reno&quot;},{&quot;translateID&quot;:29772,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Августин, Ди Джей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;D.J.オーガスティン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;D.J.おーがすてぃん&quot;,&quot;transliteration&quot;:&quot;D.J.o:gasutin&quot;},{&quot;translateID&quot;:35667,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Миллер, Ти Джей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;T・J・ミラー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;T・J・みらー&quot;,&quot;transliteration&quot;:&quot;T・J・mira:&quot;},{&quot;translateID&quot;:265315,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Уайт, Майкл Джей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;マイケル・ジェイ・ホワイト&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まいける・じぇい・ほわいと&quot;,&quot;transliteration&quot;:&quot;maikeru・jei・howaito&quot;},{&quot;translateID&quot;:136996,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Мор, Джей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ジェイ・モーア&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じぇい・もーあ&quot;,&quot;transliteration&quot;:&quot;jei・mo:a&quot;},{&quot;translateID&quot;:28872,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Пенн, Би Джей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;BJペン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;BJぺん&quot;,&quot;transliteration&quot;:&quot;BJpen&quot;},{&quot;translateID&quot;:35665,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Форд, Ти Джей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;T.J.フォード&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;T.J.ふぉーど&quot;,&quot;transliteration&quot;:&quot;T.J.fo:do&quot;},{&quot;translateID&quot;:265254,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Фокс, Майкл Джей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;マイケル・J・フォックス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まいける・J・ふぉっくす&quot;,&quot;transliteration&quot;:&quot;maikeru・J・fokkusu&quot;},{&quot;translateID&quot;:136994,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Ботройд, Джей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ジェイ・ボスロイド&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じぇい・ぼすろいど&quot;,&quot;transliteration&quot;:&quot;jei・bosuroido&quot;},{&quot;translateID&quot;:291180,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Ли Джей Кобб&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;リー・J・コッブ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;りー・J・こっぶ&quot;,&quot;transliteration&quot;:&quot;ri:・J・kobbu&quot;},{&quot;translateID&quot;:33976,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Браун, Пи Джей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;P.J.ブラウン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;P.J.ぶらうん&quot;,&quot;transliteration&quot;:&quot;P.J.buraun&quot;},{&quot;translateID&quot;:52217,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Перлис, Алан Джей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;アラン・パリス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あらん・ぱりす&quot;,&quot;transliteration&quot;:&quot;aran・parisu&quot;},{&quot;translateID&quot;:136993,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Форрестер, Джей&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ジェイ・フォレスター&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じぇい・ふぉれすたー&quot;,&quot;transliteration&quot;:&quot;jei・foresuta:&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="джей" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

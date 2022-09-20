@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	океана - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,океана" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u043e%u043a%u0435%u0430%u043d%u0430" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV244Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNC+0LrQtdCw0L3QsGQCAw9kFggCAg9kFgQCAQ8WAh4Dc3JjBQ8uLi9pbWcvbG9nby5wbmdkAgUPFgIeBGhyZWYFDi4uLz9sYW5nPXJ1LVJVZAIEDxYCHgdWaXNpYmxlZ2QCBg8WAh8DaGQCBw9kFghmDxYCHwNoZAIBDxYCHwNoZAICDxYCHwNoZAIFDxYCHwNoZGSE2tiNiEMM9TIp7aewHCKCBgEyug==" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAWEHz1cIRdotb/uhwWXUzZDlIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/mupFSSRU/VA/PM+oorUZuYm2ofw" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:false,&quot;Phrases&quot;:[{&quot;translateID&quot;:762195,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Юг Тихого океана&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;南太平洋&quot;,&quot;translationnote&quot;:&quot;ミュージカル&quot;,&quot;reading&quot;:&quot;みなみたいへいよう&quot;,&quot;transliteration&quot;:&quot;minamitaiheiyou&quot;},{&quot;translateID&quot;:679478,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Острова Тихого океана&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;太平洋の島&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たいへいようのしま&quot;,&quot;transliteration&quot;:&quot;taiheiyounoshima&quot;},{&quot;translateID&quot;:779317,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Энергия волн океана&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;波力&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なみりょく&quot;,&quot;transliteration&quot;:&quot;namiryoku&quot;},{&quot;translateID&quot;:762083,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Моря Южного океана&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;南極海の海域&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なんきょくかいのかいいき&quot;,&quot;transliteration&quot;:&quot;nankyokukainokaiiki&quot;},{&quot;translateID&quot;:679476,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Моря Тихого океана&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;太平洋の海域&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たいへいようのかいいき&quot;,&quot;transliteration&quot;:&quot;taiheiyounokaiiki&quot;},{&quot;translateID&quot;:858704,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Заливы Северного Ледовитого океана&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;北極海の湾&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほっきょくかいのわん&quot;,&quot;transliteration&quot;:&quot;hokkyokukainowan&quot;},{&quot;translateID&quot;:762077,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Острова Южного океана&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;南極の島&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なんきょくのしま&quot;,&quot;transliteration&quot;:&quot;nankyokunoshima&quot;},{&quot;translateID&quot;:344109,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;тектонический разлом на дне океана&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;凹線&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おうせん&quot;,&quot;transliteration&quot;:&quot;ousen&quot;},{&quot;translateID&quot;:858698,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Острова Северного Ледовитого океана&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;北極の島&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほっきょくのしま&quot;,&quot;transliteration&quot;:&quot;hokkyokunoshima&quot;},{&quot;translateID&quot;:392073,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Общая циркуляция океана&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;環流&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;わりゅう&quot;,&quot;transliteration&quot;:&quot;waryuu&quot;},{&quot;translateID&quot;:710064,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;центральная часть Тихого океана&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;中部太平洋&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅうぶたいへいよう&quot;,&quot;transliteration&quot;:&quot;chuubutaiheiyou&quot;},{&quot;translateID&quot;:689006,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Заливы Атлантического океана&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;大西洋の湾&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たいせいようのわん&quot;,&quot;transliteration&quot;:&quot;taiseiyounowan&quot;},{&quot;translateID&quot;:902575,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;два океана&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;両洋&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;りょうよう&quot;,&quot;transliteration&quot;:&quot;ryouyou&quot;},{&quot;translateID&quot;:762361,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;южная часть Тихого океана&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;南洋&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なんよう&quot;,&quot;transliteration&quot;:&quot;nanyou&quot;},{&quot;translateID&quot;:679554,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Хотя большинство островов в океане были нанесены на карту, дно океана в основном остаётся неизвестным.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;太陽に浮かぶほとんどの島は地図に示されているが、海底は一般には知られていない。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たいようにうかぶほとんどのしまはちずにしめされているが、かいていはいっぱんにはしられていない。&quot;,&quot;transliteration&quot;:&quot;taiyouniukabuhotondonoshimahachizunishimesareteiruga、kaiteihaippannihashirareteinai。&quot;},{&quot;translateID&quot;:371240,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Энергия океана&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;海洋エネルギー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かいようえねるぎー&quot;,&quot;transliteration&quot;:&quot;kaiyouenerugi:&quot;},{&quot;translateID&quot;:762196,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;южная часть Тихого океана&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;南太平洋&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;みなみたいへいよう&quot;,&quot;transliteration&quot;:&quot;minamitaiheiyou&quot;},{&quot;translateID&quot;:679479,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Заливы Тихого океана&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;太平洋の湾&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たいへいようのわん&quot;,&quot;transliteration&quot;:&quot;taiheiyounowan&quot;},{&quot;translateID&quot;:66186,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Заливы Индийского океана&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;インド洋の湾&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いんどようのわん&quot;,&quot;transliteration&quot;:&quot;indoyounowan&quot;},{&quot;translateID&quot;:212845,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Гран-при Тихого океана&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;パシフィックグランプリ&quot;,&quot;translationnote&quot;:&quot;4輪&quot;,&quot;reading&quot;:&quot;ぱしふぃっくぐらんぷり&quot;,&quot;transliteration&quot;:&quot;pashifikkuguranpuri&quot;},{&quot;translateID&quot;:689003,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Острова Атлантического океана&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;大西洋の島&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たいせいようのしま&quot;,&quot;transliteration&quot;:&quot;taiseiyounoshima&quot;},{&quot;translateID&quot;:66185,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Острова Индийского океана&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;インド洋の島&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いんどようのしま&quot;,&quot;transliteration&quot;:&quot;indoyounoshima&quot;},{&quot;translateID&quot;:768632,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Пахтанье Молочного океана&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;乳海攪拌&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちちうみかくはん&quot;,&quot;transliteration&quot;:&quot;chichiumikakuhan&quot;},{&quot;translateID&quot;:689001,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Моря Атлантического океана&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;大西洋の海域&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たいせいようのかいいき&quot;,&quot;transliteration&quot;:&quot;taiseiyounokaiiki&quot;},{&quot;translateID&quot;:66184,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Моря Индийского океана&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;インド洋の海域&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いんどようのかいいき&quot;,&quot;transliteration&quot;:&quot;indoyounokaiiki&quot;},{&quot;translateID&quot;:243093,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Стратегия голубого океана&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ブルー・オーシャン戦略&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぶるー・おーしゃんせんりゃく&quot;,&quot;transliteration&quot;:&quot;buru:・o:shansenryaku&quot;},{&quot;translateID&quot;:686726,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Тропические циклоны северо-запада Тихого океана&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;台風&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たいふう&quot;,&quot;transliteration&quot;:&quot;taifuu&quot;},{&quot;translateID&quot;:635066,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Биология океана&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;生物海洋学&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せいぶつかいようがく&quot;,&quot;transliteration&quot;:&quot;seibutsukaiyougaku&quot;},{&quot;translateID&quot;:323299,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Летом я отправился на юг Тихого океана за романтическими приключениями.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;一夏のアバンチュールを求めて南の島へ行きました。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;1なつのあばんちゅーるをもとめてみなみのしまへいきました。&quot;,&quot;transliteration&quot;:&quot;1natsunoabanchu:ru o motometeminaminoshimaheikimashita。&quot;},{&quot;translateID&quot;:744308,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;на стороне Тихого Океана&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;東海&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とうかい&quot;,&quot;transliteration&quot;:&quot;toukai&quot;},{&quot;translateID&quot;:33933,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;преобразование тепловой энергии океана&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;OTEC&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;OTEC&quot;,&quot;transliteration&quot;:&quot;OTEC&quot;},{&quot;translateID&quot;:371306,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;преобразование тепловой энергии океана&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;海洋熱エネルギー変換&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かいようねつえねるぎーへんかん&quot;,&quot;transliteration&quot;:&quot;kaiyounetsuenerugi:henkan&quot;},{&quot;translateID&quot;:371250,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;тепловая энергия океана&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;海洋温度差エネルギー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かいようおんどさえねるぎー&quot;,&quot;transliteration&quot;:&quot;kaiyouondosaenerugi:&quot;},{&quot;translateID&quot;:370879,&quot;translationStatus&quot;:0,&quot;themeID&quot;:146,&quot;groupName&quot;:&quot;地学&quot;,&quot;themeName&quot;:&quot;生態学&quot;,&quot;word&quot;:&quot;дно океана&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;海底&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かいてい&quot;,&quot;transliteration&quot;:&quot;kaitei&quot;},{&quot;translateID&quot;:610459,&quot;translationStatus&quot;:0,&quot;themeID&quot;:146,&quot;groupName&quot;:&quot;地学&quot;,&quot;themeName&quot;:&quot;生態学&quot;,&quot;word&quot;:&quot;дно океана&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;深海底&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しんかいてい&quot;,&quot;transliteration&quot;:&quot;shinkaitei&quot;},{&quot;translateID&quot;:659807,&quot;translationStatus&quot;:0,&quot;themeID&quot;:146,&quot;groupName&quot;:&quot;地学&quot;,&quot;themeName&quot;:&quot;生態学&quot;,&quot;word&quot;:&quot;модель общей циркуляции с учётом взаимодействия океана и атмосферы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;全球大気海洋結合モデル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぜんたまたいきかいようけつごうもでる&quot;,&quot;transliteration&quot;:&quot;zentamataikikaiyouketsugoumoderu&quot;},{&quot;translateID&quot;:904393,&quot;translationStatus&quot;:0,&quot;themeID&quot;:146,&quot;groupName&quot;:&quot;地学&quot;,&quot;themeName&quot;:&quot;生態学&quot;,&quot;word&quot;:&quot;побережье океана&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;臨海部&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;りんかいぶ&quot;,&quot;transliteration&quot;:&quot;rinkaibu&quot;},{&quot;translateID&quot;:42531,&quot;translationStatus&quot;:0,&quot;themeID&quot;:146,&quot;groupName&quot;:&quot;地学&quot;,&quot;themeName&quot;:&quot;生態学&quot;,&quot;word&quot;:&quot;Экономическая и социальная комиссия ООН для Азии и Тихого океана&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;アジア太平洋経済社会委員会&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あじあたいへいようけいざいしゃかいいいんかい&quot;,&quot;transliteration&quot;:&quot;ajiataiheiyoukeizaishakaiiinkai&quot;},{&quot;translateID&quot;:371319,&quot;translationStatus&quot;:0,&quot;themeID&quot;:175,&quot;groupName&quot;:&quot;地学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;бассейн океана&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;海洋盆&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かいようぼん&quot;,&quot;transliteration&quot;:&quot;kaiyoubon&quot;},{&quot;translateID&quot;:702742,&quot;translationStatus&quot;:0,&quot;themeID&quot;:175,&quot;groupName&quot;:&quot;地学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;геология океана&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;地質海洋学&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちしつかいようがく&quot;,&quot;transliteration&quot;:&quot;chishitsukaiyougaku&quot;},{&quot;translateID&quot;:371287,&quot;translationStatus&quot;:0,&quot;themeID&quot;:175,&quot;groupName&quot;:&quot;地学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;вода океана&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;海洋水&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かいようすい&quot;,&quot;transliteration&quot;:&quot;kaiyousui&quot;},{&quot;translateID&quot;:371256,&quot;translationStatus&quot;:0,&quot;themeID&quot;:217,&quot;groupName&quot;:&quot;人文&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Совет по освоению океана&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;海洋開発審議会&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かいようかいはつしんぎかい&quot;,&quot;transliteration&quot;:&quot;kaiyoukaihatsushingikai&quot;},{&quot;translateID&quot;:858849,&quot;translationStatus&quot;:0,&quot;themeID&quot;:217,&quot;groupName&quot;:&quot;人文&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Международная комиссия по рыболовству в северной части Тихого океана&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;北太平洋漁業国際委員会&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きたたいへいようぎょぎょうこくさいいいんかい&quot;,&quot;transliteration&quot;:&quot;kitataiheiyougyogyoukokusaiiinkai&quot;},{&quot;translateID&quot;:858847,&quot;translationStatus&quot;:0,&quot;themeID&quot;:217,&quot;groupName&quot;:&quot;人文&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Комиссия по морскому котику северной части Тихого океана&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;北太平洋オットセイ委員会&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きたたいへいようおっとせいいいんかい&quot;,&quot;transliteration&quot;:&quot;kitataiheiyouottoseiiinkai&quot;},{&quot;translateID&quot;:858825,&quot;translationStatus&quot;:0,&quot;themeID&quot;:217,&quot;groupName&quot;:&quot;人文&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Международная комиссия по делам рыболовства в северо-западной части Атлантического океана&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;北西大西洋国際漁業委員会&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほくせいたいせいようこくさいぎょぎょういいんかい&quot;,&quot;transliteration&quot;:&quot;hokuseitaiseiyoukokusaigyogyouiinkai&quot;},{&quot;translateID&quot;:794970,&quot;translationStatus&quot;:0,&quot;themeID&quot;:217,&quot;groupName&quot;:&quot;人文&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Ассоциация женщин стран Тихого океана и Юго-Восточной Азии&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;汎太平洋東南アジア婦人協会&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はんたいへいひろしとうなんあじあふじんきょうかい&quot;,&quot;transliteration&quot;:&quot;hantaiheihiroshitounanajiafujinkyoukai&quot;},{&quot;translateID&quot;:501826,&quot;translationStatus&quot;:0,&quot;themeID&quot;:217,&quot;groupName&quot;:&quot;人文&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Комиссия по делам стран Азии и Тихого океана&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;国際商業会議所アジア太平洋問題委員会&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こくさいしょうぎょうかいぎしょあじあたいへいようもんだいいいんかい&quot;,&quot;transliteration&quot;:&quot;kokusaishougyoukaigishoajiataiheiyoumondaiiinkai&quot;},{&quot;translateID&quot;:371247,&quot;translationStatus&quot;:0,&quot;themeID&quot;:217,&quot;groupName&quot;:&quot;人文&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Консультативный комитет по загрязнению океана&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;海洋汚染諮問委員会&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かいようおせんしもんいいんかい&quot;,&quot;transliteration&quot;:&quot;kaiyouosenshimoniinkai&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="океана" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

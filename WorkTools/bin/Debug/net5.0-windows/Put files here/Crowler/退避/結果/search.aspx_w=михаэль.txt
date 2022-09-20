@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	михаэль - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,михаэль" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u043c%u0438%u0445%u0430%u044d%u043b%u044c" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV444Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNC80LjRhdCw0Y3Qu9GMZAIDD2QWCAICD2QWBAIBDxYCHgNzcmMFDy4uL2ltZy9sb2dvLnBuZ2QCBQ8WAh4EaHJlZgUOLi4vP2xhbmc9cnUtUlVkAgQPFgIeB1Zpc2libGVnZAIGDxYCHwNoZAIHD2QWCGYPFgIfA2hkAgEPFgIfA2hkAgIPFgIfA2hkAgUPFgIfA2hkZK7J8HC+1u6Bg3x2C3QmUJ1saO+/" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAXMfXjs6+L8PKBWer+bLdYDlIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/kEaTu7qagCUaJk3/zluwH7tRXSg" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:false,&quot;Phrases&quot;:[{&quot;translateID&quot;:273450,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Аммермюллер, Михаэль&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ミハエル・アメルミューラー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;みはえる・あめるみゅーらー&quot;,&quot;transliteration&quot;:&quot;mihaeru・amerumyu:ra:&quot;},{&quot;translateID&quot;:273475,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Гросс, Михаэль&quot;,&quot;wordnote&quot;:&quot;спортсмен&quot;,&quot;translation&quot;:&quot;ミヒャエル・グロス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;みひゃえる・ぐろす&quot;,&quot;transliteration&quot;:&quot;mihyaeru・gurosu&quot;},{&quot;translateID&quot;:273486,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Баллак, Михаэль&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ミヒャエル・バラック&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;みひゃえる・ばらっく&quot;,&quot;transliteration&quot;:&quot;mihyaeru・barakku&quot;},{&quot;translateID&quot;:241844,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Фридрих Михаэль&quot;,&quot;wordnote&quot;:&quot;Пфальц-Биркенфельд-Бишвейлер&quot;,&quot;translation&quot;:&quot;フリードリヒ・ミヒャエル・フォン・プファルツ・ビルケンフェルト&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふりーどりひ・みひゃえる・ふぉん・ぷふぁるつ・びるけんふぇると&quot;,&quot;transliteration&quot;:&quot;furi:dorihi・mihyaeru・fon・pufarutsu・birukenferuto&quot;},{&quot;translateID&quot;:273474,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Грубер, Михаэль&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ミヒャエル・グルーバー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;みひゃえる・ぐるーばー&quot;,&quot;transliteration&quot;:&quot;mihyaeru・guru:ba:&quot;},{&quot;translateID&quot;:273484,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Ханеке, Михаэль&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ミヒャエル・ハネケ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;みひゃえる・はねけ&quot;,&quot;transliteration&quot;:&quot;mihyaeru・haneke&quot;},{&quot;translateID&quot;:241798,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Калькбреннер, Фридрих Вильгельм Михаэль&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;フリードリヒ・カルクブレンナー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふりーどりひ・かるくぶれんなー&quot;,&quot;transliteration&quot;:&quot;furi:dorihi・karukuburenna:&quot;},{&quot;translateID&quot;:273473,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Гилен, Михаэль Андреас&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ミヒャエル・ギーレン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;みひゃえる・ぎーれん&quot;,&quot;transliteration&quot;:&quot;mihyaeru・gi:ren&quot;},{&quot;translateID&quot;:273483,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Гайдн, Иоганн Михаэль&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ミヒャエル・ハイドン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;みひゃえる・はいどん&quot;,&quot;transliteration&quot;:&quot;mihyaeru・haidon&quot;},{&quot;translateID&quot;:265402,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Блюменталь, Михаэль&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;マイケル・ブルーメンソール&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まいける・ぶるーめんそーる&quot;,&quot;transliteration&quot;:&quot;maikeru・buru:menso:ru&quot;},{&quot;translateID&quot;:273472,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Кароли, Михаэль&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ミヒャエル・カローリ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;みひゃえる・かろーり&quot;,&quot;transliteration&quot;:&quot;mihyaeru・karo:ri&quot;},{&quot;translateID&quot;:273482,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Ноймайер, Михаэль&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ミヒャエル・ノイマイアー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;みひゃえる・のいまいあー&quot;,&quot;transliteration&quot;:&quot;mihyaeru・noimaia:&quot;},{&quot;translateID&quot;:286079,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Бах, Иоганн Михаэль&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ヨハン・ミヒャエル・バッハ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;よはん・みひゃえる・ばっは&quot;,&quot;transliteration&quot;:&quot;yohan・mihyaeru・bahha&quot;},{&quot;translateID&quot;:273452,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Крумм, Михаэль&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ミハエル・クルム&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;みはえる・くるむ&quot;,&quot;transliteration&quot;:&quot;mihaeru・kurumu&quot;},{&quot;translateID&quot;:273477,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Конзель, Михаэль&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ミヒャエル・コンゼル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;みひゃえる・こんぜる&quot;,&quot;transliteration&quot;:&quot;mihyaeru・konzeru&quot;},{&quot;translateID&quot;:273488,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Преториус, Михаэль&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ミヒャエル・プレトリウス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;みひゃえる・ぷれとりうす&quot;,&quot;transliteration&quot;:&quot;mihyaeru・puretoriusu&quot;},{&quot;translateID&quot;:282279,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Ленц, Якоб Михаэль Рейнхольд&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ヤーコプ・ミヒャエル・ラインホルト・レンツ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;やーこぷ・みひゃえる・らいんほると・れんつ&quot;,&quot;transliteration&quot;:&quot;ya:kopu・mihyaeru・rainhoruto・rentsu&quot;},{&quot;translateID&quot;:273451,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Виттман, Михаэль&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ミハエル・ヴィットマン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;みはえる・ヴぃっとまん&quot;,&quot;transliteration&quot;:&quot;mihaeru・vittoman&quot;},{&quot;translateID&quot;:273476,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Кунце, Михаэль&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ミヒャエル・クンツェ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;みひゃえる・くんつぇ&quot;,&quot;transliteration&quot;:&quot;mihyaeru・kuntse&quot;},{&quot;translateID&quot;:273487,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Балльхаус, Михаэль&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ミヒャエル・バルハウス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;みひゃえる・ばるはうす&quot;,&quot;transliteration&quot;:&quot;mihyaeru・baruhausu&quot;},{&quot;translateID&quot;:265319,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Шенкер, Михаэль&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;マイケル・シェンカー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まいける・しぇんかー&quot;,&quot;transliteration&quot;:&quot;maikeru・shenka:&quot;},{&quot;translateID&quot;:273471,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Энде, Михаэль&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ミヒャエル・エンデ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;みひゃえる・えんで&quot;,&quot;transliteration&quot;:&quot;mihyaeru・ende&quot;},{&quot;translateID&quot;:273481,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Тонет, Михаэль&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ミヒャエル・トーネット&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;みひゃえる・とーねっと&quot;,&quot;transliteration&quot;:&quot;mihyaeru・to:netto&quot;},{&quot;translateID&quot;:265443,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Рабин, Михаэль Ошер&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;マイケル・ラビン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まいける・らびん&quot;,&quot;transliteration&quot;:&quot;maikeru・rabin&quot;},{&quot;translateID&quot;:265296,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Киске, Михаэль&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;マイケル・キスク&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まいける・きすく&quot;,&quot;transliteration&quot;:&quot;maikeru・kisuku&quot;},{&quot;translateID&quot;:273470,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Урман, Михаэль&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ミヒャエル・ウアマン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;みひゃえる・うあまん&quot;,&quot;transliteration&quot;:&quot;mihyaeru・uaman&quot;},{&quot;translateID&quot;:273480,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Тарнат, Михаэль&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ミヒャエル・タルナト&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;みひゃえる・たるなと&quot;,&quot;transliteration&quot;:&quot;mihyaeru・tarunato&quot;},{&quot;translateID&quot;:273492,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Ротер, Михаэль&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ミヒャエル・ローター&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;みひゃえる・ろーたー&quot;,&quot;transliteration&quot;:&quot;mihyaeru・ro:ta:&quot;},{&quot;translateID&quot;:265285,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Орен, Михаэль&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;マイケル・オレン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まいける・おれん&quot;,&quot;transliteration&quot;:&quot;maikeru・oren&quot;},{&quot;translateID&quot;:273456,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Бен-Ари, Михаэль&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ミハエル・ベン・アリ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;みはえる・べん・あり&quot;,&quot;transliteration&quot;:&quot;mihaeru・ben・ari&quot;},{&quot;translateID&quot;:273479,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Скиббе, Михаэль&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ミヒャエル・スキッベ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;みひゃえる・すきっべ&quot;,&quot;transliteration&quot;:&quot;mihyaeru・sukibbe&quot;},{&quot;translateID&quot;:273491,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Рензинг, Михаэль&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ミヒャエル・レンジンク&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;みひゃえる・れんじんく&quot;,&quot;transliteration&quot;:&quot;mihyaeru・renjinku&quot;},{&quot;translateID&quot;:265270,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Вайкат, Михаэль&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;マイケル・ヴァイカート&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;まいける・ヴぁいかーと&quot;,&quot;transliteration&quot;:&quot;maikeru・vaika:to&quot;},{&quot;translateID&quot;:273454,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Шумахер, Михаэль&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ミハエル・シューマッハ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;みはえる・しゅーまっは&quot;,&quot;transliteration&quot;:&quot;mihaeru・shu:mahha&quot;},{&quot;translateID&quot;:273478,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Штих, Михаэль&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ミヒャエル・シュティヒ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;みひゃえる・しゅてぃひ&quot;,&quot;transliteration&quot;:&quot;mihyaeru・shutihi&quot;},{&quot;translateID&quot;:273489,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Фронцек, Михаэль&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ミヒャエル・フロンツェック&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;みひゃえる・ふろんつぇっく&quot;,&quot;transliteration&quot;:&quot;mihyaeru・furontsekku&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="михаэль" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

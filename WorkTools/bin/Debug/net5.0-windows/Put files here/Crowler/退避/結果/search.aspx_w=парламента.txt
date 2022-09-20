@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	парламента - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,парламента" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u043f%u0430%u0440%u043b%u0430%u043c%u0435%u043d%u0442%u0430" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV+44Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNC/0LDRgNC70LDQvNC10L3RgtCwZAIDD2QWCAICD2QWBAIBDxYCHgNzcmMFDy4uL2ltZy9sb2dvLnBuZ2QCBQ8WAh4EaHJlZgUOLi4vP2xhbmc9cnUtUlVkAgQPFgIeB1Zpc2libGVnZAIGDxYCHwNoZAIHD2QWCGYPFgIfA2hkAgEPFgIfA2hkAgIPFgIfA2hkAgUPFgIfA2hkZNYPiTLUOLMtvsfbyMK+cUB5VDVL" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAXdYyvrbfzteAnr+r1Emw+1lIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/hrHu3nLtwrPZxrbLJpRtcrWrIEZ" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:true,&quot;Phrases&quot;:[{&quot;translateID&quot;:414590,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;палата парламента&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;議院&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぎいん&quot;,&quot;transliteration&quot;:&quot;giin&quot;},{&quot;translateID&quot;:346918,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Фракции Европейского парламента&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;欧州議会の政治会派&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おうしゅうぎかいのせいじかいは&quot;,&quot;transliteration&quot;:&quot;oushuugikainoseijikaiha&quot;},{&quot;translateID&quot;:350926,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;нижняя палата парламента&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;下院議&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かいんぎ&quot;,&quot;transliteration&quot;:&quot;kaingi&quot;},{&quot;translateID&quot;:501303,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;депутат парламента&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;国会議員&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こっかいぎいん&quot;,&quot;transliteration&quot;:&quot;kokkaigiin&quot;},{&quot;translateID&quot;:414584,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;член парламента&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;議員&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぎいん&quot;,&quot;transliteration&quot;:&quot;giin&quot;},{&quot;translateID&quot;:61005,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Акты парламента Великобритании&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;イギリスの法律&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いぎりすのほうりつ&quot;,&quot;transliteration&quot;:&quot;igirisunohouritsu&quot;},{&quot;translateID&quot;:411448,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Верхняя палата парламента&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;貴族院&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きぞくいん&quot;,&quot;transliteration&quot;:&quot;kizokuin&quot;},{&quot;translateID&quot;:501301,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;член парламента&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;国会議員&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こっかいぎいん&quot;,&quot;transliteration&quot;:&quot;kokkaigiin&quot;},{&quot;translateID&quot;:522785,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;верхняя палата парламента Японии&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;参議院&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さんぎいん&quot;,&quot;transliteration&quot;:&quot;sangiin&quot;},{&quot;translateID&quot;:366328,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Роспуск парламента&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;解散&quot;,&quot;translationnote&quot;:&quot;議会&quot;,&quot;reading&quot;:&quot;かいさん&quot;,&quot;transliteration&quot;:&quot;kaisan&quot;},{&quot;translateID&quot;:330780,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;учитывая решение парламента&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;院議を重んじて&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いんぎをおもんじて&quot;,&quot;transliteration&quot;:&quot;ingi o omonjite&quot;},{&quot;translateID&quot;:501299,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Среди членов парламента разгорелся бурный спор в связи с законом о прослушивании телефонных разговоров.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;国会は、盗聴法案を巡ってまさに侃々諤々の体であった。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こっかいは、とうちょうほうあんをめぐってまさにかんかんがくがくのからだであった。&quot;,&quot;transliteration&quot;:&quot;kokkaiha、touchouhouan o meguttemasanikankangakugakunokaradadeatta。&quot;},{&quot;translateID&quot;:522784,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;верхняя палата парламента&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;参議院&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さんぎいん&quot;,&quot;transliteration&quot;:&quot;sangiin&quot;},{&quot;translateID&quot;:840596,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;торжественное закрытие сессия парламента&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;閉院式&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;へいいんしき&quot;,&quot;transliteration&quot;:&quot;heiinshiki&quot;},{&quot;translateID&quot;:330765,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;вне парламента&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;院外&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いんがい&quot;,&quot;transliteration&quot;:&quot;ingai&quot;},{&quot;translateID&quot;:685845,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;член парламента&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;代議士&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;だいぎし&quot;,&quot;transliteration&quot;:&quot;daigishi&quot;},{&quot;translateID&quot;:414611,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;член парламента&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;議会人&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぎかいじん&quot;,&quot;transliteration&quot;:&quot;gikaijin&quot;},{&quot;translateID&quot;:571590,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;нижняя и верхняя палаты парламента&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;衆参&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゅうさん&quot;,&quot;transliteration&quot;:&quot;shuusan&quot;},{&quot;translateID&quot;:346923,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Председатель Европейского парламента&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;欧州議会議長&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おうしゅうぎかいぎちょう&quot;,&quot;transliteration&quot;:&quot;oushuugikaigichou&quot;},{&quot;translateID&quot;:904682,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;внеочередная сессия парламента&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;臨時議会&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;りんじぎかい&quot;,&quot;transliteration&quot;:&quot;rinjigikai&quot;},{&quot;translateID&quot;:501307,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;здание парламента&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;国会議事堂&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こっかいぎじどう&quot;,&quot;transliteration&quot;:&quot;kokkaigijidou&quot;},{&quot;translateID&quot;:414601,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Карточка парламента&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;議会&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぎかい&quot;,&quot;transliteration&quot;:&quot;gikai&quot;},{&quot;translateID&quot;:571582,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;нижняа палата парламента&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;衆議院&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゅうぎいん&quot;,&quot;transliteration&quot;:&quot;shuugiin&quot;},{&quot;translateID&quot;:346919,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Депутат Европейского парламента&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;欧州議会議員&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おうしゅうぎかいぎいん&quot;,&quot;transliteration&quot;:&quot;oushuugikaigiin&quot;},{&quot;translateID&quot;:350929,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;выборы в нижнюю палату парламента&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;下院議会選挙&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かいんぎかいせんきょ&quot;,&quot;transliteration&quot;:&quot;kaingikaisenkyo&quot;},{&quot;translateID&quot;:501306,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Здание венгерского парламента&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;国会議事堂&quot;,&quot;translationnote&quot;:&quot;ハンガリー&quot;,&quot;reading&quot;:&quot;こっかいぎじどう&quot;,&quot;transliteration&quot;:&quot;kokkaigijidou&quot;},{&quot;translateID&quot;:522718,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;верхняя палата парламента Японии&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;参院&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さんいん&quot;,&quot;transliteration&quot;:&quot;sanin&quot;},{&quot;translateID&quot;:840594,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;закрытие сессии парламента&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;閉院&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;へいいん&quot;,&quot;transliteration&quot;:&quot;heiin&quot;},{&quot;translateID&quot;:330764,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;в парламенте и вне парламента&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;院の内外&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いんのないがい&quot;,&quot;transliteration&quot;:&quot;innonaigai&quot;},{&quot;translateID&quot;:763238,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;двухпалатная система парламента&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;二院制&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にいんせい&quot;,&quot;transliteration&quot;:&quot;niinsei&quot;},{&quot;translateID&quot;:414665,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;спикер парламента&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;議長&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぎちょう&quot;,&quot;transliteration&quot;:&quot;gichou&quot;},{&quot;translateID&quot;:435226,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;чрезвычайная сессия парламента&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;緊急集会&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;きんきゅうしゅうかい&quot;,&quot;transliteration&quot;:&quot;kinkyuushuukai&quot;},{&quot;translateID&quot;:330761,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;палата парламента&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;院&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いん&quot;,&quot;transliteration&quot;:&quot;in&quot;},{&quot;translateID&quot;:763236,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;две палаты парламента&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;二院&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;にいん&quot;,&quot;transliteration&quot;:&quot;niin&quot;},{&quot;translateID&quot;:414651,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;место члена парламента&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;議席&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぎせき&quot;,&quot;transliteration&quot;:&quot;giseki&quot;},{&quot;translateID&quot;:372288,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;торжественное открытие сессии парламента&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;開院式&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かいいんしき&quot;,&quot;transliteration&quot;:&quot;kaiinshiki&quot;},{&quot;translateID&quot;:656736,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;депутат парламента&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;選良&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せんりょう&quot;,&quot;transliteration&quot;:&quot;senryou&quot;},{&quot;translateID&quot;:821872,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;дополнительное решение парламента&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;付帯決議&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふたいけつぎ&quot;,&quot;transliteration&quot;:&quot;futaiketsugi&quot;},{&quot;translateID&quot;:502579,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Дворец Парламента&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;国民の館&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こくみんのやかた&quot;,&quot;transliteration&quot;:&quot;kokuminnoyakata&quot;},{&quot;translateID&quot;:414617,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;количество депутатов парламента&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;議会定員数&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぎかいていいんすう&quot;,&quot;transliteration&quot;:&quot;gikaiteiinsuu&quot;},{&quot;translateID&quot;:798997,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;его меньше чем членом парламента не сочтёшь&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;彼は幾ら安く踏んでも代議士ぐらいには見える&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かれはいくらやすくふんでもだいぎしぐらいにはみえる&quot;,&quot;transliteration&quot;:&quot;karehaikurayasukufundemodaigishigurainihamieru&quot;},{&quot;translateID&quot;:346925,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Округа Европейского парламента&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;欧州議会選挙区&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おうしゅうぎかいせんきょく&quot;,&quot;transliteration&quot;:&quot;oushuugikaisenkyoku&quot;},{&quot;translateID&quot;:904687,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;чрезвычайная сессия парламента&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;臨時国会&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;りんじ&quot;,&quot;transliteration&quot;:&quot;rinji&quot;},{&quot;translateID&quot;:501308,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Здание японского парламента&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;国会議事堂&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こっかいぎじどう&quot;,&quot;transliteration&quot;:&quot;kokkaigijidou&quot;},{&quot;translateID&quot;:414593,&quot;translationStatus&quot;:0,&quot;themeID&quot;:200,&quot;groupName&quot;:&quot;法律&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;правила парламента&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;議院規則&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぎいんきそく&quot;,&quot;transliteration&quot;:&quot;giinkisoku&quot;},{&quot;translateID&quot;:414585,&quot;translationStatus&quot;:0,&quot;themeID&quot;:200,&quot;groupName&quot;:&quot;法律&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;депутат парламента&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;議員&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぎいん&quot;,&quot;transliteration&quot;:&quot;giin&quot;},{&quot;translateID&quot;:502296,&quot;translationStatus&quot;:0,&quot;themeID&quot;:200,&quot;groupName&quot;:&quot;法律&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;право парламента на исследование в отношении управления государством&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;国政調査権&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こくせいちょうさけん&quot;,&quot;transliteration&quot;:&quot;kokuseichousaken&quot;},{&quot;translateID&quot;:501295,&quot;translationStatus&quot;:0,&quot;themeID&quot;:200,&quot;groupName&quot;:&quot;法律&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;резолюция парламента&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;国会の議決&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こっかいのぎけつ&quot;,&quot;transliteration&quot;:&quot;kokkainogiketsu&quot;},{&quot;translateID&quot;:727146,&quot;translationStatus&quot;:0,&quot;themeID&quot;:200,&quot;groupName&quot;:&quot;法律&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;кворум парламента&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;定足数&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ていそくすう&quot;,&quot;transliteration&quot;:&quot;teisokusuu&quot;},{&quot;translateID&quot;:542179,&quot;translationStatus&quot;:0,&quot;themeID&quot;:200,&quot;groupName&quot;:&quot;法律&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;диспут, касающийся квалификации депутатов парламента и членов муниципальных советов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;資格争訟&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しかくそうしょう&quot;,&quot;transliteration&quot;:&quot;shikakusoushou&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="парламента" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

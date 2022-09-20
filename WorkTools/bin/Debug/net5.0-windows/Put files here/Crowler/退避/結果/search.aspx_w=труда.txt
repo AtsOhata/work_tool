@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	труда - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,труда" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u0442%u0440%u0443%u0434%u0430" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV044Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNGC0YDRg9C00LBkAgMPZBYIAgIPZBYEAgEPFgIeA3NyYwUPLi4vaW1nL2xvZ28ucG5nZAIFDxYCHgRocmVmBQ4uLi8/bGFuZz1ydS1SVWQCBA8WAh4HVmlzaWJsZWdkAgYPFgIfA2hkAgcPZBYIZg8WAh8DaGQCAQ8WAh8DaGQCAg8WAh8DaGQCBQ8WAh8DaGRkAI3OyutLBkyIg1xt5rQsVI7INTo=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAWhQTNR3/n8t247GeJ2AMd7lIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/gJHw3q91RGXTkFYjo0XMAEkVz3U" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:true,&quot;Phrases&quot;:[{&quot;translateID&quot;:465084,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;вложение труда&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;元入れ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;もといれ&quot;,&quot;transliteration&quot;:&quot;motoire&quot;},{&quot;translateID&quot;:502210,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Международная организация труда&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;国際労働機構&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こくさいろうどうきこう&quot;,&quot;transliteration&quot;:&quot;kokusairoudoukikou&quot;},{&quot;translateID&quot;:911140,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Министерства труда&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;労働省&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ろうどうしょう&quot;,&quot;transliteration&quot;:&quot;roudoushou&quot;},{&quot;translateID&quot;:44292,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;без труда&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;あっさりと&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あっさりと&quot;,&quot;transliteration&quot;:&quot;assarito&quot;},{&quot;translateID&quot;:126578,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;без труда добиться победы&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ころりと負かす&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ころりとまかす&quot;,&quot;transliteration&quot;:&quot;kororitomakasu&quot;},{&quot;translateID&quot;:57209,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Народное движение за освобождение Анголы - Партия труда&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;アンゴラ解放人民運動&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あんごらかいほうじんみんうんどう&quot;,&quot;transliteration&quot;:&quot;angorakaihoujinminundou&quot;},{&quot;translateID&quot;:177619,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;без труда&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ちっとも骨折らないで&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちっともほねおらないで&quot;,&quot;transliteration&quot;:&quot;chittomohoneoranaide&quot;},{&quot;translateID&quot;:513778,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Минимальный размер оплаты труда&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;最低賃金&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さいていちんぎん&quot;,&quot;transliteration&quot;:&quot;saiteichingin&quot;},{&quot;translateID&quot;:832778,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;разделение труда&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;分業&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぶんぎょう&quot;,&quot;transliteration&quot;:&quot;bungyou&quot;},{&quot;translateID&quot;:461684,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;упускать из-под носа плоды своего труда&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;犬骨折って鷹の餌食&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いぬほねおってたかのえじき&quot;,&quot;transliteration&quot;:&quot;inuhoneottetakanoejiki&quot;},{&quot;translateID&quot;:502208,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Международная организация труда&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;国際労働機関&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こくさいろうどうきかん&quot;,&quot;transliteration&quot;:&quot;kokusairoudoukikan&quot;},{&quot;translateID&quot;:911139,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;затрата труда&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;労働消費&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ろうどうしょうひ&quot;,&quot;transliteration&quot;:&quot;roudoushouhi&quot;},{&quot;translateID&quot;:911146,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;условия труда&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;労働条件&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ろうどう&quot;,&quot;transliteration&quot;:&quot;roudou&quot;},{&quot;translateID&quot;:126568,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;без труда&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ころりと&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ころりと&quot;,&quot;transliteration&quot;:&quot;kororito&quot;},{&quot;translateID&quot;:54388,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Албанская партия труда&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;アルバニア労働党&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あるばにあろうどうとう&quot;,&quot;transliteration&quot;:&quot;arubaniaroudoutou&quot;},{&quot;translateID&quot;:821277,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;не связанное с дополнительными затратами труда&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;不労増価&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふろうぞうか&quot;,&quot;transliteration&quot;:&quot;furouzouka&quot;},{&quot;translateID&quot;:123203,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;эта книга плод десятилетнего труда&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;この本は十年の労力を費してできた&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;このほんは10ねんのろうりょくをついやしてできた&quot;,&quot;transliteration&quot;:&quot;konohonha10nennorouryoku o tsuiyashitedekita&quot;},{&quot;translateID&quot;:777356,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;сдельная оплата труда&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;能率賃金&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;のうりつちんぎん&quot;,&quot;transliteration&quot;:&quot;nouritsuchingin&quot;},{&quot;translateID&quot;:880883,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;без всякого труда&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;訳なく&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;わけなく&quot;,&quot;transliteration&quot;:&quot;wakenaku&quot;},{&quot;translateID&quot;:911055,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Охрана труда&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;労働安全&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ろうどうあんぜん&quot;,&quot;transliteration&quot;:&quot;roudouanzen&quot;},{&quot;translateID&quot;:911107,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;рынок труда&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;労働市場&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ろうどう&quot;,&quot;transliteration&quot;:&quot;roudou&quot;},{&quot;translateID&quot;:911144,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;биржа труда&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;労働紹介所&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ろうどうしょうかいじょ&quot;,&quot;transliteration&quot;:&quot;roudoushoukaijo&quot;},{&quot;translateID&quot;:889175,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;без труда&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;容易に&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;よういに&quot;,&quot;transliteration&quot;:&quot;youini&quot;},{&quot;translateID&quot;:51524,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Американская федерация труда - Конгресс производственных профсоюзов&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;アメリカ労働総同盟・産業別組合会議&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あめりかろうどうそうどうめい・さんぎょうべつくみあいかいぎ&quot;,&quot;transliteration&quot;:&quot;amerikaroudousoudoumei・sangyoubetsukumiaikaigi&quot;},{&quot;translateID&quot;:710488,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;это стоит большого труда&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;仲々骨が折れる&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なかなかほねがおれる&quot;,&quot;transliteration&quot;:&quot;nakanakahonegaoreru&quot;},{&quot;translateID&quot;:589729,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;без всякого труда&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;掌を反すように&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てのひらをはんすように&quot;,&quot;transliteration&quot;:&quot;tenohira o hansuyouni&quot;},{&quot;translateID&quot;:777349,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;инженер-эксперт по производительности труда&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;能率技師&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;のうりつぎし&quot;,&quot;transliteration&quot;:&quot;nouritsugishi&quot;},{&quot;translateID&quot;:567969,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;биржа труда&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;授産場&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じゅさんじょう&quot;,&quot;transliteration&quot;:&quot;jusanjou&quot;},{&quot;translateID&quot;:911038,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;министр труда&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;労相&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ろうしょう&quot;,&quot;transliteration&quot;:&quot;roushou&quot;},{&quot;translateID&quot;:911106,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;рынок труда&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;労働市場&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ろうどうしじょう&quot;,&quot;transliteration&quot;:&quot;roudoushijou&quot;},{&quot;translateID&quot;:911250,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;избавлять от лишнего труда&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;労力を省く&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ろうりょくをはぶく&quot;,&quot;transliteration&quot;:&quot;rouryoku o habuku&quot;},{&quot;translateID&quot;:393499,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Я без труда нашёл его офис.&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;簡単に彼の事務所が見付かった。&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;かんたんにかれのじむしょがみつかった。&quot;,&quot;transliteration&quot;:&quot;kantannikarenojimushogamitsukatta。&quot;},{&quot;translateID&quot;:51523,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Американская федерация труда&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;アメリカ労働総同盟&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あめりかろうどうそうどうめい&quot;,&quot;transliteration&quot;:&quot;amerikaroudousoudoumei&quot;},{&quot;translateID&quot;:668932,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Японская федерация труда&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;総同盟&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;そうどうめい&quot;,&quot;transliteration&quot;:&quot;soudoumei&quot;},{&quot;translateID&quot;:355258,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;без всякого труда&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;何の苦もなく&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;なんのくもなく&quot;,&quot;transliteration&quot;:&quot;nannokumonaku&quot;},{&quot;translateID&quot;:601180,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;биржа труда&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;職業紹介所&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょくぎょうしょうかいじょ&quot;,&quot;transliteration&quot;:&quot;shokugyoushoukaijo&quot;},{&quot;translateID&quot;:313589,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;охрана труда&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;安全管理&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あんぜんかんり&quot;,&quot;transliteration&quot;:&quot;anzenkanri&quot;},{&quot;translateID&quot;:558909,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Герой Социалистического Труда&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;社会主義労働英雄&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しゃかいしゅぎろうどうえいゆう&quot;,&quot;transliteration&quot;:&quot;shakaishugiroudoueiyuu&quot;},{&quot;translateID&quot;:911087,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;интенсификация труда&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;労働強化&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ろうどうきょうか&quot;,&quot;transliteration&quot;:&quot;roudoukyouka&quot;},{&quot;translateID&quot;:911178,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;министр труда&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;労働大臣&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ろうどうだいじん&quot;,&quot;transliteration&quot;:&quot;roudoudaijin&quot;},{&quot;translateID&quot;:51371,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Министры труда США&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;アメリカ合衆国労働長官&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あめりかがっしゅうこくろうどうちょうかん&quot;,&quot;transliteration&quot;:&quot;amerikagasshuukokuroudouchoukan&quot;},{&quot;translateID&quot;:323762,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;это потребует минимальной затраты труда&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;一挙手一投足に過ぎない&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いちきょしゅいっとうあしにすぎない&quot;,&quot;transliteration&quot;:&quot;ichikyoshuittouashinisuginai&quot;},{&quot;translateID&quot;:524477,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Охрана труда&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;産業医学&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さんぎょういがく&quot;,&quot;transliteration&quot;:&quot;sangyouigaku&quot;},{&quot;translateID&quot;:376019,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;внешний рынок труда&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;外部労働市場&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;がいぶろうどうしじょう&quot;,&quot;transliteration&quot;:&quot;gaiburoudoushijou&quot;},{&quot;translateID&quot;:168689,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;это пустая затрата труда&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;それは骨折り損だよ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;それはほねおりぞんだよ&quot;,&quot;transliteration&quot;:&quot;sorehahoneorizondayo&quot;},{&quot;translateID&quot;:601195,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;консультант по вопросам труда&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;職業相談係&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しょくぎょうそうだんがかり&quot;,&quot;transliteration&quot;:&quot;shokugyousoudangakari&quot;},{&quot;translateID&quot;:313588,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;инспекция по охране труда&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;安全管理&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あんぜんかんり&quot;,&quot;transliteration&quot;:&quot;anzenkanri&quot;},{&quot;translateID&quot;:501268,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Имперская служба труда&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;国家労働奉仕団&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こっかろうどうほうしだん&quot;,&quot;transliteration&quot;:&quot;kokkaroudouhoushidan&quot;},{&quot;translateID&quot;:911071,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Освобождение труда&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;労働解放団&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ろうどうかいほうだん&quot;,&quot;transliteration&quot;:&quot;roudoukaihoudan&quot;},{&quot;translateID&quot;:911141,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;министерство труда&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;労働省&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ろうどうしょう&quot;,&quot;transliteration&quot;:&quot;roudoushou&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="труда" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

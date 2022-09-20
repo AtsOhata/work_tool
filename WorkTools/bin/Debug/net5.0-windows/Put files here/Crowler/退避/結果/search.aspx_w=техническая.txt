@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	техническая - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,техническая" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u0442%u0435%u0445%u043d%u0438%u0447%u0435%u0441%u043a%u0430%u044f" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAWAAeODreOCt+OCouiqnizml6XmnKzoqp4s44Kq44Oz44Op44Kk44OzLOi+nuabuCzovp7lhbgs5ZKM6ZyyLOe/u+iosyzjg63jgrfjgqLoqp7oqLMs44Ot44K344Ki6Kqe44GnLOmcsuiosyzRgtC10YXQvdC40YfQtdGB0LrQsNGPZAIDD2QWCAICD2QWBAIBDxYCHgNzcmMFDy4uL2ltZy9sb2dvLnBuZ2QCBQ8WAh4EaHJlZgUOLi4vP2xhbmc9cnUtUlVkAgQPFgIeB1Zpc2libGVnZAIGDxYCHwNoZAIHD2QWCGYPFgIfA2hkAgEPFgIfA2hkAgIPFgIfA2hkAgUPFgIfA2hkZNFjRmHp8j2Zy5Pfxlve+mVJzBJ1" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAWldgY/Np6P8H/6xdM5B57HlIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/plVExlU60ax+V2U9bYMEMIz09tm" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:true,&quot;Phrases&quot;:[{&quot;translateID&quot;:185463,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Техническая иллюстрация&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;テクニカルイラストレーション&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てくにかるいらすとれーしょん&quot;,&quot;transliteration&quot;:&quot;tekunikaruirasutore:shon&quot;},{&quot;translateID&quot;:609101,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;техническая новинка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;新工夫&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しんくふう&quot;,&quot;transliteration&quot;:&quot;shinkufuu&quot;},{&quot;translateID&quot;:179058,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;Швейцарская высшая техническая школа Цюриха&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;チューリッヒ工科大学&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ちゅーりっひこうかだいがく&quot;,&quot;transliteration&quot;:&quot;chu:rihhikoukadaigaku&quot;},{&quot;translateID&quot;:486918,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;техническая работа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;工事&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうじ&quot;,&quot;transliteration&quot;:&quot;kouji&quot;},{&quot;translateID&quot;:153859,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;техническая стеариновая кислота&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ステアリン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;すてありん&quot;,&quot;transliteration&quot;:&quot;sutearin&quot;},{&quot;translateID&quot;:755838,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;техническая специальность&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;特業&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;とくぎょう&quot;,&quot;transliteration&quot;:&quot;tokugyou&quot;},{&quot;translateID&quot;:492967,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;техническая новинка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;考案したもの&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうあんしたもの&quot;,&quot;transliteration&quot;:&quot;kouanshitamono&quot;},{&quot;translateID&quot;:638747,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;техническая кожа комбинированного дубления&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;青革&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あおかわ&quot;,&quot;transliteration&quot;:&quot;aokawa&quot;},{&quot;translateID&quot;:413873,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;техническая сила&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;技術力&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぎじゅつりょく&quot;,&quot;transliteration&quot;:&quot;gijutsuryoku&quot;},{&quot;translateID&quot;:413849,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;техническая вооружённость&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;技術的装備&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぎじゅつてきそうび&quot;,&quot;transliteration&quot;:&quot;gijutsutekisoubi&quot;},{&quot;translateID&quot;:413755,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;техническая реформа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;技術革新&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぎじゅつかくしん&quot;,&quot;transliteration&quot;:&quot;gijutsukakushin&quot;},{&quot;translateID&quot;:413667,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;техническая инспекция&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;技監&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぎかん&quot;,&quot;transliteration&quot;:&quot;gikan&quot;},{&quot;translateID&quot;:185461,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;техническая поддержка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;テクニカル・サポート&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てくにかる・さぽーと&quot;,&quot;transliteration&quot;:&quot;tekunikaru・sapo:to&quot;},{&quot;translateID&quot;:528196,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;техническая надёжность&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;使用信頼度&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;しようしんらいど&quot;,&quot;transliteration&quot;:&quot;shiyoushinraido&quot;},{&quot;translateID&quot;:413714,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;техническая поддержка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;技術サポート&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぎじゅつさぽーと&quot;,&quot;transliteration&quot;:&quot;gijutsusapo:to&quot;},{&quot;translateID&quot;:413784,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;техническая поддержка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;技術支援&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぎじゅつしえん&quot;,&quot;transliteration&quot;:&quot;gijutsushien&quot;},{&quot;translateID&quot;:335126,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;техническая надёжность&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;運用信頼度&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;うんようしんらいど&quot;,&quot;transliteration&quot;:&quot;unyoushinraido&quot;},{&quot;translateID&quot;:80805,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;техническая система&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;エンジニアリング・システム&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;えんじにありんぐ・しすてむ&quot;,&quot;transliteration&quot;:&quot;enjiniaringu・shisutemu&quot;},{&quot;translateID&quot;:80804,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;техническая кибернетика&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;エンジニアリング・サイバネティックス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;えんじにありんぐ・さいばねてぃっくす&quot;,&quot;transliteration&quot;:&quot;enjiniaringu・saibanetikkusu&quot;},{&quot;translateID&quot;:80801,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;техническая оценка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;エンジニアリング・アセスメント&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;えんじにありんぐ・あせすめんと&quot;,&quot;transliteration&quot;:&quot;enjiniaringu・asesumento&quot;},{&quot;translateID&quot;:750698,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;техническая надёжность&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;動作信頼性&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;どうさしんらいせい&quot;,&quot;transliteration&quot;:&quot;dousashinraisei&quot;},{&quot;translateID&quot;:750701,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;техническая надёжность&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;動作信頼度&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;どうさしんらいど&quot;,&quot;transliteration&quot;:&quot;dousashinraido&quot;},{&quot;translateID&quot;:413772,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;техническая характеристика&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;技術仕様&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぎじゅつしよう&quot;,&quot;transliteration&quot;:&quot;gijutsushiyou&quot;},{&quot;translateID&quot;:518081,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;техническая надёжность&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;作業信頼性&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さぎょうしんらいせい&quot;,&quot;transliteration&quot;:&quot;sagyoushinraisei&quot;},{&quot;translateID&quot;:413773,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;техническая характеристика&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;技術仕様書&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぎじゅつしようしょ&quot;,&quot;transliteration&quot;:&quot;gijutsushiyousho&quot;},{&quot;translateID&quot;:813102,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;техническая характеристика&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;標準仕様&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひょうじゅんしよう&quot;,&quot;transliteration&quot;:&quot;hyoujunshiyou&quot;},{&quot;translateID&quot;:413859,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;техническая характеристика&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;技術特性&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぎじゅつとくせい&quot;,&quot;transliteration&quot;:&quot;gijutsutokusei&quot;},{&quot;translateID&quot;:637882,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;техническая характеристика изделия&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;製品仕様&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せいひんしよう&quot;,&quot;transliteration&quot;:&quot;seihinshiyou&quot;},{&quot;translateID&quot;:313612,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;техническая безопасность&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;安全技術&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あんぜんぎじゅつ&quot;,&quot;transliteration&quot;:&quot;anzengijutsu&quot;},{&quot;translateID&quot;:723213,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;техническая кибернетика&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;通信工学&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;つうしんこうがく&quot;,&quot;transliteration&quot;:&quot;tsuushinkougaku&quot;},{&quot;translateID&quot;:814736,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;техническая скорость&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;表定速度&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ひょうていそくど&quot;,&quot;transliteration&quot;:&quot;hyouteisokudo&quot;},{&quot;translateID&quot;:638749,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;техническая кожа комбинированного дубления&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;青革&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あおかわ&quot;,&quot;transliteration&quot;:&quot;aokawa&quot;},{&quot;translateID&quot;:413805,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;техническая информация&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;技術情報&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぎじゅつじょうほう&quot;,&quot;transliteration&quot;:&quot;gijutsujouhou&quot;},{&quot;translateID&quot;:413767,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;техническая подготовка&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;技術教育&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぎじゅつきょういく&quot;,&quot;transliteration&quot;:&quot;gijutsukyouiku&quot;},{&quot;translateID&quot;:413728,&quot;translationStatus&quot;:0,&quot;themeID&quot;:50,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;金属&quot;,&quot;word&quot;:&quot;техническая инструкция&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;技術マニュアル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぎじゅつまにゅある&quot;,&quot;transliteration&quot;:&quot;gijutsumanyuaru&quot;},{&quot;translateID&quot;:487110,&quot;translationStatus&quot;:0,&quot;themeID&quot;:50,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;金属&quot;,&quot;word&quot;:&quot;техническая схема&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;工程計画図&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうていけいかくず&quot;,&quot;transliteration&quot;:&quot;kouteikeikakuzu&quot;},{&quot;translateID&quot;:80811,&quot;translationStatus&quot;:0,&quot;themeID&quot;:50,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;金属&quot;,&quot;word&quot;:&quot;техническая керамика&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;エンジニアリングセラミックス&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;えんじにありんぐせらみっくす&quot;,&quot;transliteration&quot;:&quot;enjiniaringuseramikkusu&quot;},{&quot;translateID&quot;:487150,&quot;translationStatus&quot;:0,&quot;themeID&quot;:50,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;金属&quot;,&quot;word&quot;:&quot;техническая схема&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;工程表&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうていひょう&quot;,&quot;transliteration&quot;:&quot;kouteihyou&quot;},{&quot;translateID&quot;:487126,&quot;translationStatus&quot;:0,&quot;themeID&quot;:50,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;金属&quot;,&quot;word&quot;:&quot;техническая схема&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;工程図&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうていず&quot;,&quot;transliteration&quot;:&quot;kouteizu&quot;},{&quot;translateID&quot;:61054,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;техническая система единиц&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;イギリス式重力単位系&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;いぎりすしきじゅうりょくたんいけい&quot;,&quot;transliteration&quot;:&quot;igirisushikijuuryokutanikei&quot;},{&quot;translateID&quot;:413876,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;техническая экспертиза&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;技述評価&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;わざのべひょうか&quot;,&quot;transliteration&quot;:&quot;wazanobehyouka&quot;},{&quot;translateID&quot;:344992,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;техническая физика&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;応用物理学&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おうようぶつりがく&quot;,&quot;transliteration&quot;:&quot;ouyoubutsurigaku&quot;},{&quot;translateID&quot;:630812,&quot;translationStatus&quot;:0,&quot;themeID&quot;:53,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;техническая служба&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;整理業務&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せいりぎょうむ&quot;,&quot;transliteration&quot;:&quot;seirigyoumu&quot;},{&quot;translateID&quot;:413715,&quot;translationStatus&quot;:0,&quot;themeID&quot;:82,&quot;groupName&quot;:&quot;物理&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;техническая система&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;技術システム&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぎじゅつしすてむ&quot;,&quot;transliteration&quot;:&quot;gijutsushisutemu&quot;},{&quot;translateID&quot;:349893,&quot;translationStatus&quot;:0,&quot;themeID&quot;:82,&quot;groupName&quot;:&quot;物理&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;техническая акустика&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;音響工学&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;おんきょうこうがく&quot;,&quot;transliteration&quot;:&quot;onkyoukougaku&quot;},{&quot;translateID&quot;:486532,&quot;translationStatus&quot;:0,&quot;themeID&quot;:82,&quot;groupName&quot;:&quot;物理&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;техническая атмосфера&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;工業気圧&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうぎょうきあつ&quot;,&quot;transliteration&quot;:&quot;kougyoukiatsu&quot;},{&quot;translateID&quot;:486509,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;техническая эстетика&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;工業デザイン&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうぎょうでざいん&quot;,&quot;transliteration&quot;:&quot;kougyoudezain&quot;},{&quot;translateID&quot;:888075,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;техническая профилактика&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;予防保全&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;よぼうほぜん&quot;,&quot;transliteration&quot;:&quot;yobouhozen&quot;},{&quot;translateID&quot;:486521,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;техническая эстетика&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;工業意匠&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こうぎょういしょう&quot;,&quot;transliteration&quot;:&quot;kougyouishou&quot;},{&quot;translateID&quot;:185465,&quot;translationStatus&quot;:0,&quot;themeID&quot;:92,&quot;groupName&quot;:&quot;化学&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;техническая школа&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;テクニカルスクール&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;てくにかるすくーる&quot;,&quot;transliteration&quot;:&quot;tekunikarusuku:ru&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="техническая" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>

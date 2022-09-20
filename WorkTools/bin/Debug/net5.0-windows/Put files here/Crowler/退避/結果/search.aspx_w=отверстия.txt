@@ -1,0 +1,153 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head id="head1"><meta charset="utf-8" /><title>
+	отверстия - 日本語 翻訳 - Yakuruロシア語オンライン辞書
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="keywords" content="ロシア語,日本語,オンライン,辞書,辞典,和露,翻訳,ロシア語訳,ロシア語で,露訳,отверстия" /><link href="css/normalize.css" rel="stylesheet" type="text/css" /><link href="css/960.css" rel="stylesheet" type="text/css" /><link href="css/main160.css" rel="stylesheet" type="text/css" /><link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" /><link href="css/plusstrap.css" rel="stylesheet" type="text/css" /> 
+
+        <script src="js/jquery-1.10.2.min.js"></script>       
+        <script src="js/bootstrap3-typeahead.min.js"></script>
+        
+        <script src="//cdn.jsdelivr.net/jquery.cookie/1.4.1/jquery.cookie.min.js" type="text/javascript"></script>
+        
+
+        <link href="css/keyboard.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery.selection.js" type="text/javascript"></script>
+        <script src="js/jquery.keyboard.js" type="text/javascript"></script>        
+        <script src="js/form.js?12" type="text/javascript"></script>
+        <script src="js/search_v1_43.js?25" type="text/javascript"></script>
+        
+        <script src="js/keyboard.js" type="text/javascript"></script>
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-37715882-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+</script>
+		</head>
+	<body>
+   
+    <form name="mainform" method="post" action="./search.aspx?w=%u043e%u0442%u0432%u0435%u0440%u0441%u0442%u0438%u044f" id="mainform">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NjE3NjYwOA9kFgQCAQ9kFgICAw8WAh4HY29udGVudAV844Ot44K344Ki6KqeLOaXpeacrOiqnizjgqrjg7Pjg6njgqTjg7Ms6L6e5pu4LOi+nuWFuCzlkozpnLIs57+76KizLOODreOCt+OCouiqnuiosyzjg63jgrfjgqLoqp7jgacs6Zyy6KizLNC+0YLQstC10YDRgdGC0LjRj2QCAw9kFggCAg9kFgQCAQ8WAh4Dc3JjBQ8uLi9pbWcvbG9nby5wbmdkAgUPFgIeBGhyZWYFDi4uLz9sYW5nPXJ1LVJVZAIEDxYCHgdWaXNpYmxlZ2QCBg8WAh8DaGQCBw9kFghmDxYCHwNoZAIBDxYCHwNoZAICDxYCHwNoZAIFDxYCHwNoZGS8dMkx6MRS44YVBLINTQRl1R5fXw==" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAVWJThA5o0MHKIuOnjG7/belIW9iflpNzikbhu1CPmDn+U9ewuY2ZFTTzUMxM2kYIaE0vozACweJ5SE311KtoBJOIryW4qnNe2eI5c0MO8h/r6rqsia5pWLRtzfAZcMj+bNGyIn" />
+        <input type="hidden" name="translationEntity" id="translationEntity" value="{&quot;translateDirection&quot;:&quot;ru-ja&quot;,&quot;hasAdditionalTranslation&quot;:false,&quot;wordTranslation&quot;:[],&quot;topPhrases&quot;:[],&quot;phrasesGroups&quot;:null,&quot;SuggestionList&quot;:null,&quot;onlyPhrases&quot;:true,&quot;Phrases&quot;:{&quot;isMoreResultAvailable&quot;:true,&quot;Phrases&quot;:[{&quot;translateID&quot;:515324,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;мелкие отверстия&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;細孔&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さいこう&quot;,&quot;transliteration&quot;:&quot;saikou&quot;},{&quot;translateID&quot;:577914,&quot;translationStatus&quot;:0,&quot;themeID&quot;:1,&quot;groupName&quot;:&quot;一般&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;кран выходного отверстия&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;出口弁&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;でぐちべん&quot;,&quot;transliteration&quot;:&quot;deguchiben&quot;},{&quot;translateID&quot;:486016,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;прошивать отверстия&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;孔を空けた&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あなをあけた&quot;,&quot;transliteration&quot;:&quot;ana o aketa&quot;},{&quot;translateID&quot;:253238,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;расширять входную часть отверстия&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ベル&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;べる&quot;,&quot;transliteration&quot;:&quot;beru&quot;},{&quot;translateID&quot;:163875,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;прошивать отверстия&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;せん孔する&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せんこうする&quot;,&quot;transliteration&quot;:&quot;senkousuru&quot;},{&quot;translateID&quot;:158201,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;намечать сверлом центр отверстия&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;スポット&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;すぽっと&quot;,&quot;transliteration&quot;:&quot;supotto&quot;},{&quot;translateID&quot;:299003,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;пробивать отверстия&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;レースせん孔する&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;れーすせんこうする&quot;,&quot;transliteration&quot;:&quot;re:susenkousuru&quot;},{&quot;translateID&quot;:299002,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;пробивать отверстия&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;レースせん孔&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;れーすせんこう&quot;,&quot;transliteration&quot;:&quot;re:susenkou&quot;},{&quot;translateID&quot;:599006,&quot;translationStatus&quot;:0,&quot;themeID&quot;:7,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;コンピュータ&quot;,&quot;word&quot;:&quot;кодовые отверстия&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;情報孔&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じょうほうあな&quot;,&quot;transliteration&quot;:&quot;jouhouana&quot;},{&quot;translateID&quot;:454185,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;система отверстия&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;穴基準&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あなきじゅん&quot;,&quot;transliteration&quot;:&quot;anakijun&quot;},{&quot;translateID&quot;:127339,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;отверстия для контакта&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;コンタクトホール&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;こんたくとほーる&quot;,&quot;transliteration&quot;:&quot;kontakutoho:ru&quot;},{&quot;translateID&quot;:486017,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;расположение отверстия&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;孔位置&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あないち&quot;,&quot;transliteration&quot;:&quot;anaichi&quot;},{&quot;translateID&quot;:216083,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;установочные отверстия в панели&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;パネルカット&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぱねるかっと&quot;,&quot;transliteration&quot;:&quot;panerukatto&quot;},{&quot;translateID&quot;:229711,&quot;translationStatus&quot;:0,&quot;themeID&quot;:9,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;通信&quot;,&quot;word&quot;:&quot;ролик, пробивающий отверстия&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ファイルリール&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふぁいるりーる&quot;,&quot;transliteration&quot;:&quot;fairuri:ru&quot;},{&quot;translateID&quot;:759549,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;диаметр отверстия&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;内径&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ないけい&quot;,&quot;transliteration&quot;:&quot;naikei&quot;},{&quot;translateID&quot;:133945,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;фаска отверстия&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;さら穴&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;さらあな&quot;,&quot;transliteration&quot;:&quot;saraana&quot;},{&quot;translateID&quot;:454186,&quot;translationStatus&quot;:0,&quot;themeID&quot;:13,&quot;groupName&quot;:&quot;ＩＴ&quot;,&quot;themeName&quot;:&quot;基本語&quot;,&quot;word&quot;:&quot;система отверстия в системе допусков и посадок&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;穴基準式&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あなきじゅんしき&quot;,&quot;transliteration&quot;:&quot;anakijunshiki&quot;},{&quot;translateID&quot;:775715,&quot;translationStatus&quot;:0,&quot;themeID&quot;:14,&quot;groupName&quot;:&quot;車両&quot;,&quot;themeName&quot;:&quot;自動車&quot;,&quot;word&quot;:&quot;крышка заливочного отверстия&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;燃料タンクキャップ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ねんりょうたんくきゃっぷ&quot;,&quot;transliteration&quot;:&quot;nenryoutankukyappu&quot;},{&quot;translateID&quot;:642315,&quot;translationStatus&quot;:0,&quot;themeID&quot;:34,&quot;groupName&quot;:&quot;土木&quot;,&quot;themeName&quot;:&quot;基礎工学&quot;,&quot;word&quot;:&quot;образовывать отверстия или ниши в бетоне&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;籍抜き&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せきぬき&quot;,&quot;transliteration&quot;:&quot;sekinuki&quot;},{&quot;translateID&quot;:553610,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;диаметр отверстия подшипника&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;軸受内径&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じくうけないけい&quot;,&quot;transliteration&quot;:&quot;jikuukenaikei&quot;},{&quot;translateID&quot;:173136,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;установка для прорезания отверстия в трубопроводе&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;タッパー&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;たっぱー&quot;,&quot;transliteration&quot;:&quot;tappa:&quot;},{&quot;translateID&quot;:838629,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;отклонение среднего диаметра отверстия&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;平均内径の寸法差&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;へいきんないけいのすんぽうさ&quot;,&quot;transliteration&quot;:&quot;heikinnaikeinosunpousa&quot;},{&quot;translateID&quot;:454187,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;система отверстия&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;穴基準式&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あなきじゅんしき&quot;,&quot;transliteration&quot;:&quot;anakijunshiki&quot;},{&quot;translateID&quot;:557090,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;единичный диаметр отверстия&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;実測内径&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じっそくないけい&quot;,&quot;transliteration&quot;:&quot;jissokunaikei&quot;},{&quot;translateID&quot;:852673,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;крышка наливного отверстия&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;放熱器キャップ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ほうねつききゃっぷ&quot;,&quot;transliteration&quot;:&quot;hounetsukikyappu&quot;},{&quot;translateID&quot;:904650,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;трубопровод отверстия&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;臨港線&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;りんこうせん&quot;,&quot;transliteration&quot;:&quot;rinkousen&quot;},{&quot;translateID&quot;:471470,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;номинальный диаметр отверстия&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;呼び内径&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;よびないけい&quot;,&quot;transliteration&quot;:&quot;yobinaikei&quot;},{&quot;translateID&quot;:257330,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;пробка водоотливного отверстия шлюпки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ボートプラグ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぼーとぷらぐ&quot;,&quot;transliteration&quot;:&quot;bo:topuragu&quot;},{&quot;translateID&quot;:838628,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;средний диаметр отверстия&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;平均内径&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;へいきんないけい&quot;,&quot;transliteration&quot;:&quot;heikinnaikei&quot;},{&quot;translateID&quot;:206825,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;заглушка смотрового отверстия&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;のぞきプラグ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;のぞきぷらぐ&quot;,&quot;transliteration&quot;:&quot;nozokipuragu&quot;},{&quot;translateID&quot;:881688,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;пробка отверстия для спуска смазки&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;油抜きプラグ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あぶらぬきぷらぐ&quot;,&quot;transliteration&quot;:&quot;aburanukipuragu&quot;},{&quot;translateID&quot;:655870,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;резьбовая пробка сливного отверстия&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;船底プラグ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふなそこぷらぐ&quot;,&quot;transliteration&quot;:&quot;funasokopuragu&quot;},{&quot;translateID&quot;:759555,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;непостоянство диаметра отверстия&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;内径不同&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ないけいふどう&quot;,&quot;transliteration&quot;:&quot;naikeifudou&quot;},{&quot;translateID&quot;:781486,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;пробка выпускного отверстия&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;排水栓&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;はいすいせん&quot;,&quot;transliteration&quot;:&quot;haisuisen&quot;},{&quot;translateID&quot;:93644,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;кожух выхлопного отверстия турбины&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ガス出口ケーシング&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;がすでぐちけーしんぐ&quot;,&quot;transliteration&quot;:&quot;gasudeguchike:shingu&quot;},{&quot;translateID&quot;:759550,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;диаметр отверстия&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;内径&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ないけい&quot;,&quot;transliteration&quot;:&quot;naikei&quot;},{&quot;translateID&quot;:557091,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;отклонение единичного диаметра отверстия&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;実測内径の寸法差&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;じっそくないけいのすんぽうさ&quot;,&quot;transliteration&quot;:&quot;jissokunaikeinosunpousa&quot;},{&quot;translateID&quot;:248489,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;обтекатель выхлопного отверстия компрессора&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ブロワ出口ケーシング&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ぶろわでぐちけーしんぐ&quot;,&quot;transliteration&quot;:&quot;burowadeguchike:shingu&quot;},{&quot;translateID&quot;:205100,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;установка для прорезания отверстия в трубопроводе&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ねじ立て盤&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ねじたてばん&quot;,&quot;transliteration&quot;:&quot;nejitateban&quot;},{&quot;translateID&quot;:881127,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;резьбовая пробка отверстия для спуска масла&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;油せん&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;あぶらせん&quot;,&quot;transliteration&quot;:&quot;aburasen&quot;},{&quot;translateID&quot;:655869,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;пробка водоотливного отверстия в днище&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;船底プラグ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;ふなそこぷらぐ&quot;,&quot;transliteration&quot;:&quot;funasokopuragu&quot;},{&quot;translateID&quot;:338575,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;затвор сливного отверстия&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;越流ぜき&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;えつりゅうぜき&quot;,&quot;transliteration&quot;:&quot;etsuryuuzeki&quot;},{&quot;translateID&quot;:839821,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;непостоянство среднего диаметра отверстия&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;平面内平均内径の不同&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;へいめんないへいきんないけいのふどう&quot;,&quot;transliteration&quot;:&quot;heimennaiheikinnaikeinofudou&quot;},{&quot;translateID&quot;:652999,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;затвор промывного отверстия&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;洗浄ゲート&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;せんじょうげーと&quot;,&quot;transliteration&quot;:&quot;senjouge:to&quot;},{&quot;translateID&quot;:197705,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;пробка водоотливного отверстия&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;ドレンプラグ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;どれんぷらぐ&quot;,&quot;transliteration&quot;:&quot;dorenpuragu&quot;},{&quot;translateID&quot;:839820,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;отклонение среднего диаметра отверстия в единичной плоскости&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;平面内平均内径の寸法差&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;へいめんないへいきんないけいのすんぽうさ&quot;,&quot;transliteration&quot;:&quot;heimennaiheikinnaikeinosunpousa&quot;},{&quot;translateID&quot;:875482,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;фланец без отверстия&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;盲フランジ&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;もうふらんじ&quot;,&quot;transliteration&quot;:&quot;moufuranji&quot;},{&quot;translateID&quot;:158217,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;засверловка отверстия&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;スポットドリリング&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;すぽっとどりりんぐ&quot;,&quot;transliteration&quot;:&quot;supottodoriringu&quot;},{&quot;translateID&quot;:839819,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;средний диаметр отверстия в единичной плоскости&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;平面内平均内径&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;へいめんないへいきんないけい&quot;,&quot;transliteration&quot;:&quot;heimennaiheikinnaikei&quot;},{&quot;translateID&quot;:845933,&quot;translationStatus&quot;:0,&quot;themeID&quot;:47,&quot;groupName&quot;:&quot;工学&quot;,&quot;themeName&quot;:&quot;機械&quot;,&quot;word&quot;:&quot;диаметр отверстия клапана&quot;,&quot;wordnote&quot;:&quot;&quot;,&quot;translation&quot;:&quot;弁直径&quot;,&quot;translationnote&quot;:&quot;&quot;,&quot;reading&quot;:&quot;べんちょっけい&quot;,&quot;transliteration&quot;:&quot;benchokkei&quot;}]}}" />
+        <input type="hidden" name="morphologyEntity" id="morphologyEntity" />
+ 		<div class="wrapper container_12" >
+         <div id="keybBlock"></div>
+			<div id="header" style="padding-left:20px;">            
+				
+
+<div class="heading grid_12">
+    <a href="http://www.yakuru.net"><img src="img/logo.png" id="headerControl_logo" height="30" border="0" alt="YakuRu словарь" /></a>
+
+<div class="login-p">
+      
+      <a id="headerControl_languageLink" class="n-bdr" href="javascript:__doPostBack(&#39;headerControl$languageLink&#39;,&#39;&#39;)">RU</a>
+      
+</div>
+</div>
+                <div class="clear"></div>
+            </div>
+				
+		    <div id="searchbar" style="width:100%; top:0px;">   
+                <div class="blue-panel grid_12" style="margin:0; max-width: 960px;">
+                    <div id="search_box" class="search-box">
+                        <input name="tbx_search" type="text" value="отверстия" id="tbx_search" class="search-input search-query" autocomplete="off" />                            
+                            <a href="#" id="btn_search" class="btn btn-inverse"><i class="icon-search icon-white"></i></a>
+                            <a href="#" id="morphology" class="btn btn-inverse">語形変化</a>
+                            <a href="#" id="reading" class="btn btn-inverse">読み方</a>                            
+                            <a href="#" id="transliteration" class="btn btn-inverse">ローマ字</a>
+                            <a href="#" id="btn_keyboard" class="btn btn-inverse"><i class="icon-th icon-white" style="width:12px;"></i><i class="icon-th icon-white"></i></a>
+                            <a id="mobile" class="btn btn-inverse"><i class="icon-align-justify icon-white"></i></a>                        
+                        </div>
+                    </div>
+                
+            </div>
+                
+
+            <div class="page" style="padding-top:0px;padding-left:20px; padding-right:20px;">
+                <div id="maingrid" class="grid_12">                
+
+                <div class="block-header reading"><span id="current_word_reading"></span></div>
+                <div class="block-header translit"><span id="current_word_translit"></span></div>
+
+                
+                <div id="suggestDiv" class="block-header" style="display:none">同音異義語：<span id="suggestionList"></span></div>
+
+                <div class="search-results"></div>
+                
+                <div id="hidtext">YakuRuの無料で使えるオンライン・ロシア語辞書の決定版！語彙数は史上最多の100万語を収録。ロシア語学習にはもちろん、ビジネスにも最適です。ネット環境さえあればすぐに使える便利なYakuRuロシア語オンライン辞書をぜひご利用ください。</div>
+
+                <div id="noResults" class="block-header">
+                <div id="nres1">該当する項目が見つかりませんでした。<div class="after-header-text"><a href="http://www.facebook.com/groups/127490924084200" target="_blank">翻訳者コミュニティ</a>に聞いてみてください。</div></div>
+                <div id="nres2" style="display:none;">無料版で該当項目が見つかりませんでした。</div>
+                </div>
+
+                
+                <div id="additionalTranslation" class="alert" style="display:none"><strong>ご注意！</strong>　他の検索結果を表示するには、<a href="signup.aspx">YakuruPro</a>にご登録ください。</div>
+
+                <div class="block-header popular">よく使われる語句</div>
+                <ul id="phrases-phrases" class="popular-phrases"></ul>
+                
+                <div class="block-header dictionaries">すべての語句</div>                
+                <dl id="phrases-groups" class='dl-horizontal phrases-dic jp-ph'></dl>
+
+                <a name="phrases"></a>
+                <div class="phrases-results"></div>
+
+                <div class="row" style="text-align:center">
+                        <a href="" id="show_more" class="btn btn-large" style="display:none; width:170px; color:#777;">もっと見る</a>
+                 </div>                
+                
+                 <div id="phrases_loading">
+                      <h5>検索中...</h5>
+                    <div class="progress progress-striped active"><div class="bar" style="width: 100%;"></div></div>
+                </div>
+
+                <div id="mistakesmessage" class="row">                
+                    [*] 辞書に掲載された内容の誤りをお知らせいただくには、その単語をマウスでクリックしてから、【Ctrl】 + 【Enter】キーを押してください。                
+                </div>
+
+                              
+
+                </div>                
+				
+				<div class="clear"></div>
+             </div>
+             
+		</div>
+        <div class="container_12">
+            
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.footer-menu a:last-child').css('border-right', 'none');
+    });
+</script>
+
+<div class="footer">
+                <div class="footer-menu">
+                     
+                     
+                     
+                    <a href="terms.aspx" id="footer1_termsLink">使用条件</a> 
+                    <a href="privacy.aspx" id="footer1_privacyLink">プライバシー</a> 
+                                        
+                    </div>
+					<p>Copyright © <a href="https://www.yaku.ru" class="hidelink">ロシア語翻訳会社 YakuRu</a> All Rights reserved.</p>
+				</div>
+<div class="clear"></div>
+        </div>
+     </form>
+	</body>
+</html>
